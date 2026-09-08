@@ -12,7 +12,7 @@
     "main_decks": 3,
     "main_deck_slides": 303,
     "individual_asset_files": 1200,
-    "checksum_entries": 1535
+    "checksum_entries": 1536
   },
   "checks": {
     "remote_commit_matches_local": true,
