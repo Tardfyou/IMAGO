@@ -6,6 +6,10 @@
 
 [下载主 PPT](#下载与浏览) · [按图类型找素材](catalog/figures.md) · [按论文查重](catalog/papers.md) · [制作方法](docs/METHOD.md) · [继续增补](docs/CONTRIBUTING.md)
 
+### 复刻图示精选
+
+下面的示例图直接取自本仓库生成的复刻预览，使用的是库内的 `preview.png`，不是外部截图。点击图片可以查看同一素材的元数据，再下载对应的可编辑 PPTX 或 SVG。
+
 <table>
 <tr>
 <td width="33%"><a href="docs/assets/SEC-082-preview.png"><img src="docs/assets/SEC-082-preview.png" alt="安全：Passkeys 实验平台架构"></a></td>
@@ -15,7 +19,7 @@
 <tr><td><b><a href="figures/security/architecture/SEC-082/metadata.json">安全：SEC-082</a></b><br>平台、角色、控制关系与实验闭环</td><td><b><a href="figures/software-engineering/method/SE-086/metadata.json">软件工程：SE-086</a></b><br>代码、模块与执行步骤并列组织</td><td><b><a href="figures/ai/architecture/AI-076/metadata.json">AI：AI-076</a></b><br>图结构、矩阵、分解与重建联动</td></tr>
 </table>
 
-*图均来自本库的真实复刻结果。点击图片放大；具体论文和图号可在素材索引中按编号查阅。*
+*图均来自本库的真实复刻结果。点击图片放大；具体论文、图号、PPTX 和 SVG 可在素材索引中按编号查阅。*
 
 ## 面向谁，解决什么问题
 
