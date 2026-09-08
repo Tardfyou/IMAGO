@@ -1,0 +1,57 @@
+{
+  "id": "SE-044",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "General and Practical Property-based Testing for Android Apps",
+  "figure": "Figure 3",
+  "category": "动机示例",
+  "reuse_value": "上下两行UI帧逐步对应，编号、鼠标动作与虚线范围强调同一功能在不同上下文中的结果差异。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 144,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 67
+  },
+  "paper_id": "PAPER-0142",
+  "source": {
+    "paper_url": "https://xyiheng.github.io/files/Property_Based_Testing_for_Android_Apps.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "1012c41b3b6fdb75bc8f83a4980768cdb5129e2e2b5db4487d208c3241d7bbbf",
+    "pdf_page": 4,
+    "crop_bbox": [
+      76,
+      82,
+      534,
+      261
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-044/SE-044.pptx",
+    "svg": "figures/software-engineering/motivation/SE-044/SE-044.svg",
+    "preview": "figures/software-engineering/motivation/SE-044/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-044/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 55
+  },
+  "hashes": {
+    "pptx": "8392815c84a4cdea3442bcbc091b8c97547cf0038e0636d4129d2ad978e1e57e",
+    "svg": "4adc61aa52b952cf47b6302386b33e78c42e8da7a65d1c24d423813b98668ff8",
+    "preview": "bacb39c6f23071c6f29945e37ce3f6e39277146bf9dd6eca748f9d2c592961da",
+    "reference": "f30b8c5198d11a5e7b62a903a64e5f0ad8542b5e78fc9f891eea87f59a2cfc54"
+  },
+  "original_local_pptx_sha256": "712bdf2272f23222ab24e529b8132bf02d870ec3802e94dba89c23ea96be627c",
+  "visual_payload_sha256": "6462a6b62ac706a75e27b6f7f4299522f1e57fa616e24caddd60a5aab80d3104",
+  "dedup_note": "旧库没有完整双行多帧手机UI交互故事板；与旧GUIRepair流程小图不同，本图让读者按操作顺序重放正常/异常案例。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

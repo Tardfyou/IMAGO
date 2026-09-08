@@ -1,0 +1,57 @@
+{
+  "id": "SE-049",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Does GenAI Make Usability Testing Obsolete?",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "同一案例进入LLM、专家评审和用户测试三条证据线，连接性能分析、方法比较与焦点小组，并显式标出RQ1–RQ3。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 61,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0099",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2411.00634",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "68e7062bfc12c09e613d79243752319743494ba399c9ec1baf754fa9b4b03222",
+    "pdf_page": 3,
+    "crop_bbox": [
+      312,
+      51,
+      562,
+      202
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-049/SE-049.pptx",
+    "svg": "figures/software-engineering/workflow/SE-049/SE-049.svg",
+    "preview": "figures/software-engineering/workflow/SE-049/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-049/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 90
+  },
+  "hashes": {
+    "pptx": "2b755474a41c46acbaa3e1f243f2fb15990c6433a836f58a2a4a1581783cea15",
+    "svg": "46a5b88c949d57d659326ae8874db39586602a0edc91599cb98e4bb760cb9795",
+    "preview": "9c7934e8c9d71e2c9707df1e85d4386ec9c7868b2fc7802a1bc3b0792fecdafb",
+    "reference": "cb63802643ea81541ed4ccb42fe2d49b28e10589d4a061fde6dce3e00f20d0a6"
+  },
+  "original_local_pptx_sha256": "248a3b4009c9daa81db047888fa47b4b463d53f834cbea5e64b18f3e74abeaf8",
+  "visual_payload_sha256": "8fdbba51238cc3a4fb44753959af2e326ad1c58a154f990b103c77356f8c45de",
+  "dedup_note": "与本论文SE-042的静态类图完全不同；旧库没有将对照方法三角验证和研究问题编号绑定的混合方法研究设计图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

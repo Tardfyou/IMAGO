@@ -1,0 +1,57 @@
+{
+  "id": "SE-058",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "三列虚线面板逐步展示规则/语义特征、提交对相关评分、提交候选连通子图与池化，底部标注和内部案例使数据粒度变化可追踪。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 244,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 32
+  },
+  "paper_id": "PAPER-0108",
+  "source": {
+    "paper_url": "https://yisongy.github.io/paper/ASE2025.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "59050ffb35814b2d00fc047fab96707daf95da6499793ab4f0e6e1b46ea587ab",
+    "pdf_page": 4,
+    "crop_bbox": [
+      65,
+      70,
+      542,
+      218
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-058/SE-058.pptx",
+    "svg": "figures/software-engineering/architecture/SE-058/SE-058.svg",
+    "preview": "figures/software-engineering/architecture/SE-058/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-058/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 23
+  },
+  "hashes": {
+    "pptx": "df751b2cd0d975a6e642ebb669fcfdbb311328307e867696fcb3f39573983334",
+    "svg": "7030700f808661cf7bde416690036d3b9d8de6fc365660612ab033a91d61e6e9",
+    "preview": "75e348d5980c11a14047e4dc443b67069970fd6fd18711e91fda0cfc1d68a73d",
+    "reference": "7a672a6236ccffc228ff5f75e5f37f2a953f36cd43356fce3eea54ffca8b847f"
+  },
+  "original_local_pptx_sha256": "de3a5941c0f98e777e3982a845bd0bdf0eb36684745d22a73ed6732f83205d2f",
+  "visual_payload_sha256": "57c77ecd947bf92294497793c5398b9f574d7801d4d0c3ece0fa9fd97a09426d",
+  "dedup_note": "区别于旧LLM修复生成图，本图中心是单提交→提交对→提交群组的粒度递进与评分；特征融合结构连接到图聚合，而非重复调用LLM的三个步骤。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

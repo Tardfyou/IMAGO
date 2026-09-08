@@ -1,0 +1,57 @@
+{
+  "id": "AI-049",
+  "domain": "AI顶会",
+  "conference": "ICLR",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Protein Discovery with Discrete Walk-Jump Sampling",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "将加噪/去噪空间、独立walk/jump两种操作和能量网络结构拆成四个互补子图。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 130,
+    "groups": 0,
+    "native_text_runs": 55,
+    "images": 2
+  },
+  "paper_id": "PAPER-0227",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2306.12360",
+    "award_url": "https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/",
+    "pdf_sha256": "3510fd410267c846d6cf493ef315372b2edd5bd93bf57f0f012cae96a5945cb1",
+    "pdf_page": 4,
+    "crop_bbox": [
+      165,
+      80,
+      445,
+      220
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-049/AI-049.pptx",
+    "svg": "figures/ai/method/AI-049/AI-049.svg",
+    "preview": "figures/ai/method/AI-049/preview.png",
+    "reference": "figures/ai/method/AI-049/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 46
+  },
+  "hashes": {
+    "pptx": "ffa26a807507f811680b2993332ce4993fa64049041da0738a02160ddb78e6b1",
+    "svg": "2a4d31ab55da2b9cda15ab8af617ab050420a78353a0cd8a450c603cd565a8ae",
+    "preview": "30cccae375f1e563fe3c4de5b4980d6abf862d3dcdbcce2620de1b3c8c97c3bc",
+    "reference": "cd884fb935aeb933ac19af4e670caf8116e3aec86dc3225e25beefbc98be35f0"
+  },
+  "original_local_pptx_sha256": "8928bb64c53613570fe0c95898eaaf8610d0fd544410df46989df33e5bf32426",
+  "visual_payload_sha256": "7c3ed57a3a342bd41de35459c50ad3590a14d7497307d65dd8abdcbfca0a2991",
+  "dedup_note": "区别旧扩散架构，清晰区分连续空间MCMC与离散去噪跳跃，并关联生物结构示例。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

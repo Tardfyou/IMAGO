@@ -1,0 +1,57 @@
+{
+  "id": "SEC-023",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "SyzSpec: Specification Generation for Linux Kernel Fuzzing via Under-Constrained Symbolic Execution",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "用两根有语义的轴和直接文字定位现有方法，适合定性研究定位；这是概念关系而非测量散点。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 25,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0045",
+  "source": {
+    "paper_url": "https://www.cs.ucr.edu/~zhiyunq/pub/ccs25_syzspec.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "d32be9d34089fd8602e23f6f2ffbdd7eb3c853491b2ae7b74446791517afa8f5",
+    "pdf_page": 3,
+    "crop_bbox": [
+      108,
+      84,
+      240,
+      165
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/motivation/SEC-023/SEC-023.pptx",
+    "svg": "figures/security/motivation/SEC-023/SEC-023.svg",
+    "preview": "figures/security/motivation/SEC-023/preview.png",
+    "reference": "figures/security/motivation/SEC-023/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 59
+  },
+  "hashes": {
+    "pptx": "b62997f28b410d81f44fce6e5c57535ad6daa04ce10925b0ff8bec7f6afdea9d",
+    "svg": "17f92de6b72a26071d7bfe2f1815c4c6f145431a329db5f73ad1f3380916f0a3",
+    "preview": "baad5a0cf86b53f42edf2e14ed0ad3290ebd41f48b7c2ba883fc0e7cbcca3e60",
+    "reference": "d477a19534d72c8ca5f1b199831f31d24107264c0ccbaaa80c291b82b2713fc9"
+  },
+  "original_local_pptx_sha256": "54a01c57a41b44fffcc9c7eeedde8b72349be42675f32856e19b76153b926974",
+  "visual_payload_sha256": "76a5a296ea8a28064c938fa0e4a95ab47b785030e186bc430348c29c8a08da1a",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

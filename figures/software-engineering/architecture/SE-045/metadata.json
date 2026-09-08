@@ -1,0 +1,57 @@
+{
+  "id": "SE-045",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "提取、转换与多目标搜索三段嵌套模块，下方渐变箭头对齐Functional、Logical、Concrete三个抽象层次。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 77,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0145",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2409.10066",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "7435952113f208399cde3978b84296ba762adfe38d67d8104f0b0bfe7128d2da",
+    "pdf_page": 4,
+    "crop_bbox": [
+      102,
+      82,
+      509,
+      206
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-045/SE-045.pptx",
+    "svg": "figures/software-engineering/architecture/SE-045/SE-045.svg",
+    "preview": "figures/software-engineering/architecture/SE-045/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-045/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 16
+  },
+  "hashes": {
+    "pptx": "9dc658ad40efb519ad563b8b31f0b50fe772bcc8a2c8d3ee2e554a63ccfe9833",
+    "svg": "888fec1b3ec85d0a5a737bf318e0ada7293f76b3d3c93fcf80a0ca84037fb37a",
+    "preview": "8996a4c06be6bea5f14ecbbd9761ca60cb1d492856eb2d5201f4345083064c01",
+    "reference": "6a9bfd6160e420362a02149345931ddb4441cca6506e28796fc35d5871c225cf"
+  },
+  "original_local_pptx_sha256": "78602718da361ebf4b51c321813bbf49846d74a31320bab58c573881a0954ec3",
+  "visual_payload_sha256": "f6480917ab3cd5204ccb30cc38ff1304c633e26f564a7c68a6a6d2cefde6d42d",
+  "dedup_note": "虽与Rocas同属自动驾驶，本图表达从自然语言到约束再到具体实例的抽象下降，与Rocas物理/软件联合变异的事故归因构图不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

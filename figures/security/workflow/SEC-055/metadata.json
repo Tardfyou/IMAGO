@@ -1,0 +1,57 @@
+{
+  "id": "SEC-055",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres",
+  "figure": "Figure 5",
+  "category": "研究流程",
+  "reuse_value": "十类主题经定义连向前三典型句式与真实计数/比例，适合用户研究、日志编码和定性分类结果呈现。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 484,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0010",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2508.18947",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "ac8fbb8e762a74df8200d0bf57f481754b8a5762b4f83751d78637a2a2951cbb",
+    "pdf_page": 8,
+    "crop_bbox": [
+      54,
+      69,
+      298,
+      411
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-055/SEC-055.pptx",
+    "svg": "figures/security/workflow/SEC-055/SEC-055.svg",
+    "preview": "figures/security/workflow/SEC-055/preview.png",
+    "reference": "figures/security/workflow/SEC-055/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 95
+  },
+  "hashes": {
+    "pptx": "7897c19126f331de32484f59718cae3f8f2e582a5f95828db9382046093c6389",
+    "svg": "fbbfa6cc24d9d1446a771cd58daa4f74eae74ee6f1f4f5277ed10e8914f6241a",
+    "preview": "dcf34995b10b3fc352e1be7603d1a5fae9b4d8bc12dd1dc9c4ee1feaedf51f2f",
+    "reference": "695ce63fc6652bfe7c96d9b00ee628aad9ea1295b7244f4e8f82472657c0167f"
+  },
+  "original_local_pptx_sha256": "cf3498ca21c78800243edabbb1ad6b377e440d88440de6682038b90e5ed63897",
+  "visual_payload_sha256": "6292881b8a807f3697330b8611dc290556d589ba075eaf8e92b0596abebe2e27",
+  "dedup_note": "库内尚无主题-操作化定义-真实样例/频次的三列表达；区别于分类树或常规统计条形图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

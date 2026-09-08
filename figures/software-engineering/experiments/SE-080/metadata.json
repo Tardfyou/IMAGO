@@ -1,0 +1,57 @@
+{
+  "id": "SE-080",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "用对数运行时间对齐逐步解决的实例数，实线/虚线与圆方三角标记区分三种方法；分别展示反例和证明任务。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 177,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0129",
+  "source": {
+    "paper_url": "https://www.sosy-lab.org/research/pub/2024-FSE.A_Transferability_Study_of_Interpolation-Based_Hardware_Model_Checking_for_Software_Verification.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "9213273871d5dde76552573d879ad3ff891efb01fc472ee8fa7adc568c66c51b",
+    "pdf_page": 16,
+    "crop_bbox": [
+      68,
+      171,
+      416,
+      301
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-080/SE-080.pptx",
+    "svg": "figures/software-engineering/experiments/SE-080/SE-080.svg",
+    "preview": "figures/software-engineering/experiments/SE-080/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-080/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 80
+  },
+  "hashes": {
+    "pptx": "ee170244e7d968492dff43eb8a8efc6ec81f4fb43a55f73034dc22ec78ea61d6",
+    "svg": "919aaa94e2bbf29f60d96ff24118ae24d7e82df90943897a9289e56da6253127",
+    "preview": "725cc2c2179f9acf30255ecedbcb440e950d1eca78fc0bb652eb48dbd5919bd8",
+    "reference": "5108dcc599a97a881443d736be5d06a4725ec01d46b35345163e1b095afc6447"
+  },
+  "original_local_pptx_sha256": "b068036a2fb7fcb4ad4f6bc7ec2cd36b4aadae7178b6e1fb86c27a57f6351fb5",
+  "visual_payload_sha256": "4006b605f6914a2f3f640cff99906fc99332990706f1e0d383a032801a2c661d",
+  "dedup_note": "旧库性能对比以散点/柱形为主；分位数或cactus曲线可以同时表达解决数量与运行代价，和逐实例成对散点有不同分析功能。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

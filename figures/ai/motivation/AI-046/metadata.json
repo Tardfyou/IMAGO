@@ -1,0 +1,57 @@
+{
+  "id": "AI-046",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2024,
+  "award_name": "Best Student Paper",
+  "paper_title": "Mip-Splatting: Alias-free 3D Gaussian Splatting",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "将四格投影几何与真实图像放大缺陷一一对应，直观说明模型偏差如何产生可见伪影。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 156,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0225",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "0b0dfe97e7a42db990581de4cfe3390cd9e51fc6baee74eb4f4ac5da842e8f92",
+    "pdf_page": 1,
+    "crop_bbox": [
+      50,
+      224,
+      541,
+      421
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-046/AI-046.pptx",
+    "svg": "figures/ai/motivation/AI-046/AI-046.svg",
+    "preview": "figures/ai/motivation/AI-046/preview.png",
+    "reference": "figures/ai/motivation/AI-046/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 61
+  },
+  "hashes": {
+    "pptx": "97cb12d790698e3b08d907467000416e86ca153147e0caa5ca6126127766fcbf",
+    "svg": "d673c4b73d06cae1841918402716085a64beb90ae63d256dae0cba920b21128e",
+    "preview": "0b57b8e5bb1d690843043ebb07629d857a0008cf1d1a4ec9fc5b2b32d233402f",
+    "reference": "2b08d5f8e1b951b838126e49d4eb6f1fa556b64eeaa1007a7d3419db0af9128e"
+  },
+  "original_local_pptx_sha256": "205dbfac178fa9885dcba884dbb585c304112bf730667b5b0039fb5a40dbef4d",
+  "visual_payload_sha256": "e9cc8d1b4dafac6c1fe5a3a18db70bd66035131a143d8260bd7669d1e4f5857f",
+  "dedup_note": "区别旧输入输出拼图：加入数学剖面、相机投影和局部伪影因果链的四格动机布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

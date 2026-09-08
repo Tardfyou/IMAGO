@@ -1,0 +1,57 @@
+{
+  "id": "AI-059",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "HALoGEN: Fantastic LLM Hallucinations and Where to Find Them",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "两行真实例子按提示、回答分解、外部验证、错误来源分类四阶段对齐。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 182,
+    "groups": 0,
+    "native_text_runs": 154,
+    "images": 4
+  },
+  "paper_id": "PAPER-0194",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.71/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "8d9e65f8d2ddc85b84517884a242e9889eed637ed30359106485a023561f3569",
+    "pdf_page": 2,
+    "crop_bbox": [
+      74,
+      79,
+      521,
+      236
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-059/AI-059.pptx",
+    "svg": "figures/ai/workflow/AI-059/AI-059.svg",
+    "preview": "figures/ai/workflow/AI-059/preview.png",
+    "reference": "figures/ai/workflow/AI-059/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 96
+  },
+  "hashes": {
+    "pptx": "a36c4dcc029317ad4e34daeacb90258b57f7019f6d2ba1cae8044ac98043023c",
+    "svg": "b222f42b9138c8514501668226f0741b0a731bde13282b805dc7340dc9efecb5",
+    "preview": "96ccbb0427f6c53618e8e3a3cde82ec1265c353d324ca0b6209c0cdaaaad329d",
+    "reference": "c63dca7d0330cf1df75d44af95f9880c25d912482cdb992f97796aad2dfb9afd"
+  },
+  "original_local_pptx_sha256": "cd944cead80661573d38c334c07a41d7eeb7a720389d1cc27bd15e919ffd2831",
+  "visual_payload_sha256": "f81f83b0259707713c22570f0375197cef3430adcea21d769cd3ce7975b46bdd",
+  "dedup_note": "区别已有生成数据流水线，突出跨领域可验证原子事实与训练数据溯源的同一评测机制。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

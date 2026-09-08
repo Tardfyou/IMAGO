@@ -1,0 +1,57 @@
+{
+  "id": "SE-072",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "COFFE: A Code Efficiency Benchmark for Code Generation",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "上下两条生成流程分别产出契约与压力测试，执行验证后保留示例，右侧共享检查器区分契约错和测试错并反馈回相应分支。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 145,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 29
+  },
+  "paper_id": "PAPER-0097",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2502.02827",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "fdff7258295ecb8a438c5468d8eb9723dd89a2a32a0bfc51dd93b2364d26cb98",
+    "pdf_page": 6,
+    "crop_bbox": [
+      46,
+      85,
+      441,
+      273
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-072/SE-072.pptx",
+    "svg": "figures/software-engineering/architecture/SE-072/SE-072.svg",
+    "preview": "figures/software-engineering/architecture/SE-072/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-072/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 29
+  },
+  "hashes": {
+    "pptx": "5df9cbde219d419e1929ee7ad07e13a486aef913bbbbfbfca5fda57f44bc0af1",
+    "svg": "a3087243e79525a18fd4508c4ff6bc3867b743af05f695f96e9545d3bc913506",
+    "preview": "32a124b0ebd16e84eafde673b2020423fbab005164075a7d29787d2169745247",
+    "reference": "8c43533f7e4743131e608d7127e121e3df89698a9ac420d2cd8f2f3fabc5b513"
+  },
+  "original_local_pptx_sha256": "55caffa361c237e3ee2d152d9aab8883b788faf03ccba3a46df3919c904eb11c",
+  "visual_payload_sha256": "20b24f0d82219d3b97c40bda3c7c4f0617e920af8921f4253aa17c3131ef0a38",
+  "dedup_note": "区别于单环LLM生成验证，本图有两个相互依赖的生成产物和第三个成对一致性检查器，适合解释互相约束的数据合成与验证。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

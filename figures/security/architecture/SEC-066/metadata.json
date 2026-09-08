@@ -1,0 +1,57 @@
+{
+  "id": "SEC-066",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Harnessing Vital Sign Vibration Harmonics for Effortless and Inbuilt XR User Authentication",
+  "figure": "Figure 5",
+  "category": "系统架构",
+  "reuse_value": "顶部真实使用场景连接三层彩色模块，包含信号校准、谐波增强、双特征编码与认证输出，保留波形和小图例。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 142,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 14
+  },
+  "paper_id": "PAPER-0037",
+  "source": {
+    "paper_url": "https://spies.engr.tamu.edu/wp-content/uploads/sites/239/2025/10/paper_cr_.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "2564b20b45cef3772ddb739eae993f081b4890740d4d15e8a114e89213a02a7d",
+    "pdf_page": 5,
+    "crop_bbox": [
+      60,
+      84,
+      285,
+      357
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-066/SEC-066.pptx",
+    "svg": "figures/security/architecture/SEC-066/SEC-066.svg",
+    "preview": "figures/security/architecture/SEC-066/preview.png",
+    "reference": "figures/security/architecture/SEC-066/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 21
+  },
+  "hashes": {
+    "pptx": "3faf2a6e29b710be5785bf8d55dff594a09f43f9e841a5bf31dc7ac9d9c035bd",
+    "svg": "5b933c61859de60e4cc5cf0e76055287125587b9193ead3d4babf54646c7470a",
+    "preview": "345752d60b85c92fa87a38d053c9d9c5bdb22e79cdb6f176f8fac5546fb8549e",
+    "reference": "e79a46a57324a34567c777405c5b52135a33498729c2f10dcd6f644ced6ce0e6"
+  },
+  "original_local_pptx_sha256": "0d953c66bea1036ca063308c0108b0bf66abcb4224b98333380637417eef513a",
+  "visual_payload_sha256": "71546f596457edf2191e026a103b3c5282f76429062de6d2ff14763e66d95429",
+  "dedup_note": "相较VoiceRadar语音特征图，此图新增生理传感、运动伪影抑制和谐波增强示例，且分层彩色面板布局不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

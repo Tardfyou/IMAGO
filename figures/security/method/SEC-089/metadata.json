@@ -1,0 +1,57 @@
+{
+  "id": "SEC-089",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "WESEE: Using Malicious #VC Interrupts to Break AMD SEV-SNP",
+  "figure": "Figure 5",
+  "category": "方法细节",
+  "reuse_value": "五个并排面板按相同语句编号对应自然语言、伪代码、攻击改写、寄存器数据流和内存布局，突出跨表示的逐步映射。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 127,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0076",
+  "source": {
+    "paper_url": "https://ahoi-attacks.github.io/wesee/wesee_oakland24.pdf",
+    "award_url": "https://www.ieee-security.org/TC/SP2024/awards.html",
+    "pdf_sha256": "76f177de91d8931856e6d14b99a08d2c3576cb8b543be886078dfc49eb2beb75",
+    "pdf_page": 9,
+    "crop_bbox": [
+      58,
+      75,
+      557,
+      201
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-089/SEC-089.pptx",
+    "svg": "figures/security/method/SEC-089/SEC-089.svg",
+    "preview": "figures/security/method/SEC-089/preview.png",
+    "reference": "figures/security/method/SEC-089/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 51
+  },
+  "hashes": {
+    "pptx": "d9e35b9bba0a2cc25a590e4d2a77c0e9c8cfb5cce16eb0fdc9a101bcd15c1101",
+    "svg": "8a89540ac13604eaea15374e8128594789a82fdce8238bfa733d2084cba36157",
+    "preview": "56c38b5da98fe5f362cf956255de2a182107fc32b6378af1b7578d8b27f6468d",
+    "reference": "a87def25db8761fe9b3d6a36bff8c76b3f1c2106b6eb13b4cf1b34386bda311d"
+  },
+  "original_local_pptx_sha256": "88db3b58cbff5b5dce2ad9513e170ae6ff2c6867bb7f7df9911ae1964d38d723",
+  "visual_payload_sha256": "b38af03b9ec419a1ed6a1af739327f11c465805d60c1acec548719a2c4e40d8a",
+  "dedup_note": "新增同一机制的五种表示按行对齐，区别于单独代码块和普通攻击时序，适合细粒度系统机制说明。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

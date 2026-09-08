@@ -1,0 +1,57 @@
+{
+  "id": "AI-077",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "并列视觉重建支路和动作支路，用噪声token、条件token及原始场景串起监督关系。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 277,
+    "groups": 0,
+    "native_text_runs": 55,
+    "images": 5
+  },
+  "paper_id": "PAPER-0177",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2508.10333",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "de568f5eb3e26a355160e7b79c286327eae38f3585a419a51a061c186e55f011",
+    "pdf_page": 3,
+    "crop_bbox": [
+      92,
+      54,
+      521,
+      276
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-077/AI-077.pptx",
+    "svg": "figures/ai/architecture/AI-077/AI-077.svg",
+    "preview": "figures/ai/architecture/AI-077/preview.png",
+    "reference": "figures/ai/architecture/AI-077/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 21
+  },
+  "hashes": {
+    "pptx": "f17dc32be10a9955f6d8a19c8dde142f1fc2b7d6a35735849d04fa398819e97c",
+    "svg": "bd376f752ba8f78796806cf9815ed1a6cf8ab12ff9ac3d1c097f35b9387f6bab",
+    "preview": "1597dd96f17c612e627c204a3bf51ce63d2959a2da40d5547160a5bacbc10ae2",
+    "reference": "ac76ce929d4986a4b5284336fb2bba091c32f89bf16ef92a8ef802d96c4140a9"
+  },
+  "original_local_pptx_sha256": "bee445462e800088d4b338cd14b9981abd03eec55af9d9c61527d094e5526ad6",
+  "visual_payload_sha256": "f4d0b52d952cc014e28af3a39c5a9a0d89551d9e7a1720f4b5f62f894c5386f2",
+  "dedup_note": "区别旧世界模型视频生成，该图显式把机器人动作token和重建目标分开，并让动作表征反向约束视觉关注。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

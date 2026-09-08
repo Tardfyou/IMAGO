@@ -1,0 +1,57 @@
+{
+  "id": "SE-075",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "用相同红绿蓝主体颜色连接三船交互、功能关系模型和非同构图类别；让具体场景如何抽象为可枚举的测试等价类一目了然。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 222,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0093",
+  "source": {
+    "paper_url": "https://liu.diva-portal.org/smash/get/diva2%3A2007010/FULLTEXT02.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "9bbe42a5c15db155126fece22898902021fc103dc2e066fc09885f8f3453e477",
+    "pdf_page": 7,
+    "crop_bbox": [
+      51,
+      180,
+      439,
+      364
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-075/SE-075.pptx",
+    "svg": "figures/software-engineering/method/SE-075/SE-075.svg",
+    "preview": "figures/software-engineering/method/SE-075/preview.png",
+    "reference": "figures/software-engineering/method/SE-075/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 45
+  },
+  "hashes": {
+    "pptx": "f1da30a47b0c7b03ff68a06612fe4d168a5bde22c057f825d1348b3ca3c480e1",
+    "svg": "f942ae9f2e8b189ce1c812389a2cbe6f6cbb87db5772a1fd3c1ab7aa58283bb9",
+    "preview": "422be5e3a6f90bb18c9895c649eb8036b2cb55ee2822e50400973d5c6d24a1b9",
+    "reference": "4632ccaa7ed40d4d7581576d84ca3b57bb7cfa7afa1e02da118b25ab0166dea8"
+  },
+  "original_local_pptx_sha256": "16d8c2fab864194f76b50b6f9face79a8f09cbdc9d3538d4c98be731d45aabf9",
+  "visual_payload_sha256": "e736b848488ba9dd1e57ea67461dbbe408c19423c032d8ef1c4eada92e34dd8e",
+  "dedup_note": "已有素材没有具体多主体运动场景→关系模型→拓扑等价类三种视图的同步映射；可用于多智能体交互、协议状态和场景覆盖分析。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

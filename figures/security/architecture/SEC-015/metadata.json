@@ -1,0 +1,57 @@
+{
+  "id": "SEC-015",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel",
+  "figure": "Figure 7",
+  "category": "系统架构",
+  "reuse_value": "以两大阶段组织GPU采样、双域数据、预训练微调和结构输出，内嵌波形及神经网络形成高信息密度架构图。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1210,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 9
+  },
+  "paper_id": "PAPER-0016",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s141-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "eb2f3e887a564b637549fa0a08c5b0b26d00591ae8f51adaf85b278e6de3704d",
+    "pdf_page": 6,
+    "crop_bbox": [
+      49,
+      49,
+      563,
+      163
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-015/SEC-015.pptx",
+    "svg": "figures/security/architecture/SEC-015/SEC-015.svg",
+    "preview": "figures/security/architecture/SEC-015/preview.png",
+    "reference": "figures/security/architecture/SEC-015/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 2
+  },
+  "hashes": {
+    "pptx": "822d2414646e4ec8d9e597d68e47be4c16e18736f945f23eeae595fa2e43a7ff",
+    "svg": "574e84b0db02c7450b82b6ff162825097d9b5c7fb7f3100560e1a06fe6a2db6a",
+    "preview": "5a6892a045bc6bd8300d4191bff7a9ce625ec8d9daf6a69061a34fcf146f5e9a",
+    "reference": "15f61c2345b0bba83e4566f20c5fcdcbf9753856a1c3d94525ee7fd3fdc05cb4"
+  },
+  "original_local_pptx_sha256": "b7a8cf6eaed3ca025fab94eb7ba87b85b5ca5ccfa97f41148f1bc7d2432e290e",
+  "visual_payload_sha256": "24f94a361d2d58e23fe18d1720b68fd11f84c3ee7f1f6361b0800fd4d075590f",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

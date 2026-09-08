@@ -1,0 +1,57 @@
+{
+  "id": "AI-012",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2025,
+  "award_name": "Best Main Track Paper",
+  "paper_title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "左侧网络改动、中部瀑布式性能贡献、右侧训练稳定性曲线；适合一图连接方法和效益。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 572,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0192",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=1b7whO4SfY",
+    "award_url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+    "pdf_sha256": "949c7ed67dea3ddc6b88854cf72631ed2e1f466ad4c824c8aa1286739bcf2359",
+    "pdf_page": 2,
+    "crop_bbox": [
+      69,
+      47,
+      527,
+      232
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-012/AI-012.pptx",
+    "svg": "figures/ai/experiments/AI-012/AI-012.svg",
+    "preview": "figures/ai/experiments/AI-012/preview.png",
+    "reference": "figures/ai/experiments/AI-012/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 72
+  },
+  "hashes": {
+    "pptx": "1b0b4b6c474f477f852edae5cfcc833b4d190bab8ae8537d912377f1e6893178",
+    "svg": "32f985ec1c2e25143f4d2cabcdb1d0d7ed9fa10c76dadd32bb5bf879b5094b55",
+    "preview": "8a75247fce11e12ce99a9199b0fbf723e9ad9f42487c5727577ebae10904d08f",
+    "reference": "06753c4457d941d892a74e0325797b21b4e20b9f6ff75315be9d2300f87fd8ed"
+  },
+  "original_local_pptx_sha256": "24262121f5f8519509114dcee43fbd17e7afecb0b6cd1ca5799242b337759994",
+  "visual_payload_sha256": "fc1f450f2b966a6115a2023f82338219bb24a770bb128bdb37ab7e3164b624dd",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

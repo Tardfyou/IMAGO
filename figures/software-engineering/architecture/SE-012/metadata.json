@@ -1,0 +1,57 @@
+{
+  "id": "SE-012",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction",
+  "figure": "Figure 5",
+  "category": "系统架构",
+  "reuse_value": "双时间尺度预测配合自动伸缩和请求路由，用三类线型区分请求、数据与管理信号；适合在线自适应服务。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 185,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0083",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2504.03702",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "ccd1e0f651a04f924da6f09e5f1219e6189e93a0ad2d5cfcfdfd6501b7c15df0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      320,
+      83,
+      557,
+      215
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-012/SE-012.pptx",
+    "svg": "figures/software-engineering/architecture/SE-012/SE-012.svg",
+    "preview": "figures/software-engineering/architecture/SE-012/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-012/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 11
+  },
+  "hashes": {
+    "pptx": "5721b97a95e3c04c6566881a6eee464c92ae8d7612b7d36f780c9dbfb671d687",
+    "svg": "5233e648f4d6cb0f9e090e7951e5c897ce1d541f47b05c60e082bc253ce0ee59",
+    "preview": "355a23b1b9fb80b84c7e0fab2259de066c98486b023e975636a3ce9a6e51262c",
+    "reference": "4ad5d6bf9c00dace357b8954c1958503dc1207d15c746b9dba3b2fc955eb4306"
+  },
+  "original_local_pptx_sha256": "5c8c9aab3dbc41976183f1f77e54359e6952da900f29662a8dd55b89cc3758eb",
+  "visual_payload_sha256": "96a3b3884d2ff89666682b4d5eb6d2e2e90bb836a97d808490b0d370d82e6436",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-037",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking",
+  "figure": "Figure 3",
+  "category": "威胁与攻击",
+  "reuse_value": "把攻击者、递归解析器与父子域权属放在同一场景，编号和橙蓝色编码显示缓存及后续查询的影响。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 59,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0019",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f330-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "23eec112794032c0559c0553d8e3519093a00ac72ce9e08d3d792248ee2ef32f",
+    "pdf_page": 4,
+    "crop_bbox": [
+      49,
+      551,
+      303,
+      693
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-037/SEC-037.pptx",
+    "svg": "figures/security/threats/SEC-037/SEC-037.svg",
+    "preview": "figures/security/threats/SEC-037/preview.png",
+    "reference": "figures/security/threats/SEC-037/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 69
+  },
+  "hashes": {
+    "pptx": "b5004599b467a137fcbbd8ac4bbf3291af422d44b9c9c45fd28266492b3b0f77",
+    "svg": "16200a8b6c9cfe393adfa591007f89c697081fbf681d2b64e6fb1b4cc3909adb",
+    "preview": "705596689305d508c88fa56e3bbc1ffebee83adcf5604fd2dee5e93800d59da0",
+    "reference": "778680d851a7365c55ecd2980567c452efb66ff77efc9f15a0e7e4a964d6adc5"
+  },
+  "original_local_pptx_sha256": "ae2e61324424dc93e3b5413c7a8217e1afea675522b0aa6f32a5683cc58c61b9",
+  "visual_payload_sha256": "c65d8357992a2f9962b2207e45b2b2e1b511e434b80882ddd28b9586dd7bdb39",
+  "dedup_note": "与已有NAT/Opossum时序相比，此图核心是父子/兄弟域权限与攻击事件联合编码，不是单纯消息序列。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

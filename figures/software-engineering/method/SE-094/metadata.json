@@ -1,0 +1,57 @@
+{
+  "id": "SE-094",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State",
+  "figure": "Figure 7",
+  "category": "方法细节",
+  "reuse_value": "上下两路特征窗口分别计算系统偏向和多样性采样结果，再根据当前采样率与预算的比较切换AND/OR规则，合成保留决策。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 146,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0151",
+  "source": {
+    "paper_url": "https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "2dd18b84a31d9ba6c7bf95be33d17222e415b18d6e5f2964d7cba8a9a276737a",
+    "pdf_page": 9,
+    "crop_bbox": [
+      45,
+      80,
+      441,
+      208
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-094/SE-094.pptx",
+    "svg": "figures/software-engineering/method/SE-094/SE-094.svg",
+    "preview": "figures/software-engineering/method/SE-094/preview.png",
+    "reference": "figures/software-engineering/method/SE-094/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 51
+  },
+  "hashes": {
+    "pptx": "89e8c141dcaebb818cf0fa3db8292b125204685bf5ff2d202245327e3753f10c",
+    "svg": "c2261bc3508fdde947ba4699691b770e661e15052eb9248c57d2805248aad959",
+    "preview": "759e109cfa77f307183ecfaa3c26e8af1bc1a3931ed76beb7fe6226375042b39",
+    "reference": "77978cbe095a18982e36a0958b7fdcff82e64ff0c25b284ae401ca1d769d449b"
+  },
+  "original_local_pptx_sha256": "68aa4170f558ebf9dc99a683b1eac0e804d59f5d158f24c7378d842e76ff59b1",
+  "visual_payload_sha256": "1a1d104263e4a603b6320f5592297ec0330994929f5226df6f0b6404eca78866",
+  "dedup_note": "同论文已有SE004总览与SE005状态注意力模块。本图单独展示预算如何改变两路证据的逻辑融合规则，新增的是可复用的条件投票控制，未复用整张旧图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

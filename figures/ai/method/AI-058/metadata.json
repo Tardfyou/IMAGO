@@ -1,0 +1,57 @@
+{
+  "id": "AI-058",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "并排放大编码端与解码端，用词元块、池化及拆分/掩码标签解释query和key/value的角色互换。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 234,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0185",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.453/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "69fdaab9d6b4d8b7dbbc81892029b9f568dbb75c93413b6b4cb09dc84392cfbb",
+    "pdf_page": 5,
+    "crop_bbox": [
+      160,
+      70,
+      435,
+      194
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-058/AI-058.pptx",
+    "svg": "figures/ai/method/AI-058/AI-058.svg",
+    "preview": "figures/ai/method/AI-058/preview.png",
+    "reference": "figures/ai/method/AI-058/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 48
+  },
+  "hashes": {
+    "pptx": "cb517a05c4ade77693b579f258c471927cd23b1bbf491bc07bc4f869bf876711",
+    "svg": "1bddcdd1ed3f196fbf3da399c4ec79cf7c129b5cf993c05e5d8b685778cbb958",
+    "preview": "5b2215a5245d408fc7077587c6b1c4150eb88fd00ecd887c9c18a65ca80b716f",
+    "reference": "9d7e5b415cb13155c1bf9c4914423971fc452da552a0305d53b6682d31dfde1b"
+  },
+  "original_local_pptx_sha256": "3b429c1b2ec7c3a5310c733651f0fa907bd1c94444d5b0da7838d482617a4fa6",
+  "visual_payload_sha256": "328b6b179244d93116948bd11e1a09c75051564f3d41112c4de3917a30114914",
+  "dedup_note": "区别AI026总览，本图显式拆开注意力内部数据角色，适合可复用的序列粒度转换说明。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

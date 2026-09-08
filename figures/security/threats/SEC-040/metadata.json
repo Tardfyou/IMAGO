@@ -1,0 +1,57 @@
+{
+  "id": "SEC-040",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Bridges to Self: Silent Web-to-App Tracking on Mobile via Localhost",
+  "figure": "Figure 4",
+  "category": "威胁与攻击",
+  "reuse_value": "用设备外框、原生与浏览器双环境、socket通道、后台云服务和编号闭合完整跨环境跟踪链。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 96,
+    "groups": 0,
+    "native_text_runs": 37,
+    "images": 2
+  },
+  "paper_id": "PAPER-0002",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-vlummens.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/vlummens",
+    "pdf_sha256": "dd453279dc1b55d7688caab455882e07efe0555c2e60258969184c1126459b2a",
+    "pdf_page": 9,
+    "crop_bbox": [
+      53,
+      72,
+      303,
+      209
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-040/SEC-040.pptx",
+    "svg": "figures/security/threats/SEC-040/SEC-040.svg",
+    "preview": "figures/security/threats/SEC-040/preview.png",
+    "reference": "figures/security/threats/SEC-040/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 70
+  },
+  "hashes": {
+    "pptx": "f06121d6a07b8f33788e31922d63cef583ef2fa7356d69f54c1b2c7cde280798",
+    "svg": "244aaf4a322066d0128a5e1e711cb94aa291e66486657981770f93038a75eb89",
+    "preview": "af7948bbeb85c32a9129e2cd0fbdab0d229501b72b82cdabeff1d77983b5e921",
+    "reference": "375a6f4533f2e814fc58158759c35a24f24d701bdfebf39c340229b81532eb9c"
+  },
+  "original_local_pptx_sha256": "41f0b9da2c3847ca9081debfe4c7292a58c76bfd4155aa4865e37288ca73f44c",
+  "visual_payload_sha256": "e0c995506c4a5dab3064664bb814d5bb8e34f1dcf4616b631896c08f87bdc3d6",
+  "dedup_note": "现有UntrustIDE只有文件权限边界，此图新增设备内两个隔离上下文经localhost暗通道连接并上传服务端的完整数据链。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

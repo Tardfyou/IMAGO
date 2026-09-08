@@ -1,0 +1,57 @@
+{
+  "id": "SEC-076",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Smudged Fingerprints: Characterizing and Improving the Performance of Web Application Fingerprinting",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "依赖版本矩阵、源代码/安装脚本、目标应用、网络变换中间层及测试工具并列，编号明确区分搭建要素。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 159,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0068",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-kondracki.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/kondracki",
+    "pdf_sha256": "98d2361f36b050ca7869a2bd9c6b9c7bf1ebe4ee78a50047caa4adf9f6c988cd",
+    "pdf_page": 5,
+    "crop_bbox": [
+      328,
+      69,
+      548,
+      246
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-076/SEC-076.pptx",
+    "svg": "figures/security/architecture/SEC-076/SEC-076.svg",
+    "preview": "figures/security/architecture/SEC-076/preview.png",
+    "reference": "figures/security/architecture/SEC-076/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 24
+  },
+  "hashes": {
+    "pptx": "3e4295173eedefa68b72fdd66306093d6b6ddf1bc1fafa16df21dcb00b1cc824",
+    "svg": "2e406d27c607dabf25f41ac0da08645ddcba46026c8e7996f0720751c71fd09c",
+    "preview": "b33b3c256d1378801d0e58d3e897743d69bba9693ed434acc0090a637996436e",
+    "reference": "de3997ceb7160265350ce8b560863a5df2efb1119260a97a335d8437eeeafd0e"
+  },
+  "original_local_pptx_sha256": "9d1818cb67da68d293dd6a155c24888c25772e0bdddcd02d52d6faa6906c242f",
+  "visual_payload_sha256": "c3729f112b6c155c7426dd84ec380fbe5cfa7c10d803e1ec4a41dfc5dbe038f2",
+  "dedup_note": "新增可组合软件版本环境及网络中间层测量架构；区别于原有只包含生成/检测模块的框架图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-076",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "环形可见距离区域、圆形速度空间和楔形碰撞锥以半透明色叠加，标出向量、相对位置与允许采样区，旁边给出抽样步骤。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 60,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0093",
+  "source": {
+    "paper_url": "https://liu.diva-portal.org/smash/get/diva2%3A2007010/FULLTEXT02.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "9bbe42a5c15db155126fece22898902021fc103dc2e066fc09885f8f3453e477",
+    "pdf_page": 13,
+    "crop_bbox": [
+      51,
+      80,
+      440,
+      207
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-076/SE-076.pptx",
+    "svg": "figures/software-engineering/method/SE-076/SE-076.svg",
+    "preview": "figures/software-engineering/method/SE-076/preview.png",
+    "reference": "figures/software-engineering/method/SE-076/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 46
+  },
+  "hashes": {
+    "pptx": "0fdd243b066cd0ea0899ab682eb659bb7e4e6cff6bc3eb937599910bc14ff43b",
+    "svg": "aef1c666a2749aaff608b8125715c3c7f5a3c7dbcfa2cc87f400012f95c086fb",
+    "preview": "9d5c1b5cac830cdb1ffa57b4208a42da126238a9c14da05870290c619487cef7",
+    "reference": "bbdabb28f74d10b5b4f9ad07b6e1cec40c1bd554742848d4c03caf39171dce84"
+  },
+  "original_local_pptx_sha256": "d7bcd2da74b7a5e1e0a039a338b877ad5b7b876b54a5a640838df06c1d339132",
+  "visual_payload_sha256": "9f3d3142069f5891ccf8582eee88b6e54dd66d70a6a5d37a3a489f775d767ead",
+  "dedup_note": "旧库未覆盖带向量和多个约束区域求交的几何采样图；与同论文SE075的离散等价类建模不同，本图表达连续空间中的可行域。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

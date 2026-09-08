@@ -1,0 +1,57 @@
+{
+  "id": "SEC-014",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "将实际空间中的攻击者、主机、电磁传播，与抽象重建和后续攻击结果并列，适合说明现实威胁。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 467,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0016",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s141-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "eb2f3e887a564b637549fa0a08c5b0b26d00591ae8f51adaf85b278e6de3704d",
+    "pdf_page": 1,
+    "crop_bbox": [
+      312,
+      215,
+      567,
+      333
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-014/SEC-014.pptx",
+    "svg": "figures/security/threats/SEC-014/SEC-014.svg",
+    "preview": "figures/security/threats/SEC-014/preview.png",
+    "reference": "figures/security/threats/SEC-014/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 63
+  },
+  "hashes": {
+    "pptx": "d3be36cec3013a079b68b25660ace880dc2785fd77d4423e28cb51a321ddddc3",
+    "svg": "571f47e9ce7d113cb5d32dfc7406f778e21dfc2e4bfc5068190299dc9865aa4d",
+    "preview": "07f3e119d5ffc49cb5afea161cf1a655af35197a7c25bb4b660db3399ad035f3",
+    "reference": "6c8b9c880fcf0b195425e0ab93d4a37e73bb2f43df1971a7321868efacb2293c"
+  },
+  "original_local_pptx_sha256": "57703458cbdc44e322efbf7af4580e65e1270755fd077445f7ef53a7d5e2ae88",
+  "visual_payload_sha256": "58d5ed583a9c12f5d75c0ac14265e6decc3a9c9e7db96027a8222c9becc5b279",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

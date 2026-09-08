@@ -1,0 +1,57 @@
+{
+  "id": "SEC-068",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "十个年份箭头和上下交错卡片逐年对齐，每卡固定六类真实字段，适合纵向研究史、测量趋势和演化综述。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 112,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0023",
+  "source": {
+    "paper_url": "https://www.securitee.org/files/apt_ccs2025.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "ec3c5adb88985ff20be1638e2ddb80b741b98ab6cbafcb31d97e8e54f7d58cae",
+    "pdf_page": 6,
+    "crop_bbox": [
+      68,
+      86,
+      550,
+      209
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-068/SEC-068.pptx",
+    "svg": "figures/security/workflow/SEC-068/SEC-068.svg",
+    "preview": "figures/security/workflow/SEC-068/preview.png",
+    "reference": "figures/security/workflow/SEC-068/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 97
+  },
+  "hashes": {
+    "pptx": "ac2f16faea9623aba93f2db1b83973458f2bbb5ce4b3b4712e1ac4445cdfdeba",
+    "svg": "9198e366fe4d8e7bbc6f920d9ac0559cff78f5247b92cb59a3812487fa9a1b2a",
+    "preview": "b6092962d62584ca31cc7b632ae26a48456febe6b2974585e6247ffb8a684245",
+    "reference": "d2b600f34bc64c2b4b0b5faa9ade8d2abdd1544a464d77bb114a19135b8a5449"
+  },
+  "original_local_pptx_sha256": "5af46cc83d7179c402cdf5d1ba4e08db3c2c4102a8412d3cd2efa205d20aa630",
+  "visual_payload_sha256": "b1f00afcdff1dd02a830a215540cf56f16928d0b6f61cc905d21b1248ab6e89b",
+  "dedup_note": "库内此前未有多指标固定卡片的交错年度时间轴；不是普通折线趋势或单次研究流程。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

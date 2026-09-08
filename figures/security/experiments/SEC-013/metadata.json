@@ -1,0 +1,57 @@
+{
+  "id": "SEC-013",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "每个点直接标模型名，趋势线与置信区域突出机制关系，适合研究指标之间的关联。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 127,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0048",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity25-spracklen.pdf",
+    "award_url": "https://www.usenix.org/conferences/best-papers",
+    "pdf_sha256": "b12c62ed298a1eeb830a66aa5de4f7746da3e90b50c6f2d51bfaaf74d6381934",
+    "pdf_page": 10,
+    "crop_bbox": [
+      318,
+      367,
+      553,
+      483
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-013/SEC-013.pptx",
+    "svg": "figures/security/experiments/SEC-013/SEC-013.svg",
+    "preview": "figures/security/experiments/SEC-013/preview.png",
+    "reference": "figures/security/experiments/SEC-013/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 82
+  },
+  "hashes": {
+    "pptx": "2a3f6a16c17db7026dc37cd13291eb43c55d01f62d753fbdc164e3c95402d20d",
+    "svg": "2076eb2fb3ae9ab11848c3a31393bd610643f7cdc976c4e3a9098b07718c3508",
+    "preview": "571cb238e92614ecd3babcc6280277469247cb97accfab166b6070611e0ae78c",
+    "reference": "63348d2fc0e5a53b5a5cd08ba8aa144c94573e33735ea64e23feb2e2585dd857"
+  },
+  "original_local_pptx_sha256": "1cd00abcc60f20c811b9eb745e80de46df513af14d87ef1bbd9f28947466e3c5",
+  "visual_payload_sha256": "edb466eb8e76c96b5d2a16c7934b3d12cb15a21fa6615d98288753cc3459afac",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

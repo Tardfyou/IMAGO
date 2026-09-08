@@ -1,0 +1,57 @@
+{
+  "id": "SE-036",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption",
+  "figure": "Figure 8",
+  "category": "实验图表",
+  "reuse_value": "双系统功耗曲线叠加分段函数时长柱，红色检查点联结两种测量尺度，适合性能根因、能耗和时序异常的证据图。",
+  "editability": "原生文字与形状",
+  "limitations": "坐标轴、标注、柱形、事件线及曲线为原生对象。曲线路径按论文位图描摹，未恢复原始实验数据；Arial替代源图字体，极细波动和遮挡处仅作视觉近似。",
+  "object_counts": {
+    "shapes": 170,
+    "groups": 0,
+    "native_text_runs": 35,
+    "images": 0
+  },
+  "paper_id": "PAPER-0126",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2412.10063",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "7b4c3c1523b06604990861ffbb0319f8254d96dff064b49b276205ff67d821c4",
+    "pdf_page": 7,
+    "crop_bbox": [
+      306,
+      48,
+      565,
+      210
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-036/SE-036.pptx",
+    "svg": "figures/software-engineering/experiments/SE-036/SE-036.svg",
+    "preview": "figures/software-engineering/experiments/SE-036/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-036/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 67
+  },
+  "hashes": {
+    "pptx": "0eff41b231906697b12ae594846921b763d0baf8f0d09895b835125958e9f8af",
+    "svg": "8a09ef529d1740e06500be2ace029a7ddf4d74fbf83c69c98605998f476c00fd",
+    "preview": "272b04817e6652ac5cb0ba07ffa100fe2bb4da9132b308678d3413b626531b15",
+    "reference": "26376cf477242a5bc8431d8b9913a38ec24cc41ac8e58b150b42612b5fa3b129"
+  },
+  "original_local_pptx_sha256": "40208cedd4b8b54c1e3c8f7b11216779b48afeecdaa70db8b09af602dedcef40",
+  "visual_payload_sha256": "1ffa88a48a06ce36438bcb75fd554ff39b4cdcad7bdd9eab9c59e0394392d6c8",
+  "dedup_note": "旧SE-022是多指标时序热图，本图是双坐标功耗曲线+类别柱图+事件分隔线，新增异构证据在时间轴对齐的表现法。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

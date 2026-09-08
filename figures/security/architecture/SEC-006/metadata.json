@@ -1,0 +1,57 @@
+{
+  "id": "SEC-006",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "BENZENE: A Practical Root Cause Analysis System with an Under-Constrained State Mutation",
+  "figure": "Figure 5",
+  "category": "系统架构",
+  "reuse_value": "一个横向外框容纳三个子系统；多种中间产物、并行轨迹与汇聚诊断保持清晰，适合分析/诊断流水线。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 149,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0050",
+  "source": {
+    "paper_url": "https://kevinkoo001.github.io/assets/pdf/sp24-benzene-official.pdf",
+    "award_url": "https://sp2024.ieee-security.org/awards.html",
+    "pdf_sha256": "b8fac163929613512693c9e748e49451e3307a145ab0ef20ac0fd90ef4321d1d",
+    "pdf_page": 5,
+    "crop_bbox": [
+      55,
+      68,
+      557,
+      155
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-006/SEC-006.pptx",
+    "svg": "figures/security/architecture/SEC-006/SEC-006.svg",
+    "preview": "figures/security/architecture/SEC-006/preview.png",
+    "reference": "figures/security/architecture/SEC-006/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 10
+  },
+  "hashes": {
+    "pptx": "e76203b15da4345719a1ecd2509ae86dc9a8f413b185cc470b86502ea3253c20",
+    "svg": "17b4ab7c340468d03620ec5974afbbd32caa2eabd4f158edab521b47621def0e",
+    "preview": "4ca2663100b9c74b05ddf20bebff947f1603c35603ec88545083814be51e489c",
+    "reference": "71f1efffc1009edaa9792c79b3d17431a536eb88f655c03f93cbd85688a41149"
+  },
+  "original_local_pptx_sha256": "ef5dc65e2a88fba7c5f713e660a743a81ee69efd9db2bfed08e129b2cd2ce43e",
+  "visual_payload_sha256": "03856a3206e497566768fbcda7bf84a8aa2da368cc22642825e3f8897b2e4297",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

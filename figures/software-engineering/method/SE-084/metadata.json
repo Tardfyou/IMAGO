@@ -1,0 +1,57 @@
+{
+  "id": "SE-084",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "上下两组代码和小变量框共同展示两个断点：异步回调和键值读写；蓝虚线代表反向查找，红实线代表污点传播，保留关键变量高亮。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 180,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0133",
+  "source": {
+    "paper_url": "https://mainarke.github.io/assets/papers/icse24_chen.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "c45fffcfb22503a074976bc05c6c3b3aad44379bd2a0d9c4d4ab5cfc79678df6",
+    "pdf_page": 6,
+    "crop_bbox": [
+      318,
+      83,
+      557,
+      260
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-084/SE-084.pptx",
+    "svg": "figures/software-engineering/method/SE-084/SE-084.svg",
+    "preview": "figures/software-engineering/method/SE-084/preview.png",
+    "reference": "figures/software-engineering/method/SE-084/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 48
+  },
+  "hashes": {
+    "pptx": "f82a96e043812a6d464fb82dfb22ade21b1157f26a9afbfa08969c29c807cedc",
+    "svg": "777c69e19e999245ebea93dda943f1a9ab6f4956a5e6bb8d2fdd5e7939bd49a2",
+    "preview": "23494d63d7d1852ae17b50274a187e95c69a18b1a9858821c17eae0993674c68",
+    "reference": "ed0e1d4bb5e1b912f73840d32dfac8f64eaa52fb25bbbf610a27fa596db42c02"
+  },
+  "original_local_pptx_sha256": "397e49e06099cdfe619d32ebd87f0119cf04ed54a92666f52414a1c418d2da0d",
+  "visual_payload_sha256": "955b40c53e7232fd86efe4e56121605f44fb58c77fb047148270d810075c96ad",
+  "dedup_note": "旧图已有代码流程和污点总览，本图把断开的跨方法数据流重新连接，使用两种方向和线型解释静态分析步骤，适合方法细节页。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

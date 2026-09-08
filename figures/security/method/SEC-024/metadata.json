@@ -1,0 +1,57 @@
+{
+  "id": "SEC-024",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "SyzSpec: Specification Generation for Linux Kernel Fuzzing via Under-Constrained Symbolic Execution",
+  "figure": "Figure 5",
+  "category": "方法细节",
+  "reuse_value": "用共享基础能力条和上方反馈箭头表示两个阶段的共同支撑和互相促进，适合生成-验证迭代方法。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 45,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0045",
+  "source": {
+    "paper_url": "https://www.cs.ucr.edu/~zhiyunq/pub/ccs25_syzspec.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "d32be9d34089fd8602e23f6f2ffbdd7eb3c853491b2ae7b74446791517afa8f5",
+    "pdf_page": 5,
+    "crop_bbox": [
+      118,
+      83,
+      500,
+      172
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-024/SEC-024.pptx",
+    "svg": "figures/security/method/SEC-024/SEC-024.svg",
+    "preview": "figures/security/method/SEC-024/preview.png",
+    "reference": "figures/security/method/SEC-024/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 34
+  },
+  "hashes": {
+    "pptx": "2d4ee8e06b970058cc71c0383007955c93076d5feec1572f1c06c780b62af3d5",
+    "svg": "b0d830de8d84b85836564029f465254ecd67ea85ecc674e8a1e51635d93e02b5",
+    "preview": "450e6147fb9464cbcd9c8a28602eccd2a0984b4e19a886891957cfb2505edcc6",
+    "reference": "33e987622108ec86541bd40dde5d109997c5287add8811ca7767ae5ff55553df"
+  },
+  "original_local_pptx_sha256": "b1d43d2a9f411149eb3c9571423b235b49a48f3af66afbd2683be92b7245f4a6",
+  "visual_payload_sha256": "278b0068cdde13002b903e10c8281b1c8a02057c548bc8b615de9ec5d268f97d",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

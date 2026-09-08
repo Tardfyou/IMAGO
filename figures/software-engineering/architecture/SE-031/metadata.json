@@ -1,0 +1,57 @@
+{
+  "id": "SE-031",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation",
+  "figure": "Figure 6",
+  "category": "系统架构",
+  "reuse_value": "双份执行记录包围四阶段分析，交通场景、模块依赖图和配置距离共同说明物理事件如何定位到软件配置。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 329,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 44
+  },
+  "paper_id": "PAPER-0150",
+  "source": {
+    "paper_url": "https://www.cs.purdue.edu/homes/cheng535/static/papers/ase24_rocas.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "5d1e3dc05e9b677746647258e6111e17786d790d698b18089c380250f93e7365",
+    "pdf_page": 6,
+    "crop_bbox": [
+      65,
+      84,
+      546,
+      385
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-031/SE-031.pptx",
+    "svg": "figures/software-engineering/architecture/SE-031/SE-031.svg",
+    "preview": "figures/software-engineering/architecture/SE-031/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-031/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 3
+  },
+  "hashes": {
+    "pptx": "28aede92e78aa85ff8697d3942fae4db5aa29789ae7f8d395f220de9315fdcfe",
+    "svg": "484bfd634221cc82dc3b5cb119b9901b88a75b6b8ac1e7d539a965f8e4bb85d6",
+    "preview": "79b8f8c9f13d370d6a597bd2bbb5bd6fec979a00d0df2fb40a1692a42d0a8d90",
+    "reference": "f9939df50027f87da99fb69aa7f24bb701365184296942abceb2f9bf066208d8"
+  },
+  "original_local_pptx_sha256": "cc801534e308146e7ce6ed86784ddebb501f6471c0ed768ff813812b56f62b96",
+  "visual_payload_sha256": "ffdedd7ea8ffe48a86c7286fd2751d2126772f3219413e154e4b1de48885fa3f",
+  "dedup_note": "与旧SE-009四分区训练图不同，本图把真实交通场景的物理变异、执行差分和软件配置变异串联，采用双份记录对照的外侧包围布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-047",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2025,
+  "award_name": "Best Paper",
+  "paper_title": "Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "一边展示质量和记忆率的反向时间曲线，另一边用参数量/数据量相图总结三种机制。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 273,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0209",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2505.17638",
+    "award_url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+    "pdf_sha256": "86767a6fa0129b383638a3eb82e1c97e707118290f36ff195b1cdbd69e2b776f",
+    "pdf_page": 2,
+    "crop_bbox": [
+      112,
+      74,
+      499,
+      263
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-047/AI-047.pptx",
+    "svg": "figures/ai/motivation/AI-047/AI-047.svg",
+    "preview": "figures/ai/motivation/AI-047/preview.png",
+    "reference": "figures/ai/motivation/AI-047/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 62
+  },
+  "hashes": {
+    "pptx": "004b4ebe9620bbfff7bf25d214c28d278b1f20cffc70eb82245058cd97ef0c72",
+    "svg": "47480f0949e787e876e720c5be49b8209e3ca6fb1d788e4aa390dc744dea5b8d",
+    "preview": "f3020f4b9a3df20d0c2e730f1f6476df4fb35abf61efadb715424ca4cb8f07f8",
+    "reference": "2fc3c6f0b1511ec4d2ac4b76fb40a99b457819877be9d780cf484acd24e2b50c"
+  },
+  "original_local_pptx_sha256": "3e967aeb966da2f060cdd6e99b009a43bdac6fbf2686dfa2299cf0cdf04581ae",
+  "visual_payload_sha256": "4c2f315155fb54446781486807c990e00ef57a55bb2c5486be6935637dc3b4e7",
+  "dedup_note": "旧库没有把时间尺度、机制区间与二维理论相图联合呈现的概念性结果图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

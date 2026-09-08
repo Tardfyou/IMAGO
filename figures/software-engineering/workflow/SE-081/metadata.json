@@ -1,0 +1,57 @@
+{
+  "id": "SE-081",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Understanding Developers’ Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "六个区域依次展示项目选择、PR采集、分类、开发者分位筛选、调查问卷和分析；每一步标明输入数据、人工/自动操作及样本数，最后汇到三个研究问题。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 263,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 11
+  },
+  "paper_id": "PAPER-0152",
+  "source": {
+    "paper_url": "https://andersonjso.github.io/preprints/fse24oliveira.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "ad9c52b2523abb07704b9d15c09c8ba9901ef23b4293875e1eeac1834a567f2e",
+    "pdf_page": 7,
+    "crop_bbox": [
+      49,
+      82,
+      442,
+      270
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-081/SE-081.pptx",
+    "svg": "figures/software-engineering/workflow/SE-081/SE-081.svg",
+    "preview": "figures/software-engineering/workflow/SE-081/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-081/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 97
+  },
+  "hashes": {
+    "pptx": "ba54dbca0f2332f844548517adee0703d14d4d97edc51470a7a9f2306565c425",
+    "svg": "66ed1ee3aa34c29e46ceef6efd70ffab9e3bd9165fbdaf04b785fa856356bbaf",
+    "preview": "fbe2fc8cef5b5b083b2194228b6dc4ed2dd3bfeeb6cfad102edfcefd18445a08",
+    "reference": "952e48f3ff0667f52de226c8bf96cb0d229da816841ea65a0308f7433eeaff80"
+  },
+  "original_local_pptx_sha256": "5b0e3f6fe2d7ca3a43a5749886ef2f487c92ea8cf6d7dc001b60db8f93c78241",
+  "visual_payload_sha256": "08504bd3f0575215f334b1b748daf0d1c24d1156dd0ee97986fbacf4475e5f95",
+  "dedup_note": "已有流程多是单行或双阶段。本图采用六格连续流程，显式把开发者指标筛选和问卷样本嵌到仓库研究中，可复用为混合实证研究设计。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

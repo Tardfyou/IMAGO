@@ -1,0 +1,57 @@
+{
+  "id": "SE-064",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "中间定位结果与候选补丁连接上方污点评分验证和下方位置感知生成，两条彩色区域的反馈指向不同环节。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 113,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 24
+  },
+  "paper_id": "PAPER-0090",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2512.20203",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "7d810d330dda78ccd099cf60fe0782706cf60ab5228414d1b6d6e41d6a175ba0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      330,
+      82,
+      551,
+      225
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-064/SE-064.pptx",
+    "svg": "figures/software-engineering/architecture/SE-064/SE-064.svg",
+    "preview": "figures/software-engineering/architecture/SE-064/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-064/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 26
+  },
+  "hashes": {
+    "pptx": "949914fe4c4ed3723ed74c2c0b28020c0d52d96c1296f7da11122670e1801599",
+    "svg": "30ba3be2bf1fd2e8ad2e2949b564c882f0ca5edddbbb9b1d3fa0cec20d53c2ad",
+    "preview": "b2a79a5b73cd4bc497b4f0089448c621d68df5722fcb77e5327a3ce4cbdae025",
+    "reference": "516c41e3ef292b251f2936a8a13e26ce03fbdde9ea9a38aad05a04819a7a2805"
+  },
+  "original_local_pptx_sha256": "abd1b5dff04444af0333ec8153e0eedff1ea4b1f7b9475a73d3bb11fb030d1c3",
+  "visual_payload_sha256": "d1c1a4efbffa460a30bc4de16b0aae7ffec1e312a9e52390be5c9196db2e104d",
+  "dedup_note": "与已有普通生成验证流程不同，本图把补丁搜索拆成上方排名选择和下方位置预测生成两个反馈环，并显式表现漏洞程序与PoV双输入。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

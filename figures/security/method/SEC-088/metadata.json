@@ -1,0 +1,57 @@
+{
+  "id": "SEC-088",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "真实代码节点、控制和数据依赖、source/sink菱形及编号补边步骤同图展示，可用于复杂程序分析示例。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 361,
+    "groups": 0,
+    "native_text_runs": 101,
+    "images": 2
+  },
+  "paper_id": "PAPER-0073",
+  "source": {
+    "paper_url": "https://trouge.net/papers/sp24_request_hijacking.pdf",
+    "award_url": "https://www.ieee-security.org/TC/SP2024/awards.html",
+    "pdf_sha256": "d8960378b9caa7e29fae25e1fe5394ef8411abaac8f8c6060f4119a9ce203470",
+    "pdf_page": 17,
+    "crop_bbox": [
+      59,
+      103,
+      546,
+      298
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-088/SEC-088.pptx",
+    "svg": "figures/security/method/SEC-088/SEC-088.svg",
+    "preview": "figures/security/method/SEC-088/preview.png",
+    "reference": "figures/security/method/SEC-088/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 50
+  },
+  "hashes": {
+    "pptx": "6180ca32f6b6902cec0058c8a43ca7114aad5870ff18c69eed8b623b038f0bf9",
+    "svg": "cc2c1f3f059e17ab29c10a11256c3396510017af6c48564445583aa110285da5",
+    "preview": "02da8b47ab82872896363d34b766f51785821c03ae0466f4953b72fece151802",
+    "reference": "a6fd0e1d01d0897138fb808c02580ad4d70d0de40a23b8e77a57b7352ce45a6e"
+  },
+  "original_local_pptx_sha256": "c698857ed0496eb509ddc839c4cdf5d1520bb40f8f443f67285cc226311b8cf1",
+  "visual_payload_sha256": "40dd3ebf9784385a0950a82f7fbd57d0a2147162746b055e38dc1081ae630575",
+  "dedup_note": "同论文总架构以阶段组织，本图是可复用的具体图语义和缺边恢复案例；与SEC073的FSM状态转移不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-066",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Do not neglect what’s on your hands: localizing software faults with exception trigger stream",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "失败测试被转化为通过的参照测试，两路异常触发流比较出分叉点并投票，最后与上方谱排名结果结合；交错粗箭头与四个阶段条使两条证据路线清楚。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 77,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 13
+  },
+  "paper_id": "PAPER-0136",
+  "source": {
+    "paper_url": "https://qixin5.github.io/files/pdf/research/ase24localizing.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "645d0d82ac6d07ea9191539d41a7f02dd7ec14736b4b4e4d01586f6f14cf7e34",
+    "pdf_page": 5,
+    "crop_bbox": [
+      80,
+      82,
+      528,
+      218
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-066/SE-066.pptx",
+    "svg": "figures/software-engineering/architecture/SE-066/SE-066.svg",
+    "preview": "figures/software-engineering/architecture/SE-066/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-066/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 28
+  },
+  "hashes": {
+    "pptx": "78f64e15cb1ed74d3727cdba6d815e0cc95fd6d814db1bf1ef79de611fe88d79",
+    "svg": "5bc6a5de6cc2ef66f6b78659587de36589991e633b3b2f78ba2a93c9ec83a656",
+    "preview": "f731eeff1ea830defb099145002bfa5023ba4fbf1e16cfe174814dfeca09743b",
+    "reference": "64de67e6562ddd6f7b238086c6113fdc3897c99d4d78198641695223ea7c56bd"
+  },
+  "original_local_pptx_sha256": "ade6a60140f187dd0ef5ac80022c0044074c7cd6c60bea6809e97f43dd0c47ce",
+  "visual_payload_sha256": "ceeab4516645665a1cac370ee3c8c9c55afd604b3e4add9e275c31685bc89d58",
+  "dedup_note": "旧修复和检测图主要输出补丁或报警；本图呈现失败/通过执行轨迹的分歧点如何与既有排名融合，增加双证据排序的可复用构图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

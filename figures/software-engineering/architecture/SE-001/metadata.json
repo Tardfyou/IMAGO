@@ -1,0 +1,57 @@
+{
+  "id": "SE-001",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Demystifying LLM-based Software Engineering Agents",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "三阶段闭环架构：用三色分区、编号动作与材料流表达定位、修复、验证；适合复杂 Agent 工作流。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 522,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 107
+  },
+  "paper_id": "PAPER-0098",
+  "source": {
+    "paper_url": "https://lingming.cs.illinois.edu/publications/fse2025.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "e780f7ccaa72815c259b3d3810e467eb9abe02f804010eded52b4babda121301",
+    "pdf_page": 6,
+    "crop_bbox": [
+      48,
+      82,
+      444,
+      285
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-001/SE-001.pptx",
+    "svg": "figures/software-engineering/architecture/SE-001/SE-001.svg",
+    "preview": "figures/software-engineering/architecture/SE-001/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-001/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 2
+  },
+  "hashes": {
+    "pptx": "2e75173a13f5f8e9e33180a5e10bf3d4dc616937eec121c6b914a50511208ec0",
+    "svg": "e49d4a207241afc4e2b148235ebe1f1c0383184f07e9fc012eb6b37ace807e3b",
+    "preview": "0c871938420fbdb08fb5bf3ea053a1f935c7dbcb570692727129d2f38af906e2",
+    "reference": "7b6b71e869be334b2d830b2153c2a8e5f4dbd31e3cd2cb5bb4fcf7d399ac1fe8"
+  },
+  "original_local_pptx_sha256": "b4dba2e8ba85eccd51297fc5be41f40c89e2871f1288aad2a9023d315d4f97ef",
+  "visual_payload_sha256": "143dc44a2e1e4036314cf859f49449e8b081a2d5a97ae3e031d49cdc4d5f3dd3",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

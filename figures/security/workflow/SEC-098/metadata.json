@@ -1,0 +1,57 @@
+{
+  "id": "SEC-098",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNSSEC",
+  "figure": "Figure 10",
+  "category": "研究流程",
+  "reuse_value": "上方披露节点与下方补丁/绕过迭代对应，失败叉号和攻击名称明确定位每次修复进程。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 66,
+    "groups": 0,
+    "native_text_runs": 42,
+    "images": 0
+  },
+  "paper_id": "PAPER-0074",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2406.03133",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "c2ae11bf2b2bf42bf46a10b94a0fa28f1050c82158ef417055cdaee95337cace",
+    "pdf_page": 12,
+    "crop_bbox": [
+      56,
+      87,
+      293,
+      210
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-098/SEC-098.pptx",
+    "svg": "figures/security/workflow/SEC-098/SEC-098.svg",
+    "preview": "figures/security/workflow/SEC-098/preview.png",
+    "reference": "figures/security/workflow/SEC-098/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 100
+  },
+  "hashes": {
+    "pptx": "92eb282ca75b96ae14ee216d878101ac874dc97d6c691e5ff0bff2610509e590",
+    "svg": "309de839d35b0baa36dcb52ead20d9127494b08f8d1fddc9f13c89299208c86b",
+    "preview": "b3ac8c75571a19d283bb38a4897ada472798badd5348eaaf48d03a441500a576",
+    "reference": "17fa7b415470094cdfd7e8ede2ebac0c613b7ebb2d0d6be3d2d769d5c245a9c2"
+  },
+  "original_local_pptx_sha256": "7816a722456d19b9689c9bc245035f5298a27734d0e8300dd0696092619e97cf",
+  "visual_payload_sha256": "d0c02a751ac0fd49b934b2518f90d5089320afdf5f02a5830844de5c4c6582e8",
+  "dedup_note": "新增漏洞披露和修复迭代过程双轨时间线；区别于APT事件分类与线性实验流程。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-084",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Best Paper – AI for Social Impact Track",
+  "paper_title": "PlantTraitNet: An Uncertainty-Aware Multimodal Framework for Global-Scale Plant Trait Inference from Citizen Science Data",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "中心分类树连接四圈性状误差柱，颜色对应分类目，既比较多个任务又保留类别层级。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1336,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0176",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/41272",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "fcd3acd50454846d99abfe2b052030798cdfc772fb30fc708a0f4fb9593f9fd2",
+    "pdf_page": 7,
+    "crop_bbox": [
+      116,
+      52,
+      555,
+      359
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-084/AI-084.pptx",
+    "svg": "figures/ai/experiments/AI-084/AI-084.svg",
+    "preview": "figures/ai/experiments/AI-084/preview.png",
+    "reference": "figures/ai/experiments/AI-084/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 86
+  },
+  "hashes": {
+    "pptx": "46c92466fa46193860238e2ec48446abee388c520a2bbdea2bdeb37b5b2e0ab0",
+    "svg": "d2a4e0b55bada36a45fa104e3093f22183a20d729fb2fb1de2e5856836072ded",
+    "preview": "8eaf2d9b2b3340fa286b5f5da982714da7e44261bef3a83d889f8a9bda7c6bd6",
+    "reference": "72ed8de6e73bf533a9bad6a5eae3956582dd2f0d146144f666f8de8de9b28d0b"
+  },
+  "original_local_pptx_sha256": "0012ec002b130fbb67048c2189e316f8c3085b27a8dc001034dab297054a33d4",
+  "visual_payload_sha256": "fb9330c6fa5682e5974cb5088d4985aaaf8a5556ca473a9b88f87dd4b8e13423",
+  "dedup_note": "区别旧AI009单圈柱图与AI052普通树，本图将层级树和四层径向量化指标统一在一个坐标中。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

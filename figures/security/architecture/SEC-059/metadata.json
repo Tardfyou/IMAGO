@@ -1,0 +1,57 @@
+{
+  "id": "SEC-059",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Auditing Apple’s DifferentialPrivacy.framework: Implementation Bugs, Misconfigurations, and Practical Risks",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "应用/共享库、配置、守护进程、周期任务、隐私账本及输出报告形成多类对象协作图，颜色和文件样例强化层次。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 59,
+    "groups": 0,
+    "native_text_runs": 24,
+    "images": 8
+  },
+  "paper_id": "PAPER-0001",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2605.21378",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "a6fc24b885fb126c9e9470b8640b0a6beb97e6bcd20ff840edee9cf6e2013710",
+    "pdf_page": 4,
+    "crop_bbox": [
+      52,
+      69,
+      299,
+      274
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-059/SEC-059.pptx",
+    "svg": "figures/security/architecture/SEC-059/SEC-059.svg",
+    "preview": "figures/security/architecture/SEC-059/preview.png",
+    "reference": "figures/security/architecture/SEC-059/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 18
+  },
+  "hashes": {
+    "pptx": "15d73f473475a90c6f268eb462cc717d746924ffb77c2b33ea51dcce016f8ba1",
+    "svg": "e88500f622c2f1bd1e05b6ffda9dad6fb3af0708cd12465e0e5a87c2a86970ed",
+    "preview": "776c70ed3bfc2577ff1defbc45f26739eaf6e53cfc9ef081de1553a411751690",
+    "reference": "f418c7c9f4c2daf188adcf118ab38814cc13ffebb6d4dccb973f0aaf396e2a33"
+  },
+  "original_local_pptx_sha256": "fe6f76930db80ce2ce6b8f3003e3178687ccbcf0c73968f2a49ec0c0ab62e349",
+  "visual_payload_sha256": "b0df7eb2ed118aed1db58da6718c3c8e93b0698356672826cdccccec46c56301",
+  "dedup_note": "新增周期维护任务和隐私预算账本参与的操作系统服务关系；区别于单一检测流水线。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

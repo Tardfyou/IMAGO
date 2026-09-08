@@ -1,0 +1,57 @@
+{
+  "id": "SE-095",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction",
+  "figure": "Figure 6",
+  "category": "方法细节",
+  "reuse_value": "用火焰/雪花和颜色区别可训练token、最后编码层和冻结层，附带重采样/扰动的数据增强、长度标签及回归损失。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 156,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0083",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2504.03702",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "ccd1e0f651a04f924da6f09e5f1219e6189e93a0ad2d5cfcfdfd6501b7c15df0",
+    "pdf_page": 6,
+    "crop_bbox": [
+      313,
+      82,
+      563,
+      218
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-095/SE-095.pptx",
+    "svg": "figures/software-engineering/method/SE-095/SE-095.svg",
+    "preview": "figures/software-engineering/method/SE-095/preview.png",
+    "reference": "figures/software-engineering/method/SE-095/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 52
+  },
+  "hashes": {
+    "pptx": "18471ee2af8f2d0ec278f8e2b2a3f2b5db2fd034b6f968be9e92d6d572a6e1e0",
+    "svg": "6e54ee783be6b452978b46b87b1700eaebc5908707fe850cb84301db69709348",
+    "preview": "c41f5cf67770a54d5c73efe4ff92a8af3f893ab2e08e4b0a7663e6d282417401",
+    "reference": "e489585d695defc1b891e51b840ba4643f81dba3cbd6f2c4e1b5a36346d7823b"
+  },
+  "original_local_pptx_sha256": "3f9a37bcd92d13a8dd7d7591b18f64ae5af6aa8206c1e41011d774b28a39407a",
+  "visual_payload_sha256": "ae190bb772df48667f6dc29cad2562bd0eb1003891e12b2a9c15d19e7fc7a4a1",
+  "dedup_note": "同论文SE012是LMaaS管理系统总览，SE022是路由策略的token/显存/延迟热图对照。本图展开请求级预测器的prompt tuning与监督训练，属于独立粒度的神经结构，可直接借鉴冻结/训练组件的表达。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

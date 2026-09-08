@@ -1,0 +1,57 @@
+{
+  "id": "AI-078",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "通过基因表达VAE和条件分子VAE连接生物表型与结构生成，分层标记训练与推理阶段。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 317,
+    "groups": 0,
+    "native_text_runs": 38,
+    "images": 7
+  },
+  "paper_id": "PAPER-0222",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29248",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "3a0ed4a83cf11d4709c2b0d55b250a5fa9a4028d86e9004c693df2a52fbc7ca3",
+    "pdf_page": 3,
+    "crop_bbox": [
+      59,
+      55,
+      555,
+      318
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-078/AI-078.pptx",
+    "svg": "figures/ai/architecture/AI-078/AI-078.svg",
+    "preview": "figures/ai/architecture/AI-078/preview.png",
+    "reference": "figures/ai/architecture/AI-078/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 22
+  },
+  "hashes": {
+    "pptx": "5efe67624df4ee3c49ec143d81c3e3e05b64f6caf2930017802408d01dba83a8",
+    "svg": "561f07780e32122fff6a01075b0a0f69df3b12c692c89f9f01489c0b923c3975",
+    "preview": "4e668abe91e0c07b56f1510992afd586d0c6b469d7b337026e33fa8fc19e8323",
+    "reference": "da4bc1f3a413f981ce982cecd8cd7490deb16dbb3332905677b290d7c5731610"
+  },
+  "original_local_pptx_sha256": "b513c86aa59f89ff43eec29eda5654ca5f98e67cfc87352382922643f7822e03",
+  "visual_payload_sha256": "524d9c5b830db5be37477dc597642b273aee9e70fd485cba743857466e84501a",
+  "dedup_note": "区别已有通用多模态图，本图以表达条带、化学结构和潜在流形组织跨科学对象的条件生成。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

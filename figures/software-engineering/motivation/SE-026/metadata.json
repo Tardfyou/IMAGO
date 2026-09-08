@@ -1,0 +1,57 @@
+{
+  "id": "SE-026",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "以用户为轴对照关键词检索和RAG问答；编号路径明确哪些工作由人做、哪些由系统完成。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 67,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0103",
+  "source": {
+    "paper_url": "https://jun-jie-huang.github.io/assets/papers/ase25_iknow.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "e683820406c037295a473b3144245b50f664bde61db6976ecf6be0349506e4fa",
+    "pdf_page": 1,
+    "crop_bbox": [
+      334,
+      193,
+      537,
+      303
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-026/SE-026.pptx",
+    "svg": "figures/software-engineering/motivation/SE-026/SE-026.svg",
+    "preview": "figures/software-engineering/motivation/SE-026/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-026/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 58
+  },
+  "hashes": {
+    "pptx": "9f4b2a95a859e0ebe5e050c5042d97fed44f4337535e96a1c2e3b7a0ec3dc453",
+    "svg": "3f5bc9a0fa77491c3c3e340b5285ade56438e4af0eb03df1835b327cf4b8c5a9",
+    "preview": "9c87783f70cc7c7849cac311f18df8e024548534623d2b601db7e59eebac0344",
+    "reference": "aa333136ba65be043b76b3a82e7de229f94c0249d2c4fc7b328e1176e5f54684"
+  },
+  "original_local_pptx_sha256": "2ff153622679bf1f9756011bb8fdbea4d75737045628f846d2820a61f98f9f3b",
+  "visual_payload_sha256": "9cbb6e9c545541e648beaa5a160c4d3061aaf0692558d26915a366ed5bd7ab8b",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

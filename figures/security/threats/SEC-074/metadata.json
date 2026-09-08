@@ -1,0 +1,57 @@
+{
+  "id": "SEC-074",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Adversarial Illusions in Multi-Modal Embeddings",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "叠置多条ML流水线与公共编码器、嵌入条、三类下游任务相连，灰区表示攻击时不可见部分，清楚展示跨任务风险。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 102,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0049",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-zhang-tingwei.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-tingwei",
+    "pdf_sha256": "b2c57859840ebc5ff321753af4ce2ff1536e8831883354d33590269166a310fa",
+    "pdf_page": 2,
+    "crop_bbox": [
+      320,
+      252,
+      559,
+      431
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-074/SEC-074.pptx",
+    "svg": "figures/security/threats/SEC-074/SEC-074.svg",
+    "preview": "figures/security/threats/SEC-074/preview.png",
+    "reference": "figures/security/threats/SEC-074/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 73
+  },
+  "hashes": {
+    "pptx": "27e74e3671f95196eb352c3b9db48ef19f5af28496a05535f5450ca971c096ab",
+    "svg": "167b8098034d96c58655bc50a153eb5305da5fb03148387c3ebd7ba0f41fa751",
+    "preview": "4a51fc2c824fa4a57f96d65fc0a60afcfd5e6f51841ed8cb097ba88880ab02f2",
+    "reference": "0231b17ce6b87506e819f4c03a3c9cf341b6037094766d3f3a3ddffee1c8f20a"
+  },
+  "original_local_pptx_sha256": "4788476ca7154a4f86a5e4929d737a9cf4439649ab2278cd44aaf28ae3e6ea7f",
+  "visual_payload_sha256": "122696a5971b264e6cc619e6658570ff648097c0b30403a98c3b60c89cf8d177",
+  "dedup_note": "新增共享表示导致未知下游跨任务影响的叠层扇出图；区别于单一模型训练后门或输入输出攻击。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-073",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "准备、上下文增强、提交识别三个区中嵌入提示卡片、代码上下文筛选和能力检查，右侧根据检查结果选择增强识别或排名策略。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 151,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 23
+  },
+  "paper_id": "PAPER-0105",
+  "source": {
+    "paper_url": "https://baolingfeng.github.io/papers/ISSTA2025_SZZ.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "d18e2a4eed7d8f2f074c65ae6a0d9f9c0e22627d0d82db5d6336b028642442f2",
+    "pdf_page": 7,
+    "crop_bbox": [
+      103,
+      76,
+      377,
+      214
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-073/SE-073.pptx",
+    "svg": "figures/software-engineering/architecture/SE-073/SE-073.svg",
+    "preview": "figures/software-engineering/architecture/SE-073/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-073/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 30
+  },
+  "hashes": {
+    "pptx": "8e20c027afaba56e14c67a94ab3781b02feaf5c7525ac32a8c970a7bd09040ec",
+    "svg": "c8f3179f6ed1d545c59a49c139d904c6d5e58dce4da1893fc4e2391ead5d2694",
+    "preview": "afebd0b7baec13b15729bd905b9edf6aaffce3e42a60afb23e7b7cbd32ad126f",
+    "reference": "ef0b5aae9b4e98dadf17ac75f9acc6be1e2d635c6a1c0253c35735a3e2e0b88f"
+  },
+  "original_local_pptx_sha256": "1c327a6fb49c7526eb2b7046f30234ae880cb39d8a8c1e787afad7f8c2cf9492",
+  "visual_payload_sha256": "bad4ebeb37961d73e00c0be286d38254b88a277a113ea084d1d92faabe555848",
+  "dedup_note": "与直接调用RAG生成不同，本图将对模型能力的检查显式放在分流点，并展开提示、根因、相关文件和上下文如何共同形成选择依据。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

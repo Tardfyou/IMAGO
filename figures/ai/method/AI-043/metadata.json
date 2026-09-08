@@ -1,0 +1,57 @@
+{
+  "id": "AI-043",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2025,
+  "award_name": "Best Student Paper",
+  "paper_title": "Neural Inverse Rendering from Propagating Light",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "物理场景光路、局部射线示意和两层渲染方程波形并置，把空间机制与数学模型联结。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 778,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0203",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Malik_Neural_Inverse_Rendering_from_Propagating_Light_CVPR_2025_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "9cc4293b6d8ef91daecde5a749b932165e1c23d9863375044a05f6b3c8088cb0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      49,
+      61,
+      546,
+      245
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-043/AI-043.pptx",
+    "svg": "figures/ai/method/AI-043/AI-043.svg",
+    "preview": "figures/ai/method/AI-043/preview.png",
+    "reference": "figures/ai/method/AI-043/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 43
+  },
+  "hashes": {
+    "pptx": "2041e94cb20424abc51a08ae328ecc4fe4b8d9e2482275fec08afd8f58399a59",
+    "svg": "13f4691ddce76c7310bfd7667abb3bbbb30c32f149716ec23ff4f2b207d37f4e",
+    "preview": "b2374f7080d3c5e4123355e52f39592a740e4a438dd045e3041f66f62b4da01f",
+    "reference": "11903045a54a88bb4c496a7552ca75747815e0d83d558d4c74402ec91244a143"
+  },
+  "original_local_pptx_sha256": "06feafe289e68779eecd592af04bce4919a8e1c9f3687a3ff0d70742e7f8e454",
+  "visual_payload_sha256": "42b8bd5ec76eea546de5a90b6975c275baa5fc653a3a401a9431ba0397046998",
+  "dedup_note": "旧库没有光路几何和辐射缓存方程的分区联动，适合物理机器学习方法示意。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

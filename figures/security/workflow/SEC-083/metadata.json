@@ -1,0 +1,57 @@
+{
+  "id": "SEC-083",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Sliding into the Flight Deck's DMs: Practical Message Attacks on CPDLC",
+  "figure": "Figure 10",
+  "category": "研究流程",
+  "reuse_value": "左侧真实实验硬件照片与右侧真实环境、桌面驾驶舱、隔离测试环境三分区对照；红蓝线区分测试与真实消息。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 105,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 9
+  },
+  "paper_id": "PAPER-0020",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-ziazi.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/ziazi",
+    "pdf_sha256": "1e775e3f44e70c3589c9b998eff71faa341cc7c6b1fd0ee4820f59b89f66e651",
+    "pdf_page": 10,
+    "crop_bbox": [
+      76,
+      72,
+      551,
+      221
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-083/SEC-083.pptx",
+    "svg": "figures/security/workflow/SEC-083/SEC-083.svg",
+    "preview": "figures/security/workflow/SEC-083/preview.png",
+    "reference": "figures/security/workflow/SEC-083/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 99
+  },
+  "hashes": {
+    "pptx": "11cfbceaadecc5c892de8ef7e32ceb41508847a6909d55740764ca5c798d5aa0",
+    "svg": "0c3d7ba3384c6969496adfef875207633b699aee1c6d52f3831492ed5bdf993f",
+    "preview": "5b43bf23cee15e924ea9945b932cd5e11ee595b7e09702723f6e9aeca7542713",
+    "reference": "4d91197b6b66b312755847babee4f3faf8204d177288c91e0ccc573651b0faaf"
+  },
+  "original_local_pptx_sha256": "c291b5a7b4de3f6fb154f5954844f934d684d18d7b4b5bb0392736167f63dc7b",
+  "visual_payload_sha256": "e5fe013df1d8a3747616708f57e7074848f2548831c11a2406ca54e2adc8a294",
+  "dedup_note": "此前缺少实物与逻辑环境并排映射、同时标记射频隔离和真实消息路径的验证环境素材。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

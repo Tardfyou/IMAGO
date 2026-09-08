@@ -1,0 +1,57 @@
+{
+  "id": "AI-017",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Paper",
+  "paper_title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "将压缩、选择、滑窗三条并行路径和对应稀疏掩码配对，方法与计算区域一一对应。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 932,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0202",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1126/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "63200b0e4ae73018c7b23968f4fffb0e6145d4fc4f61c0f36e3fe044957d1a39",
+    "pdf_page": 3,
+    "crop_bbox": [
+      69,
+      70,
+      527,
+      202
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-017/AI-017.pptx",
+    "svg": "figures/ai/architecture/AI-017/AI-017.svg",
+    "preview": "figures/ai/architecture/AI-017/preview.png",
+    "reference": "figures/ai/architecture/AI-017/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 8
+  },
+  "hashes": {
+    "pptx": "057bc48971ee524d5e3c54f8a18d847e108023605d3ac718f3aab65e565914df",
+    "svg": "78f9c78c7ec72c9073448285ef9c3be55124d286ed756caedb64f359c6e8b5d4",
+    "preview": "c96cdcfd206ea643abb0a03e69767749a83a47fd1eb5a8ba3f648483743c48c2",
+    "reference": "837b4477b6619b121132a7c3528adf28ae25609830d9c3c22e8efe572d669b3d"
+  },
+  "original_local_pptx_sha256": "ab1e57f413315df4197823c3846879de6cdc8aacc7934246a7447f96f9354cb0",
+  "visual_payload_sha256": "1b525c010cdea7d340c0a3092847f7307b3d894feb59e50083d0303c4474f187",
+  "dedup_note": "相较旧AI012单一门控位置图，这张以三路稀疏操作和右侧掩码结构解释选择机制，具有新的表达用途。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

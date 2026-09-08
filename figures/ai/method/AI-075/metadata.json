@@ -1,0 +1,57 @@
+{
+  "id": "AI-075",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Theme Paper",
+  "paper_title": "Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "十二个扇区配合正负极性弧和角度标尺，再用具体情绪对说明距离由极性与角距组成。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 58,
+    "groups": 0,
+    "native_text_runs": 34,
+    "images": 0
+  },
+  "paper_id": "PAPER-0171",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.772/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "a03317e980bfda4ab0278eb4944f677393c470ee4fc9428a76cbf5109180092c",
+    "pdf_page": 4,
+    "crop_bbox": [
+      70,
+      70,
+      292,
+      222.8
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-075/AI-075.pptx",
+    "svg": "figures/ai/method/AI-075/AI-075.svg",
+    "preview": "figures/ai/method/AI-075/preview.png",
+    "reference": "figures/ai/method/AI-075/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 53
+  },
+  "hashes": {
+    "pptx": "2d1268fb2d6d9d0965b519678bf27faa7fdc398f949904674f8026b19aded876",
+    "svg": "f5513b89277032d5329a7280cbc5ea174a4dcef3d1f42d1f4db0227961930f2c",
+    "preview": "701199113c6c1f75c985ad10b3d8a453477094466d054a1ac70daad94bba86dd",
+    "reference": "74ee3f316db8ba5567084882cd830fe652f741d661e8c2d96fbea707458e175d"
+  },
+  "original_local_pptx_sha256": "c82e07b60ad4e012f0df2d13bdfd1162c9885e6a43d9c734c8bc3681fc3bb4ce",
+  "visual_payload_sha256": "6eaca1ca43543323274b2b199c6d10093de68522603b5bc918ce14a83e0b6739",
+  "dedup_note": "区别同论文实验总览，新增将类别语义编码成环形几何并给出可计算距离的紧凑解释图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

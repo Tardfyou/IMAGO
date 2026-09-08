@@ -1,0 +1,57 @@
+{
+  "id": "SEC-047",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies",
+  "figure": "Figure 6",
+  "category": "方法细节",
+  "reuse_value": "纵向三层展示策略生成数据、双模型差分、权重空间加减及替代示例，图像证据与代数操作共同表达方法。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 129,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 36
+  },
+  "paper_id": "PAPER-0065",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2408.07728v2",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "7375b73b4d32029894b48bd40a13cd8cded4b3eded4a99b104b878fe188ea4e9",
+    "pdf_page": 7,
+    "crop_bbox": [
+      316,
+      82,
+      560,
+      342
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-047/SEC-047.pptx",
+    "svg": "figures/security/method/SEC-047/SEC-047.svg",
+    "preview": "figures/security/method/SEC-047/preview.png",
+    "reference": "figures/security/method/SEC-047/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 39
+  },
+  "hashes": {
+    "pptx": "4daeb4d1d973d8d66fc441c7bf332009f91f727c1328ecbdd0022f2e1862a00a",
+    "svg": "cc5dde620f10a167e4c8d057a6d32b2b13cc5d66bec86d6b7786c3683d3e75b4",
+    "preview": "76471de928aad5c98c3f480030c6c2540e7347ff5cba7f3383d964814691df32",
+    "reference": "2e7492ac821cde6b3e455dd4ba4e9c4a13a05b0d0dcc65724b9d56a4af617136"
+  },
+  "original_local_pptx_sha256": "859425f1010ef155ae00fadf0147415708e0d4479c17129b650deed573d5df53",
+  "visual_payload_sha256": "fed226d417c2f7b6a7dc04ec1f454a26b4b226771190b76c9fb5605876c0800b",
+  "dedup_note": "区别于已有LLM训练推理图，此图保留左右双任务向量与最终模型加减，适合模型编辑、合并及精细策略控制。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

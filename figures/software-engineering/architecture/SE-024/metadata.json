@@ -1,0 +1,57 @@
+{
+  "id": "SE-024",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "LogMoE: Lightweight Expert Mixture for Cross-System Log Anomaly Detection",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "训练阶段四列流水线连接异构系统、独立专家、适应性门控与双分支目标；下方独立推理泳道复用专家机制，适合多源迁移、专家混合和零样本部署系统。",
+  "editability": "原生文字与形状",
+  "limitations": "原生重绘保持主要布局、标签与关系；细小字体/图标造型和曲线轮廓存在轻微差异。SE-009仅原机器人/点赞艺术图作为独立小图保留，SE-010/023/024为零图片PPT。",
+  "object_counts": {
+    "shapes": 280,
+    "groups": 0,
+    "native_text_runs": 83,
+    "images": 0
+  },
+  "paper_id": "PAPER-0106",
+  "source": {
+    "paper_url": "https://doi.org/10.1109/ASE63991.2025.00035",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "dc4e9e55655aa9d61ed6256f9c6690f2ea182985cf9b93910a23046d05cbc6d7",
+    "pdf_page": 4,
+    "crop_bbox": [
+      60,
+      68,
+      543,
+      291
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-024/SE-024.pptx",
+    "svg": "figures/software-engineering/architecture/SE-024/SE-024.svg",
+    "preview": "figures/software-engineering/architecture/SE-024/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-024/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 21
+  },
+  "hashes": {
+    "pptx": "848f32d0d7e712459b5f22518a35b48e1ff7928c65f176db1f606a5abacbf923",
+    "svg": "233b4293916b987f7c1ddb47080fbcf152c6679d0639e9a952ae26f1c7ec75df",
+    "preview": "f86626c610420d3de7eadc7b49286ca4de2f00160856f81aabd3a6163376c99b",
+    "reference": "dbef7223c6eb87fcf4a7be263ed33285d779f3e65ddd08a58d6c8a667046d024"
+  },
+  "original_local_pptx_sha256": "b50ddbec801beb8920227b3718c28df522557321906f23751792b82a9bebd55e",
+  "visual_payload_sha256": "ea4639ec1c2301c7e43756481c538c145144cb5f2887697d954bb35af8eb382b",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-077",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "按硬件/ISA/OS/共享库/ML框架/应用分层，同时用侧边分类条与纵向箭头表明影响传播路径。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 135,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 23
+  },
+  "paper_id": "PAPER-0078",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-li-shaofeng.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+    "pdf_sha256": "10a30f4a4a60249404e4e387aabc4ab0f8abc4ba61d51d78bb7a728b22c45147",
+    "pdf_page": 3,
+    "crop_bbox": [
+      84,
+      71,
+      264,
+      223
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-077/SEC-077.pptx",
+    "svg": "figures/security/threats/SEC-077/SEC-077.svg",
+    "preview": "figures/security/threats/SEC-077/preview.png",
+    "reference": "figures/security/threats/SEC-077/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 74
+  },
+  "hashes": {
+    "pptx": "7d617101dae5494495ebdc433ad965c54a0398b6c659ccc597569fe89e505b23",
+    "svg": "cb756dd43132fdddc9f3c77fa5459f8ac39251b6e70dc6a9398c2ef5392f906b",
+    "preview": "2bf02ba912b845fcb754a86df1e3d6badc36497025f4e928856cd8c8567b8b54",
+    "reference": "b71a3e98553aad5f6e88297c9c62e58bd9ff58f3ef1584ffc9a9adaa72851c5c"
+  },
+  "original_local_pptx_sha256": "0cdb5d3db9b43a4c007360796aa0b451b0fbc892914beae05227f2ee87f462f4",
+  "visual_payload_sha256": "529f35b8f730e021a04c4e0abe07b0c4227a26667f186e45d22fe66f98361ef3",
+  "dedup_note": "相较Blindfold权限层，此图新增硬件故障沿共享计算栈向多种AI框架传播的路径，强调实现栈与攻击层级。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

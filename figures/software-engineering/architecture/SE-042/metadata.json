@@ -1,0 +1,57 @@
+{
+  "id": "SE-042",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Does GenAI Make Usability Testing Obsolete?",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "两大包内通过组合、接口实现和成员属性展示GUI、提示生成、模型调用与图像压缩的可替换结构。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 113,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0099",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2411.00634",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "68e7062bfc12c09e613d79243752319743494ba399c9ec1baf754fa9b4b03222",
+    "pdf_page": 3,
+    "crop_bbox": [
+      54,
+      52,
+      295,
+      325
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-042/SE-042.pptx",
+    "svg": "figures/software-engineering/architecture/SE-042/SE-042.svg",
+    "preview": "figures/software-engineering/architecture/SE-042/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-042/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 12
+  },
+  "hashes": {
+    "pptx": "3e71192fb0155fad67ad7fabf18d1f7eb2efcf511305bccceae106c7f7d98940",
+    "svg": "300a8e9e79e66b3784d1b6e8fe6dd0df3071f4d9b9a3b6a019a545cce2f3a2ee",
+    "preview": "2a767319b9b8a99ad6831cf0579fc405ac504dbbe35508eb0fa6b58bfe97140b",
+    "reference": "5b94bf0414311ecfc30ec153df74f9677a00cb5d36e0e721c56ebee559423e8a"
+  },
+  "original_local_pptx_sha256": "f91c75e2c4a2f975df8e8d12430e6f734064e09890644d19e4fc63b92396bb07",
+  "visual_payload_sha256": "83570f7f362eb1fdf5b8268b17fb926b4756ca22b7ccefdbf73944e911d7efeb",
+  "dedup_note": "旧库没有包含成员签名、接口继承及包边界的UML类图。与本批性能组件图不同，这里表达静态对象设计与可替换实现。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

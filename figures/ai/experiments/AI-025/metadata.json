@@ -1,0 +1,57 @@
+{
+  "id": "AI-025",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "上排显示不同深度模型的训练成本，下排以相关关系连接验证损失与人类/自动质量指标。",
+  "editability": "原生文字与形状",
+  "limitations": "八个面板的坐标、图例、标注、曲线、散点均为原生对象。曲线及散点几何按论文位图描摹，未恢复原始实验数据；重叠散点保留可见轮廓，Arial替代源字体，曲线位置、重叠点和字体存在视觉近似。",
+  "object_counts": {
+    "shapes": 707,
+    "groups": 0,
+    "native_text_runs": 120,
+    "images": 0
+  },
+  "paper_id": "PAPER-0232",
+  "source": {
+    "paper_url": "https://proceedings.mlr.press/v235/esser24a.html",
+    "award_url": "https://icml.cc/virtual/2024/awards_detail",
+    "pdf_sha256": "e3db32f3c0630f6d137f0867802b7ae13b1508e329ae89f11e401010a6021ffe",
+    "pdf_page": 8,
+    "crop_bbox": [
+      54,
+      64,
+      536,
+      241
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-025/AI-025.pptx",
+    "svg": "figures/ai/experiments/AI-025/AI-025.svg",
+    "preview": "figures/ai/experiments/AI-025/preview.png",
+    "reference": "figures/ai/experiments/AI-025/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 74
+  },
+  "hashes": {
+    "pptx": "714ebb6727e2a9537a0b9ff826b39528649ff4ffae1095b707f96fcd172508a3",
+    "svg": "aa0af52762067ec933387782b89b9b6dc12b2eb708f4cd35491fb7621f498d5a",
+    "preview": "a4398619158e5fb0dfd189c4f747acfc49dbbb177d2b320c4a922fc3ed1c92ee",
+    "reference": "25eedf7dd613596e19e61c974ac3785b0a3300a9515528b14fdd0639352dcf92"
+  },
+  "original_local_pptx_sha256": "789a15b163019e785451c15554075023429f13cdaa2de7cf6818dfcf5ee2e79b",
+  "visual_payload_sha256": "97effebcc4cebd153e27ab88384e0c69e627d66e3f8d2d45a96c6a3bb0b5e065",
+  "dedup_note": "旧AI009是放射汇总，AI012是结构+柱图；这张以共享色系对照训练规模和质量相关性，提供新的多图证据组织形式。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-075",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Data Coverage for Guided Fuzzing",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "左侧真实代码和运行时观测，中间访问抽象与新颖性检测，右侧地址/位数组共同串成完整闭环。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 421,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0052",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-wang-mingzhe.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-mingzhe",
+    "pdf_sha256": "ab0d889168fd8708232154c08996c5370412498220545bd6d78a88dcc3b25e7b",
+    "pdf_page": 6,
+    "crop_bbox": [
+      68,
+      70,
+      544,
+      205
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-075/SEC-075.pptx",
+    "svg": "figures/security/method/SEC-075/SEC-075.svg",
+    "preview": "figures/security/method/SEC-075/preview.png",
+    "reference": "figures/security/method/SEC-075/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 47
+  },
+  "hashes": {
+    "pptx": "240f1de7e05bccf36c50caed4206f8e01bfaea30e2108346de1b99d3008d502e",
+    "svg": "daf1501a6de3a2b46d437f0005c6d98bf78b993101ca7c99fa6f51066927b728",
+    "preview": "2577ad0c4592601cf2df468e3e42a3cea22cd63bac1708fc62f47691decbf0cc",
+    "reference": "5aed1e4fde6898845cd44ecdc0d900c999077cc2d855d756d869fb716320af63"
+  },
+  "original_local_pptx_sha256": "3e27d89e52bd5794f0047afedcd7ceb1939bf5daa6e38fd51fb6111d3276e624",
+  "visual_payload_sha256": "69194b9b5b17f440e7238b4e5e67afa64bd18cfae5ca4b101707c3deea2b44fb",
+  "dedup_note": "相较已有fuzzer系统总览，此图突出代码、运行时值及位级表示的一一对应，可复用到细粒度度量和插桩机制解释。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

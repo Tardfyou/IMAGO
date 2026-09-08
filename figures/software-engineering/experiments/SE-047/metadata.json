@@ -1,0 +1,57 @@
+{
+  "id": "SE-047",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints",
+  "figure": "Figure 3",
+  "category": "实验图表",
+  "reuse_value": "统一对角线与对数轴的比较小图，每格标出赢/输实例数和加速比，适合同时观察多基线、超时与跨数量级性能。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 12398,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0111",
+  "source": {
+    "paper_url": "https://zbchen.github.io/files/fse2025.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "828d96f513b297a0bcfd69bdd4a0938e7a1f98c12d672ddc8691650449a3d9f3",
+    "pdf_page": 12,
+    "crop_bbox": [
+      56,
+      81,
+      430,
+      315
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-047/SE-047.pptx",
+    "svg": "figures/software-engineering/experiments/SE-047/SE-047.svg",
+    "preview": "figures/software-engineering/experiments/SE-047/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-047/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 68
+  },
+  "hashes": {
+    "pptx": "4f142aa578196b2ee18b184b44abcdf7c6fe3e136f64232d94eb0cb1236061e3",
+    "svg": "85b55d41af519aee7fc80c3a8842605515bd2d4ac467ad569830c212f5c6a627",
+    "preview": "71eb64fc87c6188fc74bc621c5575923ce5052c02dcd6a59c7d03f9816ec6543",
+    "reference": "75559f3fed0ec8d7e380ba2d7f69a3371dc3b57fafd7fc6807bd3f6bc6d2ed82"
+  },
+  "original_local_pptx_sha256": "5d5147a400f4d0e9258c8361dedc6c0a623750ddc27373230f5703fb8c134743",
+  "visual_payload_sha256": "1e4c350dfeabeaa8932d560ff614dae1a07a4b1764bf46f408eff50ed3798447",
+  "dedup_note": "旧库没有成组对数散点的成对性能比较图；本图兼顾离群样本、超时边界、胜负计数与汇总加速，而非重复既有柱形/热图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

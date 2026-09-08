@@ -1,0 +1,57 @@
+{
+  "id": "AI-073",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "左侧分解权重/优化器/激活显存，右侧用连线和点大小联合表示性能、显存和模型规模。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 201,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0229",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.1/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "94cd077715e7b13a75841b89d3bc46713fdaa9fd80842822524b7811b034a89d",
+    "pdf_page": 2,
+    "crop_bbox": [
+      78,
+      70,
+      525,
+      260
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-073/AI-073.pptx",
+    "svg": "figures/ai/experiments/AI-073/AI-073.svg",
+    "preview": "figures/ai/experiments/AI-073/preview.png",
+    "reference": "figures/ai/experiments/AI-073/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 83
+  },
+  "hashes": {
+    "pptx": "d485bde2e0c482e2ce714028821aa2de15d72d97f0f6490a54e35ee9e8c311e5",
+    "svg": "22dffb51750ebe1462cd401e21d08e1f588817019ab725116b539626d0415917",
+    "preview": "64a440c85d755495d56b1a944f055d7a45ec2a4996b3ba713b233895c56ffdac",
+    "reference": "fc14c0a6123d295c817c11e844ac837fb5f2218ad9a22a29fb3ad83ec620eab0"
+  },
+  "original_local_pptx_sha256": "0b24c565f6aad57a3621856cbf7c36f5f312e7c6d565780f3025048b88d362e7",
+  "visual_payload_sha256": "010cf2ffde3877aa1c7dc86ec4e0fd90ea6f8be5a2dcf51c7ab558cb4d416504",
+  "dedup_note": "区别一般柱图或折线，新增资源组成、节省机制说明及三变量性能成本图的联合布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

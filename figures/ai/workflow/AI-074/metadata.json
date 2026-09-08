@@ -1,0 +1,57 @@
+{
+  "id": "AI-074",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2025,
+  "award_name": "Best Special Theme Paper",
+  "paper_title": "InterIDEAS: Philosophical Intertextuality via LLMs",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "上层跨书籍段落构建向量库，下层组合少样本与问题链，并由专家修订提示形成循环。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 377,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0196",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.1180/",
+    "award_url": "https://2025.emnlp.org/program/awards/",
+    "pdf_sha256": "7a46baa4dc622c7d3f6a11ed460049601c4d304eab7b6700faa4e05d9339af81",
+    "pdf_page": 4,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      300
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-074/AI-074.pptx",
+    "svg": "figures/ai/workflow/AI-074/AI-074.svg",
+    "preview": "figures/ai/workflow/AI-074/preview.png",
+    "reference": "figures/ai/workflow/AI-074/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 100
+  },
+  "hashes": {
+    "pptx": "6e4bb43547f5d9ce07fe4fd50ed5eba19c9c6a0b4605acab312047175b018c0f",
+    "svg": "61b1b058fad8554d536ebd7339afa64fc1dcc8b6ba3ae64c09aeaa8a7d7da153",
+    "preview": "fbf1e4b8cc198b4c6eb4c8f847239ef07edaa127d4da5c10e60eb11e4eca03f4",
+    "reference": "3482696700f0ce19a616e52beba9252edf3ddd115d59479b39d3460561050291"
+  },
+  "original_local_pptx_sha256": "ed1016b75f8a1efbc1fb818719a9f317ab755b2f26806be90bf5fd4d60dc8d9b",
+  "visual_payload_sha256": "479d8bd9b192d9ee0ad2d7b9d3de6be8034b995f47aa05ee3c749fd8f302accc",
+  "dedup_note": "区别一般RAG三盒流程，此图细化文本粒度、提示组成、专家反馈和目标数据集之间的联系。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

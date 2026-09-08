@@ -1,0 +1,57 @@
+{
+  "id": "AI-051",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "同一嵌入坐标按模型家族和主文本类别重复着色，标出代表模型并显露跨标签的连续结构。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 6241,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0198",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1584/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "00ad835897d08493a0ff0956053a57e40fed57b717eef6628e187ab237afc249",
+    "pdf_page": 1,
+    "crop_bbox": [
+      305,
+      216,
+      524,
+      586
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-051/AI-051.pptx",
+    "svg": "figures/ai/experiments/AI-051/AI-051.svg",
+    "preview": "figures/ai/experiments/AI-051/preview.png",
+    "reference": "figures/ai/experiments/AI-051/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 78
+  },
+  "hashes": {
+    "pptx": "a73fe25f1ef07022e764cfaafdf49105eeb24f7b6f28f882c505a8a18877cecf",
+    "svg": "1bd7814e8b45664f6ad29ff7f95ef04744c2abfa81335ef9560bd5010806259f",
+    "preview": "b2b49b67adfae4aa97fbf53c2385057eec0f743004941d2de37e886739d5c2a1",
+    "reference": "0f58819d6d2d8919123d94b743cccda69d6e33653d9c9b0cc37aa2b146714b8c"
+  },
+  "original_local_pptx_sha256": "ed68d71d538f81ad3309c1c03f6772b16f321d86a497241e7e9118319fa213bb",
+  "visual_payload_sha256": "d23666356ed4d6ffe1ec13a30b3be29b40ea5250387ffa71fe67dca69cfdfbfb",
+  "dedup_note": "区别AI040无监督多语散点：本图把模型族谱与数据偏好映射到同一坐标，带代表模型引线标注。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-007",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "统一输入分叉到两个模型，以结果卡片和显著对错符号对比机制差异，适合方法动机与安全失败对照。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 183,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0029",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2504.11358",
+    "award_url": "https://sp2025.ieee-security.org/awards.html",
+    "pdf_sha256": "37808ff3f1129a9acf8847e9bc1b32233ee3507eff57bde154bb4ebf3dfa2032",
+    "pdf_page": 2,
+    "crop_bbox": [
+      65,
+      70,
+      565,
+      263
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/motivation/SEC-007/SEC-007.pptx",
+    "svg": "figures/security/motivation/SEC-007/SEC-007.svg",
+    "preview": "figures/security/motivation/SEC-007/preview.png",
+    "reference": "figures/security/motivation/SEC-007/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 58
+  },
+  "hashes": {
+    "pptx": "6f3d521b506ff36b88bbb4b284870e848215a23d4ee895a72916e75a07b303da",
+    "svg": "8c582ea56ae3fa00593ef69467354f40d4a96f5180e0401c81825fc2f5a8d6e6",
+    "preview": "a07be231da518a20719a1885cf4d12bc125a1e57b760d669f7281f4fd97a1991",
+    "reference": "f4cf4a0c061e87b599718370941143499258eac7930cb21e556dfe90992a68cc"
+  },
+  "original_local_pptx_sha256": "75b9d2d091fce110e21ce2694ed74bb0d48dffc145cc35926f4b311dd6810089",
+  "visual_payload_sha256": "1efec79716829050409f19bc56ffc2f23848e9e38b4eddede250c4b3d44d0ff9",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

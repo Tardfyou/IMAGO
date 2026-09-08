@@ -1,0 +1,57 @@
+{
+  "id": "SE-043",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Automated Generation of Accessibility Test Reports from Recorded User Transcripts",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "将软件团队、测试者、分析者置于上方，规范、既有报告与测试文本在下方汇成提示、重复运行、语义筛选及结构化报告。",
+  "editability": "原生文字与形状",
+  "limitations": "主体框线、文字、连线及逻辑结构为原生PPT对象。字体以Arial替代论文栅格字形；小幅线条弧度与虚线节距差异。0图片，人物与机器人图标也为原生对象。",
+  "object_counts": {
+    "shapes": 228,
+    "groups": 0,
+    "native_text_runs": 47,
+    "images": 0
+  },
+  "paper_id": "PAPER-0094",
+  "source": {
+    "paper_url": "https://ics.uci.edu/~seal/publications/2025_ICSE_reca11.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "ad7da007c9335ce6de0be77bc38b6a627c4ee0e7b4673e2a2becea9eca06c2ab",
+    "pdf_page": 5,
+    "crop_bbox": [
+      97,
+      53,
+      513,
+      234
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-043/SE-043.pptx",
+    "svg": "figures/software-engineering/workflow/SE-043/SE-043.svg",
+    "preview": "figures/software-engineering/workflow/SE-043/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-043/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 86
+  },
+  "hashes": {
+    "pptx": "23f4d890f71f62129ec1665cd54c10c1f28401142f884b545d4e57950be7d885",
+    "svg": "ac2c875f312ec934c6aaa7879ff948604fea93d572c3463e460534ea8e6a08f9",
+    "preview": "6552bd7d943d986df6b6675392861e4595cc9871db6ba59d8982b74f21e70b61",
+    "reference": "5a251b491df926da3902dae46ba491463ebb475788f1b085013a79086a6f45af"
+  },
+  "original_local_pptx_sha256": "d7e347b3a0ea86cba397cd3af7a6efc6aba3ec952e0e356b4bab7498b1499a65",
+  "visual_payload_sha256": "0a0bb0abd3d1a8b0cbafb75a4e3312e2baf17510b0b9b3df9fcc66794d030cb6",
+  "dedup_note": "旧SE-008生态安全检查不包含角色职责和多来源测试证据汇聚。本图以人类任务层对应自动化内部流程，适合作业分工与辅助工具介绍。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

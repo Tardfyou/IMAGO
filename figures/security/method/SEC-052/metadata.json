@@ -1,0 +1,57 @@
+{
+  "id": "SEC-052",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "两种输入结构对齐主机/客体内存，以色带区分代码、数据和页表；细连接线展示装载前后对应关系。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 128,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0006",
+  "source": {
+    "paper_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/07/Enter-Exit-SP26.pdf",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "eef13433dfbb820040b78399095077319aa9234baed93079f93879a80b694fcd",
+    "pdf_page": 6,
+    "crop_bbox": [
+      51,
+      70,
+      299,
+      288
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-052/SEC-052.pptx",
+    "svg": "figures/security/method/SEC-052/SEC-052.svg",
+    "preview": "figures/security/method/SEC-052/preview.png",
+    "reference": "figures/security/method/SEC-052/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 42
+  },
+  "hashes": {
+    "pptx": "387854c7119b64f497f73901616a8e80c8d039cd424d4299336f1593fb772a8d",
+    "svg": "dec4e909e5c8ecdd0278f2d51d395b9a32a3c918d65b6f946c7c743826ed6756",
+    "preview": "7e9b8730e5ed30f4cb3c20dc2ce2c4b4c1db0e842f8f5f3fa07acbe843b66739",
+    "reference": "231582dc1402daac0a7fbcac295f04175cae73c1293155371016312b2cb477d7"
+  },
+  "original_local_pptx_sha256": "6a7e37f597683ab6b2d1ad043534eb8d0bd4e0ed214639997f6dd053dab8a017",
+  "visual_payload_sha256": "abdb2fcb55850bada819b1b4ec22e21254f1f9c44258d8c0910f4130f2b08db4",
+  "dedup_note": "新增静态打包格式到运行时布局映射，区别于现有代码控制流和缓存攻击图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-064",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "通过带具体数值的小矩阵逐步解释低曲率、近零权重两种条件如何形成组合掩码与目标权重。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 320,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0163",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1110/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "cf1752591bee161e3ffb309eb3359c7c676416ae361ab46ac350160888fbb1dc",
+    "pdf_page": 3,
+    "crop_bbox": [
+      102,
+      323,
+      489,
+      451
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-064/AI-064.pptx",
+    "svg": "figures/ai/method/AI-064/AI-064.svg",
+    "preview": "figures/ai/method/AI-064/preview.png",
+    "reference": "figures/ai/method/AI-064/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 49
+  },
+  "hashes": {
+    "pptx": "451c9966624499d406de5f488aaeb667f60170270ea2ad240faafc8f815fd365",
+    "svg": "1bbb1046d9c46ad34b05fa58ce813db11f9855c08d8613c3a6fd2ab6b6df0b74",
+    "preview": "52b2c37b7bd09156468cd68d06dd7dadf709f952611eeff8c968d80b8129dbb6",
+    "reference": "45130b48fef5dfbf0c453b981dab42d82b9cd54738fc7cdc2c8a5c32f258e3d0"
+  },
+  "original_local_pptx_sha256": "cc6ed5f4be4be044af4c60374a356aa920cc2c6ff0b99ced9c4a1ced9964fad6",
+  "visual_payload_sha256": "d546c48c095cdbe5214674ed8b706348825b9c5f18bb3a662f340a9b6b03a860",
+  "dedup_note": "旧库的attention/特征矩阵主要编码输入结构；此图是可复用的数值矩阵算子和集合运算的手算示例。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

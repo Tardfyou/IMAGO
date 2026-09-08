@@ -1,0 +1,57 @@
+{
+  "id": "SEC-072",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "三块彩色区域围绕中央DUT连接，保留指令变异、仿真、时序检测和微事件图定位的具体数据实例。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 626,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 23
+  },
+  "paper_id": "PAPER-0077",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-borkar.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/borkar",
+    "pdf_sha256": "5d4c6a49cae5f1ed1f9ea9df4d5de990fb0b31d3a07c2e5dd8f5e6606a9b1c38",
+    "pdf_page": 6,
+    "crop_bbox": [
+      79,
+      70,
+      534,
+      300
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-072/SEC-072.pptx",
+    "svg": "figures/security/architecture/SEC-072/SEC-072.svg",
+    "preview": "figures/security/architecture/SEC-072/preview.png",
+    "reference": "figures/security/architecture/SEC-072/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 23
+  },
+  "hashes": {
+    "pptx": "57dd988a4b676dc31857b269ddab0b5b60f6e2fa684e2453137295b860db6630",
+    "svg": "b5d8f37a4ab19e20796d76df4128d902575bd9d641222ccd37dbbdd7d32c0f80",
+    "preview": "67cdeb8d38625b7418e3409200ab5b0667ae1abf367e9ef7d9d41eec2e64056d",
+    "reference": "5141b402b3f6b0f298fa0d56a2dc84a25d6567ad6dacb5c00d4dc695b407d725"
+  },
+  "original_local_pptx_sha256": "e0d5875cdde258f3068ebd8dcf152b1d05e9ad7ef480a35a6e8be35549773c7b",
+  "visual_payload_sha256": "6b3816576fff60ca70d710e2ca5535dcc58f237165144658ea1675273300ca46",
+  "dedup_note": "相较Fuzzilicon的多阶段CPU流程，本图以中央芯片衔接覆盖生成/漏洞检测/位置诊断三分区，并嵌入图结构定位。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-007",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks",
+  "figure": "Figure 7",
+  "category": "动机示例",
+  "reuse_value": "左右对照依赖图，用红色约束与加粗重复节点说明看似安全配置引出新风险；可借鉴反直觉动机表达。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 124,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0110",
+  "source": {
+    "paper_url": "https://www.cs.cmu.edu/~ckaestne/pdf/fse25.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "611f7fc168040cc2f3a2aa9eaca934699a5423b19f51e22dd616a90f897e1042",
+    "pdf_page": 17,
+    "crop_bbox": [
+      61,
+      91,
+      425,
+      207
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-007/SE-007.pptx",
+    "svg": "figures/software-engineering/motivation/SE-007/SE-007.svg",
+    "preview": "figures/software-engineering/motivation/SE-007/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-007/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 54
+  },
+  "hashes": {
+    "pptx": "d0bd6fd9ec36e2ae25b1603ed6ef3b75023cd5da62011409e8ae53ceee51da2f",
+    "svg": "593aae00aa13d11b64a3209fdcd7d6b32ed6e0248963ce61524232d6d2100d85",
+    "preview": "486d95f3d3776ab9abea80ace68345a9bf2ace388b4bcca4db005156f58fea5a",
+    "reference": "2d6d50eaf320ad4405bd04832e26b95286b396487da0a0ebe46510876483e530"
+  },
+  "original_local_pptx_sha256": "220805a772c8627a995bf814c2de573dacc047efbe332ee1a6ab2f12662f1c0b",
+  "visual_payload_sha256": "fbf02ddbf656b335a07c61d9eb1580eedc762be5c17a4098c4c012e0b538ab19",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

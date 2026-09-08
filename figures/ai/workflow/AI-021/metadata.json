@@ -1,0 +1,57 @@
+{
+  "id": "AI-021",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "CoGen: Learning from Feedback with Coupled Comprehension and Generation",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "参考游戏中人机交换说话者/理解者角色，并将两侧交互信号汇聚到重新训练闭环。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 113,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0215",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.emnlp-main.721/",
+    "award_url": "https://2024.emnlp.org/program/best_papers/",
+    "pdf_sha256": "c0c635c422c74e1228fab0a927a5873588cd9d50eb09a53fc4c4b3275e5aadd6",
+    "pdf_page": 2,
+    "crop_bbox": [
+      92,
+      70,
+      499,
+      229
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-021/AI-021.pptx",
+    "svg": "figures/ai/workflow/AI-021/AI-021.svg",
+    "preview": "figures/ai/workflow/AI-021/preview.png",
+    "reference": "figures/ai/workflow/AI-021/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 92
+  },
+  "hashes": {
+    "pptx": "927044842fdba9f06587403d5afde4abe45bf5e5c20566101a184bb12817e880",
+    "svg": "0921b12b25d459ead823fe59acb60461665dd2a9f54d60390eed3e1cd45e08b6",
+    "preview": "e3cc00703f4bc1c426c4f911ca0522f1e91e8f52faa12968f271c5c23b053eff",
+    "reference": "101e5924e519c0232b11ffe6032092e13b5351c9397150f23938209052353b93"
+  },
+  "original_local_pptx_sha256": "2f42abb2229b07fe146b313d1d379213b6d753faccf59030a6ec439544f5d76a",
+  "visual_payload_sha256": "5fe1cca2e7f54747128f204157c012b011e3092178610ef115cb8fcc54c92a8f",
+  "dedup_note": "旧AI004是奖励估计闭环；此图以同一组视觉对象与双角色思考气泡解释耦合理解/生成，研究构念和构图都不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

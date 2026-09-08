@@ -1,0 +1,57 @@
+{
+  "id": "SE-033",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Interactive Cross-Language Pointer Analysis for Resolving Native Code in Java Programs",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "两个纵向分析栈共享统一模型，以请求/回复双向连接Java与C的调用分析、JNI处理器和指针分析核心。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 88,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0104",
+  "source": {
+    "paper_url": "https://silverbullettt.bitbucket.io/papers/icse2025b.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "002692ad2a87bbfaea5017e9f5f87472cd380824c299883e0c1ce72cebde896b",
+    "pdf_page": 4,
+    "crop_bbox": [
+      55,
+      49,
+      294,
+      362
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-033/SE-033.pptx",
+    "svg": "figures/software-engineering/architecture/SE-033/SE-033.svg",
+    "preview": "figures/software-engineering/architecture/SE-033/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-033/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 5
+  },
+  "hashes": {
+    "pptx": "ee6afb09a5ae13dc379b3d35a35ea1cb6ee797bf9087ea4b4df96ed4c589746f",
+    "svg": "f4a562e9707a5ebbe40871d5f1d610d90df1ada3124aa427eb6133dbeb1cc905",
+    "preview": "2b7dc161d7f21a5dd2b7356247ea538767bb770f19e200e346b732cc815eb7d9",
+    "reference": "24f3ec6027ddd2a7f205834aa30cb9d3dc1f20f21f46166b058ef0d0f9a98beb"
+  },
+  "original_local_pptx_sha256": "0b1a92186c1059274d90b036e6aebe1e2e1bca8a9469fa337255e4e76177e0d0",
+  "visual_payload_sha256": "ac08c62d84ccf0fb32f216db44598a061368c7fa96118be4f2b86c4566809ccc",
+  "dedup_note": "与旧SE-014上下对照RAG不同，本图展示并行异构分析器的双向协议，内部模块镜像且逐层互通，没有旧库相同互操作构图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

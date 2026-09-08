@@ -1,0 +1,57 @@
+{
+  "id": "AI-007",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2024,
+  "award_name": "Best Main Track Paper",
+  "paper_title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "左侧多尺度tokenizer与右侧序列训练，配合因果掩码矩阵；适合训练方法的分阶段解释。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 445,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0237",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=gojL67CfS8",
+    "award_url": "https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/",
+    "pdf_sha256": "bd6b3002cbf81f2006e68abd489c0bf2008ee076cbfe66086b7450e8aab56a06",
+    "pdf_page": 5,
+    "crop_bbox": [
+      107,
+      148,
+      505,
+      271
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-007/AI-007.pptx",
+    "svg": "figures/ai/method/AI-007/AI-007.svg",
+    "preview": "figures/ai/method/AI-007/preview.png",
+    "reference": "figures/ai/method/AI-007/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 32
+  },
+  "hashes": {
+    "pptx": "33ad24d6bd6ff6be134df56c8ca56ca990fbcdb51c1f6cc3a11b04f7fc676bf8",
+    "svg": "e92d70357a6d26d895eaafdcc25ab4b1f51d0c9b7435421189937dd733ebba66",
+    "preview": "ed92c278268d94c39a3d03219a9633e010a65cf49cb6167aaab1c4fbe202b4c6",
+    "reference": "1a68fdca75ebe62e3b0f438a359cc937a8e0b4842b6d01eb537fa2a8bda00ce2"
+  },
+  "original_local_pptx_sha256": "e2067161430fe885f0ab65da122bda08063cefecfbf417658215a8d31eeb0873",
+  "visual_payload_sha256": "e7674fff35cfda806031097e06d0ec9fd72e20af1c96d142fde7bff867320332",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

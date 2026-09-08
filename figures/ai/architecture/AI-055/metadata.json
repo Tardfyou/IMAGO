@@ -1,0 +1,57 @@
+{
+  "id": "AI-055",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "左侧监督识别发音特征与音素的双目标，右侧展示聚类教师到掩码学生的跨语言迁移。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 349,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0172",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.24/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "a1079a4389f3de3aa48b3b07b74ec74a9bc8638b6f1eb0da2ee9cccfd46449f2",
+    "pdf_page": 2,
+    "crop_bbox": [
+      72,
+      71,
+      526,
+      238
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-055/AI-055.pptx",
+    "svg": "figures/ai/architecture/AI-055/AI-055.svg",
+    "preview": "figures/ai/architecture/AI-055/preview.png",
+    "reference": "figures/ai/architecture/AI-055/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 17
+  },
+  "hashes": {
+    "pptx": "b38abe1ebc6efa9540385eb038f186686c8a22fb19b07446393a78aae7861c6f",
+    "svg": "f7e6c533a324178a24b5f51dbce8f82c5e2a5095bb7ef9d610e5c92d16db7ae6",
+    "preview": "036b4de7f9b174210f38c3751a1139609c091de8df9c60f85fc8c0d0e6c5d8de",
+    "reference": "4c31004a2f9b2dfc6b0ef3ea8830de3eb7c58afc2d4bf98cb6254d6b730858fe"
+  },
+  "original_local_pptx_sha256": "0e582dafe1c062d0187a6b54d5ec69e025e7845bfc0eeb6ee143134874659b10",
+  "visual_payload_sha256": "3c633bc4d61fd5bfe58fc4a8f78e6d79f411a0ecf0ae169a66b107e79e93bfb6",
+  "dedup_note": "区别AI030全双工模型对照：该图展示发音先验、停止梯度以及跨语言教师学生训练链。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

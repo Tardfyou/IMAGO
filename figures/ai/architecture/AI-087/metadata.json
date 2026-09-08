@@ -1,0 +1,57 @@
+{
+  "id": "AI-087",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Best Paper – AI for Social Impact Track",
+  "paper_title": "PlantTraitNet: An Uncertainty-Aware Multimodal Framework for Global-Scale Plant Trait Inference from Citizen Science Data",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "将三个模态的冻结编码器融合，分成植物高度、叶面积等四任务头，并用对应小图标标明输出含义。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 136,
+    "groups": 0,
+    "native_text_runs": 13,
+    "images": 5
+  },
+  "paper_id": "PAPER-0176",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/41272",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "fcd3acd50454846d99abfe2b052030798cdfc772fb30fc708a0f4fb9593f9fd2",
+    "pdf_page": 4,
+    "crop_bbox": [
+      53,
+      52,
+      290,
+      207
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-087/AI-087.pptx",
+    "svg": "figures/ai/architecture/AI-087/AI-087.svg",
+    "preview": "figures/ai/architecture/AI-087/preview.png",
+    "reference": "figures/ai/architecture/AI-087/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 25
+  },
+  "hashes": {
+    "pptx": "ad8fc51b03d01bf8a04ce370f22b1d928d4606644a4448d2fa1ef0f0f29dda70",
+    "svg": "5f21111765ae4dd22d3265b251ba48b076ece396e0f56334e947d8899aa1fc03",
+    "preview": "3762f02998d6aee731ca7398037fe6bdaf220846236b6806c9c195a44a7d4629",
+    "reference": "d66750a2f629831305d842611d2b32b4129fc3094529700ae7873b9daa6cde33"
+  },
+  "original_local_pptx_sha256": "fda294c31eaa36aba1977576b6d64e58e1d15db2644cdbe6ecba0f0e1e048e5b",
+  "visual_payload_sha256": "3c8e330b0f3ff99564ff07b3044acf6a9c359f24d6171c182675f1839b6b2ec0",
+  "dedup_note": "区别同论文径向结果图，此图提供面向科学属性预测的多模态多任务架构模板。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

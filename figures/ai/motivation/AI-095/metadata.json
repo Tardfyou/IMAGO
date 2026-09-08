@@ -1,0 +1,57 @@
+{
+  "id": "AI-095",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection",
+  "figure": "Figure 5",
+  "category": "动机示例",
+  "reuse_value": "同一九宫格按问题、正确解、错误预测、置信度定位和约束定位排列，用着色与圈注解释错误语义。",
+  "editability": "原生文字与形状",
+  "limitations": "All405digits, fivegrids, cell fills and captions are native. Arial approximates source numeric font. Original red errors and green0 are retained; no Sudoku correction is performed.",
+  "object_counts": {
+    "shapes": 922,
+    "groups": 0,
+    "native_text_runs": 411,
+    "images": 0
+  },
+  "paper_id": "PAPER-0189",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2412.08457",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "5401156b5c422b4b5793331a32e7dc4aa95331db3be233283709e2b9a1d03afa",
+    "pdf_page": 12,
+    "crop_bbox": [
+      86,
+      292,
+      529,
+      584
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-095/AI-095.pptx",
+    "svg": "figures/ai/motivation/AI-095/AI-095.svg",
+    "preview": "figures/ai/motivation/AI-095/preview.png",
+    "reference": "figures/ai/motivation/AI-095/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 66
+  },
+  "hashes": {
+    "pptx": "1b502b60a3ea7f5fb5e187332ca4c72e0f31f1d4cfaf0885e8a0a1f38a314217",
+    "svg": "9f7ff11691d8a32a775a2fb4bdf8ffb44d5a4c1545082bc08ba1220b3c097e3d",
+    "preview": "845ca3ac21bc7feb5c7697e15a41c7a4ed4d9ac61618b925ef66139bd0a86424",
+    "reference": "fb6bcda9166106942b9c6c4fa06a764fc8b37566b64280481ddf39a9fa40b0ff"
+  },
+  "original_local_pptx_sha256": "98640144bea2811f121029ebf57cbfa86f18a3cf262ff5c10a7743afcbfe1999",
+  "visual_payload_sha256": "86fe4b60ac9c1f35ac9d1b4ad64473e2201142ef4163a2189c635561f0c3e02b",
+  "dedup_note": "区别已有抽象矩阵，本图是可逐格追溯的真实离散约束案例，比较两类错误检测依据。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-064",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "并列物理卫星链路、逻辑网络拓扑和新旧协议栈，将现实部署与抽象协议结构连成一个系统背景图。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 196,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0032",
+  "source": {
+    "paper_url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "c64051110c035c2a151cccb60c17b0a81f42be2d31c72ad27ac96c4a96aeeba5",
+    "pdf_page": 3,
+    "crop_bbox": [
+      52,
+      82,
+      298,
+      196
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-064/SEC-064.pptx",
+    "svg": "figures/security/architecture/SEC-064/SEC-064.svg",
+    "preview": "figures/security/architecture/SEC-064/preview.png",
+    "reference": "figures/security/architecture/SEC-064/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 20
+  },
+  "hashes": {
+    "pptx": "d73e63b1e2b6644597b5a3823ea965ce97cfac278d02be9921ff3b33a0a4d441",
+    "svg": "a4eb3037e54d48f361476cc64be6f9daef41a7c8b9e1c3cf59ed92911bc405c0",
+    "preview": "50042405942cbbf049fa255d00742e4b88534e3096dab47935bc95cd3457572a",
+    "reference": "cf2fa732ddaa2ba4bf30c1f90364cb83529afa3d0225c97c7b6f1f8fbd8d1a42"
+  },
+  "original_local_pptx_sha256": "af82952479b02f766bf0c75da1caeca5f921da9c5734057e240539619ff222af",
+  "visual_payload_sha256": "fda99ddf8450072cc232bf3db98f402892421fcb3d5d408a0dd5f889375fc906",
+  "dedup_note": "库内尚无物理部署/逻辑拓扑/协议栈三视图同图展示，区别于只给单层网络设备的威胁模型。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

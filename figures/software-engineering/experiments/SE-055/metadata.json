@@ -1,0 +1,57 @@
+{
+  "id": "SE-055",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "先用分组柱形比较总频次，再用三个配色一致的堆积面积图展示归一化进程上的行为占比，嵌入文字标签避免大图例。",
+  "editability": "原生文字与形状",
+  "limitations": "零图片。左上柱形面板原矢量重建，其余三块面积图由发表图颜色区域描摹为原生多边形；坐标、图注、标签均为原生文字。只复刻发表图视觉，不声称重算统计。AutoCodeRover原蓝色Explain标签的百分比被Search标签覆盖不可读，因此移开Explain标签并不猜写百分比。其余标签数字按原图保留，细边缘和字体略有差异。",
+  "object_counts": {
+    "shapes": 396,
+    "groups": 0,
+    "native_text_runs": 62,
+    "images": 0
+  },
+  "paper_id": "PAPER-0122",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2506.18824",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "e26bdd63440491ae1acf019697208d7826904113cb650c60124a30239dc4a62e",
+    "pdf_page": 7,
+    "crop_bbox": [
+      48,
+      252,
+      563,
+      566
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-055/SE-055.pptx",
+    "svg": "figures/software-engineering/experiments/SE-055/SE-055.svg",
+    "preview": "figures/software-engineering/experiments/SE-055/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-055/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 74
+  },
+  "hashes": {
+    "pptx": "900c5edc73fb61162d8d81421e19bfad86dbad88c9a22d9a3576e0b5579b23d1",
+    "svg": "14f99d38db5d4e1fd226c1366d85608e6b5cbad9774e59e32b488e9474a11511",
+    "preview": "df12a5702b50aa03044b93ef3a7860b4eebd5bbd8300f34713e5fb51045b8db8",
+    "reference": "817fa5fdbc29c446cff2c662d2d88bf4ddb24cdb903b2bb18a82a0045a64f358"
+  },
+  "original_local_pptx_sha256": "e2ba3b61722f737b53daf47193b01e64414ab74006ee615c643848e6074263e8",
+  "visual_payload_sha256": "2eb7b5ee3fea652ad634bd056abbe119abb18e645b2844a56df31630525be3f4",
+  "dedup_note": "旧库时间线只表达阶段顺序，旧实验图未展示随着任务进程变化的组成比例；本图把总量与全过程分布连接，可用于多策略行为分析。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

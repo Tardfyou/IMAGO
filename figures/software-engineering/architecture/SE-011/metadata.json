@@ -1,0 +1,57 @@
+{
+  "id": "SE-011",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "ProxyWar: Dynamic Assessment of LLM Code Generation in Game Arenas",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "五层嵌套布局将代码生成、游戏环境、Agent、测试和锦标赛连成环；游戏网格、奖杯、状态/动作让复杂系统具象。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 143,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 32
+  },
+  "paper_id": "PAPER-0084",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2602.04296",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "d98e5fb44a1705abb4a07d5940d660e710a321a5a3a476f629ad101e8eecbebf",
+    "pdf_page": 4,
+    "crop_bbox": [
+      103,
+      82,
+      508,
+      285
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-011/SE-011.pptx",
+    "svg": "figures/software-engineering/architecture/SE-011/SE-011.svg",
+    "preview": "figures/software-engineering/architecture/SE-011/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-011/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 10
+  },
+  "hashes": {
+    "pptx": "6517d8d0551bd92c8dff62128a7107c1fca6398da5a52af55383e5a05a026ade",
+    "svg": "ff123eea753bf4ca41bb87d3e1e2debee171c14a77a4144397625f0613b60473",
+    "preview": "b2344f0a87e300210446ac398889f581ab9e6dce322a2d2b51e89f0dcff8685f",
+    "reference": "855caffb94cda1e93df1f1480f4c01332795193bed123991641a0a1d738c88d5"
+  },
+  "original_local_pptx_sha256": "2e4df60521c31301073a0ee89d13ee060993a51dd4e1c48adedf1fa0ef1994a2",
+  "visual_payload_sha256": "cce53db31cc4ac1d171d008e9b3410fa989485c3f9aa05e1193b736fccf50e10",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

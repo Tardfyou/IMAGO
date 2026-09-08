@@ -1,0 +1,57 @@
+{
+  "id": "AI-066",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Best Paper Award",
+  "paper_title": "Semisupervised Neural Proto-Language Reconstruction",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "两个编码解码子网通过连续桥接网络、预测音素嵌入和多种监督损失联动。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 191,
+    "groups": 0,
+    "native_text_runs": 60,
+    "images": 0
+  },
+  "paper_id": "PAPER-0233",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.788/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "b2e4c784c57f673e8218a0310fbc7f45a5a9a27d41f2f817fe5b5ce54eb46791",
+    "pdf_page": 3,
+    "crop_bbox": [
+      81,
+      71,
+      526,
+      240
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-066/AI-066.pptx",
+    "svg": "figures/ai/architecture/AI-066/AI-066.svg",
+    "preview": "figures/ai/architecture/AI-066/preview.png",
+    "reference": "figures/ai/architecture/AI-066/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 19
+  },
+  "hashes": {
+    "pptx": "4c5cf321e0268afcb65bbed6c1ae9d7ae0b5f7527cbdcfb0fed366fd95245491",
+    "svg": "23be4270d04ffc8a5f32c894d1c75f70b95f6c6b7bb3e276292758e6131905d4",
+    "preview": "19563878be1782ad90ade3cf1a0d2098111c2f924882a40fffee655988ed73f6",
+    "reference": "c19e6af1761191bb3c1e0d9828c450bcc3c70c8e1260153f933c07a5ecf7d9fa"
+  },
+  "original_local_pptx_sha256": "274343ed9cd79900328031b4030be8fdc37a47da227c8166933a4d3084c6a073",
+  "visual_payload_sha256": "fee0bdef831f9f2e9d94a5ddb1ae5a990c90ea099c37087fdbee1ed1338e1e68",
+  "dedup_note": "区别常规编解码器，本图把离散预测、连续中间表示、反向检验任务与共享监督接成可追踪闭环。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

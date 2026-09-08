@@ -1,0 +1,57 @@
+{
+  "id": "AI-063",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Theme Paper",
+  "paper_title": "Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "左侧数据构建与情绪轮盘，右侧将三训练目标、两种几何表示及三主干组合成实验设计。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 584,
+    "groups": 0,
+    "native_text_runs": 77,
+    "images": 5
+  },
+  "paper_id": "PAPER-0171",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.772/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "a03317e980bfda4ab0278eb4944f677393c470ee4fc9428a76cbf5109180092c",
+    "pdf_page": 3,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      301.3
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-063/AI-063.pptx",
+    "svg": "figures/ai/workflow/AI-063/AI-063.svg",
+    "preview": "figures/ai/workflow/AI-063/preview.png",
+    "reference": "figures/ai/workflow/AI-063/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 97
+  },
+  "hashes": {
+    "pptx": "b0bd3619748059560f34578b053790e297d0bb2f49cbd29bc2303a8621be1028",
+    "svg": "808afea0cf8e649c9514ff8e17620dc8aa266aaeaced4b30b44d50ba87762d01",
+    "preview": "ffaec413be971c391d094f306f2fb7ca94a321b9bcc2ebc8536e9eac74ab0948",
+    "reference": "f528eec7a9ad70e3c3dfb8d4b5847e867613bc8e18ab8ebcf8b79286e91134b2"
+  },
+  "original_local_pptx_sha256": "f99e9a56a6e6bb7b508de19e5f6ab0c474f908826129d89500a143b8a15b3860",
+  "visual_payload_sha256": "970c35537f18e14920cfcc7015eae2d850ddb3a3a821506d2fc906ecd99e1e73",
+  "dedup_note": "区别普通数据训练流水线，本图把实验变量以乘积结构呈现，并内嵌不同损失的几何作用机制。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

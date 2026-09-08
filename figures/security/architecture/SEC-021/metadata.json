@@ -1,0 +1,57 @@
+{
+  "id": "SEC-021",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Fuzzing the PHP Interpreter via Dataflow Fusion",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "架构各阶段直接附输入、数据流和融合代码，底部共用验证流水线；适合把方法和运行实例结合。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 365,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 11
+  },
+  "paper_id": "PAPER-0036",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity25-jiang-yuancheng.pdf",
+    "award_url": "https://www.usenix.org/conferences/best-papers",
+    "pdf_sha256": "a7a698246b256646678d5d7958027c784eff11f0db7d60edf055ad5941808c0d",
+    "pdf_page": 6,
+    "crop_bbox": [
+      55,
+      71,
+      557,
+      267
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-021/SEC-021.pptx",
+    "svg": "figures/security/architecture/SEC-021/SEC-021.svg",
+    "preview": "figures/security/architecture/SEC-021/preview.png",
+    "reference": "figures/security/architecture/SEC-021/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 8
+  },
+  "hashes": {
+    "pptx": "b4898d35287d88cb694762b542f8704927d4b2feb8c1f9b08fde147c89e86287",
+    "svg": "e11a2a4fcb3864a05b026199696f5655b447fac0800662778d10e71c58536412",
+    "preview": "90311465c6c1ab3bc4ab98d814888f91da15c8a737e845d5de164f7e504a23c1",
+    "reference": "6a3a898bea4e8c66637cbbda73ce454785fc02ebc8288e6c3ffb465da85dc547"
+  },
+  "original_local_pptx_sha256": "90a75afcc0ecb424e6d4ae026f1e618db58805a009e6cc219f406b1ed01219c6",
+  "visual_payload_sha256": "0660bfaa296a5f27dd431eaf547f6994b1f25550f3bb57129bb401d0708c7efa",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-024",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2025,
+  "award_name": "Best Paper",
+  "paper_title": "Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "以同一banana字符串贯穿索引查找、后缀定位和上下文重建，使用标色字符和跨列表连线解释算法。",
+  "editability": "原生文字与形状",
+  "limitations": "按论文图像重建字符、框线与映射关系；曲线使用原生多段线近似，字体采用Arial。",
+  "object_counts": {
+    "shapes": 333,
+    "groups": 0,
+    "native_text_runs": 272,
+    "images": 0
+  },
+  "paper_id": "PAPER-0195",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.1268/",
+    "award_url": "https://2025.emnlp.org/program/awards/",
+    "pdf_sha256": "33097af402133a1bf7a37e52dcba270a89f0329ec3a62008ce1ebaf918ceedc1",
+    "pdf_page": 14,
+    "crop_bbox": [
+      74,
+      80,
+      516,
+      211
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-024/AI-024.pptx",
+    "svg": "figures/ai/method/AI-024/AI-024.svg",
+    "preview": "figures/ai/method/AI-024/preview.png",
+    "reference": "figures/ai/method/AI-024/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 36
+  },
+  "hashes": {
+    "pptx": "d3206f5f375bb9e21a124f7926243d2af494fee0479c7bae1437c32ab62c2925",
+    "svg": "394c4105cd2ae2e7e5a0b5fa309c94c9ea6fd919cf8393043f016ad352a8ba40",
+    "preview": "de54840d34be5e0e2170f994f9d26e46caec54c41381a7261e414a1924d3d03a",
+    "reference": "7c235b4679a83721d15641546008b08884300057d275e99d47ada6fddbfec693"
+  },
+  "original_local_pptx_sha256": "98cb53923100d3f5180645f2d3d66e8b2292f5b9f482c3752872f2553cca40ba",
+  "visual_payload_sha256": "f4d6465530d20869401d056d70bc0ca57a7e431c30ca6fa8f8eb3b9a946a714c",
+  "dedup_note": "旧75无字符串索引演算图；三块中的内容是同一状态的算法转换，不是通用三阶段架构。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

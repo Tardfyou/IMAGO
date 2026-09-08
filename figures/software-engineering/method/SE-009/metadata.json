@@ -1,0 +1,57 @@
+{
+  "id": "SE-009",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "SEAlign: Alignment Training for Software Engineering Agent",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "四区图串起轨迹数据、轨迹树、关键动作评分和偏好优化；适合把训练数据生成与优化目标放到同一张方法图。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "原生重绘保持主要布局、标签与关系；细小字体/图标造型和曲线轮廓存在轻微差异。SE-009仅原机器人/点赞艺术图作为独立小图保留，SE-010/023/024为零图片PPT。",
+  "object_counts": {
+    "shapes": 1182,
+    "groups": 0,
+    "native_text_runs": 85,
+    "images": 15
+  },
+  "paper_id": "PAPER-0085",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2503.18455",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "bf282a186e3c82facf8c37ac6c1d9ecb2673e1be2021a5e82a775e6358d0e883",
+    "pdf_page": 4,
+    "crop_bbox": [
+      64,
+      81,
+      548,
+      311
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-009/SE-009.pptx",
+    "svg": "figures/software-engineering/method/SE-009/SE-009.svg",
+    "preview": "figures/software-engineering/method/SE-009/preview.png",
+    "reference": "figures/software-engineering/method/SE-009/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 37
+  },
+  "hashes": {
+    "pptx": "8eeffb0d82eba8c33fd052b03a2a5bc49835f16e06fe4e6329feed2b34447d65",
+    "svg": "9468dc2bf9aa14d879b5e1eb892235327b5157f759abf166ebfa1a6776f556ab",
+    "preview": "d2c4148f310cc6f1f4cd2976cd33e8409ca63b5133f8b1f0935bcf37c129f44b",
+    "reference": "45e0ad6563434df90cc8c1e26ac3ba48ec7ed6f988b974bd8c4867087e2b1efc"
+  },
+  "original_local_pptx_sha256": "e751b12e4700d85795ad6fc8235d0d370738a7a8105566fd0ceb94e12f595fdb",
+  "visual_payload_sha256": "89c97f0ed6c09ee29a8841e92972dca37ee552bda51188e6a685bd6b30f80a1b",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

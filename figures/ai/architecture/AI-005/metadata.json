@@ -1,0 +1,57 @@
+{
+  "id": "AI-005",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2026,
+  "award_name": "Best Paper",
+  "paper_title": "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time",
+  "figure": "Figure 7",
+  "category": "系统架构",
+  "reuse_value": "将输入查询、特征编码、注意力解码、13维输出四组展开，支持复杂模型详细架构表达。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 284,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0160",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2512.08924",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "b8bb0a667a7c4e6d4206585adaca6711e1d900678e8fa0a80061e4c2535bc452",
+    "pdf_page": 12,
+    "crop_bbox": [
+      58,
+      155,
+      555,
+      314
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-005/AI-005.pptx",
+    "svg": "figures/ai/architecture/AI-005/AI-005.svg",
+    "preview": "figures/ai/architecture/AI-005/preview.png",
+    "reference": "figures/ai/architecture/AI-005/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 4
+  },
+  "hashes": {
+    "pptx": "514df1862b82595a04ec689b6f4f0f62b2b9f740de9ad86a7610494a88bcd915",
+    "svg": "e9503c2d0d49c0a256a2b8c86bb7ce377b511b2177cbe8ac631d58adfba0b357",
+    "preview": "ffd44eb57412d942a213ac95924693ec5ad92663c503e60bd2dffb89eb281c6b",
+    "reference": "90dc3190c7a5df7bde496817dfca57d289cbabf9c53234edf6b85c2ee0eb0924"
+  },
+  "original_local_pptx_sha256": "3d1577a5ee32df4a6b5c739aabf77c5a6ca69feb3fa521d7fa02aac276e84a8f",
+  "visual_payload_sha256": "07258d9e42a82198127537edf81379cfea2d33c01bf71eba3b185ce3ebaafb38",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-015",
+  "domain": "AI顶会",
+  "conference": "ICLR",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Learning Interactive Real-World Simulators",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "中心模型加环形九路多源数据，让广泛覆盖一目了然；适合数据覆盖/统一接口说明图。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Source imagery retained; central UniSim uses Arial Bold because Arial Black is unavailable in the renderer. Category text remains fully editable.",
+  "object_counts": {
+    "shapes": 38,
+    "groups": 0,
+    "native_text_runs": 18,
+    "images": 10
+  },
+  "paper_id": "PAPER-0224",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=sFyTZEqmUY",
+    "award_url": "https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/",
+    "pdf_sha256": "956d21809f36cc107c82b3a32177ea555cacf032b3bde014fed1b958bc09c295",
+    "pdf_page": 2,
+    "crop_bbox": [
+      108,
+      80,
+      504,
+      258
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-015/AI-015.pptx",
+    "svg": "figures/ai/method/AI-015/AI-015.svg",
+    "preview": "figures/ai/method/AI-015/preview.png",
+    "reference": "figures/ai/method/AI-015/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 33
+  },
+  "hashes": {
+    "pptx": "4c2343e6df087955c08cb45961d9e2b28a7ac2d3ca36bfb4d04981b0d0ab136e",
+    "svg": "2e1fa8af6d5ed158b329909c9b07870564566b97bf8e75592947ec2bd78cbc9a",
+    "preview": "3aafa7d55c3b118fb2f5f29a4fde9b12f551858a17303d2f647fabb0fa65a0f9",
+    "reference": "a32738d6df94e8d9438d6a20b859cb0df0a24513a16856e7335724fd0d9f71f7"
+  },
+  "original_local_pptx_sha256": "5a692b06c672bfa13ba45d8ef3d69f0d3cd15e12da830eab39a7e60a2a628288",
+  "visual_payload_sha256": "ceb703e236984b2e0259b45922dfb92960fc71ff392faa6a07bbbd6482c4ca8e",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

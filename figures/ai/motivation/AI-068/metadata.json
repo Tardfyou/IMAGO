@@ -1,0 +1,57 @@
+{
+  "id": "AI-068",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "左侧完整任务规范，右侧按删除工具/参数/结果和用户/内部消歧展开多种任务变体。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 98,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0156",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1886/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "1aed86dc7bd7c0cda682ffd8a505a2747bfed9c07f03653c37b328723f259460",
+    "pdf_page": 5,
+    "crop_bbox": [
+      71,
+      71,
+      525,
+      253
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-068/AI-068.pptx",
+    "svg": "figures/ai/motivation/AI-068/AI-068.svg",
+    "preview": "figures/ai/motivation/AI-068/preview.png",
+    "reference": "figures/ai/motivation/AI-068/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 65
+  },
+  "hashes": {
+    "pptx": "9a85364da45b6b194ee99c28b6762cfc3e38cd5689cd89444acf6f455fab61dd",
+    "svg": "c2062af5e7b237e0e5d0efc8bc96ef313beffb981f34fa8fcfcc5da401fd12b7",
+    "preview": "56051044bced6d0d49975283255003328878248b6822ee5978930b0a66b54d89",
+    "reference": "30a6237f163f9e96eee6829ddfe338c5ad5fe5b6f910e07a160232fafde351bc"
+  },
+  "original_local_pptx_sha256": "cd011d145c588b7c75fbedb29256398d3081bdfb97ea8dfa2a9583161a795e68",
+  "visual_payload_sha256": "ab422a28ff833a146314829a1731015453783165feefd01a0a7cb2380abf650b",
+  "dedup_note": "区别AI023执行环境生成总览，本图专门展示从基准任务构造不可解和歧义对照的方法。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

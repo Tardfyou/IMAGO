@@ -1,0 +1,57 @@
+{
+  "id": "SEC-081",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Download More RAM: Dismantling Windows Operating System Defences with Mischievous Memory",
+  "figure": "Figure 2",
+  "category": "威胁与攻击",
+  "reuse_value": "六个有图标和具体中间状态的阶段按蛇形连接，读写能力逐步扩展到完整系统影响，适合分阶段能力建立的表达。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 48,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 20
+  },
+  "paper_id": "PAPER-0005",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-collins.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/collins",
+    "pdf_sha256": "c4852dcc1d9f5b1f6e8bfe17d31280e97ddf7ed746164e4803f48295a3082bb9",
+    "pdf_page": 5,
+    "crop_bbox": [
+      61,
+      72,
+      557,
+      293
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-081/SEC-081.pptx",
+    "svg": "figures/security/threats/SEC-081/SEC-081.svg",
+    "preview": "figures/security/threats/SEC-081/preview.png",
+    "reference": "figures/security/threats/SEC-081/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 75
+  },
+  "hashes": {
+    "pptx": "6e566c2165df49067bacde0a72a7274756f57d5fcf9b79483db3823cfbed252d",
+    "svg": "5564d2164038aca3c2fcb0b29a7be69c125b4e8da8cd69ebbc499b0a31251343",
+    "preview": "355e640f8de1f473f6cc625e69af684d44aa268e1d27a38d7bab6f367c26f488",
+    "reference": "4b40dc5379f1f52352edfa6cdf346f020bd61fb7c85bb14f9acfaf0cf8d32d73"
+  },
+  "original_local_pptx_sha256": "a8ea4cb74018138b8b02daef15649a9523bd57d14f9bbd341797fd28e088f231",
+  "visual_payload_sha256": "e892c214d03789b44c0a64515d84a579fa9ef081738deec1bfad06d93d88fa10",
+  "dedup_note": "新增从配置、稳定、读取、写入到结果的六阶段能力升级链；与既有单次内存攻击或线性模块框架不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

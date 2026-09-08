@@ -1,0 +1,57 @@
+{
+  "id": "SEC-093",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Spec-o-Scope: Cache Probing at Cache Speed",
+  "figure": "Figure 14",
+  "category": "实验图表",
+  "reuse_value": "64个候选组排列，淡蓝背景散点与粉色正确候选、红框最佳点对比，保留原图显示的坐标、点位与高亮关系。；复刻边界：按原图可见点位、投影轮廓及色彩区域转写原生对象；未恢复或新增原始实验数值。重叠或遮挡部分不推测。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1265,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0070",
+  "source": {
+    "paper_url": "https://eprint.iacr.org/2024/775.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "0ad4776ad3c302951c780aaaab07596b3f6e1ac9c1756b38483c012486b3561d",
+    "pdf_page": 14,
+    "crop_bbox": [
+      83,
+      87,
+      530,
+      207
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-093/SEC-093.pptx",
+    "svg": "figures/security/experiments/SEC-093/SEC-093.svg",
+    "preview": "figures/security/experiments/SEC-093/preview.png",
+    "reference": "figures/security/experiments/SEC-093/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 90
+  },
+  "hashes": {
+    "pptx": "934d0c860800cf8a0141f7a16c520fdcdaeacfd030d3bd1708311076da238783",
+    "svg": "d0eb88284cd02b3f56227143cd4635b81abe689274a16e4ddecde0f80f2f2257",
+    "preview": "98cdfca8d3101e09a571824cd1f2f4f95452c9a638362cb9ff5ffc1e84c3033c",
+    "reference": "ad5060715e3c7e7350189286f28329369d32bf36113368a65c774ecc4aed6814"
+  },
+  "original_local_pptx_sha256": "8b862858f9557921f78c6e5c8dc4d0c7e6ba32c41d71d79b7d9344a7275b6633",
+  "visual_payload_sha256": "f860400e9352959578543e3f1e0ac8d2ee26edc791b0e8f45bc22e3d2a10ee67",
+  "dedup_note": "新增海量候选背景与正确候选子集同时突出显示的离散分组散点，可用于搜索/定位实验；与性能折线和二元覆盖格不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

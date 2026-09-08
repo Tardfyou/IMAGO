@@ -1,0 +1,57 @@
+{
+  "id": "SEC-087",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "四个编号阶段包含浏览器编排、静态和动态图融合、带语义标记的图查询与验证浏览器栈。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "四阶段框架、所有阶段标签/模块文字、模型组合、查询节点、图数据库节点与关系及跨阶段箭头均原生。22个原浏览器/工具/设备小图标独立保留；TNR和Courier New替代原图字体，图标比例及部分字距有轻微近似。",
+  "object_counts": {
+    "shapes": 124,
+    "groups": 0,
+    "native_text_runs": 63,
+    "images": 22
+  },
+  "paper_id": "PAPER-0073",
+  "source": {
+    "paper_url": "https://trouge.net/papers/sp24_request_hijacking.pdf",
+    "award_url": "https://www.ieee-security.org/TC/SP2024/awards.html",
+    "pdf_sha256": "d8960378b9caa7e29fae25e1fe5394ef8411abaac8f8c6060f4119a9ce203470",
+    "pdf_page": 7,
+    "crop_bbox": [
+      63,
+      84,
+      547,
+      198
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-087/SEC-087.pptx",
+    "svg": "figures/security/architecture/SEC-087/SEC-087.svg",
+    "preview": "figures/security/architecture/SEC-087/preview.png",
+    "reference": "figures/security/architecture/SEC-087/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 27
+  },
+  "hashes": {
+    "pptx": "e698991967992b2914fdd931796c91e3044535a38ad40dc2095c79ebd8f24883",
+    "svg": "ba8c16cbdc38e3ab2ddbf4f2d72f699a3158783200899b2f7fda15fc84527125",
+    "preview": "4079aec2db83f9813ead418b6985cbea61bee637053b28a4c35a485a2251f77a",
+    "reference": "698cbc0015596361130f4d4a363ec23b274caa3304ffbe1783cb2e5db3b52ecd"
+  },
+  "original_local_pptx_sha256": "618f1a81e0b05ed76d66d46770b5753c41ae74bdb6b633693a24a8880bddc45f",
+  "visual_payload_sha256": "0bb490ade28bd848601159d9a74e301857ff1fbb54ecb997ff223ece3cc23ef9",
+  "dedup_note": "新增面向浏览器异步行为的动态污染流与静态图合并数据路径；与既有二进制/内核fuzzer模块图的对象和关系不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

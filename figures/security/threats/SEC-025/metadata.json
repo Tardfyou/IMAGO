@@ -1,0 +1,57 @@
+{
+  "id": "SEC-025",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "合法用户与攻击者并排共享同一资源视图，红色路径突出越权位置，适合授权、隔离和身份混淆场景。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 48,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0026",
+  "source": {
+    "paper_url": "https://seclab.cse.cuhk.edu.hk/papers/ccs25-BACScan.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "bf68ec086a6d51c2ad00c69b42d948fc18de0706a40c5423ab83d91434461c36",
+    "pdf_page": 3,
+    "crop_bbox": [
+      53,
+      82,
+      293,
+      190
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-025/SEC-025.pptx",
+    "svg": "figures/security/threats/SEC-025/SEC-025.svg",
+    "preview": "figures/security/threats/SEC-025/preview.png",
+    "reference": "figures/security/threats/SEC-025/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 66
+  },
+  "hashes": {
+    "pptx": "03367bb5a0c427ecec263edb96eb7fcf5b50216b96c67efd7347bb5144694bb9",
+    "svg": "ebe8417357eabd53f0d171608527d19f282bafe015f510639ab4d4036ac2f4f2",
+    "preview": "2e5b3a7047f3a202843a3a19096714546bfdbf1fdbd23e073bc5836baabd68fd",
+    "reference": "5411244274ce39ad008c5897bee4f6f4ab5da7bbce2b7665cc309fa34f2c8015"
+  },
+  "original_local_pptx_sha256": "3c12cd7ebf159f9cc71ecc0c56782e29e5c105ccbc75bbb80d1f757648bb9a9f",
+  "visual_payload_sha256": "249216ac0b2db624fc84c3e1c825c3c86cd5598359177e01879f9d088522c3aa",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

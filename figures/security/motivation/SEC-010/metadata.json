@@ -1,0 +1,57 @@
+{
+  "id": "SEC-010",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries",
+  "figure": "Figure 4",
+  "category": "动机示例",
+  "reuse_value": "把输入、局部LLM询问、结构恢复和决策过程排成可追踪的多面板示例；标色直接联系代码对应位置。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 415,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0067",
+  "source": {
+    "paper_url": "https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "5adf57724c8df938eac64bade56fd163f536c6cc87465fe42b880f0e2902f284",
+    "pdf_page": 4,
+    "crop_bbox": [
+      58,
+      85,
+      561,
+      280
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/motivation/SEC-010/SEC-010.pptx",
+    "svg": "figures/security/motivation/SEC-010/SEC-010.svg",
+    "preview": "figures/security/motivation/SEC-010/preview.png",
+    "reference": "figures/security/motivation/SEC-010/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 56
+  },
+  "hashes": {
+    "pptx": "bd7c1b87491bf3856c8048eca2ad0dfeac1f05c1899ba3568e7c8c042dade107",
+    "svg": "3f362c845b5431b3558a806a55fcb3c89cdf9de2f0f33d5f8d7dbfefcea567cf",
+    "preview": "06e8ba11900c87c81093a608316f21b8c0af6dc8d55eba1788958d29e81549ba",
+    "reference": "ea5c287c6eee3e5b49cee39bc275f6d1b850694f8b2a4c352f66bad7c6e1b9c0"
+  },
+  "original_local_pptx_sha256": "75032691b067a23f1a214b473c4455635e402e4d1caa854efd5fc07127235476",
+  "visual_payload_sha256": "07e3e220d3a5073b73bd707c249129d1ae0f8f5dfc14b3ca9e644fe37365b5b8",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

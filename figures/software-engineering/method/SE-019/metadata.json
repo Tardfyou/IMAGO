@@ -1,0 +1,57 @@
+{
+  "id": "SE-019",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "HoarePrompt: Structural Reasoning About Program Correctness in Natural Language",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "三次循环展开与三种归纳提示并排对应，用状态文本与输出高亮解释为何更多结构化证据改善判断。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 191,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0082",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2503.19599",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "01c8abc2905e3874168baac715bc9c2bf45eaf32ba64283b49bdf9ac8099b1c1",
+    "pdf_page": 3,
+    "crop_bbox": [
+      52,
+      82,
+      560,
+      375
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-019/SE-019.pptx",
+    "svg": "figures/software-engineering/method/SE-019/SE-019.svg",
+    "preview": "figures/software-engineering/method/SE-019/preview.png",
+    "reference": "figures/software-engineering/method/SE-019/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 41
+  },
+  "hashes": {
+    "pptx": "14f4cb49cb7681462cf2780aa9080a460539b125f88db5da12cd151acc866836",
+    "svg": "65be021c15f23bb68dd96d438320abf43e1033ce31e7ae96164ebbb74d7cec76",
+    "preview": "f7d8620d4be7540a03bc3038c137ff7d565dd3671121e4d707181baba0a15b5c",
+    "reference": "494d41d34ef461ada217d597fc02f1aadb214400ffb25e731980f11025859981"
+  },
+  "original_local_pptx_sha256": "83a07f22bcc14ffa96cc367ea0367fedda86f945c512c8bc0d537484d5bb72af",
+  "visual_payload_sha256": "88277f39d7dfcb4771c2c9dd132ca2313d25199e5aea6bb3e067d3a02b8ef40e",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

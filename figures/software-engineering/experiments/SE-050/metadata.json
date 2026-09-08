@@ -1,0 +1,57 @@
+{
+  "id": "SE-050",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "以流量宽度保持100个样本的分布，连续呈现原标签、人工真实性复核、上下文依赖三层归因，适合数据质量审计和多阶段筛选统计。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 76,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0121",
+  "source": {
+    "paper_url": "https://mpi-softsec.github.io/papers/ISSTA25-topscore.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "32a910e22375508d35d0ced1edfb61349d6d73fdd80d766951f0f989fe3f88b1",
+    "pdf_page": 11,
+    "crop_bbox": [
+      45,
+      98,
+      441,
+      228
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-050/SE-050.pptx",
+    "svg": "figures/software-engineering/experiments/SE-050/SE-050.svg",
+    "preview": "figures/software-engineering/experiments/SE-050/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-050/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 70
+  },
+  "hashes": {
+    "pptx": "754b631690632d14e8e6c36959f103f8bca198db2e86f7bdee3bfe9d3842411f",
+    "svg": "f617b1dfc783c4ab233242ac2a36b94ee6739905ba489976ef73c14c2fa8492f",
+    "preview": "8fb06053e4ba4a9998294b4df8a8132968a933709c4b5597bdf39d20989a452e",
+    "reference": "f2a0595f773c7cb72027d251e89ebd8119da7d33f9af08deadfcd8a0257b8d0e"
+  },
+  "original_local_pptx_sha256": "c3bcfbf6738d8e532f5f090235cf78094a7ae01fd703bd80e67a04ca7e69ea24",
+  "visual_payload_sha256": "8c9507e5cad1855539802373c449393eae8a1624b4102e11e6b93788e7a53d28",
+  "dedup_note": "旧75和本批前19没有按比例宽度连接多级类别的Sankey；三个并列同尺度小图能比较不同数据集的标签噪声与语义范围，不重复普通流程箭头。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

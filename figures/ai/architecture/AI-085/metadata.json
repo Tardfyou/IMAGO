@@ -1,0 +1,57 @@
+{
+  "id": "AI-085",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Best Paper – AI for Social Impact Track",
+  "paper_title": "Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "输入不同城市样本，每层共享主干和区域专家并行，并用分割/国家分类/信息约束共同训练。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 109,
+    "groups": 0,
+    "native_text_runs": 48,
+    "images": 3
+  },
+  "paper_id": "PAPER-0162",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/41227",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "f4040b83f5f09ba0619888d3e92f236bc226d31c2e434451ae81b587803de31a",
+    "pdf_page": 4,
+    "crop_bbox": [
+      57,
+      53,
+      558,
+      250
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-085/AI-085.pptx",
+    "svg": "figures/ai/architecture/AI-085/AI-085.svg",
+    "preview": "figures/ai/architecture/AI-085/preview.png",
+    "reference": "figures/ai/architecture/AI-085/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 24
+  },
+  "hashes": {
+    "pptx": "3c9fece342b08b1b117005f57326a3384ba442cf7a49710bea851f4a710b8042",
+    "svg": "a77dac7bc15e8647c0e4db9d04b4785136ab1e380d7e600af81e3911705e8ae9",
+    "preview": "598e30ce10cde45b5c3cc5186e7d8b07c64b5d6d1660f806c84d10c30b176b3c",
+    "reference": "f8ab092021ee2c7ae2658a6135f11c914bf0ea1a073319b45542495f9f4c3fea"
+  },
+  "original_local_pptx_sha256": "ff2429bbc29be04cf9a5f9dfcc9c55a36c3fc4195c843618dbbb85c65ee79e81",
+  "visual_payload_sha256": "4f76765b5d273ec97a1d02eb32349663590a4a9da9b3f6685e95f321de1a43fd",
+  "dedup_note": "区别已有通用Transformer，本图清楚组织跨地区专家、共享参数和多监督头之间的联系。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-018",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "左右两层边界划分生成和执行，丰富设备图标、双VM差分、覆盖率和看门狗反馈展示完整系统。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 110,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 20
+  },
+  "paper_id": "PAPER-0007",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s1486-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "6bc81c9422417724952a53e1617716472e6b3d53679cc18b6959535fbc3495cc",
+    "pdf_page": 6,
+    "crop_bbox": [
+      50,
+      49,
+      559,
+      245
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-018/SEC-018.pptx",
+    "svg": "figures/security/architecture/SEC-018/SEC-018.svg",
+    "preview": "figures/security/architecture/SEC-018/preview.png",
+    "reference": "figures/security/architecture/SEC-018/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 3
+  },
+  "hashes": {
+    "pptx": "6c333595a493832f5a706e0cce571715773344fa43f892d749dfd6ca44a75ea4",
+    "svg": "5283004131d30e0f1d9a389ee43890100328cb3d0f7f92ebe26a03fb796f8bc5",
+    "preview": "78a24748d90a2e36c0c941e9e593ceee2bfd78579c75d2974389989c0dc77c36",
+    "reference": "1c4795cf861d2e01c909466c41433494b763a1b185c7be9917492b8c281596df"
+  },
+  "original_local_pptx_sha256": "e96bb18b2a08bbc67c7e890a0701421445dc2c56d10720138354e0011f74bebc",
+  "visual_payload_sha256": "9c3e5a1b094b9bf9ab13c3da3525bdbabe89a8e12c58515e5457415797095be9",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

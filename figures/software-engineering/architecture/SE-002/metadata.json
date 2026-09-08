@@ -1,0 +1,57 @@
+{
+  "id": "SE-002",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "双路径语义与语法提取，加独立训练支路及三段反馈回路；适合模型增强程序分析系统。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 98,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 43
+  },
+  "paper_id": "PAPER-0107",
+  "source": {
+    "paper_url": "https://chenbihuan.github.io/paper/fse25-wu-mystique.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "fc60c9bb3dd22d736256c17be5b05f310fd58117f23abfca27a73035e7df6599",
+    "pdf_page": 6,
+    "crop_bbox": [
+      47,
+      144,
+      437,
+      225
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-002/SE-002.pptx",
+    "svg": "figures/software-engineering/architecture/SE-002/SE-002.svg",
+    "preview": "figures/software-engineering/architecture/SE-002/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-002/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 4
+  },
+  "hashes": {
+    "pptx": "6e9c8bd96054dd697312807919e707a8f9ad90f047c3cb4b6e4601914adb1876",
+    "svg": "de414f0911c0da60cf1005d67a94fdc122357731ab887df73b5cc18a773518ce",
+    "preview": "8a21e13cd336212aff9c50345a6c34f7f59acfa92efc3b73aff34d6c61f5844f",
+    "reference": "2628e870d43828a7d9dbb5a5a018c30dc87e126a6a6224384a4324c55cf3af4a"
+  },
+  "original_local_pptx_sha256": "f4db3accc5a31f7288e9a7fe1fa3db7e644491ad028f7d4e15b43c86c00c6459",
+  "visual_payload_sha256": "659ab99440c6d569a9eb23aadff14caef41fe73f9b2d5fdd9104cbaf35abf1d6",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

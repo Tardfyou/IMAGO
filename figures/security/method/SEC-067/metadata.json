@@ -1,0 +1,57 @@
+{
+  "id": "SEC-067",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "PAnDA: Rethinking Metric Differential Privacy Optimization at Scale with Anchor-Based Approximation",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "二维划分服务器/用户和Phase I/II，粗箭头显示上传下载，底部红括号将两阶段泄露与总预算关联。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 144,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 37
+  },
+  "paper_id": "PAPER-0038",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2509.08720",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "1b655e34769d58cccb854dea249019ea9e8dc2a708b363bd557802a1a3445e0a",
+    "pdf_page": 5,
+    "crop_bbox": [
+      61,
+      84,
+      291,
+      320
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-067/SEC-067.pptx",
+    "svg": "figures/security/method/SEC-067/SEC-067.svg",
+    "preview": "figures/security/method/SEC-067/preview.png",
+    "reference": "figures/security/method/SEC-067/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 45
+  },
+  "hashes": {
+    "pptx": "d8fb299208c4eeaff506414443aee9326f47d39eef8f2cf15cf16c5d4395035f",
+    "svg": "5741ed8d621069ee4568faac4022498b37364200e431369bc38ed096c993149d",
+    "preview": "3784688c7608d36af8e98afc6abe83db1f32a755ae5d91fe2026ca9c2dc62175",
+    "reference": "5498766f278397255de0fe377f4c5e29bd98724f8fe0230d583a81fa99228556"
+  },
+  "original_local_pptx_sha256": "8f82ef40cccc9893a7dee744df2bd91349f5c957849ec6e4071c56ed6824123f",
+  "visual_payload_sha256": "94efd93716e263afbfbee90ebf898014af7354061e405c8109910f58c85229b2",
+  "dedup_note": "新增参与方×阶段二维分区以及预算括号联动，区别于普通客户端/服务端链路与训练推理两阶段图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

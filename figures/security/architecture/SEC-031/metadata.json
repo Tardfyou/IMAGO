@@ -1,0 +1,57 @@
+{
+  "id": "SEC-031",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Blindfold: Confidential Memory Management by Untrusted Operating System",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "纵向堆叠用户/OS/守卫/硬件/内存层，跨层箭头明确区分语义访问与普通访问，可复用到TEE、沙箱和权限隔离。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 138,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 24
+  },
+  "paper_id": "PAPER-0027",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-294-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "cf2f7cdf474a8ada90c543510dcc51efa66984ee3763f18369a7f270765478f0",
+    "pdf_page": 5,
+    "crop_bbox": [
+      49,
+      49,
+      304,
+      241
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-031/SEC-031.pptx",
+    "svg": "figures/security/architecture/SEC-031/SEC-031.svg",
+    "preview": "figures/security/architecture/SEC-031/preview.png",
+    "reference": "figures/security/architecture/SEC-031/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 12
+  },
+  "hashes": {
+    "pptx": "23109ea90572694936a987a7850fce4497753ad9c6171c001aa1174f0bb8aee8",
+    "svg": "c42c9f53cc1cb48cc850b18ed6ca528d3e4d502e96f7c30779bb71db424a7205",
+    "preview": "d6571c83d54a00c6328da58df3927cebbb212f9a29f05a6265af241d404791b6",
+    "reference": "602315ef45a273e6561ad018c29ba96b448e39c28591019aded94f2992117764"
+  },
+  "original_local_pptx_sha256": "7ffc4150ae60454fb74450fab0af3dddb01d6b01a434c00890f374c6ff8f855c",
+  "visual_payload_sha256": "6f0e3ed53c3c1d5e7b9d94db91ea71a653bf16370f94cb58ca0c3463edda8005",
+  "dedup_note": "现有UntrustIDE是嵌套边界，此图新增纵向特权层与并列页表/中断表切换；非已有循环检测或LLM流水线。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

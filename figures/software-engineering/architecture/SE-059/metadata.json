@@ -1,0 +1,57 @@
+{
+  "id": "SE-059",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "One Size Does Not Fit All: Multi-granularity Patch Generation for Better Automated Program Repair",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "上方两阶段训练和下方完整推断带贯穿同一组三个生成器，彩色遮罩样例、搜索、重排及验证图标对应数据与模型的变化。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "训练/微调/推断区域、代码与遮罩、生成器、连线和文字均原生重建；10个原图小图标独立保留。Arial替代源字体，字距、圆角和虚线节距存在轻微近似。",
+  "object_counts": {
+    "shapes": 234,
+    "groups": 0,
+    "native_text_runs": 129,
+    "images": 10
+  },
+  "paper_id": "PAPER-0148",
+  "source": {
+    "paper_url": "https://shangwenwang.github.io/files/ISSTA-24.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "0907f62e09571dbeac5f8162562e49fc06162acae42cf5bdace26f1370615710",
+    "pdf_page": 5,
+    "crop_bbox": [
+      67,
+      86,
+      556,
+      234
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-059/SE-059.pptx",
+    "svg": "figures/software-engineering/architecture/SE-059/SE-059.svg",
+    "preview": "figures/software-engineering/architecture/SE-059/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-059/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 24
+  },
+  "hashes": {
+    "pptx": "286036074b0faf99c91800707f841bba851745d34bcd7726bc1755a8fa490276",
+    "svg": "b6fd7fa5d1373ae3785fd6ebc211339997cd4523b95e54c779bba1082bdd5977",
+    "preview": "007f50c3c835c127572f969641da08a1c17d8e9d0692b1f56a19fb5c0312240d",
+    "reference": "4bef528897298089c4a5ae0fefd35504ca3e6f27e276bfb25071144786edf0a2"
+  },
+  "original_local_pptx_sha256": "43d5a2d92bd4c6c19eb825188ffee0ee1fb90cf62cd1f74705f5ca10457e93f6",
+  "visual_payload_sha256": "0107dad7c39332413e692fcf521f4081406b457c27c5624510603e3d01014c66",
+  "dedup_note": "旧库没有用同一叠层生成器贯穿预训练、微调、最终推断的三段图；多粒度掩码表格直接说明训练任务如何映射到实际修复。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

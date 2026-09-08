@@ -1,0 +1,57 @@
+{
+  "id": "AI-020",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Generative Image Dynamics",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "左侧训练/推理分支、中央三维U形网络、右侧频率注意力放大，适合高维表示生成的说明。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 89,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 26
+  },
+  "paper_id": "PAPER-0220",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Generative_Image_Dynamics_CVPR_2024_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "1e5d3a415085fdecf652e89561542271f52d64574f58102fc104f455c8586447",
+    "pdf_page": 4,
+    "crop_bbox": [
+      65,
+      71,
+      534,
+      225
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-020/AI-020.pptx",
+    "svg": "figures/ai/architecture/AI-020/AI-020.svg",
+    "preview": "figures/ai/architecture/AI-020/preview.png",
+    "reference": "figures/ai/architecture/AI-020/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 9
+  },
+  "hashes": {
+    "pptx": "a4e3a78a0dd5d5c6a0c2a12de0a355f08966c36a5318761139884fd8486d7f3c",
+    "svg": "b8194ac4cf3f068d4ec559657ea9ace5afdd17ad01a8df03329b0faa605ec132",
+    "preview": "f3c36ad3c4de10952efc8486e4223a3339878f31c1abe43baa231ba7ad532032",
+    "reference": "9350fd9511257d8a94234d4e2484289050e2742f001220d4247f5c6269ab4d82"
+  },
+  "original_local_pptx_sha256": "35064385d8903bbf3e8587798e57700b059924836ebe4c03d4687995f10039ae",
+  "visual_payload_sha256": "d2f2474ebff103f2a0c4aad1d4a7c0e60cca17b04deff01b0d424d37648e571c",
+  "dedup_note": "区别旧视频/世界模型框图：此图显式呈现频域体积与跨频率层，不是普通输入-模型-输出布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

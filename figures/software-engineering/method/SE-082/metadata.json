@@ -1,0 +1,57 @@
+{
+  "id": "SE-082",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow",
+  "figure": "Figure 6",
+  "category": "方法细节",
+  "reuse_value": "上层把代码片段补全、语法树、字节码和匹配信息交叉组织，突出对补全控制流的裁剪；下层连接执行逻辑、状态、路径条件和求解器。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Main dashed frames use native segment paths; source dash-dot spacing approximated.",
+  "object_counts": {
+    "shapes": 975,
+    "groups": 0,
+    "native_text_runs": 35,
+    "images": 15
+  },
+  "paper_id": "PAPER-0143",
+  "source": {
+    "paper_url": "https://nzjohng.github.io/publications/papers/issta2024_2.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "5509390971a9de30eaae2dc372b420e0e6edca2aabbb1d64a4716649d17f1c3d",
+    "pdf_page": 7,
+    "crop_bbox": [
+      317,
+      83,
+      559,
+      253
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-082/SE-082.pptx",
+    "svg": "figures/software-engineering/method/SE-082/SE-082.svg",
+    "preview": "figures/software-engineering/method/SE-082/preview.png",
+    "reference": "figures/software-engineering/method/SE-082/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 47
+  },
+  "hashes": {
+    "pptx": "decd32b8b26a0417fc0801a84c4c7c25320166ed75ebea8a8a4b18c535aecf29",
+    "svg": "f364088fde908dcc66983d4f1ee665239034261d656754c543f94186dd9ce191",
+    "preview": "04b451554c047592f2cba850cec249543270e935fa087d75899223c39de89964",
+    "reference": "b93935ebefb8ae2bb17caa08c16fc03bb99fd2ac9f5d86adc98dc0aed77fa186"
+  },
+  "original_local_pptx_sha256": "7e26a264ce9cf20ab869d54a995537588ed2d4488bb28a307734aab57de30862",
+  "visual_payload_sha256": "5ff95ba3a07f7b975bb6561554947635c0793fc9d9010d9b74ed46a3487f0d4e",
+  "dedup_note": "与已有检测总览不同，本图说明用原始片段约束补全程序、再进入符号执行的内部数据依赖；双层横向结构与交叉匹配可直接借鉴。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-048",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "PairSmell: A Novel Perspective Inspecting Software Modular Structure",
+  "figure": "Figure 13",
+  "category": "研究流程",
+  "reuse_value": "上方开发阶段带与下方检测、重构、训练三条演进轨道对齐，虚实箭头表达早期启动、持续执行与间歇干预。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 36,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 25
+  },
+  "paper_id": "PAPER-0109",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2411.01012",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "26781693cf0021f26c94ce5d488b8fa3b0d935982797d1b5ec103c12b5715b58",
+    "pdf_page": 9,
+    "crop_bbox": [
+      56,
+      590,
+      290,
+      698
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-048/SE-048.pptx",
+    "svg": "figures/software-engineering/workflow/SE-048/SE-048.svg",
+    "preview": "figures/software-engineering/workflow/SE-048/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-048/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 89
+  },
+  "hashes": {
+    "pptx": "1b753847fea2242168de577bd4727735a679a25c70b8d1ad0b7a875f1c093b54",
+    "svg": "98db0f7d11b25ac78abdc39e8603fd398ad3447a91a0caeca9d0547110867650",
+    "preview": "12d8973c45a222c0b2cabacca3804ee37bd93581b580eaa47dfb76d3dcf90ba4",
+    "reference": "5facc104fd43e60391941811ff65a1f7cd404c065a8d98be57dd22c21d46061c"
+  },
+  "original_local_pptx_sha256": "d65474f98c624f8ad8ce8c3c61baa328cf1af802226f7a7281e7d9cc9752f920",
+  "visual_payload_sha256": "4eeb820f913634bec702df60d3b281c961548970d97ced9cc9a294701fa6f23b",
+  "dedup_note": "旧库缺少多轨时间线/研发路线图素材。本图能复用为研究部署路线与工具进入研发周期的位置说明，和普通步骤流水线不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

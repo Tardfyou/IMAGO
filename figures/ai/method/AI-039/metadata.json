@@ -1,0 +1,57 @@
+{
+  "id": "AI-039",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Theme Paper",
+  "paper_title": "CoSToM: Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "三阶段将对话输入、隐藏表示因果定位、对齐向量和生成行为连贯展示。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "三阶段结构、隐藏层、干预连线、文字与对话内容全部为原生PowerPoint对象；8个锁/奖杯/提示小图标独立保留。Arial与Times New Roman代替原栅格字体，曲线为80段原生折线路径，字距与圆角存在轻微近似。",
+  "object_counts": {
+    "shapes": 122,
+    "groups": 0,
+    "native_text_runs": 59,
+    "images": 8
+  },
+  "paper_id": "PAPER-0158",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.421/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "13a6645cf30e44f98f94d5ffca7164c54148c279b1b130ffab72ea6e3ddb3671",
+    "pdf_page": 3,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      236
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-039/AI-039.pptx",
+    "svg": "figures/ai/method/AI-039/AI-039.svg",
+    "preview": "figures/ai/method/AI-039/preview.png",
+    "reference": "figures/ai/method/AI-039/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 41
+  },
+  "hashes": {
+    "pptx": "604379cde702d320d5a88ec390e1cfb658c3154326688ddff3999684d9348514",
+    "svg": "6eca49afada8be8ce600c6d91eff6361b30ec16501609fc0454cb4176758c29c",
+    "preview": "990147430f7febfa07e6bab88351634438d8a82ee510fc04044a2bb216476ffc",
+    "reference": "7da9c56db5a5583250484da7389a6a8b527c0e1beb52aaf37205bfc5eb1d1285"
+  },
+  "original_local_pptx_sha256": "72a4ac8c7850d2cccf9b2bc2067e8ce6689711d896763877826ea71317522aed",
+  "visual_payload_sha256": "dc454d6be3d7d76fe735ab509c8683fd408a9cfed924cc361391885ece2a8c61",
+  "dedup_note": "区别旧RAG流程：直接用隐藏层表征与干预向量解释从内部机制到外部行为的联系。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

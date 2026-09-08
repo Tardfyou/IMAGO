@@ -1,0 +1,57 @@
+{
+  "id": "SE-025",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "四格覆盖率曲线用相同布局对照架构和编译器，适合展示随测试预算增加的收益和饱和点。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 276,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0132",
+  "source": {
+    "paper_url": "https://softsec.kaist.ac.kr/~sangkilc/papers/kim-issta24.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "6b9c41b757ae3db1392e5926d221f2f91b52a80f41bae8f24e41ba4b42795e0d",
+    "pdf_page": 8,
+    "crop_bbox": [
+      317,
+      81,
+      559,
+      265
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-025/SE-025.pptx",
+    "svg": "figures/software-engineering/experiments/SE-025/SE-025.svg",
+    "preview": "figures/software-engineering/experiments/SE-025/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-025/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 73
+  },
+  "hashes": {
+    "pptx": "3fad42d842a72f4b560218bc4e96c9b4c8fb94f8d30ba45e1ab4c32dbf09794e",
+    "svg": "e1efb00244a44fcc2bd2bf927a31e3a44525b49c4647b0c926325191c19577c2",
+    "preview": "579334762ad755a29f617df54cd00ed2712de0c90eab373ba646fbc001075e5a",
+    "reference": "5110f3e7cb97d652b5496a7ca0916d5072fd3f08997e9a8d6b4a7e3a9ba46326"
+  },
+  "original_local_pptx_sha256": "7f1e9278e34de6857b92e627cf6b3863e8f845d39a192762c744370994d11bf7",
+  "visual_payload_sha256": "6dc37261e7c922f78e3bac4d723b2eea9a76c112213120d1a5e962f602a238cf",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

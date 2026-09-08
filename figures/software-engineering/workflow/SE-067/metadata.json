@@ -1,0 +1,57 @@
+{
+  "id": "SE-067",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "“My productivity is boosted, but …” Demystifying Users’ Perception on AI Coding Assistants",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "左上采集工具与混合标注，左下研究者迭代编码，右侧展开Category、Subcategory、Label三级结果；数据流和分类示例并列。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 87,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 38
+  },
+  "paper_id": "PAPER-0127",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2508.12285",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "921b8582e5a237747e7139e058b6612b44f133e473b7197b36bdd203438135c4",
+    "pdf_page": 4,
+    "crop_bbox": [
+      60,
+      50,
+      545,
+      198
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-067/SE-067.pptx",
+    "svg": "figures/software-engineering/workflow/SE-067/SE-067.svg",
+    "preview": "figures/software-engineering/workflow/SE-067/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-067/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 93
+  },
+  "hashes": {
+    "pptx": "6b22bca462e7434050ae92339f19ca66440891620d452bf92bc7dbabb3031a59",
+    "svg": "bad9d353e0e6eef7e927374e0baec4c845d651811916ed82e509a58965a812fe",
+    "preview": "2f835edeaa4e6f3f1107ec733d9e6357598521a871293ed27029b944da0c0616",
+    "reference": "9cb705d159da485d6166aea178ad8bb3697db416052ddc80357a0c5ad0a925ca"
+  },
+  "original_local_pptx_sha256": "bef147b51bcd60e2d8bf619902c079e5afab7f291641a97839fbfbe05ffd9f2f",
+  "visual_payload_sha256": "d3dca8c8e7da7bce1cbe435685a290ad6b97dc12d24b7bad264f6dbb019b08d4",
+  "dedup_note": "与ICV实证流程的报告验证和分类覆盖不同，本图专门表现工具收集、LLM/人工混合标注与开放编码的组织方式，并把分析产物逐层展开。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

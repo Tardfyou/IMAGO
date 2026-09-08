@@ -1,0 +1,57 @@
+{
+  "id": "SEC-004",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "从知识库、代码到生成-编译反馈循环，再到排序与证明，适合RAG、Agent验证和自动修复系统。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 91,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0039",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-1357-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "905e80d90c7283b502910d5208a3664f3a08b849d99fe03d90024ec4a7ed49fb",
+    "pdf_page": 3,
+    "crop_bbox": [
+      73,
+      54,
+      560,
+      202
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-004/SEC-004.pptx",
+    "svg": "figures/security/architecture/SEC-004/SEC-004.svg",
+    "preview": "figures/security/architecture/SEC-004/preview.png",
+    "reference": "figures/security/architecture/SEC-004/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 7
+  },
+  "hashes": {
+    "pptx": "200c0121b34108357389e8f10ba2b260c58b355851e5bbbecf207f1909b15ed0",
+    "svg": "d28d5e0ded956c9f7121fcad7570726920c0009c5a7efa7947991cad5cbab9a3",
+    "preview": "1981ea2b803865d8fcc6bbf3355fb81769bfe5351773d39184c61a974204ff31",
+    "reference": "2de461eb7e0b008f8431ce58b62a772c3cd503bbdfea81eadb86d05775a7bf10"
+  },
+  "original_local_pptx_sha256": "10a05a182cc18232b97a49aacbd4c109fa29369d5637c9575c9d51de85cdbcdc",
+  "visual_payload_sha256": "1ef3833841be913a541f7a49ad594d2e18ba8ae8a57d91603edbc09a77d80717",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

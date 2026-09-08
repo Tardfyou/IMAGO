@@ -1,0 +1,57 @@
+{
+  "id": "SE-078",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "原始数据选择、上下文标注、两种任务的混淆设计和编译/系统测试/人工审查并列，用失败回路保证基准在干预后仍有效。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 120,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 7
+  },
+  "paper_id": "PAPER-0125",
+  "source": {
+    "paper_url": "https://leopard-lab.github.io/paper/ICSE2025-YuanliangZhang.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "fdc744b3e8cee8ab0c10c910fa2f7676da09f670171b8ec267d6a9f4dfd72d39",
+    "pdf_page": 4,
+    "crop_bbox": [
+      48,
+      46,
+      566,
+      192
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-078/SE-078.pptx",
+    "svg": "figures/software-engineering/workflow/SE-078/SE-078.svg",
+    "preview": "figures/software-engineering/workflow/SE-078/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-078/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 96
+  },
+  "hashes": {
+    "pptx": "462fc9740975c005c7f066dc2f1d2376223d464cc14b032bd8ef9f6137a16dbd",
+    "svg": "1edc216856bcfa6c87c7fa370550d226e83a7ee75027514beae32982966c406d",
+    "preview": "717dcaac3a94764076d4a8c046ebc34248765e271f6678b5672dc173c4d64a4d",
+    "reference": "21ef9a4191a441908d0573335d63445637f8b01ce04b4a9d7c8d4d20f43d80a7"
+  },
+  "original_local_pptx_sha256": "857f44ecf30005ae5c3a8a4976309bb339dda02426d89e63288d3086fe42082a",
+  "visual_payload_sha256": "c43df9f308388171647d9dc2b55699be7e0c637e02584fff80417e40a1aac0ee",
+  "dedup_note": "已有数据集流程主要清洗或收集；本图明确把控制输入熟悉度的干预设计与三层有效性检查组合，适合构造去污染或迁移评估。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

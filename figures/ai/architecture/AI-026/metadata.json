@@ -1,0 +1,57 @@
+{
+  "id": "AI-026",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "按输入复杂度动态分块，通过局部编码、全局Transformer和局部解码形成沙漏结构。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 352,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0185",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.453/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "69fdaab9d6b4d8b7dbbc81892029b9f568dbb75c93413b6b4cb09dc84392cfbb",
+    "pdf_page": 2,
+    "crop_bbox": [
+      305,
+      69,
+      527,
+      264
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-026/AI-026.pptx",
+    "svg": "figures/ai/architecture/AI-026/AI-026.svg",
+    "preview": "figures/ai/architecture/AI-026/preview.png",
+    "reference": "figures/ai/architecture/AI-026/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 10
+  },
+  "hashes": {
+    "pptx": "fed4b88526284fee8668a14f28cbd7f0f63cee455fcd16f155581cd56949ecd8",
+    "svg": "27329f680581ef4ff28727d646079fd893dd93cdd77183c9c723036560e5140e",
+    "preview": "6bee55679ae80bb06fce48e317020e800cce077f226c828fa231fa121848c57a",
+    "reference": "74e9fa2482af8dfdb6cd196172fa6141eeb53839a071f9f3d397600cf5368a57"
+  },
+  "original_local_pptx_sha256": "15eab6700240769920dec58387b3ded3f2430f5298848e135b983489bc9575ac",
+  "visual_payload_sha256": "32aa7c0a6bc954bdb5302bb2071c5697abca08d32fdabac6de45de661c9ac5c1",
+  "dedup_note": "区别旧AI002固定多模态token序列；本图显式表现字节长度变化与局部/全局计算边界。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-044",
+  "domain": "AI顶会",
+  "conference": "ICCV",
+  "year": 2025,
+  "award_name": "Best Student Paper",
+  "paper_title": "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "以噪声流形、源目标分布、速度向量和逐步图像对照解释三种编辑路径。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 205,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 22
+  },
+  "paper_id": "PAPER-0190",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Kulikov_FlowEdit_Inversion-Free_Text-Based_Editing_Using_Pre-Trained_Flow_Models_ICCV_2025_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "64bfae0327d60a7ba01ff7df013da3976c514698ae4381e21cf83f730a280a51",
+    "pdf_page": 3,
+    "crop_bbox": [
+      58,
+      72,
+      554,
+      266
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-044/AI-044.pptx",
+    "svg": "figures/ai/method/AI-044/AI-044.svg",
+    "preview": "figures/ai/method/AI-044/preview.png",
+    "reference": "figures/ai/method/AI-044/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 44
+  },
+  "hashes": {
+    "pptx": "def9ca077bf5cf6eeaaf5c0fac75fd1f7dc4850d13d0c20bf0c1cdf0740fad94",
+    "svg": "d89733298e7fc5714436168100ae53560ab945611859feea0ae57a711a50ea4d",
+    "preview": "d89b0be0ca7b95d54fa707a8dcadf6be78d4b9027f9f4553d1409f2f273d99bb",
+    "reference": "4201c37a1001ab3c1b9d556754751cd444fc520744a3ca554176cea9712b3f58"
+  },
+  "original_local_pptx_sha256": "2c9db6bec4675673046c27e0640f492b92e2adf339db0b2141f70975113fb2d1",
+  "visual_payload_sha256": "97431e69bcacb5c8bf5de9c6f9ea361a376712c4bec35552e65cfc0bd56940d1",
+  "dedup_note": "区别旧扩散网络框图：新增连续空间路径、速度分解及图像演化之间的对应关系。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

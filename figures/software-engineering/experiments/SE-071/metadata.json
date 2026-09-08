@@ -1,0 +1,57 @@
+{
+  "id": "SE-071",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Rechecking Recheck Requests in Continuous Integration: An Empirical Study of OpenStack",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "多组不同范围的刻度尺将各输入变量映射到Points，经Total Points连接到非线性预测概率，直观展现回归模型贡献。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 245,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0113",
+  "source": {
+    "paper_url": "https://rebels.cs.uwaterloo.ca/papers/ase2025_brus.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "40e110c8f871ae7e3734cef1a0466c0e9c688512e916065db7d3f6f09a56893c",
+    "pdf_page": 9,
+    "crop_bbox": [
+      316,
+      52,
+      560,
+      268
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-071/SE-071.pptx",
+    "svg": "figures/software-engineering/experiments/SE-071/SE-071.svg",
+    "preview": "figures/software-engineering/experiments/SE-071/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-071/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 78
+  },
+  "hashes": {
+    "pptx": "fa149d1931c3c0ef4ee828d3f0c5940fa0d851df3d9b4abbb5e0e8fdaf47dd93",
+    "svg": "8a60c741e5603fb2189569b9cf8397ac8bf76f3d9be6f10d8364097500a1353c",
+    "preview": "fc00d1ed2397645bbe458bd00358db56301b487d9f3238b9af8abac32241ed00",
+    "reference": "bc9f852fc74c650beb6626a301c8d0a86b1126faf20f45114402d2e410ddd36f"
+  },
+  "original_local_pptx_sha256": "f50cacfc6d1164ce7e53dd9b417af50848427ff41f7844ac9b574ae2147fcd03",
+  "visual_payload_sha256": "5ce454e0fbeff01cca16fc35ee64f9b5c7acf4430d51d7344303f0d2923997b6",
+  "dedup_note": "旧库没有Nomogram多尺度列线图。它为可解释预测模型提供无需逐条公式的视图，与时间线、散点和柱形的表达功能不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

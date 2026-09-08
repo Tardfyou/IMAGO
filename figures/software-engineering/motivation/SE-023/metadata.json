@@ -1,0 +1,57 @@
+{
+  "id": "SE-023",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "SEAlign: Alignment Training for Software Engineering Agent",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "四类失败实例分块呈现，最后用回路示意重复动作；适合从真实失败归纳问题类型的 Figure 1。",
+  "editability": "原生文字与形状",
+  "limitations": "原生重绘保持主要布局、标签与关系；细小字体/图标造型和曲线轮廓存在轻微差异。SE-009仅原机器人/点赞艺术图作为独立小图保留，SE-010/023/024为零图片PPT。",
+  "object_counts": {
+    "shapes": 120,
+    "groups": 0,
+    "native_text_runs": 35,
+    "images": 0
+  },
+  "paper_id": "PAPER-0085",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2503.18455",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "bf282a186e3c82facf8c37ac6c1d9ecb2673e1be2021a5e82a775e6358d0e883",
+    "pdf_page": 2,
+    "crop_bbox": [
+      317,
+      82,
+      559,
+      224
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-023/SE-023.pptx",
+    "svg": "figures/software-engineering/motivation/SE-023/SE-023.svg",
+    "preview": "figures/software-engineering/motivation/SE-023/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-023/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 57
+  },
+  "hashes": {
+    "pptx": "409a0c8dd71211d304d5944e807d0c7ac9fc273d01cfe7600a4695503b9199c3",
+    "svg": "b1957594bf893caf054cdc496a29fceda2e633e233074c520dbb09aaaba4f2b2",
+    "preview": "d33cf82790b840470fd2765d6a3bc53f2aef712242e3530d04e65a48c25bfa4b",
+    "reference": "0d3c7d4053742f959ebcfeb42f09153f5fed0f98aa226f9bcf54b4b7e3fd4cc8"
+  },
+  "original_local_pptx_sha256": "629f210ec776108fe528c6e8b9ba9ca40ffa7794c1e3d54ad0c2fd3736a2414a",
+  "visual_payload_sha256": "dd2ab7a0e47a1e8f19fa357fd22fd7fe43d64918565377a8881caa4e17cb0fd7",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

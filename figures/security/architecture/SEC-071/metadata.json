@@ -1,0 +1,57 @@
+{
+  "id": "SEC-071",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "上方短流程连接下方四个原理面板：邻近性、层级、优化目标与嵌入距离；子图同时保留网络拓扑、公式和嵌入示例。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 457,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 122
+  },
+  "paper_id": "PAPER-0061",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-chen-yihao.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao",
+    "pdf_sha256": "eaad1662eaf131b9a36459826be6e06fe418497b8e53b7d8f66a432bafd3af75",
+    "pdf_page": 4,
+    "crop_bbox": [
+      316,
+      70,
+      559,
+      386
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-071/SEC-071.pptx",
+    "svg": "figures/security/architecture/SEC-071/SEC-071.svg",
+    "preview": "figures/security/architecture/SEC-071/preview.png",
+    "reference": "figures/security/architecture/SEC-071/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 22
+  },
+  "hashes": {
+    "pptx": "76612b88c10d17099a6a15eb10548b6bee4ecc8493f39f5fce2dab09076a2833",
+    "svg": "7c0c5fb569d17815ec30b59730c9864e54a35017d9b211786a243ea894328c32",
+    "preview": "071105796cd6894b6260261fd150ba502ed0c0860189f63e271da0e55f2f37bc",
+    "reference": "863810cf6edf9ab0553333e986040af93b886e3c63ec9ad53d690f0fd016ed64"
+  },
+  "original_local_pptx_sha256": "3827e7478360fa865dbba59fb912c5248895028019d90f98f07b5a8921e6889c",
+  "visual_payload_sha256": "796f8faacd43eb86d45df285d9e1b486b540badef183f1dc285db04ab2dc1128",
+  "dedup_note": "新增总架构加四个数学/图结构原理面板的组合，区别于只有模块或只有神经网络层的概览。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

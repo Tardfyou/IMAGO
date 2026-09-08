@@ -1,0 +1,57 @@
+{
+  "id": "SEC-034",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "在一个系统图中并列能量转换器、传感器和反馈控制器，可迁移到CPS、机器人与真实世界控制研究。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 285,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 7
+  },
+  "paper_id": "PAPER-0041",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "f74dc38fdf640e62df4b14cdaa019304285a83e2dd70b7bec23311bcf93afb3d",
+    "pdf_page": 3,
+    "crop_bbox": [
+      49,
+      49,
+      304,
+      176
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-034/SEC-034.pptx",
+    "svg": "figures/security/architecture/SEC-034/SEC-034.svg",
+    "preview": "figures/security/architecture/SEC-034/preview.png",
+    "reference": "figures/security/architecture/SEC-034/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 13
+  },
+  "hashes": {
+    "pptx": "e0b3d563f06251f4432919573fc809774045329bb689c8020bb3d7fddcc8b34e",
+    "svg": "f8536b565377601d7999369d96d64ba159dbcb05f06310af6bb3fecb04065110",
+    "preview": "d4820e41ba8faf88a5d2b9d9a387215ca0ad776a5d4e584a3419546ddbfeb796",
+    "reference": "717eedc5ad4d091337b9b3af60cd699a93a53edc3d0249ae2765f377f46d79d2"
+  },
+  "original_local_pptx_sha256": "8ac68093a44be898da729a8955f8d905407e5bc481577f9e4717e40294a9c36b",
+  "visual_payload_sha256": "3b48580d1315008327ea650393010ee1f0f4313238ababb6bdbbebed173c0039",
+  "dedup_note": "库内尚无电路/能量流与软件控制闭环的组合架构；区别于普通数据处理流水线和神经网络模块图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

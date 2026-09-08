@@ -1,0 +1,57 @@
+{
+  "id": "SEC-035",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "One Email, Many Faces: A Deep Dive into Identity Confusion in Email Aliases",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "上下两个场景展示一对多别名滥用和相似别名冒充，角色、地址样例、平台、账户对象共同解释机制。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 45,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 16
+  },
+  "paper_id": "PAPER-0014",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s148-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "d33fd1fe041ed3795bd6d1e0049f22d7922aa3cb883e2af3b3b0f028146dc8ad",
+    "pdf_page": 2,
+    "crop_bbox": [
+      49,
+      51,
+      302,
+      227
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-035/SEC-035.pptx",
+    "svg": "figures/security/threats/SEC-035/SEC-035.svg",
+    "preview": "figures/security/threats/SEC-035/preview.png",
+    "reference": "figures/security/threats/SEC-035/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 68
+  },
+  "hashes": {
+    "pptx": "95eff4f1389af9a8d5fbb457d55f2a15b45bee8930c6f79bc57d8f19351c1dae",
+    "svg": "55b2bb353984eeae8659b3ebaae74f8a2700d0ccb13e85b4bba41ce5de61abec",
+    "preview": "c67fdbece19b215702cf22c2164633fe2e480738cdbb489831f2f3db6599de23",
+    "reference": "c819dac3b44df1aa9e30430956e3c54700a6954af50801c2618b38a3abdc4edb"
+  },
+  "original_local_pptx_sha256": "6c0ca48847bd78738988afcffb25bdc94ce4fd42e35f6ac419b1d559591b6fa5",
+  "visual_payload_sha256": "0402438000149f5005c65ee3236e5362ae9cfd48ada36bbb7df3d595ae747ebc",
+  "dedup_note": "现有BACScan仅越权角色箭头，此图新增一对多标识扩展与用户认知误判的双场景对照。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

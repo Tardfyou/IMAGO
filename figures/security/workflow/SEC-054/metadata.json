@@ -1,0 +1,57 @@
+{
+  "id": "SEC-054",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "左侧工作背景、中央研究焦点和右侧四色发现形成紧凑摘要，将观察位置和结论相连接。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 104,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 11
+  },
+  "paper_id": "PAPER-0010",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2508.18947",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "ac8fbb8e762a74df8200d0bf57f481754b8a5762b4f83751d78637a2a2951cbb",
+    "pdf_page": 1,
+    "crop_bbox": [
+      315,
+      271,
+      559,
+      373
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-054/SEC-054.pptx",
+    "svg": "figures/security/workflow/SEC-054/SEC-054.svg",
+    "preview": "figures/security/workflow/SEC-054/preview.png",
+    "reference": "figures/security/workflow/SEC-054/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 94
+  },
+  "hashes": {
+    "pptx": "27e00eb4486ebb20a12418d148b30a344892ea72f47a14ffd0e4cc231c5ca2a0",
+    "svg": "d5b229daf684537cbb37ad2583058ccea11db17947397f0d1b17cab2b6d5b0e5",
+    "preview": "030c0739978129737aadddb4fdbdaa65b3bbcbf09cdc867a89f820d16e51e431",
+    "reference": "97bb38c0de30d909ef1d3561db8c9c00e0cfd86320436cc47ec2bb2615f49522"
+  },
+  "original_local_pptx_sha256": "eb60e2a6f3cb342ded3e99507e99d73a448cf543fb7fe373ef99921d9ff02e2a",
+  "visual_payload_sha256": "202e80cf6c0dc612aa53e3a509a6279e4ad82a7c8eadca21fd8b5567bafaff2f",
+  "dedup_note": "新增真实工作流程与定性结论并排映射，区别于纯系统方法架构。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

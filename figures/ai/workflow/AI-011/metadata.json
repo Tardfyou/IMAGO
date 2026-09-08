@@ -1,0 +1,57 @@
+{
+  "id": "AI-011",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2024,
+  "award_name": "Best Datasets and Benchmarks Track Paper",
+  "paper_title": "The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "世界地图、问卷、模型交互和三组数据规模并列；适合完整呈现基准/人类研究构建过程。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Native shape reconstruction retains composition and scientific labels; small icon geometry and type metrics are approximated, not pixel-identical.",
+  "object_counts": {
+    "shapes": 275,
+    "groups": 0,
+    "native_text_runs": 75,
+    "images": 1
+  },
+  "paper_id": "PAPER-0235",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=DFr5hteojx",
+    "award_url": "https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/",
+    "pdf_sha256": "4831101696fb4fa75eae0d1ea08f522dbc13a1f0e196c98cf9e1e18cace4d8f5",
+    "pdf_page": 2,
+    "crop_bbox": [
+      108,
+      70,
+      504,
+      271
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-011/AI-011.pptx",
+    "svg": "figures/ai/workflow/AI-011/AI-011.svg",
+    "preview": "figures/ai/workflow/AI-011/preview.png",
+    "reference": "figures/ai/workflow/AI-011/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 90
+  },
+  "hashes": {
+    "pptx": "32f9b5c5a5f479b71bb3807dcb621b95f17258cc2dc29cf24c2a4556563adb22",
+    "svg": "4c1914b221d4ae863bd6e1cf43479f56e47668786ce0423c8b1ece01422835c3",
+    "preview": "dca2c7a8ff3a0320853859ce86559e61df3ba4c3246660f2f8523ea454c3ea58",
+    "reference": "b1d9bb84a99a091b9bbb5f0d8061718de6015323190abe4ea16d53ec8f695882"
+  },
+  "original_local_pptx_sha256": "7214e5318ef9f464196d8ed20bf34250d3ccaed2833be5d0e92191ab7a348cef",
+  "visual_payload_sha256": "d241a63bcac61e0c08f2a6d9aee3756bb9bf805a51e695f702e0b7c7b3471698",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

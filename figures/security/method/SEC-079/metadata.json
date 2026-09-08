@@ -1,0 +1,57 @@
+{
+  "id": "SEC-079",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "四面板对齐包字段、加密/MAC函数、nonce与tag生成路径，便于逐字段比较不同协议模式。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 297,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0072",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-baumer.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/b%C3%A4umer",
+    "pdf_sha256": "775c24522f11f8bd23a77055f24ffea00393d6f60ec24a76b3488b05200d45ad",
+    "pdf_page": 8,
+    "crop_bbox": [
+      52,
+      71,
+      560,
+      365
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-079/SEC-079.pptx",
+    "svg": "figures/security/method/SEC-079/SEC-079.svg",
+    "preview": "figures/security/method/SEC-079/preview.png",
+    "reference": "figures/security/method/SEC-079/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 48
+  },
+  "hashes": {
+    "pptx": "04254acfc6e7d36f55297f7490fbb09461c3bfcfbcea1759d7309326a3b29ea8",
+    "svg": "3c9137a91ae66c392cc49bed2bc59596b63f74e848f03876986ec322b1b2300a",
+    "preview": "ff330ecd0888f9d53e39a14081d2994060df22c186a1d684c57617eb27d54263",
+    "reference": "1454983978111a426d970fc07d2b8ea66e5d57259826c09ff78fdc4d5f759fe5"
+  },
+  "original_local_pptx_sha256": "7c83e4dc09ad43cc1c97b0ee9318abb3dfe517111fb1dacb9dad53890805f867",
+  "visual_payload_sha256": "099bb4b62321aa76ffabdbb243e293df86d617c2bcc8dc0d3af3f9f07d6b8f1e",
+  "dedup_note": "新增数据布局与密码处理路径的四模式对照；区别于通信双方生命线时序，适合协议组合及认证范围分析。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

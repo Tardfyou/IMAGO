@@ -1,0 +1,57 @@
+{
+  "id": "AI-042",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2026,
+  "award_name": "Best Student Paper",
+  "paper_title": "Native and Compact Structured Latents for 3D Generation",
+  "figure": "Figure 4",
+  "category": "系统架构",
+  "reuse_value": "形状/材质并行压缩路径、双向潜空间和展开残差块共同表达稀疏三维网络。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 178,
+    "groups": 0,
+    "native_text_runs": 43,
+    "images": 0
+  },
+  "paper_id": "PAPER-0175",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "de9996f3e05b3621c4617786011495e1e600d0ef7058adb06329b537c39e59d8",
+    "pdf_page": 5,
+    "crop_bbox": [
+      57,
+      70,
+      296,
+      225.5
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-042/AI-042.pptx",
+    "svg": "figures/ai/architecture/AI-042/AI-042.svg",
+    "preview": "figures/ai/architecture/AI-042/preview.png",
+    "reference": "figures/ai/architecture/AI-042/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 16
+  },
+  "hashes": {
+    "pptx": "3768e9bb52d68c387e8a9a4520a9e844693ce5c732d7b54c8a6764f2143401c9",
+    "svg": "944b084bc55ab0aec762d3d6b16d0b6b23e60b7777963d65da64efec01069039",
+    "preview": "6a953975cf6e543749fb7016cb9fe85a3d4c50d64293b6cfed1b79f81bc8ea26",
+    "reference": "014065ce05174847a047991ee617d304ad5ad5d19a7b4df55c5a0f83ee2dd3e2"
+  },
+  "original_local_pptx_sha256": "14b024bc15c8949409b1a2ee71a3c81ea2195b3fc138947f557618945b351764",
+  "visual_payload_sha256": "2df73a638369e1fed872e6b5b8a09c14951a6959ca8393c9f9bb0deaf9d2e6aa",
+  "dedup_note": "与同论文体素转换图不同，本图展示计算网络和残差块展开；区别旧AI001的序列Transformer架构。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-070",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges",
+  "figure": "Figure 3",
+  "category": "实验图表",
+  "reuse_value": "上方堆积柱给出每组交集的规模与类别组成，下方点线矩阵编码参与的模型；相比多集合Venn可扩展到更多比较对象。",
+  "editability": "原生文字与形状",
+  "limitations": "229原生对象、零图片。22组堆积柱、类别数值、总数、矩阵点线、文字和图例按已发表图重建；各堆积段数值和与原图列总数一致。只复刻发表图视觉，不声称重新运行模型得到原始结果。Arial替代原栅格字体，少量像素边缘有差异。",
+  "object_counts": {
+    "shapes": 229,
+    "groups": 0,
+    "native_text_runs": 90,
+    "images": 0
+  },
+  "paper_id": "PAPER-0096",
+  "source": {
+    "paper_url": "https://keheliya.github.io/papers/ase2025_nashid.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "eaffac63405673a21b47c5125a7cf5d3bfe019d4a2389040648dfee094d82495",
+    "pdf_page": 9,
+    "crop_bbox": [
+      48,
+      258,
+      302,
+      428
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-070/SE-070.pptx",
+    "svg": "figures/software-engineering/experiments/SE-070/SE-070.svg",
+    "preview": "figures/software-engineering/experiments/SE-070/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-070/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 77
+  },
+  "hashes": {
+    "pptx": "e2f2835957e729d701133fc18097307a74cbe0ce0f766f01d9f18c61dc6b1a39",
+    "svg": "b742b6d7bb4f2a417f3f305dc238644b620a4e8352d81f7cb1896cb52a34bfaf",
+    "preview": "2e4b0f3f1ec29659d66470b99bccabf0dca502f5c596df6b91724e66fdf46cd2",
+    "reference": "8f4a02bbe622ff9de24a158a39218c95f254243d343fe944331d07104f0f2f83"
+  },
+  "original_local_pptx_sha256": "5659a146b1c9d07d5a21fe9bcd458be5b729b8cd2fa23b1d3a5208a7c2cd9152",
+  "visual_payload_sha256": "5fa51078421c9b66559994fdebb922d91ff860f65a3cadfd68ffccf6bce26cb7",
+  "dedup_note": "已有素材尚无UpSet组合交集表达。本图在同一坐标列上对齐数量、分类构成和集合关系，适合多方法能力互补、错误重叠和数据集交集分析。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-053",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "三种帧序列进入立体CNN特征金字塔，共同表征后分为命令、组件分类和位置序列生成；源输入与输出语义用三种颜色贯穿。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "301原生形状负责全部文字、3D CNN层、节点、分类器、LSTM、特征向量与输出概率格；仅三组原始输入帧案例保持图片。字体以Arial替代，极细连接与小型LSTM内部弧度为近似。",
+  "object_counts": {
+    "shapes": 301,
+    "groups": 0,
+    "native_text_runs": 24,
+    "images": 3
+  },
+  "paper_id": "PAPER-0115",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2503.12873",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "3e34551f79cef1f005e76afb9045918d632db5eb4f7ad94a0a47c01105f2e524",
+    "pdf_page": 4,
+    "crop_bbox": [
+      49,
+      49,
+      563,
+      273
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-053/SE-053.pptx",
+    "svg": "figures/software-engineering/architecture/SE-053/SE-053.svg",
+    "preview": "figures/software-engineering/architecture/SE-053/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-053/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 20
+  },
+  "hashes": {
+    "pptx": "bc1371edd3942f08cb948543d7274f434a0e991d3b7d9b105052480ae3b76950",
+    "svg": "03c61be02fb681c9767f7a73ffe704cc9495346c9c60fce3ae31ea97e8f783c6",
+    "preview": "92f64521f045d98f9c043e219caf9bd558979d028c54cc2a081880509add78cc",
+    "reference": "2563d46bca286e95b5b2fa952823d9480eac73b3e077e9eb91f0de11bd9883ef"
+  },
+  "original_local_pptx_sha256": "eadf1d1da8ddf77f64c90a6c8a525aa47b0ceed84877b783d009d1a05eeef432",
+  "visual_payload_sha256": "87cb80c1e2b9cc88baaf3a77c661098db26c36d2d30712f50b8c6d929aa24c76",
+  "dedup_note": "现有FAIR/UniCoR聚焦程序图或文本表征；本图展示连续图像帧、三维网络层堆叠和分类/生成异构输出，增加空间网络结构与时序输入的表达。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

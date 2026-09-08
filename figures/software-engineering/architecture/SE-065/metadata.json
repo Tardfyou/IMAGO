@@ -1,0 +1,57 @@
+{
+  "id": "SE-065",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2026,
+  "award_name": "FSE26 Distinguished Paper Award",
+  "paper_title": "GraphLocator: Graph-guided Causal Reasoning for Issue Localization",
+  "figure": "Figure 5",
+  "category": "系统架构",
+  "reuse_value": "两个智能体分别在分层存储图和问题因果图上工作，每个阶段有工具与局部邻域支持；输入症状、最终因果节点列表与中间图可追踪。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 209,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 19
+  },
+  "paper_id": "PAPER-0081",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2512.22469",
+    "award_url": "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#fse26-distinguished-paper-awards",
+    "pdf_sha256": "9ca67b754054a33aa2325d0d14626cce7bc73296a25d63d28e50c4095ffcd627",
+    "pdf_page": 7,
+    "crop_bbox": [
+      44,
+      84,
+      436,
+      192
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-065/SE-065.pptx",
+    "svg": "figures/software-engineering/architecture/SE-065/SE-065.svg",
+    "preview": "figures/software-engineering/architecture/SE-065/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-065/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 27
+  },
+  "hashes": {
+    "pptx": "1d057054e977ab59072426bb829aa446a188f025c7f1187f2f9c6d6c8d7a19ac",
+    "svg": "02fc7168b6a8b445e3028981e5e420e0f918fe67bb073e7a00d8d6ef1337a929",
+    "preview": "fa6bcc09a52a5b8547ce2d3c01081dab811a933e0470f7f05e9b4706cacb6efd",
+    "reference": "a08f225066b84e40a297de56b615aeb202b38904e81b84bd391dc0d97e39a3d1"
+  },
+  "original_local_pptx_sha256": "aef3e27f4b4b6aa6e92209eccb74b8a9d2ba8dae4385cac7917f34f251e778fc",
+  "visual_payload_sha256": "9ea7442184e3bd1fad638746260b7f1e8dadad6ee2dee7a4943eddff92f80a99",
+  "dedup_note": "旧图分析多是固定数据流/控制流，GraphLocator新增立体分层关系图与动态问题因果图的双层表达及两种Agent循环；不同于单一程序图编码器。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

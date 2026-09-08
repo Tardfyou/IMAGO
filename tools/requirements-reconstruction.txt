@@ -1,0 +1,6 @@
+PyMuPDF==1.28.2
+Pillow==12.3.0
+fonttools==4.64.0
+Shapely==2.1.2
+numpy==2.5.2
+lxml==6.1.1

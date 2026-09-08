@@ -1,0 +1,57 @@
+{
+  "id": "SEC-090",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "同时呈现图输入、位置与规模选择、节点边注意力、客户端嵌入和触发器输出，双分支及公式有明确对应。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 383,
+    "groups": 0,
+    "native_text_runs": 54,
+    "images": 1
+  },
+  "paper_id": "PAPER-0054",
+  "source": {
+    "paper_url": "https://par.nsf.gov/servlets/purl/10578173",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "1e16a399758062213bca425c1105086edd5a0d12c5c84b762e61cb26dd689307",
+    "pdf_page": 5,
+    "crop_bbox": [
+      69,
+      83,
+      546,
+      188
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-090/SEC-090.pptx",
+    "svg": "figures/security/method/SEC-090/SEC-090.svg",
+    "preview": "figures/security/method/SEC-090/preview.png",
+    "reference": "figures/security/method/SEC-090/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 52
+  },
+  "hashes": {
+    "pptx": "0f9d7397b0d8a145cb04b3944225b3f220e5b2e68e641e3590156d2740340138",
+    "svg": "8ec35049e01e7445215d17cc5bc3265f4baafa1316308ab74e20440bbe326900",
+    "preview": "e4da52b9f7f93fe5b03cb93331104977063ecd73b2956ad517982ef7c448860f",
+    "reference": "466879cc7148f79eeb9ef4f7772265e97d8991b47a142831abe57fc55bf04904"
+  },
+  "original_local_pptx_sha256": "ea737845ffa2aa2d26973647257bd941a6cb76d47f6d71ab1be0b4971605f0cd",
+  "visual_payload_sha256": "6919a27895219ae468d86fa3ca7d47db5f65853fa988b1049665e07c6d005f1a",
+  "dedup_note": "新增图结构对象与节点/边特征两支机制，区别于常规图像后门或联邦参数聚合；不再收录该论文整图栅格的多数据集结构样例。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

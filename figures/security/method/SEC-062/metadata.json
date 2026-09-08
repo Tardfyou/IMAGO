@@ -1,0 +1,57 @@
+{
+  "id": "SEC-062",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "RingSG: Optimal Secure Vertex-Centric Computation for Collaborative Graph Processing",
+  "figure": "Figure 12",
+  "category": "方法细节",
+  "reuse_value": "完整呈现每轮向量、选择位、合并范围和最终紫色结果，以列对齐保留并行聚合计算过程。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 474,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0043",
+  "source": {
+    "paper_url": "https://eprint.iacr.org/2025/1209.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "76f2dccdf53a313932ce650e6fdf81812f895daa285b60433a9f8d8dec848da9",
+    "pdf_page": 17,
+    "crop_bbox": [
+      77,
+      85,
+      539,
+      245
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-062/SEC-062.pptx",
+    "svg": "figures/security/method/SEC-062/SEC-062.svg",
+    "preview": "figures/security/method/SEC-062/preview.png",
+    "reference": "figures/security/method/SEC-062/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 44
+  },
+  "hashes": {
+    "pptx": "5a463ba52e90406a9940aef63d8b8fc57e69307a227f8ebe4b8bab453811e3f1",
+    "svg": "6989984ce80795867c720df388b2b024729a44b2eb2be250a7e895afb292a49c",
+    "preview": "dd235f1409e03e3b9a1981eb95b77ec9773ef4b5a7e57d0415a9d3fc4f71b407",
+    "reference": "26fbe436d1dd3d561c425259c0ae0a22f0efbaa962087498281cd1a900c27d73"
+  },
+  "original_local_pptx_sha256": "c7c4a76a3a77718699d31c05ec1a1536179d08cd336a0669fa8bd2952b50c680",
+  "visual_payload_sha256": "20894a1d413f11cba91e80b5af40d00c9a09e640bcfdde472fe2cb238d8d6bf6",
+  "dedup_note": "同论文另一图是宏观多方拓扑，本图是逐元素并行算法追踪，不是放大同一架构；库内尚无多轮前缀/分组聚合展开图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

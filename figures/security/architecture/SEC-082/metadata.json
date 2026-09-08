@@ -1,0 +1,57 @@
+{
+  "id": "SEC-082",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web",
+  "figure": "Figure 7",
+  "category": "系统架构",
+  "reuse_value": "分析员配置、虚拟认证器、数据库及双角色浏览器并列，彩色角色区和API控制关系清晰，适合Web协议测试架构。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 373,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0022",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-jannett.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/jannett",
+    "pdf_sha256": "5a7759b4f5a5eca5f88be13c9ddac4e4d8c177a12358135e586447845d96d6e1",
+    "pdf_page": 9,
+    "crop_bbox": [
+      50,
+      70,
+      296,
+      217
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-082/SEC-082.pptx",
+    "svg": "figures/security/architecture/SEC-082/SEC-082.svg",
+    "preview": "figures/security/architecture/SEC-082/preview.png",
+    "reference": "figures/security/architecture/SEC-082/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 25
+  },
+  "hashes": {
+    "pptx": "9b377662119245b57a79a1073f425766239af77d5dcf6fd92423f5761cebf883",
+    "svg": "3473342149ccaad6284da566ecd4f93d5d9fd801afd3586b72880fdbd54ba028",
+    "preview": "1d89fa157b304a8bc500ae2728cfa2a493d072be4cf6cfc9df978f63e34207de",
+    "reference": "59ad26c73c7b6a31e48c19ece04d5f72af247ffd1819dffcf746127753344569"
+  },
+  "original_local_pptx_sha256": "37a10fb68a75f44a43e6ce1c933c67d5e3faf9798506ae5ecd13ca9aa4a9cffa",
+  "visual_payload_sha256": "4f2acbdad9fd1ace5b6300b171fb03a6fb5c9eb96e7cf5410a5e8ea570bff689",
+  "dedup_note": "新增由分析员统一控制的两角色并行浏览器和共享认证器，区别于单一路径扫描及纯生命线协议图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

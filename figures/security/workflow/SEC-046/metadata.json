@@ -1,0 +1,57 @@
+{
+  "id": "SEC-046",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "CITesting: Systematic Testing of Context Integrity Violations in Cellular Core Networks",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "规范选消息、双UE初始化、状态预言、动态过程探索及事后分析分区清晰，多条循环展示测试状态维护。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 126,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 16
+  },
+  "paper_id": "PAPER-0028",
+  "source": {
+    "paper_url": "https://syssec.khu.ac.kr/assets/pdf/25-ccs-citesting.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "d8250ca85b56cd5b8edf11d1c17fc8b9ba2fd5bb98b6f5f7259809463b0f8120",
+    "pdf_page": 6,
+    "crop_bbox": [
+      66,
+      84,
+      543,
+      204
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-046/SEC-046.pptx",
+    "svg": "figures/security/workflow/SEC-046/SEC-046.svg",
+    "preview": "figures/security/workflow/SEC-046/preview.png",
+    "reference": "figures/security/workflow/SEC-046/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 93
+  },
+  "hashes": {
+    "pptx": "6c809d0ff8cfc7beb2f2bd59763142ae6465a81d85005d966430f10cdf6482ea",
+    "svg": "84d795be01e6d5ded52130c0e2122adb83c9c33fa5a9d30a5933bda1d262b7dc",
+    "preview": "e2bf4ab61f6be7c5d78adf3885e042e718e94e297eed8c755b35400f7d6534de",
+    "reference": "b1d5a64a3995de5aa49f080ecdd4e249fa2bad592ea9e303c285e9e508e0dde3"
+  },
+  "original_local_pptx_sha256": "f1acd1f0a7bd6fd006d12a587e6dfb2d7cf0c281f60e9c4f67c31a594a953121",
+  "visual_payload_sha256": "71a35ada67b45d0a0e4f026b24e27beff777178ceb88420300b129e3c13ea5f1",
+  "dedup_note": "相较已有fuzzer图，此图新增双终端对照oracle、状态重置和响应驱动过程探索，展示有状态黑盒测试的具体结构。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

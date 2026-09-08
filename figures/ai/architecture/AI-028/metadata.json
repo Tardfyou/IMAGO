@@ -1,0 +1,57 @@
+{
+  "id": "AI-028",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Pre³: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "四块依次呈现文法、状态图、DPDA构造优化和生成掩码，保留离散结构转换。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 224,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0204",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.551/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "57f36514e654be1fe5902210917cbcda84773274590eea381f9560cf257d2c2f",
+    "pdf_page": 4,
+    "crop_bbox": [
+      115,
+      70,
+      481,
+      255
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-028/AI-028.pptx",
+    "svg": "figures/ai/architecture/AI-028/AI-028.svg",
+    "preview": "figures/ai/architecture/AI-028/preview.png",
+    "reference": "figures/ai/architecture/AI-028/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 12
+  },
+  "hashes": {
+    "pptx": "c91890bb9b0dab86c2f681c858dc24afee5516cd9b66a13990a82fe711b5544e",
+    "svg": "65e57552b4548906e7959605b4847348d07bdb146504c117c5170c2c5575296e",
+    "preview": "471edca87b8de841cd47424861a7fbc82390748fba57b50861547817d190f6d0",
+    "reference": "7e79310612c637f55cf0297b1312153369ba311222b2b4139d9cf9ccbee38083"
+  },
+  "original_local_pptx_sha256": "0c91b73b6c8484cacfc33cd15c7e1c45cb9b19396ddfdfea0f86b78d13b547ad",
+  "visual_payload_sha256": "d929a3d054c83223848cc59558cf075a4982679c6e968032316fcfce50a52903",
+  "dedup_note": "区别旧检索/LLM生成架构：新增形式文法、自动机结构与运行时约束输出的双层关系。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

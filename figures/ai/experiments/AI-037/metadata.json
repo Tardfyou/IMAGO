@@ -1,0 +1,57 @@
+{
+  "id": "AI-037",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Resource Paper",
+  "paper_title": "VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "用规模信息、真实性评分分布和两个环形图展示多模态基准的结构与构成。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 184,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0179",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1948/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "e0759d1a90453fc1a250c8acc77264055f01381d005e745f2a166e57f35e1bbe",
+    "pdf_page": 7,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      216
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-037/AI-037.pptx",
+    "svg": "figures/ai/experiments/AI-037/AI-037.svg",
+    "preview": "figures/ai/experiments/AI-037/preview.png",
+    "reference": "figures/ai/experiments/AI-037/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 75
+  },
+  "hashes": {
+    "pptx": "ee436f232702e885d86d4fae5bc7eb910af96c93a7049877ce06dc6aa2ae922d",
+    "svg": "24a0d5fbf702356ddfc91ce88d0595f93d6920fa9b60df416394ecd44d32f75e",
+    "preview": "31c158d3841b7b1648da44da25ae16d41aaa464382316b85a886c390eb584f5f",
+    "reference": "3521c652e029b55e9c1bf8a393b9ed02136f9a7e5da2443d79ce40633d896c73"
+  },
+  "original_local_pptx_sha256": "c0c1099e3745372d769b8a804f55ef448d2d8da860bf0f5effaa219456c3afbf",
+  "visual_payload_sha256": "108c11252be5e0f94eead0fe87ef1eeb218e47087a5188d65d7ae8635a57f154",
+  "dedup_note": "区别旧PRISM流程+表格：本图以数据概况和多个统计构念并列，作为可编辑统计概览参考。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

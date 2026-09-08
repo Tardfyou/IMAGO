@@ -1,0 +1,57 @@
+{
+  "id": "SEC-097",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2",
+  "figure": "Figure 9",
+  "category": "威胁与攻击",
+  "reuse_value": "编号九步、黑色正常调用与红色推测跳转同时对应汇编片段，下方嵌套窗口显示不同保护机制生效范围。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 114,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0060",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-wiebing.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/wiebing",
+    "pdf_sha256": "184e043b6680c91338465146b5e3095628abb546f99acb2d71a2c155d1298a2e",
+    "pdf_page": 14,
+    "crop_bbox": [
+      54,
+      70,
+      293,
+      194
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-097/SEC-097.pptx",
+    "svg": "figures/security/threats/SEC-097/SEC-097.svg",
+    "preview": "figures/security/threats/SEC-097/preview.png",
+    "reference": "figures/security/threats/SEC-097/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 78
+  },
+  "hashes": {
+    "pptx": "af1a1c26998d79dd5426d4ad54204b4ec19d98f44d435eaa80964208178ba9f1",
+    "svg": "18e45bacfdaab44fd60b86e3c4dec114b585651a62f84403088043c9b89925d6",
+    "preview": "62daea7a66b32eb5db5e1d4e9e653b5ccca76692630104049a7853dd675e50a8",
+    "reference": "e8f0b278f0827bc5a0c3fc7ae769956840774f47beda893f7a3205fb0e2d9327"
+  },
+  "original_local_pptx_sha256": "608dcc0448e3f430aad56ffe7243112000eda013b726ec8cea90ad1291df237b",
+  "visual_payload_sha256": "fcd7563e12af6c4e48d74cec6a800197b9b77ebccaf835d4f724674cbbaed0da",
+  "dedup_note": "新增真实代码片段上的正常/瞬态路径及双窗口边界表达；不同于已收攻击流水线与程序属性图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

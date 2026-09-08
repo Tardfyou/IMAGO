@@ -1,0 +1,57 @@
+{
+  "id": "SEC-032",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "三列保持相同三方三角关系，密钥图例与不同消息流揭示阶段变化，适合密码协议和多方Agent协作。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 345,
+    "groups": 0,
+    "native_text_runs": 59,
+    "images": 0
+  },
+  "paper_id": "PAPER-0030",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-1367-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "3746f5c10c233e26273cc60334e6416205c30c4fcad563311984833d9d4bc10e",
+    "pdf_page": 2,
+    "crop_bbox": [
+      57,
+      101,
+      551,
+      228
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-032/SEC-032.pptx",
+    "svg": "figures/security/method/SEC-032/SEC-032.svg",
+    "preview": "figures/security/method/SEC-032/preview.png",
+    "reference": "figures/security/method/SEC-032/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 36
+  },
+  "hashes": {
+    "pptx": "58b34f163df6b182f6a015d6b93aed694869b222e7ac898fdc706f0ea2d0b938",
+    "svg": "8f7146255f3563854bfe8277cf1b5b8e379ddc152e6eed284b5a152d262031af",
+    "preview": "207f01a5609fde4d979ba3406f99f7bf34d706229761a07507b9950c9891ac91",
+    "reference": "64e166d21fc6e5af2a04cd51fc29380957062881405b2e1f18ff4464420b8811"
+  },
+  "original_local_pptx_sha256": "a17800dafea2a58a9a69a2f22ef39be29d582940cc3fe7b984517c5bceaae67c",
+  "visual_payload_sha256": "787b4c7aed7ba85d3e148d37a716922a692de2f421ca00061aa0225edbfb556e",
+  "dedup_note": "现有Opossum是单列生命线时序，此图使用横排三阶段的三方三角拓扑，各阶段保留不同秘密与承诺物。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

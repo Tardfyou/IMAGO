@@ -1,0 +1,59 @@
+{
+  "id": "SE-052",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "SWE-GPT: A Process-Centric Language Model for Automated Software Improvement",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "左侧过程步骤、中央三个展开泳道和右侧工具箱一一对应；泳道包含代码、分析计划、搜索反思和补丁验证，适合由宏观流程展开工具细节。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 199,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 43
+  },
+  "paper_id": "PAPER-0117",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2411.00622",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "1ada87422bdadde860d28d5893ce4f59217a8273c3343e9aec0decda564d0f2c",
+    "pdf_page": 7,
+    "crop_bbox": [
+      47,
+      88,
+      439,
+      291
+    ],
+    "source_title_alias": "Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement",
+    "source_identity_note": "预印本标题带Lingma和Open，与正式ISSTA 2025标题略有差异；10位作者完全对应，会议摘要的两种模型和30.20%/18.20%结果与PDF完全匹配。"
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-052/SE-052.pptx",
+    "svg": "figures/software-engineering/architecture/SE-052/SE-052.svg",
+    "preview": "figures/software-engineering/architecture/SE-052/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-052/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 19
+  },
+  "hashes": {
+    "pptx": "d9d09113665504c4c8ff198dfbaa92b33cee2e50d9b58ec460a7637cf131b2f0",
+    "svg": "474bae7f66159b4aa5df4e29979be1caa43bb179d91c9c462336aaf84d6a6643",
+    "preview": "fa3540e2aab656d20fbf6f2a41223542bff7f39e9e049472021cd68a632ee62b",
+    "reference": "409a37bf51c697c19bad42c8f83c03857d1c38399ab62a20dbcac96201676b11"
+  },
+  "original_local_pptx_sha256": "1ac6b34c206a94334979e787f66207c923447ec7744175367ba1877680a3e340",
+  "visual_payload_sha256": "ec9f67cae18f0cf97a22e2243d341bddd54ceb18e9450d14fac8487c01163dbc",
+  "dedup_note": "虽与旧Agentless同属修复系统，本图新增三列对应关系：阶段导航、内部认知过程、可用工具；是工具驱动工作流的展开式素材而非重复三阶段框图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

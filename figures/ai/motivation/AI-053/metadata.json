@@ -1,0 +1,57 @@
+{
+  "id": "AI-053",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "CHECKWHY: Causal Fact Verification via Argument Structure",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "把简化原因-结果对与多步论证结构并排，显式区分隐含推理和证据支持关系。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 84,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 13
+  },
+  "paper_id": "PAPER-0214",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.835/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "0485c21ccfbee8da22f4252a00cfc2b8e2d6736b01e2fb2bf4658852955bd778",
+    "pdf_page": 2,
+    "crop_bbox": [
+      126,
+      70,
+      468,
+      211
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-053/AI-053.pptx",
+    "svg": "figures/ai/motivation/AI-053/AI-053.svg",
+    "preview": "figures/ai/motivation/AI-053/preview.png",
+    "reference": "figures/ai/motivation/AI-053/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 63
+  },
+  "hashes": {
+    "pptx": "3b2571224738cbf67485af96c6ea887cdeca76b3ba9a281e00180c610a1e2e63",
+    "svg": "96dff2f4de04605cb426f6f1759d7e45f52582e7eb7ce8a147bbbb544e755c44",
+    "preview": "33db51f214fab13b932f6b364941b723ad978bd5b877e0b5fb3f3c7e7cf2515d",
+    "reference": "55d729653da3c2dd069e15e33a30628db85f3ae81d9bfff614a7f8d1a329cba1"
+  },
+  "original_local_pptx_sha256": "401a84b36c19bc7429543ac8b23dd85c553b863aab57c7a6c67e60bca38bbd80",
+  "visual_payload_sha256": "9d283b59515d4f3b9d5feb50362e4724acf44bd1ac625408d135aec9d05d028f",
+  "dedup_note": "区别AI036真假属性裁决树：本图用真实例子解释支持关系如何逐步构成因果论证。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

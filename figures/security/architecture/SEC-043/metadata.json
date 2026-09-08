@@ -1,0 +1,57 @@
+{
+  "id": "SEC-043",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "上下空间分区与缓存细节并置，三色流区分日志、MAC及加密MAC，适合系统设计中的性能与安全协同解释。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 188,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 14
+  },
+  "paper_id": "PAPER-0042",
+  "source": {
+    "paper_url": "https://dartlab.org/assets/pdf/nitro.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "4582ddca143c85914a8317883ddfb99e8c5bd960316690a1fb8ff0a11fd17061",
+    "pdf_page": 3,
+    "crop_bbox": [
+      52,
+      82,
+      297,
+      223
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-043/SEC-043.pptx",
+    "svg": "figures/security/architecture/SEC-043/SEC-043.svg",
+    "preview": "figures/security/architecture/SEC-043/preview.png",
+    "reference": "figures/security/architecture/SEC-043/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 15
+  },
+  "hashes": {
+    "pptx": "41618b92b8b3b7d67b6fb697d8aa87817d4beb6ad745c8ffbf12c7abc8862dee",
+    "svg": "cd66e805aa623e1628bfd47df4d9c1f75e04673495b38c4620960e211b6e379d",
+    "preview": "80a474ff7097d7229b97c801af402aba178857bf7495aa8a7ba5c5ea4d3de047",
+    "reference": "e30e118680525a923444d0c47ab5d1efebdabdfba047772a331253bdafa91efd"
+  },
+  "original_local_pptx_sha256": "4bfadc67c085abcf98bbd9b97767864926ff2e99dbc9da5d700b709f2a196bc8",
+  "visual_payload_sha256": "da7fa8a44f5f59d96e3f70560e7024c2515e5b8bb8fc3acab19f975667ecbb5f",
+  "dedup_note": "相较Blindfold纵向权限栈，此图新增双级缓冲、并行多核、签名组合和三类数据流，属于异步高性能路径构图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

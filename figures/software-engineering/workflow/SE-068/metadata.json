@@ -1,0 +1,57 @@
+{
+  "id": "SE-068",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "“The Law Doesn’t Work Like a Computer”: Exploring Software Licensing Issues Faced by Legal Practitioners",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "多种联系人招募途径汇入调查，调查和访谈各自包含响应编码及定性分析，再对应三个研究问题；图标和成对分支可直接借鉴到混合方法研究。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "52原生形状负责标题、标签、流程分支及分组连接；13个独立小图标保留原作者图像。没有整图贴图。Times New Roman替代源图栅格字体，拐角弧度与少量字号有小幅差异。",
+  "object_counts": {
+    "shapes": 52,
+    "groups": 0,
+    "native_text_runs": 24,
+    "images": 13
+  },
+  "paper_id": "PAPER-0154",
+  "source": {
+    "paper_url": "https://www.twstalnaker.com/resources/fse24.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "79a1dd92b7d887c5ca8db2f051c4346ecad53ace91f7c1da21e753e2ce1f30ef",
+    "pdf_page": 4,
+    "crop_bbox": [
+      55,
+      98,
+      299,
+      224
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-068/SE-068.pptx",
+    "svg": "figures/software-engineering/workflow/SE-068/SE-068.svg",
+    "preview": "figures/software-engineering/workflow/SE-068/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-068/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 94
+  },
+  "hashes": {
+    "pptx": "4e27fd67f3ac14fda687c6dd4df359fc2b1a2432e576852cc77ad390538b08da",
+    "svg": "08f91c13013e86db593450514ed70f13c2bdbf4c17ab7819798aa94862f999c5",
+    "preview": "a99cb4206cf0bcb9f7d0bca17109cde59b38223e77e9a90da42f6fcadb06dad8",
+    "reference": "cc50b0ebed61432b8b1232ffd9baef9a9232e8fbf09e91670ba8e5fa2bfc6ed6"
+  },
+  "original_local_pptx_sha256": "52d5739492392b51b50a9a441abeae4ab4fb3d0af471cae85e114c62a7a31c51",
+  "visual_payload_sha256": "0842f3c60dc64efc5856fcbe806f7b46a156e0d3b79e7757c77eca5cc5251699",
+  "dedup_note": "旧库虽然有人工分析流程，但没有将问卷和访谈作为连续两阶段、各自拆成编码与定性分析、并对齐RQ输出的布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-046",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "ProveNFix: Temporal Property-Guided Program Repair",
+  "figure": "Figure 8",
+  "category": "系统架构",
+  "reuse_value": "规范推断、约束生成、算术证明、失败分支与双向传播连成推理闭环，再从规范库综合安全补丁。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "主体框线、文字、连线及逻辑结构为原生PPT对象。字体以Arial替代论文栅格字形；小幅线条弧度与虚线节距差异。7个独立小图标保留原论文图形，无整图贴图。",
+  "object_counts": {
+    "shapes": 40,
+    "groups": 0,
+    "native_text_runs": 17,
+    "images": 7
+  },
+  "paper_id": "PAPER-0149",
+  "source": {
+    "paper_url": "https://abhikrc.com/pdf/FSE24.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "8d52ff585f7c3c37333c052f5807b01f43edc0c3f4a9e073dd6eda265fe7de52",
+    "pdf_page": 7,
+    "crop_bbox": [
+      208,
+      157,
+      442,
+      300
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-046/SE-046.pptx",
+    "svg": "figures/software-engineering/architecture/SE-046/SE-046.svg",
+    "preview": "figures/software-engineering/architecture/SE-046/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-046/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 17
+  },
+  "hashes": {
+    "pptx": "5b90a44d64cd5d03883d2d19b9161bd36825feddaa31b79fb5fc718dd7378df3",
+    "svg": "fb5cdca84ddcaa6e7f45b8b9d57e8baafbb2b79d2625f6e00f262534c1ee0eee",
+    "preview": "ddd11e1354c04bb712b09b1b999a14bb3d8f2dc5c6f3538c39ea90869217ecdb",
+    "reference": "85acec4c896cb9e0f05b3a67c9565fc8131ab6c1682fe15e27740d4bc561d65c"
+  },
+  "original_local_pptx_sha256": "584adc931ca8e4c485521a0603dea966b642f9431f906a1e0a73fc4dfd319a12",
+  "visual_payload_sha256": "93de9cd5fb0fefb169cd3e4267bb24dcac2b6fec092991637fefe1073f6906df",
+  "dedup_note": "区别于旧Mystique的LLM补丁迁移，本图围绕证明义务分流和约束反向传播，展示逻辑验证如何驱动修复。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

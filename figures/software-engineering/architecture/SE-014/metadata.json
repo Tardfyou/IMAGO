@@ -1,0 +1,57 @@
+{
+  "id": "SE-014",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation",
+  "figure": "Figure 6",
+  "category": "系统架构",
+  "reuse_value": "上下对照普通 RAG 与改进框架；以相同离线/在线分界使新增的意图、改写和知识缺失检测模块一目了然。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 116,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0103",
+  "source": {
+    "paper_url": "https://jun-jie-huang.github.io/assets/papers/ase25_iknow.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "e683820406c037295a473b3144245b50f664bde61db6976ecf6be0349506e4fa",
+    "pdf_page": 7,
+    "crop_bbox": [
+      54,
+      49,
+      290,
+      221
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-014/SE-014.pptx",
+    "svg": "figures/software-engineering/architecture/SE-014/SE-014.svg",
+    "preview": "figures/software-engineering/architecture/SE-014/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-014/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 14
+  },
+  "hashes": {
+    "pptx": "af33cc65d582115c3f6023bdaa6756075e2b69f784744f8fe3d12f1ec69b39fc",
+    "svg": "829ffc1550e549d31ebecf3d77242cec11eeb0316d6b53909219c78de43a85f5",
+    "preview": "5c9ddef27ecd5b4267bd0bf2fc69e0140fdd25e4f3030696fd3f545f04dc3098",
+    "reference": "bd171a35ce14dd2e7c2a6a760831d54829b417fa8c9ea8d0d3107eb18028d540"
+  },
+  "original_local_pptx_sha256": "1a3044f6f3ada551461ee4dddf4fec706b95807ac3879b418b4292781a8c87cb",
+  "visual_payload_sha256": "d7d5e4c0faf14719f327f89f6e76aa59a2534a50c3513218b94643c044651706",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

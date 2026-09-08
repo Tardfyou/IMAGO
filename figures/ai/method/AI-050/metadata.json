@@ -1,0 +1,57 @@
+{
+  "id": "AI-050",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "按前向、第一遍反向和第二遍反向分层着色，用密集跨层边解释顺序计算成本。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 235,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0234",
+  "source": {
+    "paper_url": "https://papers.neurips.cc/paper_files/paper/2024/hash/dd2eb5250696753ea37141bbd89bb569-Abstract-Conference.html",
+    "award_url": "https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/",
+    "pdf_sha256": "a3e9c33b6bc0e210acac169f0fa29e66e3036f3904c86f57ef1d546097f4e8ba",
+    "pdf_page": 3,
+    "crop_bbox": [
+      109,
+      457,
+      502,
+      563
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-050/AI-050.pptx",
+    "svg": "figures/ai/method/AI-050/AI-050.svg",
+    "preview": "figures/ai/method/AI-050/preview.png",
+    "reference": "figures/ai/method/AI-050/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 47
+  },
+  "hashes": {
+    "pptx": "3911499c00fa004d736e39befd3a7d7fbd779555b4e9742228dcc37234f86388",
+    "svg": "8b0be4a15556f922ba7fc28ec926f07a5b255a19ecd88e7f8e51aca1ccb1ad19",
+    "preview": "837812debfe2392729e111f9cf6c8aa8c848507b97dd25b76ebf29789f9ddfed",
+    "reference": "a5f8147b4989e15da83bf46ce300cdf129835f74ff112c23be45d995997c2ce9"
+  },
+  "original_local_pptx_sha256": "3c5e15af72e6084c7c1c0d8c564ad5b7a0fb1acd5746dae3db555dcb4424c515",
+  "visual_payload_sha256": "69c91ba0413e831923de4a8a53423d4d922ca85e0d47cb6d255be24943c5f173",
+  "dedup_note": "旧库没有自动微分的跨层依赖图；与AI029解析自动机状态迁移的表达目标不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

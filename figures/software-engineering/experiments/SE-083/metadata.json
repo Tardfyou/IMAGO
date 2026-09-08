@@ -1,0 +1,57 @@
+{
+  "id": "SE-083",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Large Language Models for Equivalent Mutant Detection: How Far Are We?",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "四个面板分别展示类别和LLM策略的正确/错误独有发现，透明椭圆和一致颜色表达四集合、五集合的所有交集，并标出最佳方法。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 202,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0144",
+  "source": {
+    "paper_url": "https://posl.ait.kyushu-u.ac.jp/~kamei/publications/Tian_ISSTA2024.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "69fd4389916bcfc4ce004f3f9eec7401180944e2fa1434cc921e1fec1efafa88",
+    "pdf_page": 8,
+    "crop_bbox": [
+      53,
+      85,
+      559,
+      227
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-083/SE-083.pptx",
+    "svg": "figures/software-engineering/experiments/SE-083/SE-083.svg",
+    "preview": "figures/software-engineering/experiments/SE-083/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-083/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 81
+  },
+  "hashes": {
+    "pptx": "f4cec4d91e29d158f7518bcc16ff7e88ec6965620dbbfb500c125151769c0729",
+    "svg": "e016c535a429e3e6890ee2136d95c70513bf1d8670927b34ffa6e4cfa0746024",
+    "preview": "8a56aae2a9be899456c3021b95ba38cae828637d01b05a858bf1b715b87ef56d",
+    "reference": "734b2a2e6722a54fc6b8b2085335dff495d171de1897d95603031d173840d76f"
+  },
+  "original_local_pptx_sha256": "cea7a321b366bc7ef35721d6b9129341b73aa649ecbf5f775a963b44ddc8b266",
+  "visual_payload_sha256": "09fbd30c86568d87ac7480c02dace49ff9edf76b4ed16630bcb1989d59d1ab03",
+  "dedup_note": "旧SE020只有两集合交叠，SE070为UpSet。本图补充四/五集合花瓣交叠与正误成对对照的表达，构图不同且交集细节丰富。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

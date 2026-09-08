@@ -1,0 +1,57 @@
+{
+  "id": "SEC-049",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild",
+  "figure": "Figure 2",
+  "category": "威胁与攻击",
+  "reuse_value": "把硬件、软件及接口分色嵌入设备边界，外部网络组件和本地/邻近/互联网三种攻击者同时定位。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 46,
+    "groups": 0,
+    "native_text_runs": 35,
+    "images": 9
+  },
+  "paper_id": "PAPER-0021",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1968-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "b2bb0d81365b2c7abf5088d5e7b723f8312bea23f0678bb3d6ec7c7d54861329",
+    "pdf_page": 3,
+    "crop_bbox": [
+      322,
+      49,
+      553,
+      124
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-049/SEC-049.pptx",
+    "svg": "figures/security/threats/SEC-049/SEC-049.svg",
+    "preview": "figures/security/threats/SEC-049/preview.png",
+    "reference": "figures/security/threats/SEC-049/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 71
+  },
+  "hashes": {
+    "pptx": "e96790683c25fad9ba61e948f3871950b8c8a6f7480b3dd0066730ab6ffd8a01",
+    "svg": "3f4c8396fa78b3eaad3c313d906654d62a6c9bbec98588408b9fc50f2c363ca7",
+    "preview": "33a90fb12d5d7c5029480b877c1c46be4841c550e98dc1fb860da7cc1675d6cd",
+    "reference": "d1f4ce8097f48f5f8b436908f065b764e9d974e3e6e0c12fb4758a3481995aed"
+  },
+  "original_local_pptx_sha256": "f9b48fde0e69b9e5de35543c5afedfa0c8fd87585f17d9282d262464575093d5",
+  "visual_payload_sha256": "56b2046fda3de173d34036fed0db5ad48de4b264932983b73f944b7a1976c9c7",
+  "dedup_note": "新增攻击位置与设备硬软件组件的映射；与UntrustIDE单一文件边界、Bridges隐蔽通道图区别明确。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

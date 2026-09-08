@@ -1,0 +1,57 @@
+{
+  "id": "AI-054",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Resource Paper",
+  "paper_title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "上半呈现三种心理范式的数据构建，下半将对应指标和混合自动人工验证反向展开。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 134,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0167",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1301/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "16c6037caa1d3b4ad70e5021b65c545d2da5e3e2e011c91ba27a2152c4dba043",
+    "pdf_page": 3,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      274
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-054/AI-054.pptx",
+    "svg": "figures/ai/workflow/AI-054/AI-054.svg",
+    "preview": "figures/ai/workflow/AI-054/preview.png",
+    "reference": "figures/ai/workflow/AI-054/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 95
+  },
+  "hashes": {
+    "pptx": "80a8301ca79c52401e586943cc6deec04fdecdbed269100869d2bb80a01caa40",
+    "svg": "f864c288ebf8e87b454396cd78475878cad28e3baeb916166895ec0ca7cd42a2",
+    "preview": "d11c5f0de4881cd40848498c796138a13601888abe81e6436a9a8020ab6f6669",
+    "reference": "b5b8687927c34f2ddb8a70558563a869def6045937d815fefed878c787dac151"
+  },
+  "original_local_pptx_sha256": "023213e31ea687bdde9786159b6e6de861f7bcb18f54a81fda1917b77787b57c",
+  "visual_payload_sha256": "52a5c2393f77003e3a94ddbaf45a869255b2efa47bdccfdf460c246f5d6216e4",
+  "dedup_note": "区别AI023任务生成流程，本图把三种测量构念的生成条件与相应判分方式成对呈现。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

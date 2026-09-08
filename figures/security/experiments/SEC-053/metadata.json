@@ -1,0 +1,57 @@
+{
+  "id": "SEC-053",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "四个安全边界各含六CPU列，以颜色和对角双色单元表达已知/新泄露及有无补丁；分组标签保留实验维度。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1210,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0006",
+  "source": {
+    "paper_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/07/Enter-Exit-SP26.pdf",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "eef13433dfbb820040b78399095077319aa9234baed93079f93879a80b694fcd",
+    "pdf_page": 10,
+    "crop_bbox": [
+      313,
+      66,
+      559,
+      320
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-053/SEC-053.pptx",
+    "svg": "figures/security/experiments/SEC-053/SEC-053.svg",
+    "preview": "figures/security/experiments/SEC-053/preview.png",
+    "reference": "figures/security/experiments/SEC-053/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 83
+  },
+  "hashes": {
+    "pptx": "7424673ed872e678aab95d760f62b9074652663ed666518b4f360495aefbe756",
+    "svg": "b978113356ac2de7439d93780cf929374ff536725984bee889195216ed2eca72",
+    "preview": "51fc9e504be3cf9639bf756094fbcb6c9fbb574c96cb2de78820ee58f3b7a9e6",
+    "reference": "b8fc0d828516c9ef47fe9bab91e97dbac631ad48e5cb0440ddca7a9ebf021222"
+  },
+  "original_local_pptx_sha256": "d08809b16ca707876a18fc2d7835846f31a74757f0d3dfc1be3d891a0c227a18",
+  "visual_payload_sha256": "e6b218f10ec96fd28c0cebbbddf145731e5b8604759bc24b670646aa2304188a",
+  "dedup_note": "区别于Fuzzilicon连续相关性热图，此图是多条件离散结果矩阵，双色三角单元同时编码补丁状态，具有独立复用价值。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-100",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Evolutionary Guided Decoding: Iterative Value Refinement for LLMs",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "上下对应常规和迭代方法，连续分布展示当前策略与目标差距，内嵌探索/精炼闭环解释移动过程。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 579,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0161",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.148/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "951927959e578ea79d9fe6a1409891b69284044eea844f655e989f0ecd8014ab",
+    "pdf_page": 1,
+    "crop_bbox": [
+      306,
+      222,
+      525,
+      382
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-100/AI-100.pptx",
+    "svg": "figures/ai/motivation/AI-100/AI-100.svg",
+    "preview": "figures/ai/motivation/AI-100/preview.png",
+    "reference": "figures/ai/motivation/AI-100/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 68
+  },
+  "hashes": {
+    "pptx": "9eff52b622e9c8f36fb48a263080773fdfa5602762042133e7806984a7376b26",
+    "svg": "7bf0a7588d3d74d09fa3f0c18a1eff6663472976e3c5aefc37edab35683ce654",
+    "preview": "8ed6f55d5ec751701724631d6c7f2562ee9e303836158f42286f3843c96ff1da",
+    "reference": "018488035d9f33833097480425ab97bdf4c9aa2177c5f277f36f7cfb9fab6794"
+  },
+  "original_local_pptx_sha256": "1ada20cfe32f02149bac3b3e90ac26b8eddce93e810ff0e9c122a0fb45630675",
+  "visual_payload_sha256": "fdcbb4bae7759f762dd9bf209ef936e24572f0f505384f4eb0e8a21de53c9d72",
+  "dedup_note": "区别旧性能曲线，本图用分布位置/重叠呈现方法瓶颈，并把迭代机制直接嵌入移动中的策略空间。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

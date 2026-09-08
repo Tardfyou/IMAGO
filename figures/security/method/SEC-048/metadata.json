@@ -1,0 +1,57 @@
+{
+  "id": "SEC-048",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "L1/L2两层内同时展示节点、合约、批处理、状态序列及双向交易流，适合多层分布式协议和跨系统生命周期。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 271,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0055",
+  "source": {
+    "paper_url": "https://yinqian.org/papers/ccs24b.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "9bad02a3b7909b073be8d48fe112ab9212b81249f2a6bdff2dfa4e1fec7c9139",
+    "pdf_page": 4,
+    "crop_bbox": [
+      54,
+      84,
+      293,
+      255
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-048/SEC-048.pptx",
+    "svg": "figures/security/method/SEC-048/SEC-048.svg",
+    "preview": "figures/security/method/SEC-048/preview.png",
+    "reference": "figures/security/method/SEC-048/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 40
+  },
+  "hashes": {
+    "pptx": "4e7989729f1b1012181d1fa4e8fc92feb4ab4979be302708ff6961ba3ad0e906",
+    "svg": "9c188ce57ee1c9a0c8a1da79dc75c7f4e2566ba82de726198194ec5ca136203b",
+    "preview": "30b238d1018fe61bfb605674dba58b193297d61147ea9ce015062119eb51c124",
+    "reference": "b839e09fffc3cfc18bcd49e5f8bd79deae8e7d7a174bfa16f1b222d635d2b577"
+  },
+  "original_local_pptx_sha256": "ff7e246b23e656b72b53d643165c3abc6b29263f487b6b9577c6d856acefcdd5",
+  "visual_payload_sha256": "bbecce0afabeac6921305264107ac2ab82801e5279f7d969b85feb55f34d3742",
+  "dedup_note": "库内尚无双层账本及软/硬终局状态并列的细粒度协议构图，区别于普通角色时序图和堆叠系统层。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

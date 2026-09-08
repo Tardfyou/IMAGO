@@ -1,0 +1,57 @@
+{
+  "id": "SE-022",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "两种路由策略的队列、显存、时延按同一时间轴对照；适合把运行状态与性能失衡的时间证据绑定。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1764,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 6
+  },
+  "paper_id": "PAPER-0083",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2504.03702",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "ccd1e0f651a04f924da6f09e5f1219e6189e93a0ad2d5cfcfdfd6501b7c15df0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      52,
+      81,
+      295,
+      221
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-022/SE-022.pptx",
+    "svg": "figures/software-engineering/experiments/SE-022/SE-022.svg",
+    "preview": "figures/software-engineering/experiments/SE-022/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-022/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 72
+  },
+  "hashes": {
+    "pptx": "19c233fd634f1c74c0dd9d4a690fb434552517525ed2144439dad998e82e210f",
+    "svg": "7b4788cd79b4fa7adbf12042643b6bb8ad3740cc94cfcfe335fb096b35803d92",
+    "preview": "42c39038cf4a5081857dff306e277c06b68d573e2bae5970804115d83cffbcae",
+    "reference": "88e0202794cf5ace5f7be8aadf3db3db12e6537fbda4696d24c3fc6dcf8e8e6a"
+  },
+  "original_local_pptx_sha256": "ba702dab3c13d7a28a35ef85deeb3e4ac8ce730f627cc2c72612a7d11ba61363",
+  "visual_payload_sha256": "4b854cfd91824132a843227f06d4761448be75a6b953eaae5bdca2a272230c55",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

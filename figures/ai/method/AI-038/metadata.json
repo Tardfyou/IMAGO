@@ -1,0 +1,57 @@
+{
+  "id": "AI-038",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "ViLL-E: Video LLM Embeddings for Retrieval",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "训练阶段时间条下并列视频检索、问答、匹配和时序定位四种目标与各自输入输出。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 396,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 18
+  },
+  "paper_id": "PAPER-0180",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.2003/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "31ba662128f865f53d68f6f09516d57f0d54465bcd15ee30b824459fb8e459ee",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      234.4
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-038/AI-038.pptx",
+    "svg": "figures/ai/method/AI-038/AI-038.svg",
+    "preview": "figures/ai/method/AI-038/preview.png",
+    "reference": "figures/ai/method/AI-038/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 40
+  },
+  "hashes": {
+    "pptx": "f43c9600faa8ff9839a7d9063c9c9a4a368c36a4681790b5c81eec6b01c5244d",
+    "svg": "ba0d172da07cc4b68dd4ecc6c89f15d1de6d432f4cf016da68737c5de4f74496",
+    "preview": "b92ceb67fff510833a24377ee42ebb79520eb637c2113c45247850a2a6efb5f7",
+    "reference": "ce9840c7f44f128ecab34ef44fd97f9b8e1160f18f0d7a29dba7a8ba56b71344"
+  },
+  "original_local_pptx_sha256": "55fa9a397b4fbdeb099fd2eea59080d7bb67187b359f8c20c986acc1948f6323",
+  "visual_payload_sha256": "c51f34a364ba946ec746ec5847f0cbf8d8367fe1e6e2f1a8e5fa497f85bf63c3",
+  "dedup_note": "旧素材只有总架构或单损失训练；新增阶段时间条与多目标子图对应的训练计划布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

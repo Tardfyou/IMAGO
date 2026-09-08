@@ -1,0 +1,57 @@
+{
+  "id": "SEC-085",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack in Virtual Reality",
+  "figure": "Figure 4",
+  "category": "系统架构",
+  "reuse_value": "三层阶段中嵌入实际波形、方向角与字符映射表、时间和方向约束，连接感知与离散推断结果。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 81,
+    "groups": 0,
+    "native_text_runs": 38,
+    "images": 6
+  },
+  "paper_id": "PAPER-0056",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2024-100-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2024/",
+    "pdf_sha256": "ff93476696a5c0ef1cba150c55f980697750b3895574e46e4b7c63d794ab50c1",
+    "pdf_page": 4,
+    "crop_bbox": [
+      50,
+      52,
+      570,
+      132
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-085/SEC-085.pptx",
+    "svg": "figures/security/architecture/SEC-085/SEC-085.svg",
+    "preview": "figures/security/architecture/SEC-085/preview.png",
+    "reference": "figures/security/architecture/SEC-085/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 26
+  },
+  "hashes": {
+    "pptx": "c773f68bff786caea666f72ea07212a778e89581937fb442ea42549f2cc73df9",
+    "svg": "e02c80ee091039709e3a3a809e80f8c59df4a0daa7374b1e66997ac22653bd73",
+    "preview": "c6544c0b0029aa024b0752ade854fddc74418e3d73353102aab3d07d8f07bf23",
+    "reference": "9167de961a87e82a10771802eb7b4c829f115f9b163863fcc6c05b9bb623bc42"
+  },
+  "original_local_pptx_sha256": "c630357507706510e6097596a6207c198deb64710014a63ef498bd0f72ad1030",
+  "visual_payload_sha256": "b541f622289fa908a8a86908bcbe07fe1b1383e925e85fd5bed3fed75d428c22",
+  "dedup_note": "相较VoiceRadar及XRAuth，此图表达方向角映射适配和序列约束校准，包含角度到字符的显式对应而非通用神经网络模块。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

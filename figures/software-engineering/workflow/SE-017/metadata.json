@@ -1,0 +1,57 @@
+{
+  "id": "SE-017",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "EDEFuzz: A Web API Fuzzer for Excessive Data Exposures",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "客户端、代理、模拟服务端和报告围成记录/回放测试链；用编号将真实运行流程与差分检测对齐。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 225,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0137",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2301.09258",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "1478cc3742b40a7c3e810df7e56b445413acc22d1826cb234032293f489228f4",
+    "pdf_page": 5,
+    "crop_bbox": [
+      53,
+      82,
+      295,
+      252
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-017/SE-017.pptx",
+    "svg": "figures/software-engineering/workflow/SE-017/SE-017.svg",
+    "preview": "figures/software-engineering/workflow/SE-017/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-017/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 87
+  },
+  "hashes": {
+    "pptx": "8ae12ca9a76ae86cd550773ba4590e428eb93c6085012038d4e9f637417d4ebc",
+    "svg": "b1900a471e8293b7c0b612fade088aa6e7e1e6a3320f52eeec34e6b61d221d1f",
+    "preview": "07b2b2872b1d0dcbb268f8e19e76dafd00e34bb25e32fc115e33c882bf67e224",
+    "reference": "5fc35ea8a19cc9d3178d77c8a92097738396c3599d877e0ceca7c55559f8735f"
+  },
+  "original_local_pptx_sha256": "f029939547b7caccf8f6ab8006f8b06df2dc2ea20aafe53fee7c9b7a85c5d284",
+  "visual_payload_sha256": "5cc932c41e363ce355ae548df5b403999f81d48de98d46e13b7ea508bf969183",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

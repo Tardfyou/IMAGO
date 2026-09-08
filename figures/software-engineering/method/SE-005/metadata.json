@@ -1,0 +1,57 @@
+{
+  "id": "SE-005",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State",
+  "figure": "Figure 5",
+  "category": "方法细节",
+  "reuse_value": "一份轨迹并行转为状态向量与调用树；适合多模态/多视角特征编码讲解。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 194,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0151",
+  "source": {
+    "paper_url": "https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "2dd18b84a31d9ba6c7bf95be33d17222e415b18d6e5f2964d7cba8a9a276737a",
+    "pdf_page": 6,
+    "crop_bbox": [
+      62,
+      82,
+      428,
+      220
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-005/SE-005.pptx",
+    "svg": "figures/software-engineering/method/SE-005/SE-005.svg",
+    "preview": "figures/software-engineering/method/SE-005/preview.png",
+    "reference": "figures/software-engineering/method/SE-005/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 35
+  },
+  "hashes": {
+    "pptx": "92cfd27565b7eef15383d1f85bc970b4a8c3a5da5fcc331e9b7983a5a2d2f4cf",
+    "svg": "b90586bafaaea49d4b4be0727dce5cac5ac3a22913365779c2f2b88a60c2f179",
+    "preview": "ce61d4bedecee510e707c75086dacc378fdefa291c56e780de5f58f6a72ba6b7",
+    "reference": "937eba7499f65a721e0a7822e4de4198b495258c181e58c03cf661daf9e6936d"
+  },
+  "original_local_pptx_sha256": "66c4834c03c3da36c7443108f067be1bf86e2ba75a8a7c8f9ac0e34b61e98f0a",
+  "visual_payload_sha256": "9a108fa8aead64bfdb4e2cc48fd389fcf0a4691da07390064aabfdb5349253cd",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

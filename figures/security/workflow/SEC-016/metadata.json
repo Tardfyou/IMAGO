@@ -1,0 +1,57 @@
+{
+  "id": "SEC-016",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "LOKI: Proactively Discovering Online Scam Websites by Mining Toxic Search Queries",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "从数据源、关键词推荐、过滤、查询、分类到反馈循环，用不同形状标示数据、工具与决策。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 69,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0011",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s184-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "a5355235c61b5df2229abbb89b58926357ff00b0dc365e4d1a7f6fde178445ed",
+    "pdf_page": 3,
+    "crop_bbox": [
+      60,
+      57,
+      514,
+      209
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-016/SEC-016.pptx",
+    "svg": "figures/security/workflow/SEC-016/SEC-016.svg",
+    "preview": "figures/security/workflow/SEC-016/preview.png",
+    "reference": "figures/security/workflow/SEC-016/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 91
+  },
+  "hashes": {
+    "pptx": "dbbf8447c103cd198bb1c6db9245ed7e2c927c8ff6b66783c9e70066b0769c6a",
+    "svg": "19e04f916208e4fb929aea3d3e78eee41f233517debf0ac63261287ff36c101d",
+    "preview": "63ade6930f9ef31b07502ec397f4e43e14cbbc472be056092be53d7bc57f6a61",
+    "reference": "8e794e54cb11e18a1cc4394003ffb271c8516ac1edd26ef3926680c8c59f1bc6"
+  },
+  "original_local_pptx_sha256": "9cb14c658bbaf03dbba3bccc208b2b55fe04fea529cc38d4a792652cdb39218f",
+  "visual_payload_sha256": "26d28ff9575c8a92e477c5745e829dfb84b8d933deb4d734bea9530b44f4941d",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

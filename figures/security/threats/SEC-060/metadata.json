@@ -1,0 +1,57 @@
+{
+  "id": "SEC-060",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "GPUBreach: Privilege Escalation Attacks on GPUs using Rowhammer",
+  "figure": "Figure 3",
+  "category": "威胁与攻击",
+  "reuse_value": "三面板把物理脆弱行、页表条目分支及最终任意内存映射连成可读机制，实虚连线对应同一篡改对象。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 107,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 9
+  },
+  "paper_id": "PAPER-0008",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2605.03812",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "76b02062b42a586eb71391959630aa73d2c2ca698bac8de1d90063321038e972",
+    "pdf_page": 4,
+    "crop_bbox": [
+      53,
+      71,
+      559,
+      199
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-060/SEC-060.pptx",
+    "svg": "figures/security/threats/SEC-060/SEC-060.svg",
+    "preview": "figures/security/threats/SEC-060/preview.png",
+    "reference": "figures/security/threats/SEC-060/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 72
+  },
+  "hashes": {
+    "pptx": "336d7b575d17a335219840b287db51f94aafd482245498f5cc30cedc3d0bc481",
+    "svg": "970c6b2beb2e6d38f4dff8e284cf1f86cdd9e2daf323f4d6207d74a3b827b199",
+    "preview": "94fef5d8d0f3e417523ebc2a18b2283d3720d21d83b917d68ac5dfeb812be2fe",
+    "reference": "eed4bb6c4789610616000b473d4643d5861bea4f7a114b98b0c628b27f85f232"
+  },
+  "original_local_pptx_sha256": "9d1b985df6925714ec12875d1a8939901e6a5e909830a666cb70e715c04991cf",
+  "visual_payload_sha256": "f96e3109dfc6f558c961916ecc7d64f3c0a6b70f12d0a7acdc0728f3018d92d2",
+  "dedup_note": "相较OccupyProbe缓存矩阵，此图新增物理行-页表条目-虚实地址三级视角，适合解释内存破坏的权限扩大过程。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

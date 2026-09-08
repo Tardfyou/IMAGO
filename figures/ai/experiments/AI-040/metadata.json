@@ -1,0 +1,57 @@
+{
+  "id": "AI-040",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Resource Paper",
+  "paper_title": "Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "堆叠比例、偏好曲线、评分热图、分组条图与嵌入散点共同刻画数据构成。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 18879,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0182",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.294/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "0ec54a1c73e74f8949a312e61fa4dcc354e62f101d50c8b48400e1a43cd9a104",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      359
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-040/AI-040.pptx",
+    "svg": "figures/ai/experiments/AI-040/AI-040.svg",
+    "preview": "figures/ai/experiments/AI-040/preview.png",
+    "reference": "figures/ai/experiments/AI-040/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 76
+  },
+  "hashes": {
+    "pptx": "83420f6c6c00856e3f0d12a6d29fbf08e3bebb1bafd6b011a48c527aef5775a2",
+    "svg": "6f51fe4d8c17c48dba1e3f0fdf605cd1536298e975aa73d99df0da0ac3d5dfe2",
+    "preview": "187768688162ef495fde9a1a61f3a6720a73d3eba0ecef32c7c429e61037102a",
+    "reference": "5ab77844e4e61bcdc517530b85634d38c5d1cdf54c50f6bebee6edeb9b0a06c4"
+  },
+  "original_local_pptx_sha256": "62be66773df54e54787d1c3a4734fbebc16c993e57241f819be2c9708fa84b27",
+  "visual_payload_sha256": "ecad059c3518c9821112da914b2d750d57d85fffe3108de2b048e8689deb4ee3",
+  "dedup_note": "旧素材没有这种同一数据集用六种不同统计图互证的概览，避免重复单纯柱状/热图模板。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

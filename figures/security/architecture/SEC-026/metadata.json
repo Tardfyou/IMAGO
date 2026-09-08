@@ -1,0 +1,57 @@
+{
+  "id": "SEC-026",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "上层建图、下层重放判定，侧栏列输入输出，编号连接各组件，适合分析型工具的模块划分。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 75,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0026",
+  "source": {
+    "paper_url": "https://seclab.cse.cuhk.edu.hk/papers/ccs25-BACScan.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "bf68ec086a6d51c2ad00c69b42d948fc18de0706a40c5423ab83d91434461c36",
+    "pdf_page": 6,
+    "crop_bbox": [
+      324,
+      84,
+      552,
+      203
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-026/SEC-026.pptx",
+    "svg": "figures/security/architecture/SEC-026/SEC-026.svg",
+    "preview": "figures/security/architecture/SEC-026/preview.png",
+    "reference": "figures/security/architecture/SEC-026/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 11
+  },
+  "hashes": {
+    "pptx": "1001b806df97b436a841788d194669acb709e8c0914ba21e6a4e807df5750447",
+    "svg": "2b29fccaab6488e20a24c32f1e2670367cca5b3cc4b77482b85b900d3ac68eda",
+    "preview": "95888fe101c9626c5628247b0618c7c174aef457cc9e89684b40507fea07f56b",
+    "reference": "e12154848cfb8c441a20ab13516181cb98d84d3897161c3bb649c107cc44ad6b"
+  },
+  "original_local_pptx_sha256": "918dfd988b080322131e3003b53009a8bc570179800dde11ade08526e7a6ab44",
+  "visual_payload_sha256": "a6e06afbd113793e5cba1d088cbfd0f7eb5602cfbae23b31c3df05579490eaf2",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

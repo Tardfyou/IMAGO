@@ -1,0 +1,36 @@
+{
+  "AI-012": {
+    "endpoints": [
+      [
+        255.270751953125,
+        49.61181640625
+      ],
+      [
+        387.0946044921875,
+        49.61181640625
+      ]
+    ],
+    "width": 0.2490532398223877,
+    "color": "000000",
+    "reason": "Restore original avg PPL top spine omitted by custom-path rendering.",
+    "source_sha256": "949c7ed67dea3ddc6b88854cf72631ed2e1f466ad4c824c8aa1286739bcf2359",
+    "paper_title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free"
+  },
+  "AI-014": {
+    "endpoints": [
+      [
+        98.3017273,
+        274.7108765
+      ],
+      [
+        98.3017273,
+        293.5058594
+      ]
+    ],
+    "width": 0.45345,
+    "color": "595959",
+    "reason": "Restore original Text prompt rectangle left border.",
+    "source_sha256": "0b6ab8673d0396131c941dc33bbd774f1afefd0c25bbb4435ed2d4c9d9240d3f",
+    "paper_title": "Rich Human Feedback for Text-to-Image Generation"
+  }
+}

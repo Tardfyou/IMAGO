@@ -1,0 +1,57 @@
+{
+  "id": "AI-097",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Toward Automatic Discovery of a Canine Phonetic Alphabet",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "内圈互相筛选候选模式和单元，外圈比较语境、合并并更新语料，双层循环有清晰不同职责。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 25,
+    "groups": 0,
+    "native_text_runs": 18,
+    "images": 0
+  },
+  "paper_id": "PAPER-0206",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.451/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "d7acdd597078df8d79b8883c4544bb394d2c4f3cf663184e43d7106328acc045",
+    "pdf_page": 3,
+    "crop_bbox": [
+      305,
+      476,
+      526,
+      582
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-097/AI-097.pptx",
+    "svg": "figures/ai/method/AI-097/AI-097.svg",
+    "preview": "figures/ai/method/AI-097/preview.png",
+    "reference": "figures/ai/method/AI-097/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 58
+  },
+  "hashes": {
+    "pptx": "48603eba7faa5d0052c971e5b8a3afaa313634e8abf9b3af8d2d723411b10238",
+    "svg": "051be4f511ac7ccb2e3653e15e799f985647a811682e5d15ce35b52a8b66d693",
+    "preview": "71d31f97fca378f0549cacacf664a47481464cb079b4c2955de236f0f9f6a41c",
+    "reference": "f8950cf7c05594cdf17fb1703a41e09eddb40b46e92b00c384bd9e021002ccd6"
+  },
+  "original_local_pptx_sha256": "13bb467ab72eb5dcca6c424af73bec6b86105a760ec240c19b6cb385e163bc88",
+  "visual_payload_sha256": "fedb48f9af3f8be633969a9f6eb8dfed86510d6940e815313bd04baf422381a3",
+  "dedup_note": "区别单一反馈箭头，本图将互为约束的两个内循环条件和外部聚合更新结合，可复用到迭代清洗或自训练。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

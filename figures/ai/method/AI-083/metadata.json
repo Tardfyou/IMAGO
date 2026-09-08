@@ -1,0 +1,57 @@
+{
+  "id": "AI-083",
+  "domain": "AI顶会",
+  "conference": "IJCAI",
+  "year": 2026,
+  "award_name": "Distinguished Paper",
+  "paper_title": "StreamTimer: Efficient Inference for Long-Context Time Series Transformers",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "在时间序列上标出输入/局部token/自回归区间，下方显示全局局部统计共同参与归一化与反归一化。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 64,
+    "groups": 0,
+    "native_text_runs": 24,
+    "images": 0
+  },
+  "paper_id": "PAPER-0178",
+  "source": {
+    "paper_url": "https://2026.ijcai.org/press/",
+    "award_url": "https://2026.ijcai.org/press/",
+    "pdf_sha256": "15c223178c266c7367ce815aac8bd4cc8f3b7b86265809ffe7113bd543de7829",
+    "pdf_page": 3,
+    "crop_bbox": [
+      53,
+      222,
+      295,
+      327
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-083/AI-083.pptx",
+    "svg": "figures/ai/method/AI-083/AI-083.svg",
+    "preview": "figures/ai/method/AI-083/preview.png",
+    "reference": "figures/ai/method/AI-083/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 55
+  },
+  "hashes": {
+    "pptx": "04786426e9915655e050f1814f644eb155e28c1c7656f3522ef0d202388cf1d3",
+    "svg": "b57168ad2f042823c29e15f44b62de804a3c0412493afd11384d2e77c2be2ee7",
+    "preview": "f873dcd5b9e325ada926c879d5eee560dd69e75c4baa4506cd726731489cc782",
+    "reference": "d88e0f92fd0d66deec3fc84bbdd3852b95c13930d8808fa4793325f182b0d3c1"
+  },
+  "original_local_pptx_sha256": "333ca22ede123e579ca32040a9bda5ffca8587d87710de3b092c36be413af5a7",
+  "visual_payload_sha256": "90022afbd0417fb04e7f1b434a53c19040b62e40625a3004dd19ea6b3f8efeb6",
+  "dedup_note": "旧库未有将时间窗选择和两种统计量的闭环恢复路径一起展示的时序机制图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-074",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "自上而下串联源IR、逐步尝试的转换路径和并行降级空间，用失败箭头、成功路径及不同输出说明为何要比较组合路径。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "473原生对象重建图形。中间(b)原为整块位图，已以原生圆角框、代码文字、箭头与编号重绘；上下原代码/组合树保留原矢量结构，点划线已保留。只保留底部小叉号原图标1枚，无核心整图位图。中段用Courier New近似源等宽字形；箭头/转角有小幅视觉差异。",
+  "object_counts": {
+    "shapes": 473,
+    "groups": 0,
+    "native_text_runs": 20,
+    "images": 1
+  },
+  "paper_id": "PAPER-0101",
+  "source": {
+    "paper_url": "https://tingsu.github.io/files/ASE25-MLIR.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "a52029b5edd8dea8eff217cfc1ef4b6004cdeb654bde05b41846d5aaf8d93615",
+    "pdf_page": 4,
+    "crop_bbox": [
+      48,
+      49,
+      302,
+      467
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-074/SE-074.pptx",
+    "svg": "figures/software-engineering/motivation/SE-074/SE-074.svg",
+    "preview": "figures/software-engineering/motivation/SE-074/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-074/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 61
+  },
+  "hashes": {
+    "pptx": "f55fa0d1184efd8081d47f819ab910119075bd0dfeb5d53f85e9d159a01712b2",
+    "svg": "aa3ce48a0d36f8fddb98fa924e1b0138207316994b714853c0e74c514c21c80f",
+    "preview": "e77616f58a8e7455318afdf313eb1cece970e5b3c5896ed7d7686147f2948016",
+    "reference": "d0f41c5403d7cd73475f69802da00b43ee3ac95dfaa91d4a444d3f7b2db41746"
+  },
+  "original_local_pptx_sha256": "f288a42f62abf11337db94e4476e23fb6ee685d47c91c1ce24fa401d21d968ec",
+  "visual_payload_sha256": "87b5acbbdd5239b88a24719323c90d86136053abe83beea34e4ef6e171c64bcd",
+  "dedup_note": "旧程序图主要比较控制流裁剪，本图把同一案例的代码、局部转换步骤与全局组合搜索空间纵向联动，适合解释编译优化或多步骤处理的不一致。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-028",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "浅色分区把离线挖掘、过滤和在线监控分开，图标、集合数据和模型组成可迁移检测防御模板。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 76,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0062",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2024-238-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2024/",
+    "pdf_sha256": "5fcfda4f7f7e0752389906ac866598b5d254d253f3939cbb3954889ba6c9deef",
+    "pdf_page": 6,
+    "crop_bbox": [
+      88,
+      53,
+      536,
+      174
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-028/SEC-028.pptx",
+    "svg": "figures/security/architecture/SEC-028/SEC-028.svg",
+    "preview": "figures/security/architecture/SEC-028/preview.png",
+    "reference": "figures/security/architecture/SEC-028/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 4
+  },
+  "hashes": {
+    "pptx": "58a22b1d31a987edf4311b2983e411867188a47313e1df6ee3c9898bc7ff80b4",
+    "svg": "0cee66264ec81c1af3e5c70267fd2cdd6c35257bfff67969c10ea4d047aab523",
+    "preview": "50ede2789cbf9af8fe25b2b51e52ede41c082a580e341955b2b32f7641988408",
+    "reference": "7387589157e716cb5978c060054299efd34c2fd368dc3862bb6c0edd65c55e8e"
+  },
+  "original_local_pptx_sha256": "fbae63cbe0652694b267fa41747d744e8db6d0180791b7f8af2af7cf6e95e7cd",
+  "visual_payload_sha256": "13aad157b4f783bc5b0dd1ef053c039eeea539149fc3071bfd9d9084815397cb",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

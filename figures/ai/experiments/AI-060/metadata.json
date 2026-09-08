@@ -1,0 +1,58 @@
+{
+  "id": "AI-060",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2025,
+  "award_name": "Best Datasets and Benchmarks Track Paper",
+  "paper_title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "下三角矩阵量化不同模型的回答相似度，上三角空白区域嵌入对应原句并高亮重复片段。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "325个单元格、325个印刷数值及双轴25个模型名称均为原生对象。原文例子/高亮/引线保留矢量轮廓，六枚小logo保留图片。数值仅按原图显示的两位小数转录，不是原始句嵌入数据；Arial替代原图矩阵字体。",
+  "object_counts": {
+    "shapes": 844,
+    "groups": 0,
+    "native_text_runs": 375,
+    "images": 6
+  },
+  "paper_id": "PAPER-0183",
+  "source": {
+    "paper_url": "https://arxiv.org/abs/2510.22954",
+    "award_url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+    "pdf_sha256": "2bccd95fd2e679b1d087568420729280336a9a6ca666eda9d3f18695543bb7ff",
+    "pdf_page": 5,
+    "crop_bbox": [
+      98,
+      44,
+      508,
+      427
+    ],
+    "source_identity_note": "官方NeurIPS奖表及poster121421列9作者；冻结arXiv PDF（含v1）列10作者，多Alon Albalak。题名与其余9作者一致；官方链接OpenReview saDOrrnNTz的PDF访问返回403，错误页单独留存。"
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-060/AI-060.pptx",
+    "svg": "figures/ai/experiments/AI-060/AI-060.svg",
+    "preview": "figures/ai/experiments/AI-060/preview.png",
+    "reference": "figures/ai/experiments/AI-060/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 81
+  },
+  "hashes": {
+    "pptx": "f69ac086667f21b581f3008ed855ae278a0cb8f90034d16c696f199c2da2de8c",
+    "svg": "319dcd6677ab2121005ded07f1dd4c9005579d5fe68f7bd8cad0fa04a0f67894",
+    "preview": "bd4e97fb905dcc1b30935a2e65e4de0172a1a3bd1617e87b1f9c0a65dee8242f",
+    "reference": "7defab6a13b7887aaa72f4f5f7b541c767cfb61a13037788c18ec7575f1dc389"
+  },
+  "original_local_pptx_sha256": "2cec492fd46297ec33fa92b548da762e65c8f4fe146c2e675f13069aac697440",
+  "visual_payload_sha256": "6096e4afdb0768bbb9367a230d9ff8bdf449a78f805860aceeb1d34f12a56c5d",
+  "dedup_note": "旧库没有把三角相关矩阵的空白区用于逐例文本证据并通过引线连接的混合定量/定性布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

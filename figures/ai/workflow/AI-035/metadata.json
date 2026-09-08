@@ -1,0 +1,57 @@
+{
+  "id": "AI-035",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Resource Paper",
+  "paper_title": "HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "网页事实提取、规则树检索、初次归类和两位专家一致性判断形成六步标注流程。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 84,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0166",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.937/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "71a5a198742874c384f58837bd1eec16f5a61537e2e2d75bfb274e5e37a30302",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      248
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-035/AI-035.pptx",
+    "svg": "figures/ai/workflow/AI-035/AI-035.svg",
+    "preview": "figures/ai/workflow/AI-035/preview.png",
+    "reference": "figures/ai/workflow/AI-035/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 94
+  },
+  "hashes": {
+    "pptx": "32e76c26d7b7c7f93425c4b82ede6b48f873214127bab5bb30271f6ec0ae4444",
+    "svg": "b64b77f86a6403d6260710c6e43db8c02e19ab1d82b0f7295bdb7e82c4d9c514",
+    "preview": "24c7f324cea2082f67ac614c3bd9f12aa1e804aed0cbbc85fb92c56ebf98d3db",
+    "reference": "3e035cec22a1d16fc3b536c327150818df1af8d746c5e35e124ac16187b94c75"
+  },
+  "original_local_pptx_sha256": "ab26a045fba17e167d8b48cd87cb7cdc5546989b9eda3435cb704ab65c5d1b12",
+  "visual_payload_sha256": "1e599c1f2b4b319c5ca1cceef5d8256c0bd9e773083abed2d54c64d5f5d33370",
+  "dedup_note": "区别旧AI023可执行任务生成：此图强调专家知识、分层规则和分歧丢弃分支，适合专业数据构建。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-078",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "顶行连续色阶表示测试难度，七行显示各polyglot覆盖，菱形强调唯一覆盖，右侧保留真实覆盖计数。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1287,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0051",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/kirchner",
+    "pdf_sha256": "77c6eff0cb65a30d5648c36416f94a8311c92bbdb272e72ff2382c3b1b10c63a",
+    "pdf_page": 7,
+    "crop_bbox": [
+      58,
+      75,
+      558,
+      165
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-078/SEC-078.pptx",
+    "svg": "figures/security/experiments/SEC-078/SEC-078.svg",
+    "preview": "figures/security/experiments/SEC-078/preview.png",
+    "reference": "figures/security/experiments/SEC-078/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 89
+  },
+  "hashes": {
+    "pptx": "d0e35bc862279517e926c2beaa7c9f8b57046846a420963b43e45eacca5f42d5",
+    "svg": "886e8415bf21590f38587db07360d5c1607cd8e72d514adf0d9141180fbfdf0d",
+    "preview": "e2376a47d861c3138a670ee2370acf090096e3e4b3d28c5d12d7eeb986774a55",
+    "reference": "2f062d14228105a7c026e1d2e654e1e6161eeee869a96def5ff3cf4d5172e2ec"
+  },
+  "original_local_pptx_sha256": "71dfd02eaeaf3584567e2454973342660e380a7e6496762040699a7240113bc7",
+  "visual_payload_sha256": "88468b2c14c1a73a43931eaf03f80daee8408b6fae427ea973b723fdbcc6e52d",
+  "dedup_note": "新增困难度条带+二元覆盖矩阵+唯一贡献标记三种编码，区别于性能热图，可借鉴到测试集/样例集选择结果。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

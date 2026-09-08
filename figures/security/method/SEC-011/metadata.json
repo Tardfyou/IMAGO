@@ -1,0 +1,57 @@
+{
+  "id": "SEC-011",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "BENZENE: A Practical Root Cause Analysis System with an Under-Constrained State Mutation",
+  "figure": "Figure 8",
+  "category": "方法细节",
+  "reuse_value": "三个阶段与两类轨迹在一条长流程中汇聚，用编号和轨迹图标解释抽象算法如何生成可解释报告。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 130,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0050",
+  "source": {
+    "paper_url": "https://kevinkoo001.github.io/assets/pdf/sp24-benzene-official.pdf",
+    "award_url": "https://sp2024.ieee-security.org/awards.html",
+    "pdf_sha256": "b8fac163929613512693c9e748e49451e3307a145ab0ef20ac0fd90ef4321d1d",
+    "pdf_page": 8,
+    "crop_bbox": [
+      63,
+      69,
+      550,
+      145
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-011/SEC-011.pptx",
+    "svg": "figures/security/method/SEC-011/SEC-011.svg",
+    "preview": "figures/security/method/SEC-011/preview.png",
+    "reference": "figures/security/method/SEC-011/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 31
+  },
+  "hashes": {
+    "pptx": "741f362def42227ddd907e7e0d435dd508e678aa5aad6059428c534b873fdfc9",
+    "svg": "3fe22f51c1effd37ab099af46bf8f42a874acf77ba3430859cd073d5961ce578",
+    "preview": "a443f39a61e200b04b0ae04729227f7fd7bdde1a02f1dada4f0445c1652243ec",
+    "reference": "2520b63204ee38fd95ecbc28ffbd39e423b9d80b084e30304f1e576f4b49e213"
+  },
+  "original_local_pptx_sha256": "1dc08cc295794fd83a7a0038ed1dd127eb40c63823f2e9275e5aad123de698c2",
+  "visual_payload_sha256": "68b0eb140c63e2faac6a6598d20350be353458f113e65eb4478db966cb62e2cd",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

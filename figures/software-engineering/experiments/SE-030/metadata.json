@@ -1,0 +1,57 @@
+{
+  "id": "SE-030",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "阶段消融曲线直接标注上下升降，两个数据域同图对照，适合证明加工管线中各阶段的贡献与负作用。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 257,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0086",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2503.14838",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "2211e8ccdf353ff95a48c7e5d35975800d4a5800749b2db5e14315efb0467777",
+    "pdf_page": 9,
+    "crop_bbox": [
+      320,
+      258,
+      558,
+      438
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-030/SE-030.pptx",
+    "svg": "figures/software-engineering/experiments/SE-030/SE-030.svg",
+    "preview": "figures/software-engineering/experiments/SE-030/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-030/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 76
+  },
+  "hashes": {
+    "pptx": "9155b10f07b478de56db210fbd2fa7cdae37c807dd049287e2dcd7b42f186b87",
+    "svg": "75b97794d6f0cc80f0828398177a750b4696909e791a2fdd86b6a673b3ccfd12",
+    "preview": "446c794d1b189ca9c8ceb12daf4ecd3147526ea79d698a980c47101e42f2b708",
+    "reference": "23c5b7204893c11ca81b49d879c962860fa66d33467dad23f822d663f4d463d2"
+  },
+  "original_local_pptx_sha256": "83cc7ee26fb334f8e6f5875cc259500323287e7b4a3fb258146c0f975d6e95fe",
+  "visual_payload_sha256": "9d7081e32c16f0ef31cc1f4ff69340f8a946d1863b9b7f49a0fd4a9220b49dc6",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

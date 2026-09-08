@@ -1,0 +1,57 @@
+{
+  "id": "SEC-100",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization",
+  "figure": "Figure 7",
+  "category": "研究流程",
+  "reuse_value": "用单周期序列及完整符号图例表达初始化、同步、诱饵刷新和待测ACT区间，反向箭头说明扫描变量；可用于时序类消融与受控实验设计。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 151,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0017",
+  "source": {
+    "paper_url": "https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "f51eccd4bdaba5b0a4b96775987394a4b36a187a71980c32c44954e5abbbfba2",
+    "pdf_page": 6,
+    "crop_bbox": [
+      55,
+      197,
+      299,
+      280
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-100/SEC-100.pptx",
+    "svg": "figures/security/workflow/SEC-100/SEC-100.svg",
+    "preview": "figures/security/workflow/SEC-100/preview.png",
+    "reference": "figures/security/workflow/SEC-100/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 101
+  },
+  "hashes": {
+    "pptx": "e7afe7340d41540832e06b6a6ce9f90cd2102cb5e511f85f3511d95997bf46cf",
+    "svg": "6d5507c5e9f54da90668a835224277f8fd362b1ee12713fb4864e6cfea7dfdeb",
+    "preview": "ed9bd38912f17472eb75c48dc9092eee8ea1a1176b25ebfec3f285bce649a523",
+    "reference": "56140719eeed36e1b5da86071f8df4a45e8a1e2594cc1d51da39f85722136f2e"
+  },
+  "original_local_pptx_sha256": "a0a3e0cc7e48a5f0652b1cca7b69d6194fe66c7c23b5a48915c7225fed9d7712",
+  "visual_payload_sha256": "87667a3d811ba6086be16742957ac1ad3ab7afb272ba76ac8f15ccd90fcf99c6",
+  "dedup_note": "相比SEC051硬件物理结构，本图关注实验输入序列和控制变量扫描；与普通通信生命线和结果统计图不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

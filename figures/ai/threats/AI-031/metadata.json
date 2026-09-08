@@ -1,0 +1,57 @@
+{
+  "id": "AI-031",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety",
+  "figure": "Figure 2",
+  "category": "威胁与攻击",
+  "reuse_value": "心理维度、攻击构造、不同多agent组织、防御和分层风险评测共同组成全景图。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 161,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 73
+  },
+  "paper_id": "PAPER-0228",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.812/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "70f45aa4afc94d463732e0ce8def365107668cc06f99137b38c506d424227d1a",
+    "pdf_page": 4,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      247
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/threats/AI-031/AI-031.pptx",
+    "svg": "figures/ai/threats/AI-031/AI-031.svg",
+    "preview": "figures/ai/threats/AI-031/preview.png",
+    "reference": "figures/ai/threats/AI-031/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 69
+  },
+  "hashes": {
+    "pptx": "22b9497e3332a58595cd7bbf7d35c8c4eb2973e1ab73bad5aaab10a1738549f2",
+    "svg": "78e3e9adf9bb6adcffc4505f9d2c55ac341c129c81a30b3b9f9533e5ee7cbf57",
+    "preview": "b31a40450026fcf459b04c5fbfe98455d987d3fa534a564c290ef7d76914c8e8",
+    "reference": "b060ee249670e3146f6ce08b4faf43332f1ee07da187c38c6599eda99d31be63"
+  },
+  "original_local_pptx_sha256": "7e4d6da3b881f1201078741b3a18f7b6c9fe682c29efaba2f304d82e66b02107",
+  "visual_payload_sha256": "ddd3c59862f66e06f52302c58a5027587a38ab27db73e7c6692c3daeb6939f21",
+  "dedup_note": "旧安全库主要是单一攻击链或检测器；该图同时组织跨智能体行为、心理维度和三层评测。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

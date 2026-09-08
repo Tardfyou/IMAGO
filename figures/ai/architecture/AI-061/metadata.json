@@ -1,0 +1,57 @@
+{
+  "id": "AI-061",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "上层展示两种文本路径，下层逐一展开修辞树、逻辑图初始化、关系传播和分类读出。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 679,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 55
+  },
+  "paper_id": "PAPER-0155",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.235/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "5adfce94044cacbd2f8bc50b51028d74ccc4f38a5963baf7f8735cd0486ecf6a",
+    "pdf_page": 4,
+    "crop_bbox": [
+      72,
+      70,
+      516,
+      260
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-061/AI-061.pptx",
+    "svg": "figures/ai/architecture/AI-061/AI-061.svg",
+    "preview": "figures/ai/architecture/AI-061/preview.png",
+    "reference": "figures/ai/architecture/AI-061/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 18
+  },
+  "hashes": {
+    "pptx": "b4caa6c40cd465aa5e06c100b785c3da63497789cf9efbcc3ead93b1abaabce2",
+    "svg": "19a0b1ebcfdbcf39f8cd3565997a60d2bc4a9aaeed0d827beef0e4ad1575f9db",
+    "preview": "0d3ada1600bb333eea69cf0ff625ba97af448944c9937f7b312ce0e870121438",
+    "reference": "1689ad70c9e7a3cf4404451e1999e3afc503452e4842c6634aa737cb41e94ffb"
+  },
+  "original_local_pptx_sha256": "a2d4d2933e73728b3d3bb3a7cce156722412947dcc3449941673c30c7899c74c",
+  "visual_payload_sha256": "2e011a23e68bb972a2fde1e8442e36e91dce5cc70c6a164bce922638f5a7a2aa",
+  "dedup_note": "区别旧单层GNN流程，新增文本修辞层级与图消息传递的上下对应展开，并显式区分创作与编辑。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

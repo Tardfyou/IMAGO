@@ -1,0 +1,57 @@
+{
+  "id": "SEC-044",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "ERACAN: Defending Against an Emerging CAN Threat Model",
+  "figure": "Figure 5",
+  "category": "系统架构",
+  "reuse_value": "左侧总线与物理采样器连接右侧六步状态流，红虚线信号和黑实线控制流共同解释软硬件协作。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 111,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0057",
+  "source": {
+    "paper_url": "https://khaled-alsharif.github.io/assets/ERACAN-2.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "da0cd427fcd1dcdcf8ca9e084bb6711364cbb2c42c8411c9a7e28a7ea47b44e7",
+    "pdf_page": 6,
+    "crop_bbox": [
+      52,
+      84,
+      559,
+      180
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-044/SEC-044.pptx",
+    "svg": "figures/security/architecture/SEC-044/SEC-044.svg",
+    "preview": "figures/security/architecture/SEC-044/preview.png",
+    "reference": "figures/security/architecture/SEC-044/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 16
+  },
+  "hashes": {
+    "pptx": "68d2dfd727738d5b5c607453bf23d36a4e1f00c7e943f807e6a248d71706c90a",
+    "svg": "06831b325e89a70ddfcdfaaa9f83d053edd246c5c5774474dca8710b125a3f34",
+    "preview": "2d11723b2c8ff73bb4e458eb11714cf8faa5698f0cfa90f24491a4fe3298ea2c",
+    "reference": "e108852e415ccb9b4b97cadd37dc3040195107c2cc6d4c66a7413f020188395c"
+  },
+  "original_local_pptx_sha256": "c4d573207c6c09c6079ddbda5e1a0e44525caf17e3dc3e5e9fe96a9cad2bfb90",
+  "visual_payload_sha256": "6ca91b56fa1f88cdc890221c65e5f2dd71b68038c6b344af91f5ba80d3118692",
+  "dedup_note": "与Rethink能量控制闭环不同，此图新增软硬件映射、事件中断和条件分支，将部署图与执行流程拼接。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

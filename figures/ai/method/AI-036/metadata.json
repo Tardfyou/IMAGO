@@ -1,0 +1,57 @@
+{
+  "id": "AI-036",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Best Resource Paper",
+  "paper_title": "VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "按完整性、上下文覆盖、真实性、含义和媒体真伪逐级分支，输出成对正负判定。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 128,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0179",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1948/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "e0759d1a90453fc1a250c8acc77264055f01381d005e745f2a166e57f35e1bbe",
+    "pdf_page": 5,
+    "crop_bbox": [
+      306,
+      70,
+      526,
+      364
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-036/AI-036.pptx",
+    "svg": "figures/ai/method/AI-036/AI-036.svg",
+    "preview": "figures/ai/method/AI-036/preview.png",
+    "reference": "figures/ai/method/AI-036/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 39
+  },
+  "hashes": {
+    "pptx": "69ca3e9f59bfee5fe8d9d2e1f2725fe5ad0965ea48a96cfa7905d9ab13119910",
+    "svg": "001d01d8ed22a97139df2450b223496f59d985a6154fa9a89c6a8935da99297d",
+    "preview": "2f4484059369576b42ea40ebeaf93c98c9553ce5d12352319a303facca4dbfae",
+    "reference": "b06f00212fb096f31f8460b484a158f2067e4cc28c8fe567dda2e596a4f92ac3"
+  },
+  "original_local_pptx_sha256": "7f86edd8d9a0c668d13fdc99cff798227fca8e5a8e3982ce9eb63e26d567f750",
+  "visual_payload_sha256": "ac09e9ad0aef8cb3469365ab554f619cb670ce37867033818bb91e9f4de72806",
+  "dedup_note": "旧库没有带五层属性语义和判定定义的裁决级联；与安全攻击链不是同一种构图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

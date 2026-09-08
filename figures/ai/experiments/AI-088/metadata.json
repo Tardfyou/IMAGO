@@ -1,0 +1,57 @@
+{
+  "id": "AI-088",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "十种目标蛋白分行，每种方法以已知配体与生成分子成对比较，保留原子与化学键层次。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "表头、蛋白名称和表线均为原生；60个分子示例独立保留源图，化学键和原子标注不声称可编辑。字号和字距有轻微近似。",
+  "object_counts": {
+    "shapes": 30,
+    "groups": 0,
+    "native_text_runs": 18,
+    "images": 60
+  },
+  "paper_id": "PAPER-0222",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29248",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "3a0ed4a83cf11d4709c2b0d55b250a5fa9a4028d86e9004c693df2a52fbc7ca3",
+    "pdf_page": 6,
+    "crop_bbox": [
+      72,
+      53,
+      540,
+      446
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-088/AI-088.pptx",
+    "svg": "figures/ai/experiments/AI-088/AI-088.svg",
+    "preview": "figures/ai/experiments/AI-088/preview.png",
+    "reference": "figures/ai/experiments/AI-088/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 87
+  },
+  "hashes": {
+    "pptx": "dc473ad1aca8b421364b45270193c8740f66e3ddbfe32ff14ab5e501173f8886",
+    "svg": "f046787c505e8f8f393e1049fb3d133d761cfc1e457b3431cab036c02e916e37",
+    "preview": "b93e0fc51a0a1a096ca4226413657e39172f34931ffd94e10e62e4ed9b933b13",
+    "reference": "3203388991c06f43b3bf61fee68f7f45c16c08adeb07a012a21045ac66c72e43"
+  },
+  "original_local_pptx_sha256": "8c4e22c9f93d09e52fce437cd2ee002b85225ca4818eae16d6310e7cdedf30fe",
+  "visual_payload_sha256": "cd25fb8bd03121aaeaa97ff1f1961a9341f56bcb484c7fae9098d82fb4522e63",
+  "dedup_note": "旧库没有化学结构作为核心证据的多方法对照表；可借鉴成对对象比较与类别行组织。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

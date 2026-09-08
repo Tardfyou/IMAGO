@@ -1,0 +1,57 @@
+{
+  "id": "SE-098",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "SWE-GPT: A Process-Centric Language Model for Automated Software Improvement",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "把仓库理解、故障定位、补丁生成拆成三种训练轨迹，上方执行任务、下方收集推理/动作/观察样本，通过正确定位和补丁拒绝采样回馈训练。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 158,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 19
+  },
+  "paper_id": "PAPER-0117",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2411.00622",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2025",
+    "pdf_sha256": "1ada87422bdadde860d28d5893ce4f59217a8273c3343e9aec0decda564d0f2c",
+    "pdf_page": 3,
+    "crop_bbox": [
+      75,
+      82,
+      408,
+      280
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-098/SE-098.pptx",
+    "svg": "figures/software-engineering/workflow/SE-098/SE-098.svg",
+    "preview": "figures/software-engineering/workflow/SE-098/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-098/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 101
+  },
+  "hashes": {
+    "pptx": "fbda6bd14337cee51460936bc40815568d84d2e335c85f287921be8d91a1efc2",
+    "svg": "fb4fa96ff4dffdd96ffea5a2844a28396aef4e2d11aaeba7b3d21d05994135b1",
+    "preview": "5b900728d9088dbb8ff4f7ff425daf54d63b95913da96922a9e3d82dcc8d3380",
+    "reference": "0cd915c93dd598c3ffebea04be58f13fddeec40733102491a28104d474cf70ac"
+  },
+  "original_local_pptx_sha256": "fad64973a8161acd8a8f731935f60a45cc4c73b956cae327c1f48b9a5317b698",
+  "visual_payload_sha256": "0810cd374a9be49157ea747c4582f2ba56273e1259df635bbd8dfef3d477e9ed",
+  "dedup_note": "同论文SE052为实际开发时的代理工作流。本图展示训练数据如何由过程反馈产生、筛选并回流，是训练协议而非重复推断架构，适用于有验证信号的Agent训练。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-062",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Hallucination Detection in Large Language Models with Metamorphic Relations",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "同一错误回答同时进入重复采样和两类语义变换路径，响应卡片以绿红底色标注对错，最后汇聚成不同的幻觉分数。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 188,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 11
+  },
+  "paper_id": "PAPER-0102",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2502.15844",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "7ed5efd9704a60c50f00563ac58d9e2e723c0b512ad8a9ff7042e344c66b886b",
+    "pdf_page": 3,
+    "crop_bbox": [
+      65,
+      83,
+      428,
+      352
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-062/SE-062.pptx",
+    "svg": "figures/software-engineering/motivation/SE-062/SE-062.svg",
+    "preview": "figures/software-engineering/motivation/SE-062/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-062/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 60
+  },
+  "hashes": {
+    "pptx": "76ab3598113af6e1db756143f7e01e311ee587100971a0989acee3f881e7b435",
+    "svg": "bc5734aeda80c85034b99cd1d1da131bd340b663e9ea5b8dc379a5a7aa2b80cc",
+    "preview": "29800476a57c96120cdc7d2f3878bcdefe8986156c32b6d491f3e3c7be062bc4",
+    "reference": "744c705038355ba882ff2c4da4e7dc71f8a72f198b4cb7760f7a2012a94cfec5"
+  },
+  "original_local_pptx_sha256": "b3527051327fa792bb6b09c5651c50cf7e4efe8a93a3da88bf02587a8191a17c",
+  "visual_payload_sha256": "7f5c96326870ddd94516fd255f503b7ef3e35018bfd9b704f0b713e5d366816a",
+  "dedup_note": "旧库没有同时对比重复采样自一致性和变形关系检查的多支响应卡片图；可以复用来说明原有度量为何遗漏问题及新信号如何补充。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-005",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "双实体间四轮数据交互和底部差分预言机，粗细与编号区分新增机制，适合差分测试或执行器协议。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 299,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0033",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-1411-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "0cae4fcfcd72a2f0d0514bac89d7025c63d307eff5d2b74605dd87bd1e66c68f",
+    "pdf_page": 4,
+    "crop_bbox": [
+      49,
+      51,
+      302,
+      184
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-005/SEC-005.pptx",
+    "svg": "figures/security/method/SEC-005/SEC-005.svg",
+    "preview": "figures/security/method/SEC-005/preview.png",
+    "reference": "figures/security/method/SEC-005/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 35
+  },
+  "hashes": {
+    "pptx": "bfede082c49676131fb86ce7c9d573149febb3eac8f8ba914acf45cdfa8791c1",
+    "svg": "f2f5b4a2f88167e7f9a7ff60dce25d6f27d0098e2e9148fb244f94406c4ced69",
+    "preview": "f88fd227dcb99dae515907502455aa7300152b4605edba0bd9dc146688f1c931",
+    "reference": "2019f3a9944f2ce81d822668c57e38d738b2736de6442eec1d9cd015c94c1c18"
+  },
+  "original_local_pptx_sha256": "efb3d6e194fbd6acc57ab3e570bad5a7f68baec406d86932542819c6513386c8",
+  "visual_payload_sha256": "5ea712c1cdfa37d69719d35028bb85a91adccffb5bdee17615991411f45c5a97",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

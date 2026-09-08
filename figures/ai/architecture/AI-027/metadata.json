@@ -1,0 +1,57 @@
+{
+  "id": "AI-027",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "把邻接矩阵初始化、树状草稿检索、注意力掩码及验证后更新并置，适合复杂缓存/检索算法展示。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 615,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 13
+  },
+  "paper_id": "PAPER-0207",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.338/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "11fd8eb060ff962e433d09d16c110cdc784afc65c21d2329bc01a11c6f8ea674",
+    "pdf_page": 4,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      336
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-027/AI-027.pptx",
+    "svg": "figures/ai/architecture/AI-027/AI-027.svg",
+    "preview": "figures/ai/architecture/AI-027/preview.png",
+    "reference": "figures/ai/architecture/AI-027/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 11
+  },
+  "hashes": {
+    "pptx": "810b5ba13098c05aead2d0b4c0d8c0f52ec1255630f4a417273bc5997e1483ca",
+    "svg": "3b8c7b955d6dcf5494bcc0b7ca1cd6a474a88986cae9a1d2c691690735be4396",
+    "preview": "bec06e45cae3b740f9b61d1b0d74df890812c26b7e549eb3e9fdf80e27e171b5",
+    "reference": "f1f17435f9ff5f235876917b5ee4bab8a055900b3aa6ccf1854749aa73c99eed"
+  },
+  "original_local_pptx_sha256": "fb13d3ac150ee267600fecfc9de8a673c8acb6392b044d20276746c44a7635f6",
+  "visual_payload_sha256": "c1fc0d8301b61744a66f21ca6c53e22721ed70a6be6c02567507633aa28fb05e",
+  "dedup_note": "旧75没有候选词元矩阵与解码树联动的构图；与SE测试生成流水线表达对象不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

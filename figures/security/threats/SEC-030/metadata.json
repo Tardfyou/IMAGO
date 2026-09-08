@@ -1,0 +1,57 @@
+{
+  "id": "SEC-030",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "UntrustIDE: Exploiting Weaknesses in VS Code Extensions",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "工作站、编辑器、工作区嵌套色块表示信任边界，红色入口箭头标出攻击者控制点。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 43,
+    "groups": 0,
+    "native_text_runs": 17,
+    "images": 4
+  },
+  "paper_id": "PAPER-0075",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2024-73-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2024/",
+    "pdf_sha256": "695e81681753cf56b2b689d478e9f8533537e7902f49720e159531a35acbe002",
+    "pdf_page": 3,
+    "crop_bbox": [
+      51,
+      52,
+      298,
+      180
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-030/SEC-030.pptx",
+    "svg": "figures/security/threats/SEC-030/SEC-030.svg",
+    "preview": "figures/security/threats/SEC-030/preview.png",
+    "reference": "figures/security/threats/SEC-030/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 64
+  },
+  "hashes": {
+    "pptx": "5035578042f08fa46155cad5f2512ba61bf316b506cda122334fb3f45dd55848",
+    "svg": "0e795d99d5c4997f07f38cbabbd089ef795f784c7a63135455a0d70fca1f8b20",
+    "preview": "9da32b74296020eacafe15c802c8c3b5909b7b12259c4511e2ebf0d50e2b240f",
+    "reference": "26d1ab6b2b6e39389abcadf9c5bf2d83b438a7fbf38ed70949456d39a4930a37"
+  },
+  "original_local_pptx_sha256": "741977aa59741452a0ff7c3baf74a1732db9856e0370673a721592958fce91b2",
+  "visual_payload_sha256": "9b63bad8a748bb928d8f773a66abf51d71d622ec82304b8ee8c392771a12f9e9",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

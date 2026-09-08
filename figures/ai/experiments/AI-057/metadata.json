@@ -1,0 +1,57 @@
+{
+  "id": "AI-057",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "ViLL-E: Video LLM Embeddings for Retrieval",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "左侧多任务雷达暴露专家模型和通用模型的能力缺口，右侧将结构差异与能力覆盖对应。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 589,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0180",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.2003/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "31ba662128f865f53d68f6f09516d57f0d54465bcd15ee30b824459fb8e459ee",
+    "pdf_page": 2,
+    "crop_bbox": [
+      70,
+      71,
+      509,
+      321
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-057/AI-057.pptx",
+    "svg": "figures/ai/experiments/AI-057/AI-057.svg",
+    "preview": "figures/ai/experiments/AI-057/preview.png",
+    "reference": "figures/ai/experiments/AI-057/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 80
+  },
+  "hashes": {
+    "pptx": "b8503748b62b85cfb753c53bdc3a9595a72088001ee3c053ed8f9fce90381dc4",
+    "svg": "591ac1721d7ee0bd38bd9f4e135838332221bd7dea93338352b88f3b36bdea20",
+    "preview": "824b190569a1a92ec4d2c86e77da6c1c4419ae02509bdebfcfe425f99f7ef627",
+    "reference": "7485db421540d819d32269c0c8f84fe07bbd4e26cb49e5b782c20ec52a8a5f6f"
+  },
+  "original_local_pptx_sha256": "82fb3d6d6715c98e59e0445b0411b2d098e3aeda0f57596490b10670d5f7a088",
+  "visual_payload_sha256": "45cb80009652322d37ab722ea284419e4044540d5c4f8b79b05fb11a4d369b74",
+  "dedup_note": "区别旧AI009纯环形柱图，新增任务分组着色雷达和勾叉能力矩阵的联合证据布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

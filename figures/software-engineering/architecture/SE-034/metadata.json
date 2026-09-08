@@ -1,0 +1,57 @@
+{
+  "id": "SE-034",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "左侧双检索器与当前证明状态生成下一策略，右侧将逐步生成器放大为失败和成功的执行序列。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 102,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 6
+  },
+  "paper_id": "PAPER-0112",
+  "source": {
+    "paper_url": "https://www.cs.cornell.edu/~lerner/papers/rango-final.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "ae90b2203660fb523eb44f8ac9f064129c764aabe8417f22a77892658aa7861e",
+    "pdf_page": 4,
+    "crop_bbox": [
+      48,
+      51,
+      564,
+      193
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-034/SE-034.pptx",
+    "svg": "figures/software-engineering/architecture/SE-034/SE-034.svg",
+    "preview": "figures/software-engineering/architecture/SE-034/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-034/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 7
+  },
+  "hashes": {
+    "pptx": "6bc623f31aa4dcc30351bd4213fdbf0f93be860f31a394264cef8fdecdd1d00c",
+    "svg": "9ddf0f92b21b786e42a61d4201fbe6ee7e416d5d689ed21e2620343466c681ad",
+    "preview": "5500c559b32dff2e1b5734da4fea6c83f4eb60465c481acf8a32e350284d4c19",
+    "reference": "1242ba4e50bdedad19f2fa50cbdcb2b2f78c41fc54bb1325de7166c6d2176a00"
+  },
+  "original_local_pptx_sha256": "9059b89f36244a3da80b8b53073ce245615946e1bc29dd872cf8980f87ffe626",
+  "visual_payload_sha256": "e0a37723f02552cf17acaa9105ca95a735d51395c7addabee08bda22d196532f",
+  "dedup_note": "旧SE-001完整修复闭环并无证明策略序列，本图通过局部生成模块与整体搜索序列并列，表达算法嵌套关系和反复验证的粒度。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

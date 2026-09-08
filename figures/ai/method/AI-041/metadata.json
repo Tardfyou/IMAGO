@@ -1,0 +1,57 @@
+{
+  "id": "AI-041",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2026,
+  "award_name": "Best Student Paper",
+  "paper_title": "Native and Compact Structured Latents for 3D Generation",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "双层虚线区域组织网格拓扑、属性采样和双向转换，空间几何细节与数据结构字段一一对应。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 591,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 9
+  },
+  "paper_id": "PAPER-0175",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "de9996f3e05b3621c4617786011495e1e600d0ef7058adb06329b537c39e59d8",
+    "pdf_page": 3,
+    "crop_bbox": [
+      316,
+      71,
+      555,
+      300
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-041/AI-041.pptx",
+    "svg": "figures/ai/method/AI-041/AI-041.svg",
+    "preview": "figures/ai/method/AI-041/preview.png",
+    "reference": "figures/ai/method/AI-041/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 42
+  },
+  "hashes": {
+    "pptx": "f2efe2e7209d03ae8c42fa956b0566ca9c368ed073a84f828eeca9a8b289892e",
+    "svg": "ae8297527fe32b1421bda8e34d5890388abc7cceff0a3bb1c7883fcca7c8693c",
+    "preview": "41dc17d6694a9768cf505c66cfd9c77159f882e4658016e3d6d729c557d9fbf6",
+    "reference": "0621b02ad41e1497635ebbadb6f9b60da6b44e08a6c5af9d7eed407c5d7bc9f4"
+  },
+  "original_local_pptx_sha256": "aa4e6dbfa537a2386c5d7394af74d43fb179be0a6c894d5e56fa37322537dcb5",
+  "visual_payload_sha256": "cf0a815424318ddc313b90ca9677eb48bc2ddb691d14c3d5c13544a9821e65a1",
+  "dedup_note": "区别已有token/自动机图，新增三维网格构建、表面查询和离散属性协同的几何算法布局。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

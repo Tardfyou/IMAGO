@@ -1,0 +1,57 @@
+{
+  "id": "SEC-036",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "OCCUPY+PROBE: Cross-Privilege Branch Target Buffer Side-Channel Attacks at Instruction Granularity",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "代码片段和缓存小矩阵成对出现，以占位、受害者执行、探测三阶段解释微架构侧信道。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 211,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0013",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s925-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "6067be9d82083d6c0dfb35d7971eec45241f086dc2f2cbd433f01d573d93167a",
+    "pdf_page": 4,
+    "crop_bbox": [
+      312,
+      49,
+      565,
+      131
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-036/SEC-036.pptx",
+    "svg": "figures/security/method/SEC-036/SEC-036.svg",
+    "preview": "figures/security/method/SEC-036/preview.png",
+    "reference": "figures/security/method/SEC-036/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 37
+  },
+  "hashes": {
+    "pptx": "d4a11502d331c2ad78ef0293fc5a8039d8644eea79c06d95a3e0dc2d51e7fb1e",
+    "svg": "545a52a4fe4b47dd63920dc0c7a9cf13e19ec21ddd0ab6228a40e5fd23416c0e",
+    "preview": "c55683fdc4bcfe2695c95b0c75d4194114ced111fe9d48bf468160e3b0b9106f",
+    "reference": "7e54a02594de5c3500881831f80c4776a987202d627e9f7adeaa18cd1e3068d4"
+  },
+  "original_local_pptx_sha256": "2b9712b55c1a02871a0d6b8a3ed837f0bbc2f13665beae18a1455a21ef42d14d",
+  "visual_payload_sha256": "640a3d719cc3c001e9050c0c68769a9a7bedf12f21dc4d8837395856de432258",
+  "dedup_note": "库内尚无逐指令代码与微架构状态矩阵配对的机制图，区别于宏观系统流水线。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

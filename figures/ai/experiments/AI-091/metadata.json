@@ -1,0 +1,57 @@
+{
+  "id": "AI-091",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Best Paper Award",
+  "paper_title": "Causal Estimation of Memorisation Profiles",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "上方三角时间矩阵中的横向切片由外侧引线关联到底部误差棒曲线，解释整体分布与个体路径的联系。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 4687,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0213",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.834/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "db6ce5c45e6faa26ef768d3878d8d0e11375e220cbfb33d11184f146880f51d3",
+    "pdf_page": 1,
+    "crop_bbox": [
+      305,
+      219,
+      525,
+      394
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-091/AI-091.pptx",
+    "svg": "figures/ai/experiments/AI-091/AI-091.svg",
+    "preview": "figures/ai/experiments/AI-091/preview.png",
+    "reference": "figures/ai/experiments/AI-091/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 88
+  },
+  "hashes": {
+    "pptx": "f8ae7ee766503cd37e92df3f2565626b4a92ada13c9baf4e16cae1173f1f8a15",
+    "svg": "ff06291ff617b8cc1cdf7cf75ea243603eaf6b11fd6c5a297fb03367f045bd2c",
+    "preview": "85353911879197023f62a63da40c3edf71dee52cbdaf95435fdd6ebe4af30f1b",
+    "reference": "3c3d4d8ee71b579cf499ad28e1ca3f306ff7669e3bba931c71161e92ad50e021"
+  },
+  "original_local_pptx_sha256": "3ad2daf66977fdb1cd69565a9139aed5eb2b42f14aedd3fdd36a5ef96ccd9dce",
+  "visual_payload_sha256": "87cdfbfd8e9c03759ffa967723c91a96150dcfa3995b221a1b034f30e717af5f",
+  "dedup_note": "区别旧普通热力图，本图是训练处理时刻与checkpoint二维矩阵加单行切片的联动阅读。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-086",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Automating Just-In-Time Python Type Annotation Updating",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "左侧代码diff和过时注解分叉到三种角色，右侧用紫/黄/蓝卡片展示候选检索、示例解释和最终更新的输入输出；编号与箭头体现逻辑依赖。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Source prompts/code were 172 embedded text-strip images; reconstructed as native Arial Narrow/Arial text, so letter shapes and some line breaks differ slightly.；Guiding-example old/new type highlights are native fills. Dataset label shifted 25 px left to avoid the adjacent downward connector.；Only original small icons retained, robot extracted from author PDF with original alpha and reused at three role headers.",
+  "object_counts": {
+    "shapes": 373,
+    "groups": 0,
+    "native_text_runs": 102,
+    "images": 8
+  },
+  "paper_id": "PAPER-0079",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2607.09054",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "3588b37500bb7830e97bb1581263f8a885fdca1915194abcee32273c045e9b46",
+    "pdf_page": 5,
+    "crop_bbox": [
+      60,
+      82,
+      528,
+      366
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-086/SE-086.pptx",
+    "svg": "figures/software-engineering/method/SE-086/SE-086.svg",
+    "preview": "figures/software-engineering/method/SE-086/preview.png",
+    "reference": "figures/software-engineering/method/SE-086/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 49
+  },
+  "hashes": {
+    "pptx": "af1ebb01f599f4344b8aba66652a0fd3825f841cd2890d7f27007d1ede132f42",
+    "svg": "ddf79475df66e91743d5a4a9f4aaf19657288ada6cfe6b66a748078e66a21f66",
+    "preview": "58b5db45d9430759d114ca6ec8d67449a5ff4849ca5279e1eb3ed4b1ca2527e8",
+    "reference": "0709bac217c39f32f4da4c9e508c207c02d426ff1c5a802b02cf86ecc6b095e3"
+  },
+  "original_local_pptx_sha256": "83a34967948bf03de8f681d06406217252d1591070e461389c215c33140a3baa",
+  "visual_payload_sha256": "d1f66b87f7a7a46427b52908fd181d2aca8ac95734d5e0aa116127b76fc21a77",
+  "dedup_note": "已有Agent图多是总体角色框，本图将真实diff、检索重排结果和三个角色的提示/回答逐项展开，展示两路信息汇聚与更新依据。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

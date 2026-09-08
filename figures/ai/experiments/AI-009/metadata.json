@@ -1,0 +1,57 @@
+{
+  "id": "AI-009",
+  "domain": "AI顶会",
+  "conference": "ICLR",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "将多个数据集/指标分扇区布置，五种方法采用一套颜色；适合作为封面式综合结果和视觉焦点。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 363,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0181",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=HvSytvg3Jh",
+    "award_url": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/",
+    "pdf_sha256": "1b99c31b28f5e5e069f111beaf286258092bd0fac1e81ff9bacbd936259736cc",
+    "pdf_page": 2,
+    "crop_bbox": [
+      305,
+      85,
+      501,
+      317
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-009/AI-009.pptx",
+    "svg": "figures/ai/experiments/AI-009/AI-009.svg",
+    "preview": "figures/ai/experiments/AI-009/preview.png",
+    "reference": "figures/ai/experiments/AI-009/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 71
+  },
+  "hashes": {
+    "pptx": "7412a8a35f4f6c6b4ed2e407e533d1c00a114b229e90d12a31d0b410e83ff00c",
+    "svg": "a2ef9de144424619d2846202c915de9b176a04a37ac0433653ab9ae426d1ca8d",
+    "preview": "10978842673ae7bce22d642f369c77f3683614ff5209507f222e715b6317763e",
+    "reference": "a36678769095cb1d57f32d002d8712bc18285c1c672dfca0148d4cb0a377d1bb"
+  },
+  "original_local_pptx_sha256": "44468cb785d31173772489c34243d72104d7239d0303ccbbde8394efe7a82f08",
+  "visual_payload_sha256": "ad128ab23aad3c29b925ef247d55f313cc1ca93d0b0c01fe513ce57c3c684353",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

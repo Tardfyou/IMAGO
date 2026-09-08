@@ -1,0 +1,61 @@
+{
+  "id": "AI-086",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2024,
+  "award_name": "Best Paper – AI for Social Impact Track",
+  "paper_title": "DISCount: Counting in Large Image Collections with Detector-Based Importance Sampling",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "用地图、检测分布、人工重要性采样及置信区间逐步说明多个区域的高效计数。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 158,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 14
+  },
+  "paper_id": "PAPER-0217",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/30235",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "acb1660065a6a64cf19736e347ec50c42d67b5a59a8c9fec5e45b259b07ebc77",
+    "pdf_page": 2,
+    "crop_bbox": [
+      53,
+      52,
+      558,
+      169
+    ],
+    "source_repair_note": "从同作者arXiv2306.03151源码Figures/pipeline11.pdf恢复原矢量构图及独立科学图层，重排为官方Fig1画幅，并原生补回(a)(b)(c)(d)；官方奖项PDF/SHA与reference不变。 主体用官方外框/标题作基准，近原比例缩放并平移到官方画幅；不声称作者预印本源与官方PNG逐像素或字节相同。",
+    "alternate_source_url": "https://arxiv.org/src/2306.03151",
+    "alternate_source_sha256": "c4ff74baa147d28cbfbc97ff02919a46dae4f7fd2bb2428faea0072170e0aefe",
+    "alternate_figure_sha256": "1d983e2ebb7cd91d6fd02a262b98c4b6347fcbe474fd640d26dd3f140f73f41d"
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-086/AI-086.pptx",
+    "svg": "figures/ai/method/AI-086/AI-086.svg",
+    "preview": "figures/ai/method/AI-086/preview.png",
+    "reference": "figures/ai/method/AI-086/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 56
+  },
+  "hashes": {
+    "pptx": "f29f20e73a3168179aa3057aced8537814d61a4338a6f4cb64f8ceaf72c731f5",
+    "svg": "d8aea251c9ff6a025c592e56ca0343ff59ab4d8a3d1f20c767b4ff3858af3354",
+    "preview": "cded2999e1921dd1b3c80c583e6bca070e5f15dc734b74f5cf43707a27182b59",
+    "reference": "e8edb9ad1c33dab0e1b0c3c4928c3ca192360359af63bef72be8aceb88b91322"
+  },
+  "original_local_pptx_sha256": "e695dcaf588b53fd09fc751658eac9f5c70cd9d013df522635c123d0d309abe7",
+  "visual_payload_sha256": "2a1335cf589382ee3ece6123c778d40f3fcabc48157d1d59a3d4f29150391738",
+  "dedup_note": "区别常规视觉检测流水线，这一图的输出是区域统计估计和标注成本-误差曲线，适合测量研究。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

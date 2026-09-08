@@ -1,0 +1,57 @@
+{
+  "id": "SE-063",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Code Search is All You Need? Improving Code Suggestions with Code Search",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "检索器将Header、Comment、Code context映射到不同搜索策略和数据库字段，Formulator堆叠相似代码与上下文，Generator区分行级和函数体级输出。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 153,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0134",
+  "source": {
+    "paper_url": "https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "572113d7bf5251d60169b56fd67d5c95ee67109fc2c04272c9ca8ebe18ba35a0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      54,
+      84,
+      558,
+      269
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-063/SE-063.pptx",
+    "svg": "figures/software-engineering/architecture/SE-063/SE-063.svg",
+    "preview": "figures/software-engineering/architecture/SE-063/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-063/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 25
+  },
+  "hashes": {
+    "pptx": "836a25ca6b2ed4a970a4bb50446036cfb87641e885a5e8f642e1c24ffb8b8d71",
+    "svg": "b14c706a422123c5be028d203f049075be8ae992b5e723df900b9f90056560fe",
+    "preview": "9e271ef33ac4ff106ec21d5c2b3018a17537a39c22a268f36897ac4f272e393b",
+    "reference": "2206efef8027f4627cdf5fecbaacb7dac0fc4d2dc8adcef16845f654d37ad243"
+  },
+  "original_local_pptx_sha256": "0828cdbd4e8b5c8f1c1c656ea3bc8e975c4bc5b056ac1d2788c2be1487a2c0e3",
+  "visual_payload_sha256": "44a5625545975c15328dd184951c6f41876fd6c0c1bdda5a4bf30cc135963ba5",
+  "dedup_note": "区别于Rango的自适应检索搜索回路，本图将多个检索查询入口、检索策略表、提示模板填充及输出粒度同时展开；适合通用RAG系统的方法介绍。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-057",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "云平台、手机、IVI、T-Box、ECU和外部接口分布在相互连接的层次图中，以编号、红色标记和硬件小图标联通软硬件视图。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 104,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 16
+  },
+  "paper_id": "PAPER-0087",
+  "source": {
+    "paper_url": "https://sen-chen.github.io/pdf/C61-ICSE2026-Towards%20Understanding%20and%20Characterizing%20Vulnerabilities%20in%20Intelligent%20Connected%20Vehicles%20through%20Real-World%20Exploits.pdf",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "b289177ca1f32d5e8c4419bf168b611aee3363f1e9c105dffe8dba95cadc28a5",
+    "pdf_page": 3,
+    "crop_bbox": [
+      65,
+      82,
+      277,
+      257
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-057/SE-057.pptx",
+    "svg": "figures/software-engineering/architecture/SE-057/SE-057.svg",
+    "preview": "figures/software-engineering/architecture/SE-057/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-057/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 22
+  },
+  "hashes": {
+    "pptx": "90fd4aaba84bbb2719cf4cb2ddf205ee9f6523eb5186b2213fb88d19ad6d0f18",
+    "svg": "6670685de7afff5cf8fb62aed45d9b8de5007233e94b13800866e73fa7fb9740",
+    "preview": "c92348e7585f948399d004cd49e94568cbdc82748843c0468ff25d0118188d6c",
+    "reference": "2fd49204008608473c036f0098775df0ba68bd5d37578259dfb6b486d07bdaac"
+  },
+  "original_local_pptx_sha256": "774a0b7b1aab68b350e10e0c39a33c54384cd3e31e9a7eb75cdae758808e5cae",
+  "visual_payload_sha256": "e84f66fc0473c3b1800dd482b7164d1c8f7838c77d61027b2644741c32ec6a19",
+  "dedup_note": "旧库虽含自动驾驶测试框架，尚无云车端、操作系统、ECU网络和物理端口共同呈现的生态架构地图；不同于软件模块的单层流水线。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

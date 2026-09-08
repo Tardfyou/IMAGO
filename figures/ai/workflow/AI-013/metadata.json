@@ -1,0 +1,57 @@
+{
+  "id": "AI-013",
+  "domain": "AI顶会",
+  "conference": "ICCV",
+  "year": 2025,
+  "award_name": "Best Paper (Marr Prize)",
+  "paper_title": "Generating Physically Stable and Buildable Brick Structures from Text",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "数据生成、随机增强、稳定性过滤、自动描述与结果库分五区；适合合成数据/质量筛查流水线。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 104,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 41
+  },
+  "paper_id": "PAPER-0193",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Pun_Generating_Physically_Stable_and_Buildable_Brick_Structures_from_Text_ICCV_2025_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "9ab6650e0e0d02752d0469ca95ff93dc6736dec9e9f770e26643eefdc58c76f6",
+    "pdf_page": 3,
+    "crop_bbox": [
+      69,
+      72,
+      544,
+      228
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-013/AI-013.pptx",
+    "svg": "figures/ai/workflow/AI-013/AI-013.svg",
+    "preview": "figures/ai/workflow/AI-013/preview.png",
+    "reference": "figures/ai/workflow/AI-013/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 91
+  },
+  "hashes": {
+    "pptx": "bebb0beccf45a1dd23812e8f748e0c5cd2e0d8e7caf925efe5e7858e906d844a",
+    "svg": "d2c91e49e6834ba1d7123c7282c028c248d8b15bf5583a2bf7b1c5d7938a9c14",
+    "preview": "8da7734f92753022001cf350c3afeaa0a6d9ae93258909c8f2beb50bf441fe26",
+    "reference": "2731a149633607dfdbc6f88bf92fe6e73a1d62029de04c3c90f242206b8bb30a"
+  },
+  "original_local_pptx_sha256": "a514e5bc987d9a62f6e430f7d187ce104d1d4f34defef5be12353f9e23230cca",
+  "visual_payload_sha256": "1d60944be723e3c9ef81ec755789e5625f627f116a872bd7658f22df831322e4",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-092",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Spec-o-Scope: Cache Probing at Cache Speed",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "两边对齐多个scope与延时链，用块的纵向长度和截断线表达执行窗口，直观解释竞争结果改变。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 130,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0070",
+  "source": {
+    "paper_url": "https://eprint.iacr.org/2024/775.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "0ad4776ad3c302951c780aaaab07596b3f6e1ac9c1756b38483c012486b3561d",
+    "pdf_page": 8,
+    "crop_bbox": [
+      52,
+      84,
+      562,
+      342
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-092/SEC-092.pptx",
+    "svg": "figures/security/method/SEC-092/SEC-092.svg",
+    "preview": "figures/security/method/SEC-092/preview.png",
+    "reference": "figures/security/method/SEC-092/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 53
+  },
+  "hashes": {
+    "pptx": "7759d84bc80d9f653e615f99afb86933654af8970a6e1dc0f7f1b47f6642c228",
+    "svg": "246344121b9864a2fae77e9aa68b8f00da708ebf644a26dd743a99d920d1c2ce",
+    "preview": "2197f5d1c173215d0a89b9b9c3cf4af6497ad6fb07e7a5d001a34dccb660b5a1",
+    "reference": "12b389141668b842d721f66bde8c7c8b4e49ff2aff5072adfdc5b6f51120d636"
+  },
+  "original_local_pptx_sha256": "7744cfd9b0f3117e3c69995ddc8bd8f965c04a683e37115cffca4fff547fad8f",
+  "visual_payload_sha256": "cca52464b67779b6c3511dad1f736f25e6cbc3e79ed8fb53bdfd03ea164572ea",
+  "dedup_note": "新增时间长度即块高度的事件竞赛比较，不同于普通请求时序或等间距流程。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

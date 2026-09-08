@@ -1,0 +1,57 @@
+{
+  "id": "SE-035",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Analyzing and Debugging Normative Requirements via Satisfiability Checking",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "以利益相关者群体、规范属性、三步SAT分析及高亮诊断形成闭环，适合以人类决策为中心的方法工作流。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 64,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0131",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2401.05673",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "d871b9c2814484559faaf140a55106062decd738ecb761174ac8ef38f0546e8d",
+    "pdf_page": 2,
+    "crop_bbox": [
+      321,
+      82,
+      552,
+      235
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-035/SE-035.pptx",
+    "svg": "figures/software-engineering/workflow/SE-035/SE-035.svg",
+    "preview": "figures/software-engineering/workflow/SE-035/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-035/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 84
+  },
+  "hashes": {
+    "pptx": "00ba4bae69400060f911dbae6352bda94dbce24eaa3d02ff31efcb6ba85b0189",
+    "svg": "ef43e10af28022e55e950158866268cab413792378c3b9b879f588e473b4d62c",
+    "preview": "782ab1f338737f5d1ad66279848000c796f6111f1039edd2ffabc6e7d75f2941",
+    "reference": "755ce8bbd3c91366ebfcf886352da7364717154d03e367ecd967a7e27b1e5c3a"
+  },
+  "original_local_pptx_sha256": "c14b1c2650a56930865da56df4c23de792140fcdd1ceeb4fca057934166b719c",
+  "visual_payload_sha256": "80e8ffc88ad17270d92e953467d6c901fda379e7b49e0e99d8839fde72e592a4",
+  "dedup_note": "旧HoarePrompt图面向单个代码案例；新增利益相关者→规范规则→可满足性检测→可读诊断的跨专业反馈，构图和用途不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

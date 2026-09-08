@@ -1,0 +1,59 @@
+{
+  "id": "AI-030",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Hierarchical Intelligent Acoustic-Semantic Modeling: Modality Separation and Alignment for Full-Duplex SLMs",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "以听说通道、文本与声学token以及参数隔离位置对比三种语音模型结构。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 638,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0164",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.419/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "918101642e933cfc16af0b783f50b993c8430a5d0b771b8e7c4766e90183767d",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      69,
+      526,
+      286
+    ],
+    "source_title_alias": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+    "source_identity_note": "官方Anthology ID/DOI/页码/PDF直链一致且13作者身份对应。会议奖表与PDF题名不同，Anthology另有Minjun/Mingjun Zhao拼写差异。正文题名以冻结PDF为准。"
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-030/AI-030.pptx",
+    "svg": "figures/ai/architecture/AI-030/AI-030.svg",
+    "preview": "figures/ai/architecture/AI-030/preview.png",
+    "reference": "figures/ai/architecture/AI-030/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 13
+  },
+  "hashes": {
+    "pptx": "707b332d17574ffa16976581646b2ef9e302de9b16f23b68a8d4e7d876da1924",
+    "svg": "f7d1efb2be140611f533c86a94807429394d8245f04118aed3cc94ae869c52d2",
+    "preview": "0b65504e3e778dcda948be57d64354b8346997754165fcb87db3f1996f03b4b4",
+    "reference": "ac2915413efb3d3d3f798d9d9eba8814954c29f321783f24a43af44ccd18df13"
+  },
+  "original_local_pptx_sha256": "2176197c09ccb5d1b195e6fa3bf91ae4b0badb5491f1056be491185d4e9962ad",
+  "visual_payload_sha256": "acf84aff9c37d6874bb1294c2555efaba97719531bdbf0f70ff375d28059fa38",
+  "dedup_note": "区别旧AI006的生成顺序对照：此图比较模态隔离、共享主干和全双工时间通道，具有不同复用目的。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

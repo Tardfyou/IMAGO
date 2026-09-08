@@ -1,0 +1,57 @@
+{
+  "id": "SEC-099",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks",
+  "figure": "Figure 10",
+  "category": "方法细节",
+  "reuse_value": "会话表分解成用量与位置两张表，并与右侧六边形多粒度区域对应，结合数据库结构与地理隐私。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 105,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 37
+  },
+  "paper_id": "PAPER-0012",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-shi-quan.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan",
+    "pdf_sha256": "b9a79b3e460c7b0ba74b974c1d4dfc9690b3568dcea0148a11f818f95747b50a",
+    "pdf_page": 10,
+    "crop_bbox": [
+      318,
+      83,
+      551,
+      161
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-099/SEC-099.pptx",
+    "svg": "figures/security/method/SEC-099/SEC-099.svg",
+    "preview": "figures/security/method/SEC-099/preview.png",
+    "reference": "figures/security/method/SEC-099/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 55
+  },
+  "hashes": {
+    "pptx": "852c554951ab372af90687f4001620453cfc4421db2091a439210b6bc776e457",
+    "svg": "3e1593520c85b5d1573ae64a963c2364b93451d961534769f548147c203eb26d",
+    "preview": "5821d74cf0fc43ee6e0f8bb82ff40e185bf75ef2e1f79e8aec6f4337c6513232",
+    "reference": "2e215fab41bcc99b94dc98cfddae00c69072760a11f1f5fa2ef2853b078f58e9"
+  },
+  "original_local_pptx_sha256": "96ed1660dca1a39df32d66e300ae3adc8ce11a948de59a364c6c0bba0004d3c7",
+  "visual_payload_sha256": "bfd586968981699191f62e7fdf53d29ce8806bcef0d97c7a7b59967e54cda432",
+  "dedup_note": "相较该论文已选三方案架构比较，此图新增字段拆分和位置粒度语义绑定，适合解释最小化信息披露。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

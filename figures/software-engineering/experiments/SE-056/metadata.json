@@ -1,0 +1,57 @@
+{
+  "id": "SE-056",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories",
+  "figure": "Figure 3",
+  "category": "实验图表",
+  "reuse_value": "同一行比较三种系统，每格按成功/失败分组展示输入、输出和总量的小提琴轮廓，保留分布宽度、中位数、极值和单位。",
+  "editability": "原生文字与形状",
+  "limitations": "零图片。全部小提琴轮廓、均值中位数、坐标轴网格、文字为原生对象。轮廓按已发表位图描摹并平滑，未复现原始统计计算；源图OpenHands的多个2M刻度原样保留，不据此宣称真实数值。原作者CSV虽已取得，但最大值与源图可视范围存在差异，没有擅自筛除离群值。",
+  "object_counts": {
+    "shapes": 1815,
+    "groups": 0,
+    "native_text_runs": 51,
+    "images": 0
+  },
+  "paper_id": "PAPER-0122",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2506.18824",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "e26bdd63440491ae1acf019697208d7826904113cb650c60124a30239dc4a62e",
+    "pdf_page": 7,
+    "crop_bbox": [
+      48,
+      60,
+      563,
+      219
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-056/SE-056.pptx",
+    "svg": "figures/software-engineering/experiments/SE-056/SE-056.svg",
+    "preview": "figures/software-engineering/experiments/SE-056/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-056/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 75
+  },
+  "hashes": {
+    "pptx": "dc149459cb4a2390d6dffa6a2c4a0c268ea1535f719e3c3ea7749dea8e9033a2",
+    "svg": "5828cc9c93cfc928761bcdd6ae8a5536fcf9616bdf965a0288ecdc79234cc555",
+    "preview": "b17f7c2c147a687d42391b469d6a21f5728f48e6c4fe12ad6c422c190cf35901",
+    "reference": "aea4c3be65ad9ed49455942558317b8ee186cf34087bb435d33bbc7ee5a2b0d9"
+  },
+  "original_local_pptx_sha256": "95147706aff37c4a6481362e9df44a4a0b19c000e10e6d403e4765c3f545aaa2",
+  "visual_payload_sha256": "111d9882d8c5b281672df2b2f4d0747cf6267a40e2c38e393766cf69ac8b22f0",
+  "dedup_note": "旧库无此成功/失败双条件与输入/输出/总量嵌套的小提琴图；与本论文SE-055的过程组成不同，本图表达资源消耗长尾与分布差异。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-091",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "GenderMag Improves Discoverability in the Field, Especially for Women",
+  "figure": "Figure 4",
+  "category": "研究流程",
+  "reuse_value": "六类个体记录横跨改版前、过渡期和改版后三个阶段，以空心/实心方块区分事件，用圈标出首次使用或删失点，明确哪些记录可以进入公平比较。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Original pencil icons retained as independent crops with appropriate white/gray backgrounds.；Native Arial replaces source raster text; minor glyph width and marker antialiasing differences.",
+  "object_counts": {
+    "shapes": 125,
+    "groups": 0,
+    "native_text_runs": 19,
+    "images": 9
+  },
+  "paper_id": "PAPER-0141",
+  "source": {
+    "paper_url": "https://cmustrudel.github.io/papers/icse24gendermag.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "b35a72af6933fa12a19ef77beeab9b89280e9667f200734075fa100adf5d8eb3",
+    "pdf_page": 8,
+    "crop_bbox": [
+      82,
+      85,
+      533,
+      286
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-091/SE-091.pptx",
+    "svg": "figures/software-engineering/workflow/SE-091/SE-091.svg",
+    "preview": "figures/software-engineering/workflow/SE-091/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-091/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 100
+  },
+  "hashes": {
+    "pptx": "33ea454fdf400955b98cc5e3fb1dceb24bc21714fe5bea6a98ab86bd8414a597",
+    "svg": "4c0c7c62ad70ee09d18289faf342b09453d7d956672f5c8707dedd07de0b0591",
+    "preview": "035b114693cafdac5131a0495366f8044df7543a52a3860d9dc4ed8375f9de0d",
+    "reference": "6a5b072f26466d51537499a49d9f19ae46dce3862c85a30c94589a05be2db56c"
+  },
+  "original_local_pptx_sha256": "76f6e2e07b5de23fe078c56467c5579fbcae2fccb274c2182f98a624d148a9e3",
+  "visual_payload_sha256": "c46608814aa8aa8389e5fc5a318f9a349c79de2aff76c1a5c87407c1a670eca6",
+  "dedup_note": "已有SE048是软件生命周期多轨时间线；本图用时间轴解释观察窗口、首次事件和右删失样本选择，属于纵向/生存分析研究设计，有独立的统计表达价值。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

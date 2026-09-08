@@ -1,0 +1,57 @@
+{
+  "id": "AI-002",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "在一个横向序列中展示文本、视频、音频的统一编码及编码器/解码器，适合多模态LLM训练表示。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 502,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 90
+  },
+  "paper_id": "PAPER-0236",
+  "source": {
+    "paper_url": "https://proceedings.mlr.press/v235/kondratyuk24a.html",
+    "award_url": "https://icml.cc/virtual/2024/awards_detail",
+    "pdf_sha256": "3d81991fe7c14d4738c900b35fb299c6243e56e57645d7c73a46436dce090650",
+    "pdf_page": 3,
+    "crop_bbox": [
+      54,
+      65,
+      544,
+      191
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-002/AI-002.pptx",
+    "svg": "figures/ai/method/AI-002/AI-002.svg",
+    "preview": "figures/ai/method/AI-002/preview.png",
+    "reference": "figures/ai/method/AI-002/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 30
+  },
+  "hashes": {
+    "pptx": "ddcf49c00bd402795b4ca22857b831b6884d8b613a8693f87993455d6299eb66",
+    "svg": "11c89f06571915a385bbe39a0035a9f27e3838a07001c10c993b259e37a0f7cf",
+    "preview": "5d297383511475fe4f21c31d8bfd60cc883f48ef6fdfeda9ae2ad661c4d79994",
+    "reference": "61acb027678f0188790dcaf5ee3d0d92f0b6ab455b73164d03e9f786b7f02ef9"
+  },
+  "original_local_pptx_sha256": "691521258d81804d524e00e7fb66c34c5795bd1ee2aa8830c736d353e070d722",
+  "visual_payload_sha256": "3882fc56fed39abbf8e65018afa2bfc098b2f4ad51140c600dc53077f5e4ebe6",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

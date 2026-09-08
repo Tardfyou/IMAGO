@@ -1,0 +1,57 @@
+{
+  "id": "SE-008",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "真实用户请求穿过应用生态，叠加三层彩色虚线审计路径；适合把实际业务流程与测量方法同图对齐。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 104,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 52
+  },
+  "paper_id": "PAPER-0138",
+  "source": {
+    "paper_url": "https://cosunshine.github.io/files/chatgpt-app.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "7f5c2f5f0bbd0478be8d646860608e08e090c684d34f6f5993bf538f01e6c9af",
+    "pdf_page": 4,
+    "crop_bbox": [
+      52,
+      83,
+      539,
+      240
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-008/SE-008.pptx",
+    "svg": "figures/software-engineering/workflow/SE-008/SE-008.svg",
+    "preview": "figures/software-engineering/workflow/SE-008/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-008/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 85
+  },
+  "hashes": {
+    "pptx": "99551841743859c16dba9247e7753bf73d5eaf2f83d688c5aa167881a342a6e8",
+    "svg": "7b03dc96d28e5b01506e6942539bd11fc7c70ee2d9f67be1b5fe85339d1abad3",
+    "preview": "9d1315d1a9a02b0768bf3f717817ede208b0654986fc1f0e9915543e7d2c87fa",
+    "reference": "dca74568aa59e5e8f470ef6d23f377c805e72d8f0220801051021479a7494cef"
+  },
+  "original_local_pptx_sha256": "2fbad535335eb156414254a7bbb0953f4328c70f76da50ddd42dcb98f83bbf49",
+  "visual_payload_sha256": "1d272f4a2c6e36af8da2617dca7ff310563d6b64f3843a538d9fd43018e3a4ad",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

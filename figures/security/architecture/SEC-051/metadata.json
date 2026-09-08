@@ -1,0 +1,57 @@
+{
+  "id": "SEC-051",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "从内存通道、DIMM、Bank Group逐级放大到行缓冲和单元阵列，黑色扇面表达跨尺度结构，适合硬件及层级系统简介。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 135,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0017",
+  "source": {
+    "paper_url": "https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "f51eccd4bdaba5b0a4b96775987394a4b36a187a71980c32c44954e5abbbfba2",
+    "pdf_page": 2,
+    "crop_bbox": [
+      312,
+      57,
+      557,
+      153
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-051/SEC-051.pptx",
+    "svg": "figures/security/architecture/SEC-051/SEC-051.svg",
+    "preview": "figures/security/architecture/SEC-051/preview.png",
+    "reference": "figures/security/architecture/SEC-051/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 17
+  },
+  "hashes": {
+    "pptx": "bfb5650545c96eea0483908b0665aef02b277b516eaba1a45ba15fa93c0e9e3f",
+    "svg": "3eb238215a43e3d608dd35125b2675944746b253e6084f772c24f5b4bb547e49",
+    "preview": "c75cc4b5b8c39b871e61a9dba96f2683b7bf6493305578e102be17646593f6d2",
+    "reference": "252cb6b2c1e4dd9b20bc9d81a2c3f4cebb4f7303e25d1d6ad9cdd6a44aa3aacd"
+  },
+  "original_local_pptx_sha256": "f1f5e9e9bc04e565fa56f26f7a72ae3331c1a511e8ce503136c3a4e5f5b18b2a",
+  "visual_payload_sha256": "e187e70cce35f32233b26cc77cb07d078db160fc684091ba9005523e4c303e75",
+  "dedup_note": "库内此前没有使用连续放大视图展示多级实体组成；区别于堆叠架构层及两环境边界。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

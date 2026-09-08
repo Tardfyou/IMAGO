@@ -1,0 +1,57 @@
+{
+  "id": "SE-087",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "“Maybe We Need Some More Examples:” Individual and Team Drivers of Developer GenAI Tool Use",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "四个阶段各用成对紫色节点表达个体变化，右侧金色箭头标出组织支持，阶段间含试用/遇阻过程和回到起点的反馈。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 83,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0092",
+  "source": {
+    "paper_url": "https://courtney-e-miller.github.io/papers/maybeWeNeedSomeMoreExamples.pdf",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "cde90f136b0758ae6e8d3c4d244ec5fa42d6fe45a608e127a4b23636520d46f7",
+    "pdf_page": 1,
+    "crop_bbox": [
+      318,
+      216,
+      559,
+      451
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-087/SE-087.pptx",
+    "svg": "figures/software-engineering/workflow/SE-087/SE-087.svg",
+    "preview": "figures/software-engineering/workflow/SE-087/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-087/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 98
+  },
+  "hashes": {
+    "pptx": "46967ff45a0f4d9f7c722f9177ef2d97df18d5362942f6790fa3b04050befc9c",
+    "svg": "74e04d3e65cbf7293f5fb5ab2a7adb0ea181f81a4560c3552fe7fa0aba77e4b7",
+    "preview": "67a12463ef8effad9afb80e0cc2de9e4e721fcd1c08eaf0fe76368bdd3262ec1",
+    "reference": "38102daf21311f769b00a38a2f5d06f62d5462912baa00efd30ede62179c37ed"
+  },
+  "original_local_pptx_sha256": "fca2fd5918263c97e19534c8a494106acf602457cd001c1b33b0a99df0910528",
+  "visual_payload_sha256": "95c30e9a9b2f93c4df321e238fa1b937da057ad0a9afdc672d76535a14910f93",
+  "dedup_note": "旧库缺少定性研究的过程理论模型；本图用主轨个体因素、侧轨外部因素和反馈环组织理论关系，适合人机协作或工具采纳研究。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

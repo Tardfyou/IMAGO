@@ -1,0 +1,57 @@
+{
+  "id": "AI-096",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Resource Paper",
+  "paper_title": "BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "六种语言围绕统一数据集中心排列，彩色类别与三档强度共用视觉语法，兼容一条样例多个标签。",
+  "editability": "原生文字与形状",
+  "limitations": "阿拉伯语、马拉地语按原图字形轮廓重建，作为原生路径编辑；其他文字为原生文本。六组文本、译文和强度档位按原图保留。",
+  "object_counts": {
+    "shapes": 222,
+    "groups": 0,
+    "native_text_runs": 31,
+    "images": 0
+  },
+  "paper_id": "PAPER-0184",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.436/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "8d5e75d064dd7f10d8fde9265dcf9ff77535a744d2129ef093babe6513434106",
+    "pdf_page": 2,
+    "crop_bbox": [
+      115,
+      70,
+      481,
+      319
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-096/AI-096.pptx",
+    "svg": "figures/ai/motivation/AI-096/AI-096.svg",
+    "preview": "figures/ai/motivation/AI-096/preview.png",
+    "reference": "figures/ai/motivation/AI-096/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 67
+  },
+  "hashes": {
+    "pptx": "89bb817212e09f237a24987f0c57789e97bbf4b4bcbdf48cd95ee625b371063a",
+    "svg": "c6989055b8dd3fae35e2fa268903d9fc17fffceee27a8f003895bb26b500e6f9",
+    "preview": "28ed622945f16148a9f02669b6a97db60e1e0fc834a31a3b33e0edb8681ba18c",
+    "reference": "60ae1804914d1103148bddd838457d9cf13b7e8b0e69d1e795229cc5c9780304"
+  },
+  "original_local_pptx_sha256": "7223f1e78811aa916a0f40d9fca6ae4623caf42f09061cf11350497179aac85b",
+  "visual_payload_sha256": "7c6b91bd90fe12f48fda88dca1958d4cce44f37471c00950907e048a118b5ff4",
+  "dedup_note": "区别AI063/075的训练几何与色轮，本图解释数据字段/跨语言实例，核心是多标签、原文译文和强度的小多图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

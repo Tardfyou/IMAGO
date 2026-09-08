@@ -1,0 +1,57 @@
+{
+  "id": "SE-013",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair",
+  "figure": "Figure 4",
+  "category": "系统架构",
+  "reuse_value": "输入资源列加三条修复泳道，明确 Image2Code 与 Code2Image 两个方向；适合多模态诊断、定位、生成、验证闭环。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 648,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 33
+  },
+  "paper_id": "PAPER-0116",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2506.16136",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "b6c5ed00e4c61fd83fff7211c2d5d3136a731705c2f62eb83367cc113314e25b",
+    "pdf_page": 4,
+    "crop_bbox": [
+      48,
+      50,
+      565,
+      273
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-013/SE-013.pptx",
+    "svg": "figures/software-engineering/architecture/SE-013/SE-013.svg",
+    "preview": "figures/software-engineering/architecture/SE-013/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-013/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 13
+  },
+  "hashes": {
+    "pptx": "39459f7913d50b637eb89909003b3e193b89a4ef953f7b0a01f1d0c89e065b0f",
+    "svg": "7e854b7c9c7299062e02cfcd208e3cdd8b9ff188d3466e1644da4ad2ec73f562",
+    "preview": "88ae16544c36327bd4c98991d282e3b3898b24e65934063d9079345728cd4118",
+    "reference": "5a31a9b281c6c4de200866451ff84438c7807d0c1d362054ad05822c8b182253"
+  },
+  "original_local_pptx_sha256": "9b2d16e08c11ac8f4a7e9122c576708d73dad2797456428b10c066a7840004a2",
+  "visual_payload_sha256": "a7d9f35c0bb082a1d2e24ffb112592194c8145911c28f5628ddf31779cf517c6",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

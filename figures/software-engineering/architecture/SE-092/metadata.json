@@ -1,0 +1,57 @@
+{
+  "id": "SE-092",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention",
+  "figure": "Figure 4",
+  "category": "系统架构",
+  "reuse_value": "上方展开训练标签自动构造、代码分析及冻结LLM训练终止头，下方用绿/红分支、token标签和行级多数投票，解释何时继续生成或提前结束。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 216,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 58
+  },
+  "paper_id": "PAPER-0153",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2407.20042",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "af1b9e62b1b042f37f64ca7600dd305062d064a9d86a0e88df0a7e35e7d4c9c3",
+    "pdf_page": 7,
+    "crop_bbox": [
+      79,
+      84,
+      534,
+      322
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-092/SE-092.pptx",
+    "svg": "figures/software-engineering/architecture/SE-092/SE-092.svg",
+    "preview": "figures/software-engineering/architecture/SE-092/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-092/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 32
+  },
+  "hashes": {
+    "pptx": "44cede196672a48087d16612ae91b922e382cf589e037966fe1ec2daa98d3a5a",
+    "svg": "a83866d774c050e79b5d716ef20147c0dbfaaf90628dcd03f02251f10e8f6bf0",
+    "preview": "72515ec5ae1b0481e3e2cbde69aab5c4343047ded288f8c1ff3f38e5647a38d2",
+    "reference": "afd8255d14e0d8d75d9de3bec9e4b8bfabbccd74a421502956520b26e81c4605"
+  },
+  "original_local_pptx_sha256": "ab2e033f93c538fd93e16c46f53c9587005b3da81155120c00aa318868d9f38e",
+  "visual_payload_sha256": "b1685308a03ac244f7ede972bb150f8fad807297411cdb2122ea32c766c1e7ae",
+  "dedup_note": "与普通代码生成/Agent架构不同，本图将轻量辅助预测器插入解码过程，呈现token到整行的决策粒度和训练/推断双流程，适合早退、门控和预测式控制方法。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

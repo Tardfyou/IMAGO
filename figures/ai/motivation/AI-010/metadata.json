@@ -1,0 +1,57 @@
+{
+  "id": "AI-010",
+  "domain": "AI顶会",
+  "conference": "ICLR",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "LLMs Get Lost In Multi-Turn Conversation",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "单轮和多轮对话夹住性能迁移坐标图；案例和测量结果互相呼应，适合讲清真实失败模式。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 157,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 14
+  },
+  "paper_id": "PAPER-0169",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=VKGTGGcwl6",
+    "award_url": "https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/",
+    "pdf_sha256": "d77f8955d696beabde2a6ed85b43d64fb81b2b496e76474d6f97607e5a164cbc",
+    "pdf_page": 1,
+    "crop_bbox": [
+      71,
+      407,
+      542,
+      653
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-010/AI-010.pptx",
+    "svg": "figures/ai/motivation/AI-010/AI-010.svg",
+    "preview": "figures/ai/motivation/AI-010/preview.png",
+    "reference": "figures/ai/motivation/AI-010/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 60
+  },
+  "hashes": {
+    "pptx": "541c1be8b6af989b0e61cb585d0be6c40e944fa3084000dd6ee5d794143744e9",
+    "svg": "2f5e926155175b489104a809cb27936e26a08fec78655494d95634dddd8eedbe",
+    "preview": "89d1dacac93b6f396cd7d613178fef8305b2cce034faabc32317c36890f7c962",
+    "reference": "5bda993c10970f4109c3dd48aae136a86ea4c82f73fbcfe436080ba07c52fe54"
+  },
+  "original_local_pptx_sha256": "1f2df0ec16969837a76d9ad0359c6d3910728203b2494a7b6737787dd9733727",
+  "visual_payload_sha256": "385d5cd25ed9b8f1c1d977042e77544b85298f74743f31bd9f5db5e237617283",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

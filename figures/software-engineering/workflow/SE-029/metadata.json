@@ -1,0 +1,57 @@
+{
+  "id": "SE-029",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security",
+  "figure": "Figure 4",
+  "category": "研究流程",
+  "reuse_value": "从元数据构造API、加入凭据、发送请求、分辨响应，适合研究方法中清楚表达外部验证步骤。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 23,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0138",
+  "source": {
+    "paper_url": "https://cosunshine.github.io/files/chatgpt-app.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "7f5c2f5f0bbd0478be8d646860608e08e090c684d34f6f5993bf538f01e6c9af",
+    "pdf_page": 7,
+    "crop_bbox": [
+      53,
+      83,
+      295,
+      155
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-029/SE-029.pptx",
+    "svg": "figures/software-engineering/workflow/SE-029/SE-029.svg",
+    "preview": "figures/software-engineering/workflow/SE-029/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-029/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 91
+  },
+  "hashes": {
+    "pptx": "83ecbcf28b98d64262abaf8876fc7802ed8ac09ab953aa36797888ad49cde6e1",
+    "svg": "12539df5dd2d728c07b3bc8410bfd78aa8973e244891f4bdce504fd8e89e35ea",
+    "preview": "d14b80a91eed4e24948be1105da811b8ae8899493bb8aaa207ab57a2d4cdbf66",
+    "reference": "0ea047a2b60df5a3fc227aa10270774333b9decf451935918f2a7132586c73c4"
+  },
+  "original_local_pptx_sha256": "c14ef7f04ce1c323d952b6c7948ab7b922ebd931e9f68e1e82728dc69ffbb7bd",
+  "visual_payload_sha256": "06fc122a5db24d47c517055644cfe4347a13ad4c1c9042129eda5627eebacbf6",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

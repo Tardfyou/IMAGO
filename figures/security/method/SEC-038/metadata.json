@@ -1,0 +1,57 @@
+{
+  "id": "SEC-038",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Indicator of Benignity: An Industry View of False Positive in Malicious Domain Detection and its Mitigation",
+  "figure": "Figure 5",
+  "category": "方法细节",
+  "reuse_value": "多轮检索保留浏览器对象、内容候选、验证器与策略框，用红色数据流和蓝色信任流展示两种方向不同的传播。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 133,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0009",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1869-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "359a5796632585cf1272ad8ac26282b9f8c076ad7755a84b9ec169198c88bab3",
+    "pdf_page": 10,
+    "crop_bbox": [
+      124,
+      48,
+      489,
+      154
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-038/SEC-038.pptx",
+    "svg": "figures/security/method/SEC-038/SEC-038.svg",
+    "preview": "figures/security/method/SEC-038/preview.png",
+    "reference": "figures/security/method/SEC-038/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 38
+  },
+  "hashes": {
+    "pptx": "7e0c6dde5bc466ed6fe7fc39dda62225b38d1d972244091fe645497208e291e0",
+    "svg": "882ba975e12dd3726e4076cca66892d0591f39b7997dc90815dd36ecf0a3a22c",
+    "preview": "3162daa3ac41f7ecfe1087ae1f17861294937d175eb9c6be61b413136547e656",
+    "reference": "9192ce25de54d301de21f1230ac48d9281460db9e50eccfd9f2b30e6f84a00d0"
+  },
+  "original_local_pptx_sha256": "757b219d686856f6d0e43259808c095fd923bf983cab966f36013e097e4cddec",
+  "visual_payload_sha256": "00c84ca493d6976a08a2d2d758ba396752ade38413245e4243584103358fd5d9",
+  "dedup_note": "现有RAG图聚焦生成反馈，此图增加数据前传/信任后传双流和每轮信任边界，可复用到证据与来源核验。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

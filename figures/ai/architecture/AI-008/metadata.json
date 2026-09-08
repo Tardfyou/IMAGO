@@ -1,0 +1,57 @@
+{
+  "id": "AI-008",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Genie: Generative Interactive Environments",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "同一视频输入分成视觉token和潜在动作，再共同驱动动态模型；适合视频/动作联合建模。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "Native shape reconstruction retains composition and scientific labels; small icon geometry and type metrics are approximated, not pixel-identical.",
+  "object_counts": {
+    "shapes": 41,
+    "groups": 0,
+    "native_text_runs": 12,
+    "images": 2
+  },
+  "paper_id": "PAPER-0221",
+  "source": {
+    "paper_url": "https://proceedings.mlr.press/v235/bruce24a.html",
+    "award_url": "https://icml.cc/virtual/2024/awards_detail",
+    "pdf_sha256": "0cb07aa892f30ac7d717d7d623cfbf0f5ac9a29b88c066b996c01b0654738c70",
+    "pdf_page": 3,
+    "crop_bbox": [
+      55,
+      69,
+      543,
+      182
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-008/AI-008.pptx",
+    "svg": "figures/ai/architecture/AI-008/AI-008.svg",
+    "preview": "figures/ai/architecture/AI-008/preview.png",
+    "reference": "figures/ai/architecture/AI-008/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 5
+  },
+  "hashes": {
+    "pptx": "4de3051c0bd803494fd3f1a35b826bdfa42fc9609b8f32ce673d555af32e6416",
+    "svg": "b1e87ec7a7aa256f417379174b08072e8e2044e768e1124104df5b2ab4ebe65a",
+    "preview": "7e0097f21322fef2725caa0eff919076a0aff937e88a0672943d28550eab45d5",
+    "reference": "164e1959f843b34b42a24da3df8f41f6cf8a32be79d2f4c4e9076dc003f3a233"
+  },
+  "original_local_pptx_sha256": "5ccd8ca4aba6514cca8f794bc23f38ebc94bdd3a55c0a87112cbcc1012223eb0",
+  "visual_payload_sha256": "c846e68d34319ed83556ea51c05246de4a33dfe8d0c00f00a9cd3fc3b837cccc",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

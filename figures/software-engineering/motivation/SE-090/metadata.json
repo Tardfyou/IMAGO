@@ -1,0 +1,57 @@
+{
+  "id": "SE-090",
+  "domain": "软工顶会",
+  "conference": "ISSTA",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation",
+  "figure": "Figure 3",
+  "category": "动机示例",
+  "reuse_value": "相同算法用原Python和AI导向语法上下对照，每个token以独立色块表示，并保留72/60 token数量和相同AST/执行结果的约束。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 292,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0130",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2404.16333",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-33rd-acm-sigsoft-international-symposium-on-software-testing-and-analysis-issta-2024",
+    "pdf_sha256": "1ca6d533e6f7df4b74c0da3412463fafeec959e68bd04b6a4b84f4caa9c8e4da",
+    "pdf_page": 4,
+    "crop_bbox": [
+      54,
+      82,
+      294,
+      277
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-090/SE-090.pptx",
+    "svg": "figures/software-engineering/motivation/SE-090/SE-090.svg",
+    "preview": "figures/software-engineering/motivation/SE-090/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-090/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 62
+  },
+  "hashes": {
+    "pptx": "563991ad10b4481b1df6adaa944fa3605cb16e000e68ac9cae058cde9bc9ed13",
+    "svg": "d17b5fa6dc8249f7c1ffc47c18663cbd4ff3b799016c61b0dc6991bffebe12e7",
+    "preview": "f8fb526248a1480c6136a4f3cd9e4d3d4b5ebac996b38ad26526b098ff645b47",
+    "reference": "44f5562ee55639c16cfdfe61971833c7e42133fc5f4919b3b233196588ccb458"
+  },
+  "original_local_pptx_sha256": "60640b8acb3b779be8625ad3706726e9dd42ef93546c1b426c63ed852879a660",
+  "visual_payload_sha256": "cef6adbb45c4031445f3d6b68796cd7a3792b3c10ae1e42a483dbe666f0c9f25",
+  "dedup_note": "现有代码对照图多表达错误或依赖；本图用token块解释表面格式与模型成本的差异，适合动机页说明无语义损失的表示压缩。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

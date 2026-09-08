@@ -1,0 +1,57 @@
+{
+  "id": "AI-067",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs",
+  "figure": "Figure 1",
+  "category": "研究流程",
+  "reuse_value": "把病历抽取、代码映射、本体图和真假/支持四象限联结，并导向评测指标与偏好训练。",
+  "editability": "原生文字与形状",
+  "limitations": "病历示例、三张EHR表、CUI映射、本体关系、四象限与评测/微调分支均为原生形状和文字，未用整图或局部图片代替。Arial替代源栅格字体，椭圆/虚线节距和少量字距有轻微近似；示例内容及ID属于原论文。",
+  "object_counts": {
+    "shapes": 214,
+    "groups": 0,
+    "native_text_runs": 136,
+    "images": 0
+  },
+  "paper_id": "PAPER-0174",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.734/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "064cb940c5d59fed2e54a5e61b096ac17e857cae85ef1bfc9e4c56b7880a2c2c",
+    "pdf_page": 2,
+    "crop_bbox": [
+      71,
+      70,
+      526,
+      300
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-067/AI-067.pptx",
+    "svg": "figures/ai/workflow/AI-067/AI-067.svg",
+    "preview": "figures/ai/workflow/AI-067/preview.png",
+    "reference": "figures/ai/workflow/AI-067/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 98
+  },
+  "hashes": {
+    "pptx": "6419f9ac85939f4f1fcf70a85a4b6a07e5a2358529ec68022ef53756d1ab0e5a",
+    "svg": "22127a2b3fde4f44d05ac048a5e6d1f1364aa78dcf56ab35fb62f6ab705232d5",
+    "preview": "793c7974aeeb2ab3ed35527384081bded64c838f1a362591fa6dca382b9fb26b",
+    "reference": "35f4c24561ba5968e921792f1715f408157a2daee5ca5faa52740389ca8d650c"
+  },
+  "original_local_pptx_sha256": "e18fdb05a68bb754c26bfd009b9fb784a3090a2bcfbf6755e8469755c872ff4f",
+  "visual_payload_sha256": "8b6743782cc50d07dbf9ad98fd327e0935fb5f32ebcf6e46e79680bfc8a50432",
+  "dedup_note": "区别AI036真实性属性级联：这里将事实真伪和上下文支持拆成正交构念，展示真实数据到四象限任务的生成。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

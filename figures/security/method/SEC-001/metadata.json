@@ -1,0 +1,57 @@
+{
+  "id": "SEC-001",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "以圆形时序+分支选择把循环训练、异常跳过和回滚串联，适合有状态Agent、检测器和恢复系统。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 736,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0044",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-1698-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "139864002d617bf52148e952d4c2f8fce78b329d932d54bd9d3d78f0c1e3f291",
+    "pdf_page": 6,
+    "crop_bbox": [
+      110,
+      58,
+      501,
+      281
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-001/SEC-001.pptx",
+    "svg": "figures/security/method/SEC-001/SEC-001.svg",
+    "preview": "figures/security/method/SEC-001/preview.png",
+    "reference": "figures/security/method/SEC-001/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 29
+  },
+  "hashes": {
+    "pptx": "bbf45d82d67be4e3714d1d04728349dc603d3a45996d5c3499e15e896579a66b",
+    "svg": "33a2b5edac96acb02042f2df1513097616a8f0633156e68466a3ce8bdedbc9a3",
+    "preview": "06ef482163bba91bfdb6155b43d1c1cacebf519c7f6463ef82cc869bb83dae51",
+    "reference": "5571a02cefb9ea2f6a17eede699f100e498fc9dbaa34f3b0207d05dc117d1a9c"
+  },
+  "original_local_pptx_sha256": "fb25c3cf0bb781a6a4c05f3634eb30dda86b139ad8ac14054d5dfad8b4034758",
+  "visual_payload_sha256": "cf4af0a35451385f5d85866ebf94ee26fba6aa0f9d6b058df9ec1e49ccf90c7a",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

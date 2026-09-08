@@ -1,0 +1,57 @@
+{
+  "id": "SE-040",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Search-Based LLMs for Code Optimization",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "三个模块通过粗回路连接，内部嵌套AST、适应度排序、模式库及遗传操作提示；适合表现搜索生成与执行评价相互推动。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 142,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0114",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2408.12159",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "0554439b8003b2490bfabaa006ae5866bd442b4e2ebe0d0b07d482c3c659457c",
+    "pdf_page": 2,
+    "crop_bbox": [
+      48,
+      50,
+      564,
+      181
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-040/SE-040.pptx",
+    "svg": "figures/software-engineering/architecture/SE-040/SE-040.svg",
+    "preview": "figures/software-engineering/architecture/SE-040/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-040/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 9
+  },
+  "hashes": {
+    "pptx": "21a9a62993c4f5d0e88a0e2b56c1a10c623c794bc661d5f99fe8d84245973c9a",
+    "svg": "88f936408cb08a8dfd404d74bd1ae8c000dc2839a209a372289fc05123485375",
+    "preview": "3ec0d92eecc913f817ea16f9ed3a2fc4c8b9cfe9939d88a171b0db83f36460bf",
+    "reference": "dd4874396be1553db668d2cae0d097aa39da717703756b9f5d50d877a7554f64"
+  },
+  "original_local_pptx_sha256": "6a22234b031888429efbc833cb4dad708d8a66b5229dbf2d092e0260d6ce40c7",
+  "visual_payload_sha256": "b2b2759c397186257479c83e25e7beb878ffde2ecb5278ed57c88396f8297ac3",
+  "dedup_note": "与旧Agentless定位修复验证不同，本图中心是候选种群的适应度选择和优化模式库检索，回路连向种群演化，具有不同的搜索表达。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

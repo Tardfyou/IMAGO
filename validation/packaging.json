@@ -1,0 +1,2431 @@
+{
+  "pptx_files": 303,
+  "notes_only_sanitization": true,
+  "visual_payload_changes": 0,
+  "entries": [
+    {
+      "path": "figures/security/architecture/SEC-015/SEC-015.pptx",
+      "source_sha256": "b7a8cf6eaed3ca025fab94eb7ba87b85b5ca5ccfa97f41148f1bc7d2432e290e",
+      "repository_sha256": "822d2414646e4ec8d9e597d68e47be4c16e18736f945f23eeae595fa2e43a7ff",
+      "visual_payload_sha256": "24f94a361d2d58e23fe18d1720b68fd11f84c3ee7f1f6361b0800fd4d075590f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-018/SEC-018.pptx",
+      "source_sha256": "e96bb18b2a08bbc67c7e890a0701421445dc2c56d10720138354e0011f74bebc",
+      "repository_sha256": "6c333595a493832f5a706e0cce571715773344fa43f892d749dfd6ca44a75ea4",
+      "visual_payload_sha256": "9c3e5a1b094b9bf9ab13c3da3525bdbabe89a8e12c58515e5457415797095be9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-028/SEC-028.pptx",
+      "source_sha256": "fbae63cbe0652694b267fa41747d744e8db6d0180791b7f8af2af7cf6e95e7cd",
+      "repository_sha256": "58a22b1d31a987edf4311b2983e411867188a47313e1df6ee3c9898bc7ff80b4",
+      "visual_payload_sha256": "13aad157b4f783bc5b0dd1ef053c039eeea539149fc3071bfd9d9084815397cb",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-003/SEC-003.pptx",
+      "source_sha256": "7f797ed58eddc166ff26d706d6d158722ffe27252bed0459a4a73ad9db835515",
+      "repository_sha256": "8b174fab700659fbeb0fa45ab020391c13d29bbf460ecfc5a64168963b4b24f0",
+      "visual_payload_sha256": "e094497f7abe9e80d1a1d3c44cd00b4ee4b15afb31f97daa329888cbc2afc878",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-002/SEC-002.pptx",
+      "source_sha256": "99e2dc4287c638684d15aab734ab50376a9bbd9b495d4c338e6890031dd45001",
+      "repository_sha256": "f1982803ca40bca54a262c9084563e03a3cef3ff954253823b265fb5f555e62c",
+      "visual_payload_sha256": "01e6bbc84859597bd217e812b822c1d1e9406f04005f715a743923d2b85fa5ba",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-004/SEC-004.pptx",
+      "source_sha256": "10a05a182cc18232b97a49aacbd4c109fa29369d5637c9575c9d51de85cdbcdc",
+      "repository_sha256": "200c0121b34108357389e8f10ba2b260c58b355851e5bbbecf207f1909b15ed0",
+      "visual_payload_sha256": "1ef3833841be913a541f7a49ad594d2e18ba8ae8a57d91603edbc09a77d80717",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-021/SEC-021.pptx",
+      "source_sha256": "90a75afcc0ecb424e6d4ae026f1e618db58805a009e6cc219f406b1ed01219c6",
+      "repository_sha256": "b4898d35287d88cb694762b542f8704927d4b2feb8c1f9b08fde147c89e86287",
+      "visual_payload_sha256": "0660bfaa296a5f27dd431eaf547f6994b1f25550f3bb57129bb401d0708c7efa",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-017/SEC-017.pptx",
+      "source_sha256": "c4927f29c8b682c81dd8d78eb8d829c7a437b27345e07861d0962ff2d4ab78bb",
+      "repository_sha256": "b5c30bf61b726df71d01a769cacd6333d386db336e522c0b83f9724501b84cb5",
+      "visual_payload_sha256": "696f4e8be26b130282990512b6ff186414fdf289a8a2fddb5cb4c54398e1d1d8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-006/SEC-006.pptx",
+      "source_sha256": "ef5dc65e2a88fba7c5f713e660a743a81ee69efd9db2bfed08e129b2cd2ce43e",
+      "repository_sha256": "e76203b15da4345719a1ecd2509ae86dc9a8f413b185cc470b86502ea3253c20",
+      "visual_payload_sha256": "03856a3206e497566768fbcda7bf84a8aa2da368cc22642825e3f8897b2e4297",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-026/SEC-026.pptx",
+      "source_sha256": "918dfd988b080322131e3003b53009a8bc570179800dde11ade08526e7a6ab44",
+      "repository_sha256": "1001b806df97b436a841788d194669acb709e8c0914ba21e6a4e807df5750447",
+      "visual_payload_sha256": "a6e06afbd113793e5cba1d088cbfd0f7eb5602cfbae23b31c3df05579490eaf2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-031/SEC-031.pptx",
+      "source_sha256": "7ffc4150ae60454fb74450fab0af3dddb01d6b01a434c00890f374c6ff8f855c",
+      "repository_sha256": "23109ea90572694936a987a7850fce4497753ad9c6171c001aa1174f0bb8aee8",
+      "visual_payload_sha256": "6f0e3ed53c3c1d5e7b9d94db91ea71a653bf16370f94cb58ca0c3463edda8005",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-034/SEC-034.pptx",
+      "source_sha256": "8ac68093a44be898da729a8955f8d905407e5bc481577f9e4717e40294a9c36b",
+      "repository_sha256": "e0b3d563f06251f4432919573fc809774045329bb689c8020bb3d7fddcc8b34e",
+      "visual_payload_sha256": "3b48580d1315008327ea650393010ee1f0f4313238ababb6bdbbebed173c0039",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-041/SEC-041.pptx",
+      "source_sha256": "33dc4f6b3a98713d8a121ecba296a02fdf9f7ae32f0874e1477621cc3e444d03",
+      "repository_sha256": "931ad43488794368218dbda237d014045e6af411d847d8efdd619b76236bfb88",
+      "visual_payload_sha256": "c2c5b74f777976a9e91cd23130a0101ec888a3cbb85d124643a32b07b69ccdd1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-043/SEC-043.pptx",
+      "source_sha256": "4bfadc67c085abcf98bbd9b97767864926ff2e99dbc9da5d700b709f2a196bc8",
+      "repository_sha256": "41618b92b8b3b7d67b6fb697d8aa87817d4beb6ad745c8ffbf12c7abc8862dee",
+      "visual_payload_sha256": "da7fa8a44f5f59d96e3f70560e7024c2515e5b8bb8fc3acab19f975667ecbb5f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-044/SEC-044.pptx",
+      "source_sha256": "c4d573207c6c09c6079ddbda5e1a0e44525caf17e3dc3e5e9fe96a9cad2bfb90",
+      "repository_sha256": "68d2dfd727738d5b5c607453bf23d36a4e1f00c7e943f807e6a248d71706c90a",
+      "visual_payload_sha256": "6ca91b56fa1f88cdc890221c65e5f2dd71b68038c6b344af91f5ba80d3118692",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-051/SEC-051.pptx",
+      "source_sha256": "f1f5e9e9bc04e565fa56f26f7a72ae3331c1a511e8ce503136c3a4e5f5b18b2a",
+      "repository_sha256": "bfb5650545c96eea0483908b0665aef02b277b516eaba1a45ba15fa93c0e9e3f",
+      "visual_payload_sha256": "e187e70cce35f32233b26cc77cb07d078db160fc684091ba9005523e4c303e75",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-059/SEC-059.pptx",
+      "source_sha256": "fe6f76930db80ce2ce6b8f3003e3178687ccbcf0c73968f2a49ec0c0ab62e349",
+      "repository_sha256": "15d73f473475a90c6f268eb462cc717d746924ffb77c2b33ea51dcce016f8ba1",
+      "visual_payload_sha256": "b0df7eb2ed118aed1db58da6718c3c8e93b0698356672826cdccccec46c56301",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-063/SEC-063.pptx",
+      "source_sha256": "7663bdb42ffec2cc098f7805e897ef8d8d66f3bc029f153cf71b682b93850343",
+      "repository_sha256": "4d317423d1870cd9a67c3608276424a3d80ce77d2448824b94834cdd62ae9ee8",
+      "visual_payload_sha256": "9c8838e8e597e74087a698193a13c7ed6e43ec88989cd19b0e81b65e893793cd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-064/SEC-064.pptx",
+      "source_sha256": "af82952479b02f766bf0c75da1caeca5f921da9c5734057e240539619ff222af",
+      "repository_sha256": "d73e63b1e2b6644597b5a3823ea965ce97cfac278d02be9921ff3b33a0a4d441",
+      "visual_payload_sha256": "fda99ddf8450072cc232bf3db98f402892421fcb3d5d408a0dd5f889375fc906",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-066/SEC-066.pptx",
+      "source_sha256": "0d953c66bea1036ca063308c0108b0bf66abcb4224b98333380637417eef513a",
+      "repository_sha256": "3faf2a6e29b710be5785bf8d55dff594a09f43f9e841a5bf31dc7ac9d9c035bd",
+      "visual_payload_sha256": "71546f596457edf2191e026a103b3c5282f76429062de6d2ff14763e66d95429",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-071/SEC-071.pptx",
+      "source_sha256": "3827e7478360fa865dbba59fb912c5248895028019d90f98f07b5a8921e6889c",
+      "repository_sha256": "76612b88c10d17099a6a15eb10548b6bee4ecc8493f39f5fce2dab09076a2833",
+      "visual_payload_sha256": "796f8faacd43eb86d45df285d9e1b486b540badef183f1dc285db04ab2dc1128",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-072/SEC-072.pptx",
+      "source_sha256": "e0d5875cdde258f3068ebd8dcf152b1d05e9ad7ef480a35a6e8be35549773c7b",
+      "repository_sha256": "57dd988a4b676dc31857b269ddab0b5b60f6e2fa684e2453137295b860db6630",
+      "visual_payload_sha256": "6b3816576fff60ca70d710e2ca5535dcc58f237165144658ea1675273300ca46",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-076/SEC-076.pptx",
+      "source_sha256": "9d1818cb67da68d293dd6a155c24888c25772e0bdddcd02d52d6faa6906c242f",
+      "repository_sha256": "3e4295173eedefa68b72fdd66306093d6b6ddf1bc1fafa16df21dcb00b1cc824",
+      "visual_payload_sha256": "c3729f112b6c155c7426dd84ec380fbe5cfa7c10d803e1ec4a41dfc5dbe038f2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-082/SEC-082.pptx",
+      "source_sha256": "37a10fb68a75f44a43e6ce1c933c67d5e3faf9798506ae5ecd13ca9aa4a9cffa",
+      "repository_sha256": "9b377662119245b57a79a1073f425766239af77d5dcf6fd92423f5761cebf883",
+      "visual_payload_sha256": "4f2acbdad9fd1ace5b6300b171fb03a6fb5c9eb96e7cf5410a5e8ea570bff689",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-085/SEC-085.pptx",
+      "source_sha256": "c630357507706510e6097596a6207c198deb64710014a63ef498bd0f72ad1030",
+      "repository_sha256": "c773f68bff786caea666f72ea07212a778e89581937fb442ea42549f2cc73df9",
+      "visual_payload_sha256": "b541f622289fa908a8a86908bcbe07fe1b1383e925e85fd5bed3fed75d428c22",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-087/SEC-087.pptx",
+      "source_sha256": "618f1a81e0b05ed76d66d46770b5753c41ae74bdb6b633693a24a8880bddc45f",
+      "repository_sha256": "e698991967992b2914fdd931796c91e3044535a38ad40dc2095c79ebd8f24883",
+      "visual_payload_sha256": "0bb490ade28bd848601159d9a74e301857ff1fbb54ecb997ff223ece3cc23ef9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/architecture/SEC-096/SEC-096.pptx",
+      "source_sha256": "945ecd73b5c8f72924bbba13e121c50d8a955b1762ca62177ccb75a78b5c0802",
+      "repository_sha256": "a61b56831070877878333bedc71996769faff8cc256ba3f48aaf5c1758a24707",
+      "visual_payload_sha256": "783540c4131adcca5cf4acbe4cfbc8eef3047bb34216c6924ffcbb2c42c950df",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-001/SEC-001.pptx",
+      "source_sha256": "fb25c3cf0bb781a6a4c05f3634eb30dda86b139ad8ac14054d5dfad8b4034758",
+      "repository_sha256": "bbf45d82d67be4e3714d1d04728349dc603d3a45996d5c3499e15e896579a66b",
+      "visual_payload_sha256": "cf4af0a35451385f5d85866ebf94ee26fba6aa0f9d6b058df9ec1e49ccf90c7a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-012/SEC-012.pptx",
+      "source_sha256": "221e8494bd4d514fbecaa525df31ad004c1e0c22c00cb0941e98d8bc1fc7e396",
+      "repository_sha256": "f870a73919f943c1648419b36e4c158f0ea342409bf23aca583478048a4e86a1",
+      "visual_payload_sha256": "d2accb997eb53e88f3924d75c077e4cd212d78644b1fde40c01513e88fd12c68",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-011/SEC-011.pptx",
+      "source_sha256": "1dc08cc295794fd83a7a0038ed1dd127eb40c63823f2e9275e5aad123de698c2",
+      "repository_sha256": "741f362def42227ddd907e7e0d435dd508e678aa5aad6059428c534b873fdfc9",
+      "visual_payload_sha256": "68b0eb140c63e2faac6a6598d20350be353458f113e65eb4478db966cb62e2cd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-022/SEC-022.pptx",
+      "source_sha256": "7f3363f5a174e6a776f9ec683c18d279d852bbed6b2724ca0eefabdff37297a1",
+      "repository_sha256": "ac385c88a8dea7a2299565a224e14f5e11a6c6fc390183ad29edfb7e0840df2a",
+      "visual_payload_sha256": "e2deb53a3340046dff1fa045242d6ca498a64ea86140654ada4e90f6efd52186",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-027/SEC-027.pptx",
+      "source_sha256": "2dc1077dcb5d5bb66815e20792d879c2af3b995b9f3a617e8186f13125b2d9ce",
+      "repository_sha256": "d0eb52389e526b75ee285e28fcc7f8fed16bb94d5d23c3e6cd2638d963243c5b",
+      "visual_payload_sha256": "71a60e047d0eb8359d6ddebad8b104b1d47c39b1279e0368c271452ac9b7e564",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-024/SEC-024.pptx",
+      "source_sha256": "b1d43d2a9f411149eb3c9571423b235b49a48f3af66afbd2683be92b7245f4a6",
+      "repository_sha256": "2d4ee8e06b970058cc71c0383007955c93076d5feec1572f1c06c780b62af3d5",
+      "visual_payload_sha256": "278b0068cdde13002b903e10c8281b1c8a02057c548bc8b615de9ec5d268f97d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-005/SEC-005.pptx",
+      "source_sha256": "efb3d6e194fbd6acc57ab3e570bad5a7f68baec406d86932542819c6513386c8",
+      "repository_sha256": "bfede082c49676131fb86ce7c9d573149febb3eac8f8ba914acf45cdfa8791c1",
+      "visual_payload_sha256": "5ea712c1cdfa37d69719d35028bb85a91adccffb5bdee17615991411f45c5a97",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-032/SEC-032.pptx",
+      "source_sha256": "a17800dafea2a58a9a69a2f22ef39be29d582940cc3fe7b984517c5bceaae67c",
+      "repository_sha256": "58b34f163df6b182f6a015d6b93aed694869b222e7ac898fdc706f0ea2d0b938",
+      "visual_payload_sha256": "787b4c7aed7ba85d3e148d37a716922a692de2f421ca00061aa0225edbfb556e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-036/SEC-036.pptx",
+      "source_sha256": "2b9712b55c1a02871a0d6b8a3ed837f0bbc2f13665beae18a1455a21ef42d14d",
+      "repository_sha256": "d4a11502d331c2ad78ef0293fc5a8039d8644eea79c06d95a3e0dc2d51e7fb1e",
+      "visual_payload_sha256": "640a3d719cc3c001e9050c0c68769a9a7bedf12f21dc4d8837395856de432258",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-038/SEC-038.pptx",
+      "source_sha256": "757b219d686856f6d0e43259808c095fd923bf983cab966f36013e097e4cddec",
+      "repository_sha256": "7e0c6dde5bc466ed6fe7fc39dda62225b38d1d972244091fe645497208e291e0",
+      "visual_payload_sha256": "00c84ca493d6976a08a2d2d758ba396752ade38413245e4243584103358fd5d9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-047/SEC-047.pptx",
+      "source_sha256": "859425f1010ef155ae00fadf0147415708e0d4479c17129b650deed573d5df53",
+      "repository_sha256": "4daeb4d1d973d8d66fc441c7bf332009f91f727c1328ecbdd0022f2e1862a00a",
+      "visual_payload_sha256": "fed226d417c2f7b6a7dc04ec1f454a26b4b226771190b76c9fb5605876c0800b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-048/SEC-048.pptx",
+      "source_sha256": "ff7e246b23e656b72b53d643165c3abc6b29263f487b6b9577c6d856acefcdd5",
+      "repository_sha256": "4e7989729f1b1012181d1fa4e8fc92feb4ab4979be302708ff6961ba3ad0e906",
+      "visual_payload_sha256": "bbecce0afabeac6921305264107ac2ab82801e5279f7d969b85feb55f34d3742",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-050/SEC-050.pptx",
+      "source_sha256": "f4c2e12b3d3fcebc974ee00181225413d12f69f875aefa015ff5d06adfea6ebf",
+      "repository_sha256": "bd8ef7d4820cf755b5c00ab6ea7794f118ef84030250aa5cb45c41f2681d93e0",
+      "visual_payload_sha256": "fde4516b5ae9ffc780206511f6ffcd8236cd709777db23c6e5ee8af953ea2a5b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-052/SEC-052.pptx",
+      "source_sha256": "6a7e37f597683ab6b2d1ad043534eb8d0bd4e0ed214639997f6dd053dab8a017",
+      "repository_sha256": "387854c7119b64f497f73901616a8e80c8d039cd424d4299336f1593fb772a8d",
+      "visual_payload_sha256": "abdb2fcb55850bada819b1b4ec22e21254f1f9c44258d8c0910f4130f2b08db4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-061/SEC-061.pptx",
+      "source_sha256": "2a020ae5a95a352ffd68005edeb60108f1cd0595895bd2c0fb76c559307a0cfa",
+      "repository_sha256": "296c2af076dbe131b8d3dd0795d3d4d8108aab51a7901057722b80e0e7ed1392",
+      "visual_payload_sha256": "fa8c7575efa403548226bbf0b29b7ff1aae20aa1a9483394457a70f9ad03a152",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-062/SEC-062.pptx",
+      "source_sha256": "c7c4a76a3a77718699d31c05ec1a1536179d08cd336a0669fa8bd2952b50c680",
+      "repository_sha256": "5a463ba52e90406a9940aef63d8b8fc57e69307a227f8ebe4b8bab453811e3f1",
+      "visual_payload_sha256": "20894a1d413f11cba91e80b5af40d00c9a09e640bcfdde472fe2cb238d8d6bf6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-067/SEC-067.pptx",
+      "source_sha256": "8f82ef40cccc9893a7dee744df2bd91349f5c957849ec6e4071c56ed6824123f",
+      "repository_sha256": "d8fb299208c4eeaff506414443aee9326f47d39eef8f2cf15cf16c5d4395035f",
+      "visual_payload_sha256": "94efd93716e263afbfbee90ebf898014af7354061e405c8109910f58c85229b2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-073/SEC-073.pptx",
+      "source_sha256": "4a2c10ed7ebe056f932c7bec651690c7d99bede260061ea3ed458e2dc029791e",
+      "repository_sha256": "868015d14ba73d40e65fbe6115d31b03813b2061e1ce3156bef4942369ed3da9",
+      "visual_payload_sha256": "0ea201abb6ca9e35971856265e2f6366edfcc4c327b59291f6719345b060fd57",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-075/SEC-075.pptx",
+      "source_sha256": "3e27d89e52bd5794f0047afedcd7ceb1939bf5daa6e38fd51fb6111d3276e624",
+      "repository_sha256": "240f1de7e05bccf36c50caed4206f8e01bfaea30e2108346de1b99d3008d502e",
+      "visual_payload_sha256": "69194b9b5b17f440e7238b4e5e67afa64bd18cfae5ca4b101707c3deea2b44fb",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-079/SEC-079.pptx",
+      "source_sha256": "7c83e4dc09ad43cc1c97b0ee9318abb3dfe517111fb1dacb9dad53890805f867",
+      "repository_sha256": "04254acfc6e7d36f55297f7490fbb09461c3bfcfbcea1759d7309326a3b29ea8",
+      "visual_payload_sha256": "099bb4b62321aa76ffabdbb243e293df86d617c2bcc8dc0d3af3f9f07d6b8f1e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-086/SEC-086.pptx",
+      "source_sha256": "8af6cc8575ebaf759d58ab4d77c3d1ea745071736cd0e46f425a39d09b9fcca0",
+      "repository_sha256": "cde9122a1f605948918de710a3f2459df0d4c2962623a2c8bf57c0f1b748e21b",
+      "visual_payload_sha256": "2b5e4cd3b2f38d42caf0b3000ac10614d67d1f045248c9bec7862c8f101c24ab",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-088/SEC-088.pptx",
+      "source_sha256": "c698857ed0496eb509ddc839c4cdf5d1520bb40f8f443f67285cc226311b8cf1",
+      "repository_sha256": "6180ca32f6b6902cec0058c8a43ca7114aad5870ff18c69eed8b623b038f0bf9",
+      "visual_payload_sha256": "40dd3ebf9784385a0950a82f7fbd57d0a2147162746b055e38dc1081ae630575",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-089/SEC-089.pptx",
+      "source_sha256": "88db3b58cbff5b5dce2ad9513e170ae6ff2c6867bb7f7df9911ae1964d38d723",
+      "repository_sha256": "d9e35b9bba0a2cc25a590e4d2a77c0e9c8cfb5cce16eb0fdc9a101bcd15c1101",
+      "visual_payload_sha256": "b38af03b9ec419a1ed6a1af739327f11c465805d60c1acec548719a2c4e40d8a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-090/SEC-090.pptx",
+      "source_sha256": "ea737845ffa2aa2d26973647257bd941a6cb76d47f6d71ab1be0b4971605f0cd",
+      "repository_sha256": "0f9d7397b0d8a145cb04b3944225b3f220e5b2e68e641e3590156d2740340138",
+      "visual_payload_sha256": "6919a27895219ae468d86fa3ca7d47db5f65853fa988b1049665e07c6d005f1a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-092/SEC-092.pptx",
+      "source_sha256": "7744cfd9b0f3117e3c69995ddc8bd8f965c04a683e37115cffca4fff547fad8f",
+      "repository_sha256": "7759d84bc80d9f653e615f99afb86933654af8970a6e1dc0f7f1b47f6642c228",
+      "visual_payload_sha256": "cca52464b67779b6c3511dad1f736f25e6cbc3e79ed8fb53bdfd03ea164572ea",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-095/SEC-095.pptx",
+      "source_sha256": "b3992bb0593bca54266f0be84ab91ed63301d2f1bcdff23656f251ded85beee6",
+      "repository_sha256": "44342720cb0a956adcafeba4927f9f7c7145c2a277d060fff4ebab764bbc6e39",
+      "visual_payload_sha256": "384f02d0a7c42ee63eeb61415668b6307e046d41bb1a0bc83a4cd7607a5a0209",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/method/SEC-099/SEC-099.pptx",
+      "source_sha256": "96ed1660dca1a39df32d66e300ae3adc8ce11a948de59a364c6c0bba0004d3c7",
+      "repository_sha256": "852c554951ab372af90687f4001620453cfc4421db2091a439210b6bc776e457",
+      "visual_payload_sha256": "bfd586968981699191f62e7fdf53d29ce8806bcef0d97c7a7b59967e54cda432",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-010/SEC-010.pptx",
+      "source_sha256": "75032691b067a23f1a214b473c4455635e402e4d1caa854efd5fc07127235476",
+      "repository_sha256": "bd7c1b87491bf3856c8048eca2ad0dfeac1f05c1899ba3568e7c8c042dade107",
+      "visual_payload_sha256": "07e3e220d3a5073b73bd707c249129d1ae0f8f5dfc14b3ca9e644fe37365b5b8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-029/SEC-029.pptx",
+      "source_sha256": "53adb9bae3d0587b7e90b6583c11e38f93da79f2f7064cbfab1d0b93effff02b",
+      "repository_sha256": "de87a65be1e1dfd290c20a06b9e0be6555820c6a0123c9008b322e7dff97f969",
+      "visual_payload_sha256": "4dd3e8a8ed527b72183c448fea4a50cd918fbbdd05664da5b047e4cc4a092d62",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-007/SEC-007.pptx",
+      "source_sha256": "75b9d2d091fce110e21ce2694ed74bb0d48dffc145cc35926f4b311dd6810089",
+      "repository_sha256": "6f3d521b506ff36b88bbb4b284870e848215a23d4ee895a72916e75a07b303da",
+      "visual_payload_sha256": "1efec79716829050409f19bc56ffc2f23848e9e38b4eddede250c4b3d44d0ff9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-023/SEC-023.pptx",
+      "source_sha256": "54a01c57a41b44fffcc9c7eeedde8b72349be42675f32856e19b76153b926974",
+      "repository_sha256": "b62997f28b410d81f44fce6e5c57535ad6daa04ce10925b0ff8bec7f6afdea9d",
+      "visual_payload_sha256": "76a5a296ea8a28064c938fa0e4a95ab47b785030e186bc430348c29c8a08da1a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-039/SEC-039.pptx",
+      "source_sha256": "c5a061e0984d31e60def2756a77e83d46bc9c9218a2362ab7422bd0025f80a2b",
+      "repository_sha256": "adb6e7069067fb1a4487c8b72417ea6045b41b43ab080e12ecb4898f9ec91855",
+      "visual_payload_sha256": "9fcb4afa028c833b884baac9901c310237ae88c1978bdfc42ec3ab4f9b7e6626",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-045/SEC-045.pptx",
+      "source_sha256": "e950b791fb5a598998edee23c63f99032c540e981a089614cffc911c23825da9",
+      "repository_sha256": "1deec87df04fb8c13171bf002961d086975b199115b24b3e08b7aa841bf3dacc",
+      "visual_payload_sha256": "a1a200625557078ff94e5243ad47764cfe1c199ff8813a75c87f501d2212b57a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/motivation/SEC-091/SEC-091.pptx",
+      "source_sha256": "2178105a89a94c2dae4519ae30150e80314faa2edaf9503170832d525ff0c915",
+      "repository_sha256": "cb050e7f72ad80dcdc8531ac5c9f684bff6854d915f9c168d4e3d3e61219248c",
+      "visual_payload_sha256": "c3fb289cf78ce1ddc0d40fdbadc118458a606bf2891d8ef3aa710b2e0da6d2d2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-014/SEC-014.pptx",
+      "source_sha256": "57703458cbdc44e322efbf7af4580e65e1270755fd077445f7ef53a7d5e2ae88",
+      "repository_sha256": "d3be36cec3013a079b68b25660ace880dc2785fd77d4423e28cb51a321ddddc3",
+      "visual_payload_sha256": "58d5ed583a9c12f5d75c0ac14265e6decc3a9c9e7db96027a8222c9becc5b279",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-030/SEC-030.pptx",
+      "source_sha256": "741977aa59741452a0ff7c3baf74a1732db9856e0370673a721592958fce91b2",
+      "repository_sha256": "5035578042f08fa46155cad5f2512ba61bf316b506cda122334fb3f45dd55848",
+      "visual_payload_sha256": "9b63bad8a748bb928d8f773a66abf51d71d622ec82304b8ee8c392771a12f9e9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-008/SEC-008.pptx",
+      "source_sha256": "b09c27594f5629ec79693961e29f4df2704e9fb8aac143a28725f932b528ce0e",
+      "repository_sha256": "5b94f7efdd66d37a271f71563316e0bd99f880131838fec306bef591d0b41331",
+      "visual_payload_sha256": "92fce13589f444375512866392f1abd629cfc84b66408eb7e259d135b747d63e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-025/SEC-025.pptx",
+      "source_sha256": "3c12cd7ebf159f9cc71ecc0c56782e29e5c105ccbc75bbb80d1f757648bb9a9f",
+      "repository_sha256": "03367bb5a0c427ecec263edb96eb7fcf5b50216b96c67efd7347bb5144694bb9",
+      "visual_payload_sha256": "249216ac0b2db624fc84c3e1c825c3c86cd5598359177e01879f9d088522c3aa",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-033/SEC-033.pptx",
+      "source_sha256": "e02aa50d617a5edff21658f57203200d73dfba5e0c6b77e1b41ee6056e49e553",
+      "repository_sha256": "00f69f35be98bb6027c46d0e2d0dbbeafa56198eedb1465c247be202d0224168",
+      "visual_payload_sha256": "29f85e7a4989004c34d086b8aeb3bb7c852f7542a24b511c54f236b82c2980d7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-035/SEC-035.pptx",
+      "source_sha256": "6c0ca48847bd78738988afcffb25bdc94ce4fd42e35f6ac419b1d559591b6fa5",
+      "repository_sha256": "95eff4f1389af9a8d5fbb457d55f2a15b45bee8930c6f79bc57d8f19351c1dae",
+      "visual_payload_sha256": "0402438000149f5005c65ee3236e5362ae9cfd48ada36bbb7df3d595ae747ebc",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-037/SEC-037.pptx",
+      "source_sha256": "ae2e61324424dc93e3b5413c7a8217e1afea675522b0aa6f32a5683cc58c61b9",
+      "repository_sha256": "b5004599b467a137fcbbd8ac4bbf3291af422d44b9c9c45fd28266492b3b0f77",
+      "visual_payload_sha256": "c65d8357992a2f9962b2207e45b2b2e1b511e434b80882ddd28b9586dd7bdb39",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-040/SEC-040.pptx",
+      "source_sha256": "41f0b9da2c3847ca9081debfe4c7292a58c76bfd4155aa4865e37288ca73f44c",
+      "repository_sha256": "f06121d6a07b8f33788e31922d63cef583ef2fa7356d69f54c1b2c7cde280798",
+      "visual_payload_sha256": "e0c995506c4a5dab3064664bb814d5bb8e34f1dcf4616b631896c08f87bdc3d6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-049/SEC-049.pptx",
+      "source_sha256": "f9b48fde0e69b9e5de35543c5afedfa0c8fd87585f17d9282d262464575093d5",
+      "repository_sha256": "e96790683c25fad9ba61e948f3871950b8c8a6f7480b3dd0066730ab6ffd8a01",
+      "visual_payload_sha256": "56b2046fda3de173d34036fed0db5ad48de4b264932983b73f944b7a1976c9c7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-060/SEC-060.pptx",
+      "source_sha256": "9d1b985df6925714ec12875d1a8939901e6a5e909830a666cb70e715c04991cf",
+      "repository_sha256": "336d7b575d17a335219840b287db51f94aafd482245498f5cc30cedc3d0bc481",
+      "visual_payload_sha256": "f96e3109dfc6f558c961916ecc7d64f3c0a6b70f12d0a7acdc0728f3018d92d2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-074/SEC-074.pptx",
+      "source_sha256": "4788476ca7154a4f86a5e4929d737a9cf4439649ab2278cd44aaf28ae3e6ea7f",
+      "repository_sha256": "27e74e3671f95196eb352c3b9db48ef19f5af28496a05535f5450ca971c096ab",
+      "visual_payload_sha256": "122696a5971b264e6cc619e6658570ff648097c0b30403a98c3b60c89cf8d177",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-077/SEC-077.pptx",
+      "source_sha256": "0cdb5d3db9b43a4c007360796aa0b451b0fbc892914beae05227f2ee87f462f4",
+      "repository_sha256": "7d617101dae5494495ebdc433ad965c54a0398b6c659ccc597569fe89e505b23",
+      "visual_payload_sha256": "529f35b8f730e021a04c4e0abe07b0c4227a26667f186e45d22fe66f98361ef3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-081/SEC-081.pptx",
+      "source_sha256": "a8ea4cb74018138b8b02daef15649a9523bd57d14f9bbd341797fd28e088f231",
+      "repository_sha256": "6e566c2165df49067bacde0a72a7274756f57d5fcf9b79483db3823cfbed252d",
+      "visual_payload_sha256": "e892c214d03789b44c0a64515d84a579fa9ef081738deec1bfad06d93d88fa10",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-084/SEC-084.pptx",
+      "source_sha256": "1188c4826e76208943a687cf7272b9b1dbcc991813fe9abd8262523259441d60",
+      "repository_sha256": "670d6c301df6f99a7a14c8d035ab0316104243d839cf18e49530274b0e03f830",
+      "visual_payload_sha256": "2da85ab7782f1cfd364d621cff253e4f2c624260c14e39c641130a30c501c54a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-094/SEC-094.pptx",
+      "source_sha256": "df1648760b9f12c900f3301913889c5b65ee7093eb69d701c94b081441fe814f",
+      "repository_sha256": "d8c3a6667925aa38fb817be605a87fd19d7a4cf169f16e7e17f09b2992803ad3",
+      "visual_payload_sha256": "955c802eebce3a98ccd847a8190336fc1fe0af0b9a4994f8af9bcb38b32293b8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/threats/SEC-097/SEC-097.pptx",
+      "source_sha256": "608dcc0448e3f430aad56ffe7243112000eda013b726ec8cea90ad1291df237b",
+      "repository_sha256": "af1a1c26998d79dd5426d4ad54204b4ec19d98f44d435eaa80964208178ba9f1",
+      "visual_payload_sha256": "fcd7563e12af6c4e48d74cec6a800197b9b77ebccaf835d4f724674cbbaed0da",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-009/SEC-009.pptx",
+      "source_sha256": "f35dce0581dfaf598e4cdf4d4e0de2636b2855a1fac528b11cc8ef74928faa7b",
+      "repository_sha256": "32cc8790dec10d26595bd65993ff01eb25a926c6c01c0025c0f2b141dba0cc07",
+      "visual_payload_sha256": "777efdf49364282a7bb0dab1d32f614e31b67bb531276295a72b9e9de78c3574",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-020/SEC-020.pptx",
+      "source_sha256": "628d391d566c8c6fcb1498ea1552a0c7cb6f47d4cd40a2053de5279e443b051f",
+      "repository_sha256": "1ac7ae271c94378d75ce03d0874344d4325f645b7c4f918a48ebb3e353ae58c2",
+      "visual_payload_sha256": "eeeea63068137f97b5d34ff56667259a2b9548793517dbf9f7bae5a94866b111",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-019/SEC-019.pptx",
+      "source_sha256": "703dce7b434edd8efdfb0ffa0a4dac83660c7507f0b0ca7a7af0f97f6b3c7130",
+      "repository_sha256": "6738d219b65c137fe8c1cb16b177dfd815dccc42999134ec839872eda85e7af5",
+      "visual_payload_sha256": "68fe56ccb03bb067b7e4268d27ae6fdc8628b4e0a05635af6c21f8a75e8c3577",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-013/SEC-013.pptx",
+      "source_sha256": "1cd00abcc60f20c811b9eb745e80de46df513af14d87ef1bbd9f28947466e3c5",
+      "repository_sha256": "2a3f6a16c17db7026dc37cd13291eb43c55d01f62d753fbdc164e3c95402d20d",
+      "visual_payload_sha256": "edb466eb8e76c96b5d2a16c7934b3d12cb15a21fa6615d98288753cc3459afac",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-053/SEC-053.pptx",
+      "source_sha256": "d08809b16ca707876a18fc2d7835846f31a74757f0d3dfc1be3d891a0c227a18",
+      "repository_sha256": "7424673ed872e678aab95d760f62b9074652663ed666518b4f360495aefbe756",
+      "visual_payload_sha256": "e6b218f10ec96fd28c0cebbbddf145731e5b8604759bc24b670646aa2304188a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-056/SEC-056.pptx",
+      "source_sha256": "ef56737ef2835a7ff4bc021a3ecd2f2aea7136e31f13aa705afec4c0b0ca4420",
+      "repository_sha256": "325efd552f5c6b722f12c11678127e960965183dcf9d55d138100e1dfc3aec60",
+      "visual_payload_sha256": "70a210fa14f3e53d35697dec44e127c6756f5b7828443707ef982f60dab21dd3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-057/SEC-057.pptx",
+      "source_sha256": "e6425f6d0affa26c13a0c890af40885218d70bdc2dbfdeb2a6252cb81152c664",
+      "repository_sha256": "c126558c9c374335720f434d4fd5fb5aaeb052ee4bb23e4e74e4f737fe1709c3",
+      "visual_payload_sha256": "42e7a053fbf80d1245d2601b2223706d90cde9c744d480e6550ba88a316a3ad6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-058/SEC-058.pptx",
+      "source_sha256": "2ae6b8db8e50b7cde9764bc1e88c4972c0fa111f3d34586c31bb4c2f6fd4f62f",
+      "repository_sha256": "a5a2b26555cc413200a2fec08b8ecab748d46c1d069bdd5083b5a194d00a73fc",
+      "visual_payload_sha256": "0e9937db7edc9244238ddbe96a4a7d185d89df6575e23e18b833b101e592bec7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-069/SEC-069.pptx",
+      "source_sha256": "ca1c914205d9b3ac7a334226c6513dcffa5076a2194ba8eea4bce453df0851a4",
+      "repository_sha256": "1ef57acf558ee9a552718fca3a9a8baace3b461c8819429abd0e0ab4f9f5dbb7",
+      "visual_payload_sha256": "39e79a39839276651f9c84828d7c06b7c10b90667a2313da8db6fbdff55bcb08",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-070/SEC-070.pptx",
+      "source_sha256": "58f85d559906a6cb364207e9a57d8aa8b1e4c68b7f002ba1abe533bf43eac416",
+      "repository_sha256": "459a4462cd414183704b1bf2f8e528099946f92efa17c276038d599b075e5f5e",
+      "visual_payload_sha256": "6cc50f98a458e07fb92a5a284c14dbc81c0eca0f8f54cba8a0bad537c8954002",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-078/SEC-078.pptx",
+      "source_sha256": "71dfd02eaeaf3584567e2454973342660e380a7e6496762040699a7240113bc7",
+      "repository_sha256": "d0e35bc862279517e926c2beaa7c9f8b57046846a420963b43e45eacca5f42d5",
+      "visual_payload_sha256": "88468b2c14c1a73a43931eaf03f80daee8408b6fae427ea973b723fdbcc6e52d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/experiments/SEC-093/SEC-093.pptx",
+      "source_sha256": "8b862858f9557921f78c6e5c8dc4d0c7e6ba32c41d71d79b7d9344a7275b6633",
+      "repository_sha256": "934d0c860800cf8a0141f7a16c520fdcdaeacfd030d3bd1708311076da238783",
+      "visual_payload_sha256": "f860400e9352959578543e3f1e0ac8d2ee26edc791b0e8f45bc22e3d2a10ee67",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-016/SEC-016.pptx",
+      "source_sha256": "9cb14c658bbaf03dbba3bccc208b2b55fe04fea529cc38d4a792652cdb39218f",
+      "repository_sha256": "dbbf8447c103cd198bb1c6db9245ed7e2c927c8ff6b66783c9e70066b0769c6a",
+      "visual_payload_sha256": "26d28ff9575c8a92e477c5745e829dfb84b8d933deb4d734bea9530b44f4941d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-042/SEC-042.pptx",
+      "source_sha256": "3f6866d9da15048fdd9a80123d892145d9cb35557ad54f1687d3ceacc0c531da",
+      "repository_sha256": "ca9281fc7d4c0d21b87efd99103072499d137e08e911fb925e4b86de24974f0a",
+      "visual_payload_sha256": "10cd2cfb8a118aa8ddfbc2f5ee004d91464e170336c978876d86622211548d45",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-046/SEC-046.pptx",
+      "source_sha256": "f1acd1f0a7bd6fd006d12a587e6dfb2d7cf0c281f60e9c4f67c31a594a953121",
+      "repository_sha256": "6c809d0ff8cfc7beb2f2bd59763142ae6465a81d85005d966430f10cdf6482ea",
+      "visual_payload_sha256": "71a35ada67b45d0a0e4f026b24e27beff777178ceb88420300b129e3c13ea5f1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-054/SEC-054.pptx",
+      "source_sha256": "eb60e2a6f3cb342ded3e99507e99d73a448cf543fb7fe373ef99921d9ff02e2a",
+      "repository_sha256": "27e00eb4486ebb20a12418d148b30a344892ea72f47a14ffd0e4cc231c5ca2a0",
+      "visual_payload_sha256": "202e80cf6c0dc612aa53e3a509a6279e4ad82a7c8eadca21fd8b5567bafaff2f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-055/SEC-055.pptx",
+      "source_sha256": "cf3498ca21c78800243edabbb1ad6b377e440d88440de6682038b90e5ed63897",
+      "repository_sha256": "7897c19126f331de32484f59718cae3f8f2e582a5f95828db9382046093c6389",
+      "visual_payload_sha256": "6292881b8a807f3697330b8611dc290556d589ba075eaf8e92b0596abebe2e27",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-065/SEC-065.pptx",
+      "source_sha256": "703ad74c6c1c10f5eb24383a42f50a152058921b89724f0cb607a72324013980",
+      "repository_sha256": "9f05feae867b3bc5da97b699962e91582d19bc2682c89051207657beaedbe540",
+      "visual_payload_sha256": "9107d5f488804eebcb3ebb5ac8882a526622eab9451222468afd6e1fbe2dd052",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-068/SEC-068.pptx",
+      "source_sha256": "5af46cc83d7179c402cdf5d1ba4e08db3c2c4102a8412d3cd2efa205d20aa630",
+      "repository_sha256": "ac2f16faea9623aba93f2db1b83973458f2bbb5ce4b3b4712e1ac4445cdfdeba",
+      "visual_payload_sha256": "b1f00afcdff1dd02a830a215540cf56f16928d0b6f61cc905d21b1248ab6e89b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-080/SEC-080.pptx",
+      "source_sha256": "2e738429584e0670986629e54647dd81a745c49ca680196f7e57401fab9be786",
+      "repository_sha256": "7abdbb733b2cfd009f732419948691e5431ac77c6e97ce2c452d89b3d4c3e48f",
+      "visual_payload_sha256": "4ba19c84dbf895f82b08bbd4a9d57eda8d2da85ba6b789e735f478ee711c30e1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-083/SEC-083.pptx",
+      "source_sha256": "c291b5a7b4de3f6fb154f5954844f934d684d18d7b4b5bb0392736167f63dc7b",
+      "repository_sha256": "11cfbceaadecc5c892de8ef7e32ceb41508847a6909d55740764ca5c798d5aa0",
+      "visual_payload_sha256": "e5fe013df1d8a3747616708f57e7074848f2548831c11a2406ca54e2adc8a294",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-098/SEC-098.pptx",
+      "source_sha256": "7816a722456d19b9689c9bc245035f5298a27734d0e8300dd0696092619e97cf",
+      "repository_sha256": "92eb282ca75b96ae14ee216d878101ac874dc97d6c691e5ff0bff2610509e590",
+      "visual_payload_sha256": "d0c02a751ac0fd49b934b2518f90d5089320afdf5f02a5830844de5c4c6582e8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/security/workflow/SEC-100/SEC-100.pptx",
+      "source_sha256": "a0a3e0cc7e48a5f0652b1cca7b69d6194fe66c7c23b5a48915c7225fed9d7712",
+      "repository_sha256": "e7afe7340d41540832e06b6a6ce9f90cd2102cb5e511f85f3511d95997bf46cf",
+      "visual_payload_sha256": "87667a3d811ba6086be16742957ac1ad3ab7afb272ba76ac8f15ccd90fcf99c6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-001/SE-001.pptx",
+      "source_sha256": "b4dba2e8ba85eccd51297fc5be41f40c89e2871f1288aad2a9023d315d4f97ef",
+      "repository_sha256": "2e75173a13f5f8e9e33180a5e10bf3d4dc616937eec121c6b914a50511208ec0",
+      "visual_payload_sha256": "143dc44a2e1e4036314cf859f49449e8b081a2d5a97ae3e031d49cdc4d5f3dd3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-031/SE-031.pptx",
+      "source_sha256": "cc801534e308146e7ce6ed86784ddebb501f6471c0ed768ff813812b56f62b96",
+      "repository_sha256": "28aede92e78aa85ff8697d3942fae4db5aa29789ae7f8d395f220de9315fdcfe",
+      "visual_payload_sha256": "ffdedd7ea8ffe48a86c7286fd2751d2126772f3219413e154e4b1de48885fa3f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-002/SE-002.pptx",
+      "source_sha256": "f4db3accc5a31f7288e9a7fe1fa3db7e644491ad028f7d4e15b43c86c00c6459",
+      "repository_sha256": "6e9c8bd96054dd697312807919e707a8f9ad90f047c3cb4b6e4601914adb1876",
+      "visual_payload_sha256": "659ab99440c6d569a9eb23aadff14caef41fe73f9b2d5fdd9104cbaf35abf1d6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-033/SE-033.pptx",
+      "source_sha256": "0b1a92186c1059274d90b036e6aebe1e2e1bca8a9469fa337255e4e76177e0d0",
+      "repository_sha256": "ee6afb09a5ae13dc379b3d35a35ea1cb6ee797bf9087ea4b4df96ed4c589746f",
+      "visual_payload_sha256": "ac08c62d84ccf0fb32f216db44598a061368c7fa96118be4f2b86c4566809ccc",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-004/SE-004.pptx",
+      "source_sha256": "ade2f01da01270bb73f46588076ab35a4d17ac4fe58febbb84838933c440b9b9",
+      "repository_sha256": "68e71b47a08ba0ca21cbf4552afbba4dfc10318ba3f5b27e60422e422c3288c2",
+      "visual_payload_sha256": "9e1d4d6d66b043c8025612b6669b3029820de80d518c777bd0f63fa8c31d2765",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-034/SE-034.pptx",
+      "source_sha256": "9059b89f36244a3da80b8b53073ce245615946e1bc29dd872cf8980f87ffe626",
+      "repository_sha256": "6bc623f31aa4dcc30351bd4213fdbf0f93be860f31a394264cef8fdecdd1d00c",
+      "visual_payload_sha256": "e0a37723f02552cf17acaa9105ca95a735d51395c7addabee08bda22d196532f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-038/SE-038.pptx",
+      "source_sha256": "032e313e64db8d8eb197f9f1ea1920b7e28b359de02c762a8005420920a19d4c",
+      "repository_sha256": "e927b2d9d883d5bd4e7df5c060294954b5657b99c03e13c65ec0e6d51df0286d",
+      "visual_payload_sha256": "c7f72fd842b7faddf4ac04b6454b46755a30429855b8a6a7f713115ce2b27273",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-040/SE-040.pptx",
+      "source_sha256": "6a22234b031888429efbc833cb4dad708d8a66b5229dbf2d092e0260d6ce40c7",
+      "repository_sha256": "21a9a62993c4f5d0e88a0e2b56c1a10c623c794bc661d5f99fe8d84245973c9a",
+      "visual_payload_sha256": "b2b2759c397186257479c83e25e7beb878ffde2ecb5278ed57c88396f8297ac3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-011/SE-011.pptx",
+      "source_sha256": "2e4df60521c31301073a0ee89d13ee060993a51dd4e1c48adedf1fa0ef1994a2",
+      "repository_sha256": "6517d8d0551bd92c8dff62128a7107c1fca6398da5a52af55383e5a05a026ade",
+      "visual_payload_sha256": "cce53db31cc4ac1d171d008e9b3410fa989485c3f9aa05e1193b736fccf50e10",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-012/SE-012.pptx",
+      "source_sha256": "5c8c9aab3dbc41976183f1f77e54359e6952da900f29662a8dd55b89cc3758eb",
+      "repository_sha256": "5721b97a95e3c04c6566881a6eee464c92ae8d7612b7d36f780c9dbfb671d687",
+      "visual_payload_sha256": "96a3b3884d2ff89666682b4d5eb6d2e2e90bb836a97d808490b0d370d82e6436",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-042/SE-042.pptx",
+      "source_sha256": "f91c75e2c4a2f975df8e8d12430e6f734064e09890644d19e4fc63b92396bb07",
+      "repository_sha256": "3e71192fb0155fad67ad7fabf18d1f7eb2efcf511305bccceae106c7f7d98940",
+      "visual_payload_sha256": "83570f7f362eb1fdf5b8268b17fb926b4756ca22b7ccefdbf73944e911d7efeb",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-013/SE-013.pptx",
+      "source_sha256": "9b2d16e08c11ac8f4a7e9122c576708d73dad2797456428b10c066a7840004a2",
+      "repository_sha256": "39459f7913d50b637eb89909003b3e193b89a4ef953f7b0a01f1d0c89e065b0f",
+      "visual_payload_sha256": "a7d9f35c0bb082a1d2e24ffb112592194c8145911c28f5628ddf31779cf517c6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-014/SE-014.pptx",
+      "source_sha256": "1a3044f6f3ada551461ee4dddf4fec706b95807ac3879b418b4292781a8c87cb",
+      "repository_sha256": "af33cc65d582115c3f6023bdaa6756075e2b69f784744f8fe3d12f1ec69b39fc",
+      "visual_payload_sha256": "d7d5e4c0faf14719f327f89f6e76aa59a2534a50c3513218b94643c044651706",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-015/SE-015.pptx",
+      "source_sha256": "99a9238d44cd0603e62bb890c478a535e9ec4c5ab4769823492752357beeec4a",
+      "repository_sha256": "a922ea4a4f70d13565dcbc704a38ce40bc2029dc8216d57d1c7f504812d1ec18",
+      "visual_payload_sha256": "38015381b0861a5c229875b8feae516e85b59bc57ba00bde6253e0b11b7cd4ff",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-045/SE-045.pptx",
+      "source_sha256": "78602718da361ebf4b51c321813bbf49846d74a31320bab58c573881a0954ec3",
+      "repository_sha256": "9dc658ad40efb519ad563b8b31f0b50fe772bcc8a2c8d3ee2e554a63ccfe9833",
+      "visual_payload_sha256": "f6480917ab3cd5204ccb30cc38ff1304c633e26f564a7c68a6a6d2cefde6d42d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-046/SE-046.pptx",
+      "source_sha256": "584adc931ca8e4c485521a0603dea966b642f9431f906a1e0a73fc4dfd319a12",
+      "repository_sha256": "5b90a44d64cd5d03883d2d19b9161bd36825feddaa31b79fb5fc718dd7378df3",
+      "visual_payload_sha256": "93de9cd5fb0fefb169cd3e4267bb24dcac2b6fec092991637fefe1073f6906df",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-051/SE-051.pptx",
+      "source_sha256": "79ff8c02e559db033a72b5a1ea524b425cd82ece408eb11af52bd081577ac351",
+      "repository_sha256": "dd9d4976122ec9e5ba50e64824c8a1d6ff36bb3710e742ae904bb4bab397e9b4",
+      "visual_payload_sha256": "c1718bb910a343654dab870d155af9d30e2e5a5af82074ff6b694f6f7a5386f9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-052/SE-052.pptx",
+      "source_sha256": "1ac6b34c206a94334979e787f66207c923447ec7744175367ba1877680a3e340",
+      "repository_sha256": "d9d09113665504c4c8ff198dfbaa92b33cee2e50d9b58ec460a7637cf131b2f0",
+      "visual_payload_sha256": "ec9f67cae18f0cf97a22e2243d341bddd54ceb18e9450d14fac8487c01163dbc",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-053/SE-053.pptx",
+      "source_sha256": "eadf1d1da8ddf77f64c90a6c8a525aa47b0ceed84877b783d009d1a05eeef432",
+      "repository_sha256": "bc1371edd3942f08cb948543d7274f434a0e991d3b7d9b105052480ae3b76950",
+      "visual_payload_sha256": "87cb80c1e2b9cc88baaf3a77c661098db26c36d2d30712f50b8c6d929aa24c76",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-024/SE-024.pptx",
+      "source_sha256": "b50ddbec801beb8920227b3718c28df522557321906f23751792b82a9bebd55e",
+      "repository_sha256": "848f32d0d7e712459b5f22518a35b48e1ff7928c65f176db1f606a5abacbf923",
+      "visual_payload_sha256": "ea4639ec1c2301c7e43756481c538c145144cb5f2887697d954bb35af8eb382b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-057/SE-057.pptx",
+      "source_sha256": "774a0b7b1aab68b350e10e0c39a33c54384cd3e31e9a7eb75cdae758808e5cae",
+      "repository_sha256": "90fd4aaba84bbb2719cf4cb2ddf205ee9f6523eb5186b2213fb88d19ad6d0f18",
+      "visual_payload_sha256": "e84f66fc0473c3b1800dd482b7164d1c8f7838c77d61027b2644741c32ec6a19",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-058/SE-058.pptx",
+      "source_sha256": "de3a5941c0f98e777e3982a845bd0bdf0eb36684745d22a73ed6732f83205d2f",
+      "repository_sha256": "df751b2cd0d975a6e642ebb669fcfdbb311328307e867696fcb3f39573983334",
+      "visual_payload_sha256": "57c77ecd947bf92294497793c5398b9f574d7801d4d0c3ece0fa9fd97a09426d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-059/SE-059.pptx",
+      "source_sha256": "43d5a2d92bd4c6c19eb825188ffee0ee1fb90cf62cd1f74705f5ca10457e93f6",
+      "repository_sha256": "286036074b0faf99c91800707f841bba851745d34bcd7726bc1755a8fa490276",
+      "visual_payload_sha256": "0107dad7c39332413e692fcf521f4081406b457c27c5624510603e3d01014c66",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-063/SE-063.pptx",
+      "source_sha256": "0828cdbd4e8b5c8f1c1c656ea3bc8e975c4bc5b056ac1d2788c2be1487a2c0e3",
+      "repository_sha256": "836a25ca6b2ed4a970a4bb50446036cfb87641e885a5e8f642e1c24ffb8b8d71",
+      "visual_payload_sha256": "44a5625545975c15328dd184951c6f41876fd6c0c1bdda5a4bf30cc135963ba5",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-064/SE-064.pptx",
+      "source_sha256": "abd1b5dff04444af0333ec8153e0eedff1ea4b1f7b9475a73d3bb11fb030d1c3",
+      "repository_sha256": "949914fe4c4ed3723ed74c2c0b28020c0d52d96c1296f7da11122670e1801599",
+      "visual_payload_sha256": "d1c1a4efbffa460a30bc4de16b0aae7ffec1e312a9e52390be5c9196db2e104d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-065/SE-065.pptx",
+      "source_sha256": "aef3e27f4b4b6aa6e92209eccb74b8a9d2ba8dae4385cac7917f34f251e778fc",
+      "repository_sha256": "1d057054e977ab59072426bb829aa446a188f025c7f1187f2f9c6d6c8d7a19ac",
+      "visual_payload_sha256": "9ea7442184e3bd1fad638746260b7f1e8dadad6ee2dee7a4943eddff92f80a99",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-066/SE-066.pptx",
+      "source_sha256": "ade6a60140f187dd0ef5ac80022c0044074c7cd6c60bea6809e97f43dd0c47ce",
+      "repository_sha256": "78f64e15cb1ed74d3727cdba6d815e0cc95fd6d814db1bf1ef79de611fe88d79",
+      "visual_payload_sha256": "ceeab4516645665a1cac370ee3c8c9c55afd604b3e4add9e275c31685bc89d58",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-072/SE-072.pptx",
+      "source_sha256": "55caffa361c237e3ee2d152d9aab8883b788faf03ccba3a46df3919c904eb11c",
+      "repository_sha256": "5df9cbde219d419e1929ee7ad07e13a486aef913bbbbfbfca5fda57f44bc0af1",
+      "visual_payload_sha256": "20b24f0d82219d3b97c40bda3c7c4f0617e920af8921f4253aa17c3131ef0a38",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-073/SE-073.pptx",
+      "source_sha256": "1c327a6fb49c7526eb2b7046f30234ae880cb39d8a8c1e787afad7f8c2cf9492",
+      "repository_sha256": "8e20c027afaba56e14c67a94ab3781b02feaf5c7525ac32a8c970a7bd09040ec",
+      "visual_payload_sha256": "bad4ebeb37961d73e00c0be286d38254b88a277a113ea084d1d92faabe555848",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-077/SE-077.pptx",
+      "source_sha256": "de054e9929534aaf398fd9a37bc74783758bb86495016a6a00c1d6981bc2994d",
+      "repository_sha256": "15b67a3e99536d2e7ae4b97a0e4fc2bb2b3bd6d3473b9eda80b06b3f00ac5742",
+      "visual_payload_sha256": "a24a1b5fb53476ebd30f57dd22c9dc7f0c75b6da0908ca000e492551a1b6bb8a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/architecture/SE-092/SE-092.pptx",
+      "source_sha256": "ab2e033f93c538fd93e16c46f53c9587005b3da81155120c00aa318868d9f38e",
+      "repository_sha256": "44cede196672a48087d16612ae91b922e382cf589e037966fe1ec2daa98d3a5a",
+      "visual_payload_sha256": "b1685308a03ac244f7ede972bb150f8fad807297411cdb2122ea32c766c1e7ae",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-032/SE-032.pptx",
+      "source_sha256": "e18a8de173edb737b00ed258b47cb59185dbf98ee25cfb7c1509ab0510951022",
+      "repository_sha256": "c7d430d13c7021a614fc7390926ed64efc5d0f27e349d3f14cf75da5ff450025",
+      "visual_payload_sha256": "851145fbfbe690547f650a19f66d7bde987f422b3c4778aa0ad54e92fd1eea7f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-003/SE-003.pptx",
+      "source_sha256": "902ff39efb133b586a11757594aa5283177bef5a934e1c6bd04309dcae23cd1b",
+      "repository_sha256": "c4268fbf4f304e0341f41f89b01c2489f520e84418f01b803bf31aed947613c1",
+      "visual_payload_sha256": "22e0f3f18cdfc1abee9baf4f14dfc14bdac2e1eafc3bf378de773cf706b54d99",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-005/SE-005.pptx",
+      "source_sha256": "66c4834c03c3da36c7443108f067be1bf86e2ba75a8a7c8f9ac0e34b61e98f0a",
+      "repository_sha256": "92cfd27565b7eef15383d1f85bc970b4a8c3a5da5fcc331e9b7983a5a2d2f4cf",
+      "visual_payload_sha256": "9a108fa8aead64bfdb4e2cc48fd389fcf0a4691da07390064aabfdb5349253cd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-037/SE-037.pptx",
+      "source_sha256": "5fdefe02a87549bbc53c93c2db98e16f183c3bdea31a2a21e14b4fe511af3956",
+      "repository_sha256": "3c030411095ae1c052d63a2f1cbd5deafe592f19f7eba9578ee6221027913213",
+      "visual_payload_sha256": "212f7feb4a93a8aa8eaa54a0eb3e8970cf3bcdfce0a3b02b33cecbf35fb53c59",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-009/SE-009.pptx",
+      "source_sha256": "e751b12e4700d85795ad6fc8235d0d370738a7a8105566fd0ceb94e12f595fdb",
+      "repository_sha256": "8eeffb0d82eba8c33fd052b03a2a5bc49835f16e06fe4e6329feed2b34447d65",
+      "visual_payload_sha256": "89c97f0ed6c09ee29a8841e92972dca37ee552bda51188e6a685bd6b30f80a1b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-039/SE-039.pptx",
+      "source_sha256": "693e51b0ba4015d64dd0140b6a417044e8bd929451a986344e17b67efcc3c267",
+      "repository_sha256": "07d2024374760d78acd5e3a2cfb1b56a5abcc2b3b8756de223bb12aeb07a2508",
+      "visual_payload_sha256": "ac7040aea1d2d56d11dad2ecdeb9c1ed77041ea1fe208cce0aa1329a1efcaa9e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-010/SE-010.pptx",
+      "source_sha256": "401e7553493eccb7cd87558d6aa3d90e3a21628743c1bea9e755ff2c55b1c434",
+      "repository_sha256": "3bcb5e0fae23830f4bb10e707d189b87c8e5965c0ef04cdcec83758b68a75950",
+      "visual_payload_sha256": "8f5b418f610e8f645e1532cdc85333eecf4b1fea7bc4285d33fba4cd43bb08d5",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-041/SE-041.pptx",
+      "source_sha256": "14fc3bc61d2acd06a463bd8c6892bdf85301b2ecc203f417e98c64c577b6ebc9",
+      "repository_sha256": "67512bde8681346929ce0be703c769569536fc7a1e132a7cebfa7c71f331291f",
+      "visual_payload_sha256": "8aa9e4e24301e1e1e09bd845d8ee6b9faed6086e81478a4f7892cb6728553a19",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-019/SE-019.pptx",
+      "source_sha256": "83a07f22bcc14ffa96cc367ea0367fedda86f945c512c8bc0d537484d5bb72af",
+      "repository_sha256": "14f4cb49cb7681462cf2780aa9080a460539b125f88db5da12cd151acc866836",
+      "visual_payload_sha256": "88277f39d7dfcb4771c2c9dd132ca2313d25199e5aea6bb3e067d3a02b8ef40e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-054/SE-054.pptx",
+      "source_sha256": "2146712b512e75415fe2996102b872e3938089632c54d88b4435c4d36861986a",
+      "repository_sha256": "503f8fa3b009c9e68b2f019805e7ac5a6daebba340e0cccf1538e0380baa786c",
+      "visual_payload_sha256": "5578b201efe856acabddf92e9b79c9d5b5b277da90e35f1ffe5f6b315d640a92",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-028/SE-028.pptx",
+      "source_sha256": "24b439811b4db69a6bd6ce8c56dec128830f51e40a7926a6dbc35955ba4df4fc",
+      "repository_sha256": "627149f3423b64c8c67de4afeb11a4e118beb9d24f0f93bfe9b26480e9f1ee39",
+      "visual_payload_sha256": "528e41557e4ea4de5b23b5b5a84956ffbe43f1308ea3222f96d1aa64337e469c",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-061/SE-061.pptx",
+      "source_sha256": "9ed75eccf2d4289c23f55deaafe74d4ded648158e17e35261aca8d7afec78e59",
+      "repository_sha256": "5772a7625e289b8910af3eac033169e42fe1ed627e770d682d5e7860ab8e2acc",
+      "visual_payload_sha256": "16b221bb22edc4b799a18c13c93f18713d58b7c244aa8fa37b296981926a5d99",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-075/SE-075.pptx",
+      "source_sha256": "16d8c2fab864194f76b50b6f9face79a8f09cbdc9d3538d4c98be731d45aabf9",
+      "repository_sha256": "f1da30a47b0c7b03ff68a06612fe4d168a5bde22c057f825d1348b3ca3c480e1",
+      "visual_payload_sha256": "e736b848488ba9dd1e57ea67461dbbe408c19423c032d8ef1c4eada92e34dd8e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-076/SE-076.pptx",
+      "source_sha256": "d7bcd2da74b7a5e1e0a039a338b877ad5b7b876b54a5a640838df06c1d339132",
+      "repository_sha256": "0fdd243b066cd0ea0899ab682eb659bb7e4e6cff6bc3eb937599910bc14ff43b",
+      "visual_payload_sha256": "9f3d3142069f5891ccf8582eee88b6e54dd66d70a6a5d37a3a489f775d767ead",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-082/SE-082.pptx",
+      "source_sha256": "7e26a264ce9cf20ab869d54a995537588ed2d4488bb28a307734aab57de30862",
+      "repository_sha256": "decd32b8b26a0417fc0801a84c4c7c25320166ed75ebea8a8a4b18c535aecf29",
+      "visual_payload_sha256": "5ff95ba3a07f7b975bb6561554947635c0793fc9d9010d9b74ed46a3487f0d4e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-084/SE-084.pptx",
+      "source_sha256": "397e49e06099cdfe619d32ebd87f0119cf04ed54a92666f52414a1c418d2da0d",
+      "repository_sha256": "f82a96e043812a6d464fb82dfb22ade21b1157f26a9afbfa08969c29c807cedc",
+      "visual_payload_sha256": "955b40c53e7232fd86efe4e56121605f44fb58c77fb047148270d810075c96ad",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-086/SE-086.pptx",
+      "source_sha256": "83a34967948bf03de8f681d06406217252d1591070e461389c215c33140a3baa",
+      "repository_sha256": "af1ebb01f599f4344b8aba66652a0fd3825f841cd2890d7f27007d1ede132f42",
+      "visual_payload_sha256": "d1f66b87f7a7a46427b52908fd181d2aca8ac95734d5e0aa116127b76fc21a77",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-093/SE-093.pptx",
+      "source_sha256": "41001775b80cb9c2a8a52cc354cb54ff63ac3bfd979e12ed608fe477c131593e",
+      "repository_sha256": "84fd0f6b91ed276ad379dedbefdec5fc022b537ec3e9a378d0a5f4bbc634083c",
+      "visual_payload_sha256": "fb8eaf80c32ce7fe0c61ba597fd75eaa5eb391849b808142c73bf140c8d694c8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-094/SE-094.pptx",
+      "source_sha256": "68aa4170f558ebf9dc99a683b1eac0e804d59f5d158f24c7378d842e76ff59b1",
+      "repository_sha256": "89e8c141dcaebb818cf0fa3db8292b125204685bf5ff2d202245327e3753f10c",
+      "visual_payload_sha256": "1a1d104263e4a603b6320f5592297ec0330994929f5226df6f0b6404eca78866",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-095/SE-095.pptx",
+      "source_sha256": "3f9a37bcd92d13a8dd7d7591b18f64ae5af6aa8206c1e41011d774b28a39407a",
+      "repository_sha256": "18471ee2af8f2d0ec278f8e2b2a3f2b5db2fd034b6f968be9e92d6d572a6e1e0",
+      "visual_payload_sha256": "ae190bb772df48667f6dc29cad2562bd0eb1003891e12b2a9c15d19e7fc7a4a1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/method/SE-096/SE-096.pptx",
+      "source_sha256": "3f8559b5dded5dde718d7eba20aa40afec0eeda7be92d29a9c95a7011a2a1eb4",
+      "repository_sha256": "37b475974c4690eecfe888707e966f2122da7f24dc14b03d9e19792eeba9c09f",
+      "visual_payload_sha256": "ea61616c087c3d6408bcae983aa7b19a9bfd276d09d88bb11e2eee1a1575657a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-007/SE-007.pptx",
+      "source_sha256": "220805a772c8627a995bf814c2de573dacc047efbe332ee1a6ab2f12662f1c0b",
+      "repository_sha256": "d0bd6fd9ec36e2ae25b1603ed6ef3b75023cd5da62011409e8ae53ceee51da2f",
+      "visual_payload_sha256": "fbf02ddbf656b335a07c61d9eb1580eedc762be5c17a4098c4c012e0b538ab19",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-044/SE-044.pptx",
+      "source_sha256": "712bdf2272f23222ab24e529b8132bf02d870ec3802e94dba89c23ea96be627c",
+      "repository_sha256": "8392815c84a4cdea3442bcbc091b8c97547cf0038e0636d4129d2ad978e1e57e",
+      "visual_payload_sha256": "6462a6b62ac706a75e27b6f7f4299522f1e57fa616e24caddd60a5aab80d3104",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-016/SE-016.pptx",
+      "source_sha256": "61752d39c22e6f9bd8dba37487b18b82ab2ad3a189ab90db537ee56ccccb8076",
+      "repository_sha256": "993a40d9457c9204004daf9a6f44fe543fd69c65e6d0f6697fd1708eb518562e",
+      "visual_payload_sha256": "a6b3dd682714583ae983910d32ded661e4697de6a644b2c89681f1270ded1158",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-023/SE-023.pptx",
+      "source_sha256": "629f210ec776108fe528c6e8b9ba9ca40ffa7794c1e3d54ad0c2fd3736a2414a",
+      "repository_sha256": "409a0c8dd71211d304d5944e807d0c7ac9fc273d01cfe7600a4695503b9199c3",
+      "visual_payload_sha256": "dd2ab7a0e47a1e8f19fa357fd22fd7fe43d64918565377a8881caa4e17cb0fd7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-026/SE-026.pptx",
+      "source_sha256": "2ff153622679bf1f9756011bb8fdbea4d75737045628f846d2820a61f98f9f3b",
+      "repository_sha256": "9f4b2a95a859e0ebe5e050c5042d97fed44f4337535e96a1c2e3b7a0ec3dc453",
+      "visual_payload_sha256": "9cbb6e9c545541e648beaa5a160c4d3061aaf0692558d26915a366ed5bd7ab8b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-027/SE-027.pptx",
+      "source_sha256": "d4d17d0278c4a8727905c7f5bff5386b34a3a1aef539259714017ae224e8a5ef",
+      "repository_sha256": "d71c553c3158a5219846e72be44ff1c3112b3990e31bf67311b47ca278aac969",
+      "visual_payload_sha256": "deca416297b831d5943ed7193520e8c2b434b54b90a5f4f9537bbe47c08d7c66",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-062/SE-062.pptx",
+      "source_sha256": "b3527051327fa792bb6b09c5651c50cf7e4efe8a93a3da88bf02587a8191a17c",
+      "repository_sha256": "76ab3598113af6e1db756143f7e01e311ee587100971a0989acee3f881e7b435",
+      "visual_payload_sha256": "7f5c96326870ddd94516fd255f503b7ef3e35018bfd9b704f0b713e5d366816a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-074/SE-074.pptx",
+      "source_sha256": "f288a42f62abf11337db94e4476e23fb6ee685d47c91c1ce24fa401d21d968ec",
+      "repository_sha256": "f55fa0d1184efd8081d47f819ab910119075bd0dfeb5d53f85e9d159a01712b2",
+      "visual_payload_sha256": "87b5acbbdd5239b88a24719323c90d86136053abe83beea34e4ef6e171c64bcd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-090/SE-090.pptx",
+      "source_sha256": "60640b8acb3b779be8625ad3706726e9dd42ef93546c1b426c63ed852879a660",
+      "repository_sha256": "563991ad10b4481b1df6adaa944fa3605cb16e000e68ac9cae058cde9bc9ed13",
+      "visual_payload_sha256": "cef6adbb45c4031445f3d6b68796cd7a3792b3c10ae1e42a483dbe666f0c9f25",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-097/SE-097.pptx",
+      "source_sha256": "e2f6feb9263472f21168542bd6883575ec252f8f4e9887f9234758ee6b7c7b91",
+      "repository_sha256": "2f4e87efa25ada10bd2345aff43f844d1393609cbd5b234e0f56d22920a39f9d",
+      "visual_payload_sha256": "b2077af5784e8462b9a9f452b07ebe4377b468bd991b6375ebe7e6dfa1a15da8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-099/SE-099.pptx",
+      "source_sha256": "df61195c8f39b1598178e9ec8c976294c63159568e89cc8eb25c90bc25934c4c",
+      "repository_sha256": "8dbd23ed005ad0dd4563b9f7c578ffd558d5fc4bc662419ae64319ce4c10c11e",
+      "visual_payload_sha256": "5f6b8e407a62b352f3ebc466a0a6b44193379c94155e99a388023fcd76c89295",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/motivation/SE-100/SE-100.pptx",
+      "source_sha256": "2ec49675f051cf8abddaa3674af6d0ecd7d77a94389d7d409a8c82e8bb92d516",
+      "repository_sha256": "451661a4b1df7826063751ff684bc3768b62bebd3c4902e2634545b8e56b779c",
+      "visual_payload_sha256": "11137acb0d7dce59e936a6d896810722cda9bc781f3f140a76fbf1a7c20c1275",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/threats/SE-006/SE-006.pptx",
+      "source_sha256": "41ccd6d49374fe702f24d569008f5b6fff8b8d370073e6db0d9266eacc8ad33f",
+      "repository_sha256": "27cd779b65eaf22b88c6a7d241fd4a34743ce5fb2718efd312b1d5b55ce93981",
+      "visual_payload_sha256": "d982e83759c86ca561ae9041d0bfb9c972a053f05c5cbc30a2753b02afb58571",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-036/SE-036.pptx",
+      "source_sha256": "40208cedd4b8b54c1e3c8f7b11216779b48afeecdaa70db8b09af602dedcef40",
+      "repository_sha256": "0eff41b231906697b12ae594846921b763d0baf8f0d09895b835125958e9f8af",
+      "visual_payload_sha256": "1ffa88a48a06ce36438bcb75fd554ff39b4cdcad7bdd9eab9c59e0394392d6c8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-047/SE-047.pptx",
+      "source_sha256": "5d5147a400f4d0e9258c8361dedc6c0a623750ddc27373230f5703fb8c134743",
+      "repository_sha256": "4f142aa578196b2ee18b184b44abcdf7c6fe3e136f64232d94eb0cb1236061e3",
+      "visual_payload_sha256": "1e4c350dfeabeaa8932d560ff614dae1a07a4b1764bf46f408eff50ed3798447",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-020/SE-020.pptx",
+      "source_sha256": "85f58c83bfc87d38f7f334e29d7333af320757adfaea9f6a946a63166752808f",
+      "repository_sha256": "40eb6c21d447024a4c1a48696647fbee0657ddcbd6a809dffc28e54d50f6731a",
+      "visual_payload_sha256": "006747a9fb2bfb2e17af490689a34ac12f1f8111b0e7936cfe0d579cad51d345",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-050/SE-050.pptx",
+      "source_sha256": "c3bcfbf6738d8e532f5f090235cf78094a7ae01fd703bd80e67a04ca7e69ea24",
+      "repository_sha256": "754b631690632d14e8e6c36959f103f8bca198db2e86f7bdee3bfe9d3842411f",
+      "visual_payload_sha256": "8c9507e5cad1855539802373c449393eae8a1624b4102e11e6b93788e7a53d28",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-021/SE-021.pptx",
+      "source_sha256": "8ef719e95cd780dc8dd2d3c69f855334d16db702a8efcf8c14da78891af1677c",
+      "repository_sha256": "8869caad38b5072c0c6dbb9dd64b70a9201710f9d18f86084e27f22680e42a25",
+      "visual_payload_sha256": "b7ae8af9982c0b111de4f6a8c1b81605f8da27d6c8ae6c010a49034ebbd9786a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-022/SE-022.pptx",
+      "source_sha256": "ba702dab3c13d7a28a35ef85deeb3e4ac8ce730f627cc2c72612a7d11ba61363",
+      "repository_sha256": "19c233fd634f1c74c0dd9d4a690fb434552517525ed2144439dad998e82e210f",
+      "visual_payload_sha256": "4b854cfd91824132a843227f06d4761448be75a6b953eaae5bdca2a272230c55",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-025/SE-025.pptx",
+      "source_sha256": "7f1e9278e34de6857b92e627cf6b3863e8f845d39a192762c744370994d11bf7",
+      "repository_sha256": "3fad42d842a72f4b560218bc4e96c9b4c8fb94f8d30ba45e1ab4c32dbf09794e",
+      "visual_payload_sha256": "6dc37261e7c922f78e3bac4d723b2eea9a76c112213120d1a5e962f602a238cf",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-055/SE-055.pptx",
+      "source_sha256": "e2ba3b61722f737b53daf47193b01e64414ab74006ee615c643848e6074263e8",
+      "repository_sha256": "900c5edc73fb61162d8d81421e19bfad86dbad88c9a22d9a3576e0b5579b23d1",
+      "visual_payload_sha256": "2eb7b5ee3fea652ad634bd056abbe119abb18e645b2844a56df31630525be3f4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-056/SE-056.pptx",
+      "source_sha256": "95147706aff37c4a6481362e9df44a4a0b19c000e10e6d403e4765c3f545aaa2",
+      "repository_sha256": "dc149459cb4a2390d6dffa6a2c4a0c268ea1535f719e3c3ea7749dea8e9033a2",
+      "visual_payload_sha256": "111d9882d8c5b281672df2b2f4d0747cf6267a40e2c38e393766cf69ac8b22f0",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-030/SE-030.pptx",
+      "source_sha256": "83cc7ee26fb334f8e6f5875cc259500323287e7b4a3fb258146c0f975d6e95fe",
+      "repository_sha256": "9155b10f07b478de56db210fbd2fa7cdae37c807dd049287e2dcd7b42f186b87",
+      "visual_payload_sha256": "9d7081e32c16f0ef31cc1f4ff69340f8a946d1863b9b7f49a0fd4a9220b49dc6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-070/SE-070.pptx",
+      "source_sha256": "5659a146b1c9d07d5a21fe9bcd458be5b729b8cd2fa23b1d3a5208a7c2cd9152",
+      "repository_sha256": "e2f2835957e729d701133fc18097307a74cbe0ce0f766f01d9f18c61dc6b1a39",
+      "visual_payload_sha256": "5fa51078421c9b66559994fdebb922d91ff860f65a3cadfd68ffccf6bce26cb7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-071/SE-071.pptx",
+      "source_sha256": "f50cacfc6d1164ce7e53dd9b417af50848427ff41f7844ac9b574ae2147fcd03",
+      "repository_sha256": "fa149d1931c3c0ef4ee828d3f0c5940fa0d851df3d9b4abbb5e0e8fdaf47dd93",
+      "visual_payload_sha256": "5ce454e0fbeff01cca16fc35ee64f9b5c7acf4430d51d7344303f0d2923997b6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-079/SE-079.pptx",
+      "source_sha256": "2a561eed1e4fd80ec49d722d3176e8453fcff9e2ce0987f333d62af1d7a1cd60",
+      "repository_sha256": "6fd814b859e1afbee9c98ab65fe95601912160936608fd47fc1be3bc5088954c",
+      "visual_payload_sha256": "aaa37619ab6ac34d309c028545c46cf35c2a0dde99ecbe5026934ec2ef0aac6b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-080/SE-080.pptx",
+      "source_sha256": "b068036a2fb7fcb4ad4f6bc7ec2cd36b4aadae7178b6e1fb86c27a57f6351fb5",
+      "repository_sha256": "ee170244e7d968492dff43eb8a8efc6ec81f4fb43a55f73034dc22ec78ea61d6",
+      "visual_payload_sha256": "4006b605f6914a2f3f640cff99906fc99332990706f1e0d383a032801a2c661d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-083/SE-083.pptx",
+      "source_sha256": "cea7a321b366bc7ef35721d6b9129341b73aa649ecbf5f775a963b44ddc8b266",
+      "repository_sha256": "f4cec4d91e29d158f7518bcc16ff7e88ec6965620dbbfb500c125151769c0729",
+      "visual_payload_sha256": "09fbd30c86568d87ac7480c02dace49ff9edf76b4ed16630bcb1989d59d1ab03",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-085/SE-085.pptx",
+      "source_sha256": "9dc45008278e8e2d478c8cb504539b850518deeef5231522cc80b4323a0721d8",
+      "repository_sha256": "b420d3770a2cdabff9e5ab0f41dfef3a2f43730d4c91be2a72cec2926af4a952",
+      "visual_payload_sha256": "624c99bb956de2a32e3eac04583fd8d2fd905f304bb74c5b24a502da233ba56d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/experiments/SE-089/SE-089.pptx",
+      "source_sha256": "1a8552373fac58b91a325420e50e68c0c5871adf5b090dbefc4c5df0943f16a1",
+      "repository_sha256": "56ce5109c487195926822fabb74cb49b39a6c59d07022e96530db8cdec8570d3",
+      "visual_payload_sha256": "517b5417bfa81f614fa89ebc111382e2771363d6375abe961d03ccc7dcec460e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-035/SE-035.pptx",
+      "source_sha256": "c14b1c2650a56930865da56df4c23de792140fcdd1ceeb4fca057934166b719c",
+      "repository_sha256": "00ba4bae69400060f911dbae6352bda94dbce24eaa3d02ff31efcb6ba85b0189",
+      "visual_payload_sha256": "80e8ffc88ad17270d92e953467d6c901fda379e7b49e0e99d8839fde72e592a4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-008/SE-008.pptx",
+      "source_sha256": "2fbad535335eb156414254a7bbb0953f4328c70f76da50ddd42dcb98f83bbf49",
+      "repository_sha256": "99551841743859c16dba9247e7753bf73d5eaf2f83d688c5aa167881a342a6e8",
+      "visual_payload_sha256": "1d272f4a2c6e36af8da2617dca7ff310563d6b64f3843a538d9fd43018e3a4ad",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-043/SE-043.pptx",
+      "source_sha256": "d7e347b3a0ea86cba397cd3af7a6efc6aba3ec952e0e356b4bab7498b1499a65",
+      "repository_sha256": "23f4d890f71f62129ec1665cd54c10c1f28401142f884b545d4e57950be7d885",
+      "visual_payload_sha256": "0a0bb0abd3d1a8b0cbafb75a4e3312e2baf17510b0b9b3df9fcc66794d030cb6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-017/SE-017.pptx",
+      "source_sha256": "f029939547b7caccf8f6ab8006f8b06df2dc2ea20aafe53fee7c9b7a85c5d284",
+      "repository_sha256": "8ae12ca9a76ae86cd550773ba4590e428eb93c6085012038d4e9f637417d4ebc",
+      "visual_payload_sha256": "5cc932c41e363ce355ae548df5b403999f81d48de98d46e13b7ea508bf969183",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-018/SE-018.pptx",
+      "source_sha256": "44d770ea535c6e1890f66dc233beba8b8658446e601dac4a7d91fb29131c5acf",
+      "repository_sha256": "a724585c8d972e85b9535cabd53b110938a020b4ce9cddfce729cea0502b5734",
+      "visual_payload_sha256": "956ecc8d118d001d2f5dd35f8dbf0bf161978fabe015362e74b60e06a7058b0d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-048/SE-048.pptx",
+      "source_sha256": "d65474f98c624f8ad8ce8c3c61baa328cf1af802226f7a7281e7d9cc9752f920",
+      "repository_sha256": "1b753847fea2242168de577bd4727735a679a25c70b8d1ad0b7a875f1c093b54",
+      "visual_payload_sha256": "4eeb820f913634bec702df60d3b281c961548970d97ced9cc9a294701fa6f23b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-049/SE-049.pptx",
+      "source_sha256": "248a3b4009c9daa81db047888fa47b4b463d53f834cbea5e64b18f3e74abeaf8",
+      "repository_sha256": "2b755474a41c46acbaa3e1f243f2fb15990c6433a836f58a2a4a1581783cea15",
+      "visual_payload_sha256": "8fdbba51238cc3a4fb44753959af2e326ad1c58a154f990b103c77356f8c45de",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-029/SE-029.pptx",
+      "source_sha256": "c14ef7f04ce1c323d952b6c7948ab7b922ebd931e9f68e1e82728dc69ffbb7bd",
+      "repository_sha256": "83ecbcf28b98d64262abaf8876fc7802ed8ac09ab953aa36797888ad49cde6e1",
+      "visual_payload_sha256": "06fc122a5db24d47c517055644cfe4347a13ad4c1c9042129eda5627eebacbf6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-060/SE-060.pptx",
+      "source_sha256": "5320d10e2433fe80a2614f17d5c90a63fccdeccf7b41ee3d6a6f00319d9a083b",
+      "repository_sha256": "2db8d8f5af1ae687110e823884e4b4e3c8b198fba1844c51fbbb9a7ddfd5eb37",
+      "visual_payload_sha256": "1852053dfe80b40a1d86bf20fd06913fb989ca8679c65eda26ae12d5c285d943",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-067/SE-067.pptx",
+      "source_sha256": "bef147b51bcd60e2d8bf619902c079e5afab7f291641a97839fbfbe05ffd9f2f",
+      "repository_sha256": "6b22bca462e7434050ae92339f19ca66440891620d452bf92bc7dbabb3031a59",
+      "visual_payload_sha256": "d3dca8c8e7da7bce1cbe435685a290ad6b97dc12d24b7bad264f6dbb019b08d4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-068/SE-068.pptx",
+      "source_sha256": "52d5739492392b51b50a9a441abeae4ab4fb3d0af471cae85e114c62a7a31c51",
+      "repository_sha256": "4e27fd67f3ac14fda687c6dd4df359fc2b1a2432e576852cc77ad390538b08da",
+      "visual_payload_sha256": "0842f3c60dc64efc5856fcbe806f7b46a156e0d3b79e7757c77eca5cc5251699",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-069/SE-069.pptx",
+      "source_sha256": "7128c1cc855c798027e025dfc2f39dac3f9743e61298f98254225f9d77e6626a",
+      "repository_sha256": "7f9425b781f4ca1cbaaecb611f9d4fa8e6ef16f23d6046c6f2d8a736bd3e139a",
+      "visual_payload_sha256": "dc6b95fc88943ec8f1e7ae88b4493e9b8f8ea527720fe9aa1c6de1f71ecd76d2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-078/SE-078.pptx",
+      "source_sha256": "857f44ecf30005ae5c3a8a4976309bb339dda02426d89e63288d3086fe42082a",
+      "repository_sha256": "462fc9740975c005c7f066dc2f1d2376223d464cc14b032bd8ef9f6137a16dbd",
+      "visual_payload_sha256": "c43df9f308388171647d9dc2b55699be7e0c637e02584fff80417e40a1aac0ee",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-081/SE-081.pptx",
+      "source_sha256": "5b0e3f6fe2d7ca3a43a5749886ef2f487c92ea8cf6d7dc001b60db8f93c78241",
+      "repository_sha256": "ba54dbca0f2332f844548517adee0703d14d4d97edc51470a7a9f2306565c425",
+      "visual_payload_sha256": "08504bd3f0575215f334b1b748daf0d1c24d1156dd0ee97986fbacf4475e5f95",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-087/SE-087.pptx",
+      "source_sha256": "fca2fd5918263c97e19534c8a494106acf602457cd001c1b33b0a99df0910528",
+      "repository_sha256": "46967ff45a0f4d9f7c722f9177ef2d97df18d5362942f6790fa3b04050befc9c",
+      "visual_payload_sha256": "95c30e9a9b2f93c4df321e238fa1b937da057ad0a9afdc672d76535a14910f93",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-088/SE-088.pptx",
+      "source_sha256": "177338d0957e1b94cd14d3769803af476b46db49e249dd0e8871e77646982550",
+      "repository_sha256": "79fa757834a675292998f842d90e6a73ce2cb5f5fa005d524552b9843d2be05a",
+      "visual_payload_sha256": "a4239f6b794d9b44f08ee093da947e90df018d566c4146bb9aa7d9ae17ec800f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-091/SE-091.pptx",
+      "source_sha256": "76f6e2e07b5de23fe078c56467c5579fbcae2fccb274c2182f98a624d148a9e3",
+      "repository_sha256": "33ea454fdf400955b98cc5e3fb1dceb24bc21714fe5bea6a98ab86bd8414a597",
+      "visual_payload_sha256": "c46608814aa8aa8389e5fc5a318f9a349c79de2aff76c1a5c87407c1a670eca6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/software-engineering/workflow/SE-098/SE-098.pptx",
+      "source_sha256": "fad64973a8161acd8a8f731935f60a45cc4c73b956cae327c1f48b9a5317b698",
+      "repository_sha256": "fbda6bd14337cee51460936bc40815568d84d2e335c85f287921be8d91a1efc2",
+      "visual_payload_sha256": "0810cd374a9be49157ea747c4582f2ba56273e1259df635bbd8dfef3d477e9ed",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-001/AI-001.pptx",
+      "source_sha256": "d9b887c3be5a8075344fced72b17ab1376f81c4a47413f502fcff4cd407b84b5",
+      "repository_sha256": "6ac039bbef257b628d3997cbdac97eb20ecaabc7a6a7d2f70556ee9e3e710e2a",
+      "visual_payload_sha256": "e9eb6bec8fdf6c839ac645eb73da60e91425f33929633e98b2ab61bbc4d4c044",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-004/AI-004.pptx",
+      "source_sha256": "cb09e914a93280c467995bb98bcf509ef0216f92013aeaf9aa8f617486f1b43e",
+      "repository_sha256": "dbc349868663459ed0a312f774922654ee481b0f0b20c03af7e049f489db7ae2",
+      "visual_payload_sha256": "3779ef7694d5f9689616a4a31235a5198398bce90efd8d119671c1358c20683c",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-005/AI-005.pptx",
+      "source_sha256": "3d1577a5ee32df4a6b5c739aabf77c5a6ca69feb3fa521d7fa02aac276e84a8f",
+      "repository_sha256": "514df1862b82595a04ec689b6f4f0f62b2b9f740de9ad86a7610494a88bcd915",
+      "visual_payload_sha256": "07258d9e42a82198127537edf81379cfea2d33c01bf71eba3b185ce3ebaafb38",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-008/AI-008.pptx",
+      "source_sha256": "5ccd8ca4aba6514cca8f794bc23f38ebc94bdd3a55c0a87112cbcc1012223eb0",
+      "repository_sha256": "4de3051c0bd803494fd3f1a35b826bdfa42fc9609b8f32ce673d555af32e6416",
+      "visual_payload_sha256": "c846e68d34319ed83556ea51c05246de4a33dfe8d0c00f00a9cd3fc3b837cccc",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-014/AI-014.pptx",
+      "source_sha256": "676ea63b78150a79f8f3fc232a136948f373188b854c689e875d1f1a9b477fd7",
+      "repository_sha256": "03576bee9c2180b2c30b4147a26e3100f83bbe5efb828686a5bea2ca29c59da1",
+      "visual_payload_sha256": "f1ba025be644136f4c5c19f1cbc7b5fd5eebb63d6640dc422bfe6907253594fe",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-016/AI-016.pptx",
+      "source_sha256": "6b79567736314d159066d3ae31c29f79d777b2c11830b545fbc8bece75e3df91",
+      "repository_sha256": "e9de7b123b532cfe68346c09fc829587c39eb6b1c70c3be41384d5142e090995",
+      "visual_payload_sha256": "788b8cb2c7074ea4465d07a19b06c3019518c5dd6e71b21c55c83223ddee94f4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-017/AI-017.pptx",
+      "source_sha256": "ab1e57f413315df4197823c3846879de6cdc8aacc7934246a7447f96f9354cb0",
+      "repository_sha256": "057bc48971ee524d5e3c54f8a18d847e108023605d3ac718f3aab65e565914df",
+      "visual_payload_sha256": "1b525c010cdea7d340c0a3092847f7307b3d894feb59e50083d0303c4474f187",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-020/AI-020.pptx",
+      "source_sha256": "35064385d8903bbf3e8587798e57700b059924836ebe4c03d4687995f10039ae",
+      "repository_sha256": "a4e3a78a0dd5d5c6a0c2a12de0a355f08966c36a5318761139884fd8486d7f3c",
+      "visual_payload_sha256": "d2f2474ebff103f2a0c4aad1d4a7c0e60cca17b04deff01b0d424d37648e571c",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-026/AI-026.pptx",
+      "source_sha256": "15eab6700240769920dec58387b3ded3f2430f5298848e135b983489bc9575ac",
+      "repository_sha256": "fed4b88526284fee8668a14f28cbd7f0f63cee455fcd16f155581cd56949ecd8",
+      "visual_payload_sha256": "32aa7c0a6bc954bdb5302bb2071c5697abca08d32fdabac6de45de661c9ac5c1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-027/AI-027.pptx",
+      "source_sha256": "fb13d3ac150ee267600fecfc9de8a673c8acb6392b044d20276746c44a7635f6",
+      "repository_sha256": "810b5ba13098c05aead2d0b4c0d8c0f52ec1255630f4a417273bc5997e1483ca",
+      "visual_payload_sha256": "c1fc0d8301b61744a66f21ca6c53e22721ed70a6be6c02567507633aa28fb05e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-028/AI-028.pptx",
+      "source_sha256": "0c91b73b6c8484cacfc33cd15c7e1c45cb9b19396ddfdfea0f86b78d13b547ad",
+      "repository_sha256": "c91890bb9b0dab86c2f681c858dc24afee5516cd9b66a13990a82fe711b5544e",
+      "visual_payload_sha256": "d929a3d054c83223848cc59558cf075a4982679c6e968032316fcfce50a52903",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-030/AI-030.pptx",
+      "source_sha256": "2176197c09ccb5d1b195e6fa3bf91ae4b0badb5491f1056be491185d4e9962ad",
+      "repository_sha256": "707b332d17574ffa16976581646b2ef9e302de9b16f23b68a8d4e7d876da1924",
+      "visual_payload_sha256": "acf84aff9c37d6874bb1294c2555efaba97719531bdbf0f70ff375d28059fa38",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-032/AI-032.pptx",
+      "source_sha256": "c7e05fd10bee2e6ec3baa396da684c2a625122f8a9973cc1995c8bceb5dd639b",
+      "repository_sha256": "b54957a7ee24d74047cf118cfebe7cf401875920123b3af853e9385dd895f0ee",
+      "visual_payload_sha256": "6d2d750b4436b9bd30ba080630b083660fe30eb8bfe6b520fb0c12ffe2daa88d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-034/AI-034.pptx",
+      "source_sha256": "af4e84dc9cba25f488d7ddc9222bb840450136ade463d802386103fc6d2127b4",
+      "repository_sha256": "36dbcf947ab710c2cd4c53eb1a13c4eecf870fb0c7c1f8f974b498e7ff7e9001",
+      "visual_payload_sha256": "7faf54aabcf1565beca939c0d8ac2d6ef3b82235638cae2020f06d32ee555e76",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-042/AI-042.pptx",
+      "source_sha256": "14b024bc15c8949409b1a2ee71a3c81ea2195b3fc138947f557618945b351764",
+      "repository_sha256": "3768e9bb52d68c387e8a9a4520a9e844693ce5c732d7b54c8a6764f2143401c9",
+      "visual_payload_sha256": "2df73a638369e1fed872e6b5b8a09c14951a6959ca8393c9f9bb0deaf9d2e6aa",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-055/AI-055.pptx",
+      "source_sha256": "0e582dafe1c062d0187a6b54d5ec69e025e7845bfc0eeb6ee143134874659b10",
+      "repository_sha256": "b38abe1ebc6efa9540385eb038f186686c8a22fb19b07446393a78aae7861c6f",
+      "visual_payload_sha256": "3c633bc4d61fd5bfe58fc4a8f78e6d79f411a0ecf0ae169a66b107e79e93bfb6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-061/AI-061.pptx",
+      "source_sha256": "a2d4d2933e73728b3d3bb3a7cce156722412947dcc3449941673c30c7899c74c",
+      "repository_sha256": "b4caa6c40cd465aa5e06c100b785c3da63497789cf9efbcc3ead93b1abaabce2",
+      "visual_payload_sha256": "2e011a23e68bb972a2fde1e8442e36e91dce5cc70c6a164bce922638f5a7a2aa",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-066/AI-066.pptx",
+      "source_sha256": "274343ed9cd79900328031b4030be8fdc37a47da227c8166933a4d3084c6a073",
+      "repository_sha256": "4c5cf321e0268afcb65bbed6c1ae9d7ae0b5f7527cbdcfb0fed366fd95245491",
+      "visual_payload_sha256": "fee0bdef831f9f2e9d94a5ddb1ae5a990c90ea099c37087fdbee1ed1338e1e68",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-076/AI-076.pptx",
+      "source_sha256": "235e65932e426f55a83c2a39eceefb8542abbbf50ad692c7c847b487279e629a",
+      "repository_sha256": "d756981a25efe921f4eb58da6a2de062c3f6db5708266eacce0c5ee601e32c7f",
+      "visual_payload_sha256": "12390fa35fc60e17c53ced3397b81e8e8ae2bf7ebdfba1d9fa3ddfed90166657",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-077/AI-077.pptx",
+      "source_sha256": "bee445462e800088d4b338cd14b9981abd03eec55af9d9c61527d094e5526ad6",
+      "repository_sha256": "f17dc32be10a9955f6d8a19c8dde142f1fc2b7d6a35735849d04fa398819e97c",
+      "visual_payload_sha256": "f4d0b52d952cc014e28af3a39c5a9a0d89551d9e7a1720f4b5f62f894c5386f2",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-078/AI-078.pptx",
+      "source_sha256": "b513c86aa59f89ff43eec29eda5654ca5f98e67cfc87352382922643f7822e03",
+      "repository_sha256": "5efe67624df4ee3c49ec143d81c3e3e05b64f6caf2930017802408d01dba83a8",
+      "visual_payload_sha256": "524d9c5b830db5be37477dc597642b273aee9e70fd485cba743857466e84501a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-082/AI-082.pptx",
+      "source_sha256": "f87d893a6d3334e8a6cac10d87072a1b3a6c611542cbb868abecff0b1938126d",
+      "repository_sha256": "e54267bbb898c2063c3af07b1ae54edd7b9336ba29cda04e9d82ec05b22a3974",
+      "visual_payload_sha256": "d10edd881ec631468c3b12b7613173ef65e9e3d12e19c4b6430904d038fb7358",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-085/AI-085.pptx",
+      "source_sha256": "ff2429bbc29be04cf9a5f9dfcc9c55a36c3fc4195c843618dbbb85c65ee79e81",
+      "repository_sha256": "3c9fece342b08b1b117005f57326a3384ba442cf7a49710bea851f4a710b8042",
+      "visual_payload_sha256": "4f76765b5d273ec97a1d02eb32349663590a4a9da9b3f6685e95f321de1a43fd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-087/AI-087.pptx",
+      "source_sha256": "fda294c31eaa36aba1977576b6d64e58e1d15db2644cdbe6ecba0f0e1e048e5b",
+      "repository_sha256": "ad8fc51b03d01bf8a04ce370f22b1d928d4606644a4448d2fa1ef0f0f29dda70",
+      "visual_payload_sha256": "3c8e330b0f3ff99564ff07b3044acf6a9c359f24d6171c182675f1839b6b2ec0",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-089/AI-089.pptx",
+      "source_sha256": "8b07811d4c84a7aa3e6a6304d9ee30323df62179baeaa2a821cd6d201e88e2ed",
+      "repository_sha256": "493b7261f7baa6da5f3b0a28332652b1ef285ce37908e0ede5241fd98f8b127b",
+      "visual_payload_sha256": "ddf33ddefff4f7f04eb93298baf2f22453568ca226859061466f9e71e13ac827",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-090/AI-090.pptx",
+      "source_sha256": "237596273ebe35cfcaac5b0a11d4816592dddd72fed10c5d9cc7105e23b68783",
+      "repository_sha256": "12b4ffd04c7160a6fd38c90413e730e80aa0f953c1da4d3288901327ea955738",
+      "visual_payload_sha256": "2c429c7c10e110445af31e02765f966797f1ca46078ebacba833a24d2123a930",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-094/AI-094.pptx",
+      "source_sha256": "6c248014f3eab1278f419b5696c726ce2a400bcb2bec23385ec3b864f9dadb78",
+      "repository_sha256": "b5600c5b41cae3302055f5983cce63649734f9db1771d4f87214e67745b7e1e1",
+      "visual_payload_sha256": "8822a846e022f56dfbb3d367ede609f7affd106e0c09592bb38b75e6df931677",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/architecture/AI-098/AI-098.pptx",
+      "source_sha256": "c7b64bc394d804530f9d9c6eacbf37edccd907e08a91f8a4337e6f78402a1ee3",
+      "repository_sha256": "880b4c360763979ae7fe2790970cdc38fb91bf9f900e7ccc18aaa1149abd52ef",
+      "visual_payload_sha256": "5ec9110bebc4bbdc3ae8dc0737e3a1eafe11f60f7cdced972b3ad8bead081250",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-002/AI-002.pptx",
+      "source_sha256": "691521258d81804d524e00e7fb66c34c5795bd1ee2aa8830c736d353e070d722",
+      "repository_sha256": "ddcf49c00bd402795b4ca22857b831b6884d8b613a8693f87993455d6299eb66",
+      "visual_payload_sha256": "3882fc56fed39abbf8e65018afa2bfc098b2f4ad51140c600dc53077f5e4ebe6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-003/AI-003.pptx",
+      "source_sha256": "475e2a8501cd3807d59a9b1fb4c039395e166dbe55b8e1af2562c17393486abf",
+      "repository_sha256": "c5031e4de358832aaa30f41665ba51e04cdd166a96a40eb169ba932081f9ee3d",
+      "visual_payload_sha256": "a0ec4d4d344efc1229f2948b63d247fcae9d2666a09120fb9090bdf07d94fb75",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-007/AI-007.pptx",
+      "source_sha256": "e2067161430fe885f0ab65da122bda08063cefecfbf417658215a8d31eeb0873",
+      "repository_sha256": "33ad24d6bd6ff6be134df56c8ca56ca990fbcdb51c1f6cc3a11b04f7fc676bf8",
+      "visual_payload_sha256": "e7674fff35cfda806031097e06d0ec9fd72e20af1c96d142fde7bff867320332",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-015/AI-015.pptx",
+      "source_sha256": "5a692b06c672bfa13ba45d8ef3d69f0d3cd15e12da830eab39a7e60a2a628288",
+      "repository_sha256": "4c2343e6df087955c08cb45961d9e2b28a7ac2d3ca36bfb4d04981b0d0ab136e",
+      "visual_payload_sha256": "ceb703e236984b2e0259b45922dfb92960fc71ff392faa6a07bbbd6482c4ca8e",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-018/AI-018.pptx",
+      "source_sha256": "067aa37504dd5a520b0e53e13215823a7024308d9f38dbfaa2519638e163a4d1",
+      "repository_sha256": "b9fb21cab63ba1b5dce400cf14231643d0ca5d9930672fbfdd7430d35aaed53f",
+      "visual_payload_sha256": "a3e024266d4c0c64efe25a40ab543244945b0e47560ae73f9b3d273b24fd073d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-019/AI-019.pptx",
+      "source_sha256": "36175c2ae43d4e4335f826293302c31f3cb4ed470f0656934dc83b7fdcebbb96",
+      "repository_sha256": "fd466daf93e1dd3f6f416f1a56ad69f60533998d563a6c44dc0b49a07e66360f",
+      "visual_payload_sha256": "79161784bca24ff9ad5bf2ed831b5bcf1ac04f6574e6bea0bae30a552a72b885",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-024/AI-024.pptx",
+      "source_sha256": "98cb53923100d3f5180645f2d3d66e8b2292f5b9f482c3752872f2553cca40ba",
+      "repository_sha256": "d3206f5f375bb9e21a124f7926243d2af494fee0479c7bae1437c32ab62c2925",
+      "visual_payload_sha256": "f4d6465530d20869401d056d70bc0ca57a7e431c30ca6fa8f8eb3b9a946a714c",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-029/AI-029.pptx",
+      "source_sha256": "090453360523450e1d7649499946191df4390369179449e95e38ad0e94cc5245",
+      "repository_sha256": "06cab67f7ebda8f32c6df58655fdd85a94753e743407522fac0f2f0772a03662",
+      "visual_payload_sha256": "4688492514c229eb195d6392719b39580ce63fbb59345e24841370419a21925d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-033/AI-033.pptx",
+      "source_sha256": "79521d1592e754aeeaa6e9b10b27829d978140cd18ee50d39685b046211a805a",
+      "repository_sha256": "00602812f50b330b95860199fdf5717dd79eaf5bdb12e321356220c151a12b31",
+      "visual_payload_sha256": "930c39f35b74b96c8fcf45eebf246ca68736cae60e5b4657ee2a8bc82ae6863f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-036/AI-036.pptx",
+      "source_sha256": "7f86edd8d9a0c668d13fdc99cff798227fca8e5a8e3982ce9eb63e26d567f750",
+      "repository_sha256": "69ca3e9f59bfee5fe8d9d2e1f2725fe5ad0965ea48a96cfa7905d9ab13119910",
+      "visual_payload_sha256": "ac09e9ad0aef8cb3469365ab554f619cb670ce37867033818bb91e9f4de72806",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-038/AI-038.pptx",
+      "source_sha256": "55fa9a397b4fbdeb099fd2eea59080d7bb67187b359f8c20c986acc1948f6323",
+      "repository_sha256": "f43c9600faa8ff9839a7d9063c9c9a4a368c36a4681790b5c81eec6b01c5244d",
+      "visual_payload_sha256": "c51f34a364ba946ec746ec5847f0cbf8d8367fe1e6e2f1a8e5fa497f85bf63c3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-039/AI-039.pptx",
+      "source_sha256": "72a4ac8c7850d2cccf9b2bc2067e8ce6689711d896763877826ea71317522aed",
+      "repository_sha256": "604379cde702d320d5a88ec390e1cfb658c3154326688ddff3999684d9348514",
+      "visual_payload_sha256": "dc454d6be3d7d76fe735ab509c8683fd408a9cfed924cc361391885ece2a8c61",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-041/AI-041.pptx",
+      "source_sha256": "aa4e6dbfa537a2386c5d7394af74d43fb179be0a6c894d5e56fa37322537dcb5",
+      "repository_sha256": "f2efe2e7209d03ae8c42fa956b0566ca9c368ed073a84f828eeca9a8b289892e",
+      "visual_payload_sha256": "cf0a815424318ddc313b90ca9677eb48bc2ddb691d14c3d5c13544a9821e65a1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-043/AI-043.pptx",
+      "source_sha256": "06feafe289e68779eecd592af04bce4919a8e1c9f3687a3ff0d70742e7f8e454",
+      "repository_sha256": "2041e94cb20424abc51a08ae328ecc4fe4b8d9e2482275fec08afd8f58399a59",
+      "visual_payload_sha256": "42b8bd5ec76eea546de5a90b6975c275baa5fc653a3a401a9431ba0397046998",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-044/AI-044.pptx",
+      "source_sha256": "2c9db6bec4675673046c27e0640f492b92e2adf339db0b2141f70975113fb2d1",
+      "repository_sha256": "def9ca077bf5cf6eeaaf5c0fac75fd1f7dc4850d13d0c20bf0c1cdf0740fad94",
+      "visual_payload_sha256": "97431e69bcacb5c8bf5de9c6f9ea361a376712c4bec35552e65cfc0bd56940d1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-048/AI-048.pptx",
+      "source_sha256": "2b9fba060183cabb0086405a24223419bd3a1546dd4cda9e664ac9855c6400e3",
+      "repository_sha256": "b735cb4d7e4b960cd6de75ec207c6d715a4d4f81a41e9910aee3630fc94a3fe4",
+      "visual_payload_sha256": "b2ee3cc467c0bb2978471117a552537d50741df611517bccea1040d2ec4425b3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-049/AI-049.pptx",
+      "source_sha256": "8928bb64c53613570fe0c95898eaaf8610d0fd544410df46989df33e5bf32426",
+      "repository_sha256": "ffa26a807507f811680b2993332ce4993fa64049041da0738a02160ddb78e6b1",
+      "visual_payload_sha256": "7c3ed57a3a342bd41de35459c50ad3590a14d7497307d65dd8abdcbfca0a2991",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-050/AI-050.pptx",
+      "source_sha256": "3c5e15af72e6084c7c1c0d8c564ad5b7a0fb1acd5746dae3db555dcb4424c515",
+      "repository_sha256": "3911499c00fa004d736e39befd3a7d7fbd779555b4e9742228dcc37234f86388",
+      "visual_payload_sha256": "69c91ba0413e831923de4a8a53423d4d922ca85e0d47cb6d255be24943c5f173",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-058/AI-058.pptx",
+      "source_sha256": "3b429c1b2ec7c3a5310c733651f0fa907bd1c94444d5b0da7838d482617a4fa6",
+      "repository_sha256": "cb517a05c4ade77693b579f258c471927cd23b1bbf491bc07bc4f869bf876711",
+      "visual_payload_sha256": "328b6b179244d93116948bd11e1a09c75051564f3d41112c4de3917a30114914",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-064/AI-064.pptx",
+      "source_sha256": "cc6ed5f4be4be044af4c60374a356aa920cc2c6ff0b99ced9c4a1ced9964fad6",
+      "repository_sha256": "451c9966624499d406de5f488aaeb667f60170270ea2ad240faafc8f815fd365",
+      "visual_payload_sha256": "d546c48c095cdbe5214674ed8b706348825b9c5f18bb3a662f340a9b6b03a860",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-065/AI-065.pptx",
+      "source_sha256": "c34dec8af412f70017e7051642fb710869662279b04f81e4ef8f0a5878d0370b",
+      "repository_sha256": "37469352c3b325c765c4860f6ba5623d302ba0b99b33b26b46a4b4a4322a802b",
+      "visual_payload_sha256": "cf06ff2c9d875dfa5c0204f2b2aba4db5d84f57e4eb5f3e0b6a9df877f659e13",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-069/AI-069.pptx",
+      "source_sha256": "24d39bffc08e0dd17488d59705d63af4a0e8a6081ee45e496a856ffd8908860e",
+      "repository_sha256": "f584596c8a916c87180b301d78b4fce0b5545f30a9ff4f5aa587e92071a703f2",
+      "visual_payload_sha256": "7c7500bf33a158c6d4eb198b85d8d533e594280ece86ae69e328550868920a1b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-071/AI-071.pptx",
+      "source_sha256": "a2530153de93e8f816d845b904c107e4392a9246cf3006c01a38c5618f22a913",
+      "repository_sha256": "b5cff5c333c686a098c4c4f2b94181e8e1d8c686bf734ef21dcbc8c295b71923",
+      "visual_payload_sha256": "e260f2434d8d87799d054d0fcfa15852f34476d1ca1e54ea36fae1289442f9ad",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-075/AI-075.pptx",
+      "source_sha256": "c82e07b60ad4e012f0df2d13bdfd1162c9885e6a43d9c734c8bc3681fc3bb4ce",
+      "repository_sha256": "2d1268fb2d6d9d0965b519678bf27faa7fdc398f949904674f8026b19aded876",
+      "visual_payload_sha256": "6eaca1ca43543323274b2b199c6d10093de68522603b5bc918ce14a83e0b6739",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-079/AI-079.pptx",
+      "source_sha256": "a342e2f66332262e2e6c67be90ded277b0f417231abd528d16ecb792dd72feee",
+      "repository_sha256": "f36646ec6ea33ab6c6b0f76decf5bb9d1cdf928e262dde02b7a0835fff077290",
+      "visual_payload_sha256": "c3337264663a9159fd591f6e59e9d117c7ed92a6144cd9358ec31c891c50997c",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-083/AI-083.pptx",
+      "source_sha256": "333ca22ede123e579ca32040a9bda5ffca8587d87710de3b092c36be413af5a7",
+      "repository_sha256": "04786426e9915655e050f1814f644eb155e28c1c7656f3522ef0d202388cf1d3",
+      "visual_payload_sha256": "90022afbd0417fb04e7f1b434a53c19040b62e40625a3004dd19ea6b3f8efeb6",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-086/AI-086.pptx",
+      "source_sha256": "e695dcaf588b53fd09fc751658eac9f5c70cd9d013df522635c123d0d309abe7",
+      "repository_sha256": "f29f20e73a3168179aa3057aced8537814d61a4338a6f4cb64f8ceaf72c731f5",
+      "visual_payload_sha256": "2a1335cf589382ee3ece6123c778d40f3fcabc48157d1d59a3d4f29150391738",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-092/AI-092.pptx",
+      "source_sha256": "22b4de0bd3e53e411f80629e44e5b7a8338f919a6de822d7075e65d7d9629afd",
+      "repository_sha256": "a11ad83ee078904062cea827fff946f2cdd313d9e7b86740140184eba76e6b09",
+      "visual_payload_sha256": "906c7959049b05353cecc963d43e3cd3a98832130599b1771154edc50f4761c9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/method/AI-097/AI-097.pptx",
+      "source_sha256": "13bb467ab72eb5dcca6c424af73bec6b86105a760ec240c19b6cb385e163bc88",
+      "repository_sha256": "48603eba7faa5d0052c971e5b8a3afaa313634e8abf9b3af8d2d723411b10238",
+      "visual_payload_sha256": "fedb48f9af3f8be633969a9f6eb8dfed86510d6940e815313bd04baf422381a3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-006/AI-006.pptx",
+      "source_sha256": "0d06ab1907f474225f9075217b33ca3eaf9d2979212c090251825a05bdf6eed7",
+      "repository_sha256": "4be32c8f64d674b09e2725cedb863f2de7f910ccba4e666cfc61773130e1f3fb",
+      "visual_payload_sha256": "fc5d68c183551a59852851b6590e2cf10aa15930309618d08f0e953e020eff08",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-010/AI-010.pptx",
+      "source_sha256": "1f2df0ec16969837a76d9ad0359c6d3910728203b2494a7b6737787dd9733727",
+      "repository_sha256": "541c1be8b6af989b0e61cb585d0be6c40e944fa3084000dd6ee5d794143744e9",
+      "visual_payload_sha256": "385d5cd25ed9b8f1c1d977042e77544b85298f74743f31bd9f5db5e237617283",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-046/AI-046.pptx",
+      "source_sha256": "205dbfac178fa9885dcba884dbb585c304112bf730667b5b0039fb5a40dbef4d",
+      "repository_sha256": "97cb12d790698e3b08d907467000416e86ca153147e0caa5ca6126127766fcbf",
+      "visual_payload_sha256": "e9cc8d1b4dafac6c1fe5a3a18db70bd66035131a143d8260bd7669d1e4f5857f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-047/AI-047.pptx",
+      "source_sha256": "3e967aeb966da2f060cdd6e99b009a43bdac6fbf2686dfa2299cf0cdf04581ae",
+      "repository_sha256": "004b4ebe9620bbfff7bf25d214c28d278b1f20cffc70eb82245058cd97ef0c72",
+      "visual_payload_sha256": "4c2f315155fb54446781486807c990e00ef57a55bb2c5486be6935637dc3b4e7",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-053/AI-053.pptx",
+      "source_sha256": "401a84b36c19bc7429543ac8b23dd85c553b863aab57c7a6c67e60bca38bbd80",
+      "repository_sha256": "3b2571224738cbf67485af96c6ea887cdeca76b3ba9a281e00180c610a1e2e63",
+      "visual_payload_sha256": "9d283b59515d4f3b9d5feb50362e4724acf44bd1ac625408d135aec9d05d028f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-056/AI-056.pptx",
+      "source_sha256": "a17d8d90ed9a45391473d40c89fe95a0d4b36e019c36674faee0b6afb3fa601c",
+      "repository_sha256": "f986a30eed77eba03d7af2fc12f690a0d4d40c6d23cad567af8003359c75ec53",
+      "visual_payload_sha256": "09b5e544ee481aab9ed45ecb3fc0d226026b4169d537b6dea50d8f38f7ae66b0",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-068/AI-068.pptx",
+      "source_sha256": "cd011d145c588b7c75fbedb29256398d3081bdfb97ea8dfa2a9583161a795e68",
+      "repository_sha256": "9a85364da45b6b194ee99c28b6762cfc3e38cd5689cd89444acf6f455fab61dd",
+      "visual_payload_sha256": "ab422a28ff833a146314829a1731015453783165feefd01a0a7cb2380abf650b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-095/AI-095.pptx",
+      "source_sha256": "98640144bea2811f121029ebf57cbfa86f18a3cf262ff5c10a7743afcbfe1999",
+      "repository_sha256": "1b502b60a3ea7f5fb5e187332ca4c72e0f31f1d4cfaf0885e8a0a1f38a314217",
+      "visual_payload_sha256": "86fe4b60ac9c1f35ac9d1b4ad64473e2201142ef4163a2189c635561f0c3e02b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-096/AI-096.pptx",
+      "source_sha256": "7223f1e78811aa916a0f40d9fca6ae4623caf42f09061cf11350497179aac85b",
+      "repository_sha256": "89bb817212e09f237a24987f0c57789e97bbf4b4bcbdf48cd95ee625b371063a",
+      "visual_payload_sha256": "7c6b91bd90fe12f48fda88dca1958d4cce44f37471c00950907e048a118b5ff4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/motivation/AI-100/AI-100.pptx",
+      "source_sha256": "1ada20cfe32f02149bac3b3e90ac26b8eddce93e810ff0e9c122a0fb45630675",
+      "repository_sha256": "9eff52b622e9c8f36fb48a263080773fdfa5602762042133e7806984a7376b26",
+      "visual_payload_sha256": "fdcbb4bae7759f762dd9bf209ef936e24572f0f505384f4eb0e8a21de53c9d72",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/threats/AI-031/AI-031.pptx",
+      "source_sha256": "7e4d6da3b881f1201078741b3a18f7b6c9fe682c29efaba2f304d82e66b02107",
+      "repository_sha256": "22b9497e3332a58595cd7bbf7d35c8c4eb2973e1ab73bad5aaab10a1738549f2",
+      "visual_payload_sha256": "ddd3c59862f66e06f52302c58a5027587a38ab27db73e7c6692c3daeb6939f21",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/threats/AI-062/AI-062.pptx",
+      "source_sha256": "9133b38fcfe8e423bdb4eccd246e2da24179ccb4594432369090bb9c271813b3",
+      "repository_sha256": "ed157d136de5dd6ca2914e21b399406a23e0fe0f6149ed6ce151598e5c8da7e2",
+      "visual_payload_sha256": "d4788600d247d1c9c9708f8b230f5f208dcd1dc19f4cf84b981cebf3d404e5e4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-009/AI-009.pptx",
+      "source_sha256": "44468cb785d31173772489c34243d72104d7239d0303ccbbde8394efe7a82f08",
+      "repository_sha256": "7412a8a35f4f6c6b4ed2e407e533d1c00a114b229e90d12a31d0b410e83ff00c",
+      "visual_payload_sha256": "ad128ab23aad3c29b925ef247d55f313cc1ca93d0b0c01fe513ce57c3c684353",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-012/AI-012.pptx",
+      "source_sha256": "24262121f5f8519509114dcee43fbd17e7afecb0b6cd1ca5799242b337759994",
+      "repository_sha256": "1b0b4b6c474f477f852edae5cfcc833b4d190bab8ae8537d912377f1e6893178",
+      "visual_payload_sha256": "fc1f450f2b966a6115a2023f82338219bb24a770bb128bdb37ab7e3164b624dd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-022/AI-022.pptx",
+      "source_sha256": "21321ef546afb8ae245dc00def24263e2e36f3003f95d8bb4a78b0bf05d58ab5",
+      "repository_sha256": "0b81d700d880e71e0b50be829a197ded59b14ec2eb634d6a0235dc2b2801a1c7",
+      "visual_payload_sha256": "23e5581fa549e26ab154077845418da8a11ee6c6e0a52eb232ed452c2f1c824a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-025/AI-025.pptx",
+      "source_sha256": "789a15b163019e785451c15554075023429f13cdaa2de7cf6818dfcf5ee2e79b",
+      "repository_sha256": "714ebb6727e2a9537a0b9ff826b39528649ff4ffae1095b707f96fcd172508a3",
+      "visual_payload_sha256": "97effebcc4cebd153e27ab88384e0c69e627d66e3f8d2d45a96c6a3bb0b5e065",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-037/AI-037.pptx",
+      "source_sha256": "c0c1099e3745372d769b8a804f55ef448d2d8da860bf0f5effaa219456c3afbf",
+      "repository_sha256": "ee436f232702e885d86d4fae5bc7eb910af96c93a7049877ce06dc6aa2ae922d",
+      "visual_payload_sha256": "108c11252be5e0f94eead0fe87ef1eeb218e47087a5188d65d7ae8635a57f154",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-040/AI-040.pptx",
+      "source_sha256": "62be66773df54e54787d1c3a4734fbebc16c993e57241f819be2c9708fa84b27",
+      "repository_sha256": "83420f6c6c00856e3f0d12a6d29fbf08e3bebb1bafd6b011a48c527aef5775a2",
+      "visual_payload_sha256": "ecad059c3518c9821112da914b2d750d57d85fffe3108de2b048e8689deb4ee3",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-045/AI-045.pptx",
+      "source_sha256": "b1be6bf06fe241f9ce2c7e83a24d4b1b0b90462c23e4ab201e560cb3618ead32",
+      "repository_sha256": "40d599269fb868f6dd56a9a458895c8ed78fbc652d12e64b37eefbcb15fb2bd5",
+      "visual_payload_sha256": "5cfc367c7849c406feffce391b7cfd01a34a4c99ea3ae5954053bec833572762",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-051/AI-051.pptx",
+      "source_sha256": "ed68d71d538f81ad3309c1c03f6772b16f321d86a497241e7e9118319fa213bb",
+      "repository_sha256": "a73fe25f1ef07022e764cfaafdf49105eeb24f7b6f28f882c505a8a18877cecf",
+      "visual_payload_sha256": "d23666356ed4d6ffe1ec13a30b3be29b40ea5250387ffa71fe67dca69cfdfbfb",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-052/AI-052.pptx",
+      "source_sha256": "19d366d49389832079a937466fa372a8ea09d915a6043c670db16a9acd4f84c6",
+      "repository_sha256": "c81063a4e8d3d945199a25aebecdfa09aa9199fca661840e227b09c6bb8ff891",
+      "visual_payload_sha256": "a023d6a2497376943e84045e1ace71d307c7ecf9fc37ff2bf9a19c38ac126fe8",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-057/AI-057.pptx",
+      "source_sha256": "82fb3d6d6715c98e59e0445b0411b2d098e3aeda0f57596490b10670d5f7a088",
+      "repository_sha256": "b8503748b62b85cfb753c53bdc3a9595a72088001ee3c053ed8f9fce90381dc4",
+      "visual_payload_sha256": "45cb80009652322d37ab722ea284419e4044540d5c4f8b79b05fb11a4d369b74",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-060/AI-060.pptx",
+      "source_sha256": "2cec492fd46297ec33fa92b548da762e65c8f4fe146c2e675f13069aac697440",
+      "repository_sha256": "f69ac086667f21b581f3008ed855ae278a0cb8f90034d16c696f199c2da2de8c",
+      "visual_payload_sha256": "6096e4afdb0768bbb9367a230d9ff8bdf449a78f805860aceeb1d34f12a56c5d",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-070/AI-070.pptx",
+      "source_sha256": "4a8e461f84c7aa81e52f7a9e0122c5b4d1c5b2da5d8accd4cb4b36b4d9662824",
+      "repository_sha256": "f151aeea5b6d840358fc1dd9c51ae6daf4d688a05c38acdddaa87374d803895f",
+      "visual_payload_sha256": "3af447d8a336364a84609217ad2e90819e1f5e9cccd671748e3d6610ffe7ce7a",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-073/AI-073.pptx",
+      "source_sha256": "0b24c565f6aad57a3621856cbf7c36f5f312e7c6d565780f3025048b88d362e7",
+      "repository_sha256": "d485bde2e0c482e2ce714028821aa2de15d72d97f0f6490a54e35ee9e8c311e5",
+      "visual_payload_sha256": "010cf2ffde3877aa1c7dc86ec4e0fd90ea6f8be5a2dcf51c7ab558cb4d416504",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-080/AI-080.pptx",
+      "source_sha256": "362a993666105d1857dc4c04122ef32fa8d32f79eff2f959e3288b281ba8f830",
+      "repository_sha256": "ffb87c9814cce8e34e5b19359190512897a9082e96475e49b7886a68b084b71b",
+      "visual_payload_sha256": "1f1aaad43110c639ae9be194402229098d9bf793a970edeefdf472d12e3de440",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-081/AI-081.pptx",
+      "source_sha256": "83512015fdb5d0376ad96c6868438559fe0cc4728bc194e1ee4a68c9848bf2e7",
+      "repository_sha256": "2a148f8b2724fb92925818ce248ec0d5480b8e17219f8f706008d1e28780c18c",
+      "visual_payload_sha256": "d58663f8c3ed871ca42301e2d6b65b43dba9fd2301e1c61a2361816a6d1745a1",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-084/AI-084.pptx",
+      "source_sha256": "0012ec002b130fbb67048c2189e316f8c3085b27a8dc001034dab297054a33d4",
+      "repository_sha256": "46c92466fa46193860238e2ec48446abee388c520a2bbdea2bdeb37b5b2e0ab0",
+      "visual_payload_sha256": "fb9330c6fa5682e5974cb5088d4985aaaf8a5556ca473a9b88f87dd4b8e13423",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-088/AI-088.pptx",
+      "source_sha256": "8c4e22c9f93d09e52fce437cd2ee002b85225ca4818eae16d6310e7cdedf30fe",
+      "repository_sha256": "dc473ad1aca8b421364b45270193c8740f66e3ddbfe32ff14ab5e501173f8886",
+      "visual_payload_sha256": "cd25fb8bd03121aaeaa97ff1f1961a9341f56bcb484c7fae9098d82fb4522e63",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-091/AI-091.pptx",
+      "source_sha256": "3ad2daf66977fdb1cd69565a9139aed5eb2b42f14aedd3fdd36a5ef96ccd9dce",
+      "repository_sha256": "f8ae7ee766503cd37e92df3f2565626b4a92ada13c9baf4e16cae1173f1f8a15",
+      "visual_payload_sha256": "87cdfbfd8e9c03759ffa967723c91a96150dcfa3995b221a1b034f30e717af5f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/experiments/AI-093/AI-093.pptx",
+      "source_sha256": "4d240e6dff67b9469883af0148cc301548bd333d49b3b0f21d05ef35840f52ce",
+      "repository_sha256": "42c436d61d06eb46625d15b880cdc925225bb246e17489e506e1fd566c551add",
+      "visual_payload_sha256": "8213259b22a0f13676b3f27b70e30db2d6485a8dc3172ccb9d203be96264c9e9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-011/AI-011.pptx",
+      "source_sha256": "7214e5318ef9f464196d8ed20bf34250d3ccaed2833be5d0e92191ab7a348cef",
+      "repository_sha256": "32f9b5c5a5f479b71bb3807dcb621b95f17258cc2dc29cf24c2a4556563adb22",
+      "visual_payload_sha256": "d241a63bcac61e0c08f2a6d9aee3756bb9bf805a51e695f702e0b7c7b3471698",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-013/AI-013.pptx",
+      "source_sha256": "a514e5bc987d9a62f6e430f7d187ce104d1d4f34defef5be12353f9e23230cca",
+      "repository_sha256": "bebb0beccf45a1dd23812e8f748e0c5cd2e0d8e7caf925efe5e7858e906d844a",
+      "visual_payload_sha256": "1d60944be723e3c9ef81ec755789e5625f627f116a872bd7658f22df831322e4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-021/AI-021.pptx",
+      "source_sha256": "2f42abb2229b07fe146b313d1d379213b6d753faccf59030a6ec439544f5d76a",
+      "repository_sha256": "927044842fdba9f06587403d5afde4abe45bf5e5c20566101a184bb12817e880",
+      "visual_payload_sha256": "5fe1cca2e7f54747128f204157c012b011e3092178610ef115cb8fcc54c92a8f",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-023/AI-023.pptx",
+      "source_sha256": "5704316cb4b6d99835207710af89cc8e81bdc0aad62c92c84d651d0f2222633d",
+      "repository_sha256": "b77b2f3c82fd52d107d55513c969aeae53eacc74849b126b09f0bb444278c569",
+      "visual_payload_sha256": "5d3fe83b16a5bfed10124d94c0f963a4cf1113f4500ad6a07650dc94926b5146",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-035/AI-035.pptx",
+      "source_sha256": "ab26a045fba17e167d8b48cd87cb7cdc5546989b9eda3435cb704ab65c5d1b12",
+      "repository_sha256": "32e76c26d7b7c7f93425c4b82ede6b48f873214127bab5bb30271f6ec0ae4444",
+      "visual_payload_sha256": "1e599c1f2b4b319c5ca1cceef5d8256c0bd9e773083abed2d54c64d5f5d33370",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-054/AI-054.pptx",
+      "source_sha256": "023213e31ea687bdde9786159b6e6de861f7bcb18f54a81fda1917b77787b57c",
+      "repository_sha256": "80a8301ca79c52401e586943cc6deec04fdecdbed269100869d2bb80a01caa40",
+      "visual_payload_sha256": "52a5c2393f77003e3a94ddbaf45a869255b2efa47bdccfdf460c246f5d6216e4",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-059/AI-059.pptx",
+      "source_sha256": "cd944cead80661573d38c334c07a41d7eeb7a720389d1cc27bd15e919ffd2831",
+      "repository_sha256": "a36c4dcc029317ad4e34daeacb90258b57f7019f6d2ba1cae8044ac98043023c",
+      "visual_payload_sha256": "f81f83b0259707713c22570f0375197cef3430adcea21d769cd3ce7975b46bdd",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-063/AI-063.pptx",
+      "source_sha256": "f99e9a56a6e6bb7b508de19e5f6ab0c474f908826129d89500a143b8a15b3860",
+      "repository_sha256": "b0bd3619748059560f34578b053790e297d0bb2f49cbd29bc2303a8621be1028",
+      "visual_payload_sha256": "970c35537f18e14920cfcc7015eae2d850ddb3a3a821506d2fc906ecd99e1e73",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-067/AI-067.pptx",
+      "source_sha256": "e18fdb05a68bb754c26bfd009b9fb784a3090a2bcfbf6755e8469755c872ff4f",
+      "repository_sha256": "6419f9ac85939f4f1fcf70a85a4b6a07e5a2358529ec68022ef53756d1ab0e5a",
+      "visual_payload_sha256": "8b6743782cc50d07dbf9ad98fd327e0935fb5f32ebcf6e46e79680bfc8a50432",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-072/AI-072.pptx",
+      "source_sha256": "33a8392ccd0c674979ae6fa547f447a4074b12f09d830b4fe36f7d65375e35f6",
+      "repository_sha256": "2ee9458452cdd3bab3cd37f948eca6a50bd100cace6f6911723fba6ae2b68d8c",
+      "visual_payload_sha256": "90ce915fa3797de66d4771ad3618269d29a7fb2fdee97ebfcca896061ceb637b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-074/AI-074.pptx",
+      "source_sha256": "ed1016b75f8a1efbc1fb818719a9f317ab755b2f26806be90bf5fd4d60dc8d9b",
+      "repository_sha256": "6e4bb43547f5d9ce07fe4fd50ed5eba19c9c6a0b4605acab312047175b018c0f",
+      "visual_payload_sha256": "479d8bd9b192d9ee0ad2d7b9d3de6be8034b995f47aa05ee3c749fd8f302accc",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "figures/ai/workflow/AI-099/AI-099.pptx",
+      "source_sha256": "ab906274996cf54cad717afda2707dfe031211aa61d4826183015ad56c9f6106",
+      "repository_sha256": "a5d5f7f8d82cb348982f6ffe4dfc2b6243d4c183add20f96ec6c768e065fcc8c",
+      "visual_payload_sha256": "68e2657d988bb8c446d4ab1e58482d4c553379c80f13cfaf2a2eac72a04cd770",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 1
+    },
+    {
+      "path": "decks/security.pptx",
+      "source_sha256": "36b962ab1f110f1f7713c07924b18162f776423521273e52b4e19108de3532b4",
+      "repository_sha256": "ef7f831f37fcc03c7dd9eb62562b34675f0903804a6ed9155f0e0c1cc3b90c0b",
+      "visual_payload_sha256": "56f68b057413ae59d7d4444b4fcd1b0e61bd9672e43c7b2ca92a1c5e1ccba739",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 100
+    },
+    {
+      "path": "decks/software-engineering.pptx",
+      "source_sha256": "4941b9da237c83463a1bf1e907dd5758e85141ab6136330aff3e94e0666aef5b",
+      "repository_sha256": "20ec2c842b4491876889e3610cd421f2209edb0240ede75cb6857877943c1b53",
+      "visual_payload_sha256": "e80a1e79c61a5b04f391bc103237d56a3a013dbdd8ce3d1496723388fb9c34b9",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 100
+    },
+    {
+      "path": "decks/ai.pptx",
+      "source_sha256": "0895938e4f876ca6022e2e6e8bd1c8b1e16c43f96e2afbe1008498c3b45d09a1",
+      "repository_sha256": "5c35091fa84e73981a0bd4f6bded3852cb03811f445e70e7650fc415553f535d",
+      "visual_payload_sha256": "d414ef1c3a1ea0e327ec21d08c77cf3536cd15142de6a6ee53c2a74ea6aa256b",
+      "visual_payload_unchanged": true,
+      "notes_path_fragments_replaced": 100
+    }
+  ]
+}

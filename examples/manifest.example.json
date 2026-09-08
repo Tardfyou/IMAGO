@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SEC-101",
+    "pdf_path": "sources/your-verified-paper.pdf",
+    "page": 1,
+    "bbox": [50, 50, 550, 250],
+    "paper_title": "Replace with the verified paper title",
+    "conference": "Replace with the conference",
+    "year": 2026,
+    "award_name": "Replace with the exact announced paper award",
+    "figure": "Figure 1",
+    "paper_url": "https://example.org/replace-with-paper-url",
+    "award_url": "https://example.org/replace-with-official-award-url",
+    "category": "系统架构",
+    "reuse_value": "Replace with this figure's distinct reusable value"
+  }
+]

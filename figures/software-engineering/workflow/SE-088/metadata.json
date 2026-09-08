@@ -1,0 +1,57 @@
+{
+  "id": "SE-088",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "What Makes Code Generation Ethically Sourced?",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "左侧跨领域检索抽取关键概念，右侧串联数据库查询、去重、人工筛选及前后向追溯，所有分支保留候选/纳入/排除数量。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 271,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 8
+  },
+  "paper_id": "PAPER-0091",
+  "source": {
+    "paper_url": "https://www.shinhwei.com/ICSE26Paper.pdf",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "cecffae45adb136aa18c437b380b668e58c5f0c246004f1d8b5c272f8dff3aaa",
+    "pdf_page": 3,
+    "crop_bbox": [
+      318,
+      82,
+      558,
+      204
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-088/SE-088.pptx",
+    "svg": "figures/software-engineering/workflow/SE-088/SE-088.svg",
+    "preview": "figures/software-engineering/workflow/SE-088/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-088/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 99
+  },
+  "hashes": {
+    "pptx": "79fa757834a675292998f842d90e6a73ce2cb5f5fa005d524552b9843d2be05a",
+    "svg": "a8ff4e5cd97c8ad29fdbaac4667a60b7fe3d62ee879c1600cd2df1ca9570761a",
+    "preview": "747b054ad921d87518fd3bc8b5f14f398543e405c4ebb0efb24cacb5dcb10e54",
+    "reference": "f4e10a5991a39e3fc24dd52fb7515f8a8be961de39f451a2be27ac77db886be3"
+  },
+  "original_local_pptx_sha256": "177338d0957e1b94cd14d3769803af476b46db49e249dd0e8871e77646982550",
+  "visual_payload_sha256": "a4239f6b794d9b44f08ee093da947e90df018d566c4146bb9aa7d9ae17ec800f",
+  "dedup_note": "已有流程主要实验与数据构建，本图展示系统综述如何先建立术语再定向检索并滚雪球扩展，包含定量筛选链和跨阶段taxonomy输出。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

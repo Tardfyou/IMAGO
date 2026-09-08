@@ -1,0 +1,57 @@
+{
+  "id": "SE-020",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "柱形图展示总体找错能力，五集合维恩图展示独有与重合发现；适合同时证明效果及方法互补性。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 155,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0124",
+  "source": {
+    "paper_url": "https://prosys.kaist.ac.kr/publications/fse25.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025",
+    "pdf_sha256": "37a9542ccd76dcfa1d60e9d46ca65f2bde7ed0a60aac1968845d93dafa045b5c",
+    "pdf_page": 15,
+    "crop_bbox": [
+      44,
+      98,
+      441,
+      340
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-020/SE-020.pptx",
+    "svg": "figures/software-engineering/experiments/SE-020/SE-020.svg",
+    "preview": "figures/software-engineering/experiments/SE-020/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-020/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 69
+  },
+  "hashes": {
+    "pptx": "40eb6c21d447024a4c1a48696647fbee0657ddcbd6a809dffc28e54d50f6731a",
+    "svg": "d05c750e010279ea762114121aadcc8d98bd4af138c4ebf2245994ec65abbbca",
+    "preview": "12656e1088b6ec74c542ccd7fff514be251d0c43a2fc3b168b57654b0e8edd41",
+    "reference": "854540f5d04c300912ef29819b505a4ae6e2e74ea9c0065fb1b4f3880728e9ca"
+  },
+  "original_local_pptx_sha256": "85f58c83bfc87d38f7f334e29d7333af320757adfaea9f6a946a63166752808f",
+  "visual_payload_sha256": "006747a9fb2bfb2e17af490689a34ac12f1f8111b0e7936cfe0d579cad51d345",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-082",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modality Representation",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "密集图注与知识云解释LLM知识进入对比学习的路径，底部对齐视觉和语言特征。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 466,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 3
+  },
+  "paper_id": "PAPER-0168",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37427",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "3ab6e0b9070bbed37ab2668571a916deba4b76760809695bcd723804bf20672e",
+    "pdf_page": 1,
+    "crop_bbox": [
+      319,
+      232,
+      558,
+      419
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-082/AI-082.pptx",
+    "svg": "figures/ai/architecture/AI-082/AI-082.svg",
+    "preview": "figures/ai/architecture/AI-082/preview.png",
+    "reference": "figures/ai/architecture/AI-082/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 23
+  },
+  "hashes": {
+    "pptx": "e54267bbb898c2063c3af07b1ae54edd7b9336ba29cda04e9d82ec05b22a3974",
+    "svg": "b7ad554247f0d6a2cb1ae51640184d6c1e4e03878cefa92686ebad2c186ba53d",
+    "preview": "861252eeb5e7ba1ec6006859181ec696cbdf95cf737a4b9c0860f8ae7da5c7c8",
+    "reference": "47aabbecf5d20aed5c44966f3b92874e58bd91dde8f7f6e17a417b6e5e3f2746"
+  },
+  "original_local_pptx_sha256": "f87d893a6d3334e8a6cac10d87072a1b3a6c611542cbb868abecff0b1938126d",
+  "visual_payload_sha256": "d10edd881ec631468c3b12b7613173ef65e9e3d12e19c4b6430904d038fb7358",
+  "dedup_note": "区别旧纯双编码器，本图通过知识云、长图注实例和配对空间解释表示增强的具体来源。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

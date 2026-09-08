@@ -1,0 +1,57 @@
+{
+  "id": "SEC-020",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Decompiling the Synergy: An Empirical Study of Human–LLM Teaming in Software Reverse Engineering",
+  "figure": "Figure 6",
+  "category": "实验图表",
+  "reuse_value": "行列动作标签与数值热图展示顺序转移，适合Agent动作、工具调用或用户操作行为分析。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 404,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0003",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f380-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "e07f5a8eeeaeb311a9abf002c348e81d930e00bf81c7b61e871d701533d2b006",
+    "pdf_page": 17,
+    "crop_bbox": [
+      357,
+      50,
+      522,
+      205
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-020/SEC-020.pptx",
+    "svg": "figures/security/experiments/SEC-020/SEC-020.svg",
+    "preview": "figures/security/experiments/SEC-020/preview.png",
+    "reference": "figures/security/experiments/SEC-020/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 80
+  },
+  "hashes": {
+    "pptx": "1ac7ae271c94378d75ce03d0874344d4325f645b7c4f918a48ebb3e353ae58c2",
+    "svg": "3175b3cee728f7434ad3e7dd6e3fd69ebf65fdde138733eaf8564ac0602034b3",
+    "preview": "6283b6a747eb3fcb2cf994f8542e949d66b3f53f60f1d390bcdceaac6cfecb85",
+    "reference": "869f4aef0830d23a0d88303fd97b25b5e1735340a53977ebe52a1b6c8245a7c1"
+  },
+  "original_local_pptx_sha256": "628d391d566c8c6fcb1498ea1552a0c7cb6f47d4cd40a2053de5279e443b051f",
+  "visual_payload_sha256": "eeeea63068137f97b5d34ff56667259a2b9548793517dbf9f7bae5a94866b111",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

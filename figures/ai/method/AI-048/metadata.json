@@ -1,0 +1,57 @@
+{
+  "id": "AI-048",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Conformal Prediction as Bayesian Quadrature",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "三联图把随机分位函数、矩形积分及后验密度串联，适合解释概率推断与界限估计。",
+  "editability": "原生文字与形状",
+  "limitations": "坐标、公式标签、曲线、积分矩形与标记均为原生对象，无图片。曲线和密度按原图可见几何重建，积分示意的抽样边界按原图位置重建，不代表原始统计样本或实验数据；Arial/Times New Roman替代源图字体。",
+  "object_counts": {
+    "shapes": 99,
+    "groups": 0,
+    "native_text_runs": 46,
+    "images": 0
+  },
+  "paper_id": "PAPER-0187",
+  "source": {
+    "paper_url": "https://proceedings.mlr.press/v267/snell25a.html",
+    "award_url": "https://icml.cc/virtual/2025/awards_detail",
+    "pdf_sha256": "66ded9eeb168e102584b881894e9fb548cb94bf1babb7a483cafdc206082e5cc",
+    "pdf_page": 5,
+    "crop_bbox": [
+      55,
+      66,
+      542,
+      200
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-048/AI-048.pptx",
+    "svg": "figures/ai/method/AI-048/AI-048.svg",
+    "preview": "figures/ai/method/AI-048/preview.png",
+    "reference": "figures/ai/method/AI-048/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 45
+  },
+  "hashes": {
+    "pptx": "b735cb4d7e4b960cd6de75ec207c6d715a4d4f81a41e9910aee3630fc94a3fe4",
+    "svg": "2bcc4f8493ca3d85628d6d2135183e6d8f6e81f06b25485622e891f1ccf35ddf",
+    "preview": "c396e9e4174c2dd4470d03a870668173382554668993ce42b078b88ca7dc2594",
+    "reference": "24f87d28ef9c1b46551b61ce6adb7e2a0263a96546df9767f7722efcad2b60a5"
+  },
+  "original_local_pptx_sha256": "2b9fba060183cabb0086405a24223419bd3a1546dd4cda9e664ac9855c6400e3",
+  "visual_payload_sha256": "b2ee3cc467c0bb2978471117a552537d50741df611517bccea1040d2ec4425b3",
+  "dedup_note": "与旧实验八联曲线不同，三个坐标系解释一个数学方法的连续推导，非性能对比。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-052",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "用树高表示KL差异、叶标签颜色表示模型家族，密集节点仍保留可追踪的层级关系。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 2887,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0198",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1584/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "00ad835897d08493a0ff0956053a57e40fed57b717eef6628e187ab237afc249",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      286,
+      291,
+      421
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-052/AI-052.pptx",
+    "svg": "figures/ai/experiments/AI-052/AI-052.svg",
+    "preview": "figures/ai/experiments/AI-052/preview.png",
+    "reference": "figures/ai/experiments/AI-052/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 79
+  },
+  "hashes": {
+    "pptx": "c81063a4e8d3d945199a25aebecdfa09aa9199fca661840e227b09c6bb8ff891",
+    "svg": "b0e24ed53e8a4f51c8c7ced788da147011e5aca97c7fade092a0d07e72c6efc4",
+    "preview": "b4013aca0726761cdbb2d16990182f17a3781dc9d2efddb2759a38c6844efa72",
+    "reference": "d2baf917b820ca46737bb6ec0fb47bd6e39cd3e47f79324f45e8e3638bc57333"
+  },
+  "original_local_pptx_sha256": "19d366d49389832079a937466fa372a8ea09d915a6043c670db16a9acd4f84c6",
+  "visual_payload_sha256": "a023d6a2497376943e84045e1ace71d307c7ecf9fc37ff2bf9a19c38ac126fe8",
+  "dedup_note": "旧库有方法流程树和分类树，但没有带定量树高及密集彩色叶标签的聚类dendrogram。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

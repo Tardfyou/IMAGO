@@ -1,0 +1,57 @@
+{
+  "id": "SEC-009",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "2×4小多图使用统一图例和色彩比较不同生成器，适合跨模型/跨数据集分布分析。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 2048,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0047",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-3389-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "77b771838a844fe5f088aa8d86a790b113eaa8de17fadadf55515c9ad63b7e03",
+    "pdf_page": 10,
+    "crop_bbox": [
+      76,
+      50,
+      548,
+      220
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-009/SEC-009.pptx",
+    "svg": "figures/security/experiments/SEC-009/SEC-009.svg",
+    "preview": "figures/security/experiments/SEC-009/preview.png",
+    "reference": "figures/security/experiments/SEC-009/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 79
+  },
+  "hashes": {
+    "pptx": "32cc8790dec10d26595bd65993ff01eb25a926c6c01c0025c0f2b141dba0cc07",
+    "svg": "aea2b71bd2e44246eddfdc022759b559c38355b77c662c32a506fbbb12a288b3",
+    "preview": "0200d3ada7fca6995f60c027a7e8352ffa52079141582be34ca08b0ab799376f",
+    "reference": "a6c42e78537051f109c83d69d39d7af5a75eb86438bb89a11b1d94448b0652c1"
+  },
+  "original_local_pptx_sha256": "f35dce0581dfaf598e4cdf4d4e0de2636b2855a1fac528b11cc8ef74928faa7b",
+  "visual_payload_sha256": "777efdf49364282a7bb0dab1d32f614e31b67bb531276295a72b9e9de78c3574",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

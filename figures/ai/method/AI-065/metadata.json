@@ -1,0 +1,57 @@
+{
+  "id": "AI-065",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Theme Paper",
+  "paper_title": "MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "用统一冻结/可训练色彩对比LoRA、LaMDA与DCT分区抽样，并展开频段和谱系数。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 281,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0197",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1006/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "b16f514281ebbfade5c597683ee35490b6c28551e03dd61ca49aaa9c39a16a2f",
+    "pdf_page": 3,
+    "crop_bbox": [
+      305,
+      72,
+      526,
+      329
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-065/AI-065.pptx",
+    "svg": "figures/ai/method/AI-065/AI-065.svg",
+    "preview": "figures/ai/method/AI-065/preview.png",
+    "reference": "figures/ai/method/AI-065/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 50
+  },
+  "hashes": {
+    "pptx": "37469352c3b325c765c4860f6ba5623d302ba0b99b33b26b46a4b4a4322a802b",
+    "svg": "1a38cfcc1305ab92e537f57cd6b25e8f87be937165a6fde952813578293364e7",
+    "preview": "f2e404594954b8e1421db32c26b1ca8c02eacbfe94d2c0923e312847cbbcfdfe",
+    "reference": "e14cb39b75a9b390a09baed54070b0fb463a2301c5b88f24cc407a1a7942d650"
+  },
+  "original_local_pptx_sha256": "c34dec8af412f70017e7051642fb710869662279b04f81e4ef8f0a5878d0370b",
+  "visual_payload_sha256": "cf06ff2c9d875dfa5c0204f2b2aba4db5d84f57e4eb5f3e0b6a9df877f659e13",
+  "dedup_note": "区别AI042空间稀疏编码网络，本图突出参数更新的代数分解与频域选择，适合适配方法并列比较。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

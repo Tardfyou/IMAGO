@@ -1,0 +1,57 @@
+{
+  "id": "SEC-050",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "保持图库、已知样本、匹配器、特征提取器和查询样本五列对齐，三轮可视化增量知识如何改变判定，适合在线学习、检索和交互式攻击研究。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 230,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 44
+  },
+  "paper_id": "PAPER-0031",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2501.06533",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "b14debe30b9086af1f233c5858de4bd18a722bbbfc94e0dafd27223812866917",
+    "pdf_page": 5,
+    "crop_bbox": [
+      54,
+      83,
+      559,
+      342
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-050/SEC-050.pptx",
+    "svg": "figures/security/method/SEC-050/SEC-050.svg",
+    "preview": "figures/security/method/SEC-050/preview.png",
+    "reference": "figures/security/method/SEC-050/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 41
+  },
+  "hashes": {
+    "pptx": "bd8ef7d4820cf755b5c00ab6ea7794f118ef84030250aa5cb45c41f2681d93e0",
+    "svg": "56d177cbc732443b3336f92bf6f939cd355653e1a15bb8fa707de0323cf12ed7",
+    "preview": "33b98404dfacecb47fcc40e3063c2f9f51c568851f62dbdd3172fbbe9148fea5",
+    "reference": "5cea6381b6cec02d396de2e1db8f97f716e22d1ecd622f79b5f26ebff181fc6a"
+  },
+  "original_local_pptx_sha256": "f4c2e12b3d3fcebc974ee00181225413d12f69f875aefa015ff5d06adfea6ebf",
+  "visual_payload_sha256": "fde4516b5ae9ffc780206511f6ffcd8236cd709777db23c6e5ee8af953ea2a5b",
+  "dedup_note": "区别于单次生成流水线与横排三方协议，此图按迭代纵向排列，图库内容与样本勾叉随轮次变化，新增状态积累与识别覆盖扩展表达。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

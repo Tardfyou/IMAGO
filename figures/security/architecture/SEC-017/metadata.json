@@ -1,0 +1,57 @@
+{
+  "id": "SEC-017",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "LOKI: Proactively Discovering Online Scam Websites by Mining Toxic Search Queries",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "输入、双编码器、教师融合分支和学生分支分区明确，注意力对齐与hint监督跨分支连接便于复用。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 106,
+    "groups": 0,
+    "native_text_runs": 27,
+    "images": 2
+  },
+  "paper_id": "PAPER-0011",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s184-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "a5355235c61b5df2229abbb89b58926357ff00b0dc365e4d1a7f6fde178445ed",
+    "pdf_page": 11,
+    "crop_bbox": [
+      110,
+      58,
+      515,
+      323
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-017/SEC-017.pptx",
+    "svg": "figures/security/architecture/SEC-017/SEC-017.svg",
+    "preview": "figures/security/architecture/SEC-017/preview.png",
+    "reference": "figures/security/architecture/SEC-017/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 9
+  },
+  "hashes": {
+    "pptx": "b5c30bf61b726df71d01a769cacd6333d386db336e522c0b83f9724501b84cb5",
+    "svg": "c6538451098f0a1fd900df86c4175c97ca396349acf6ec324c4c9617a9719236",
+    "preview": "e25958d98636b804f4d9847e42add546d051f76470e2e1df97a036f81e7aa6f2",
+    "reference": "cb08995fa52936873afaac36bed079d4fe3015b1996b216d9b8edfc697f4d825"
+  },
+  "original_local_pptx_sha256": "c4927f29c8b682c81dd8d78eb8d829c7a437b27345e07861d0962ff2d4ab78bb",
+  "visual_payload_sha256": "696f4e8be26b130282990512b6ff186414fdf289a8a2fddb5cb4c54398e1d1d8",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

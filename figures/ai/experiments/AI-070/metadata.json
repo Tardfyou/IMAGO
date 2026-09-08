@@ -1,0 +1,57 @@
+{
+  "id": "AI-070",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Theme Paper",
+  "paper_title": "Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "三维曲面将25种质量分数投影到前两主成分，展示复杂非凸地形与不同局部峰谷。",
+  "editability": "原生文字与形状",
+  "limitations": "358个原生对象，其中277个投影色块/轮廓组成曲面；坐标轴、网格和刻度文字均原生。按原图二维投影与颜色复刻，不恢复或合成原始PCA坐标/损失数据；色块边缘、灰网格投影和Arial字体有轻微近似。原图Priciple拼写保留。",
+  "object_counts": {
+    "shapes": 358,
+    "groups": 0,
+    "native_text_runs": 23,
+    "images": 0
+  },
+  "paper_id": "PAPER-0199",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.533/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "97877f2f89d28e965be54056491e28018f8b5a63a858b4ef4aefa67ae5b4f896",
+    "pdf_page": 15,
+    "crop_bbox": [
+      117,
+      469,
+      479,
+      675
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-070/AI-070.pptx",
+    "svg": "figures/ai/experiments/AI-070/AI-070.svg",
+    "preview": "figures/ai/experiments/AI-070/preview.png",
+    "reference": "figures/ai/experiments/AI-070/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 82
+  },
+  "hashes": {
+    "pptx": "f151aeea5b6d840358fc1dd9c51ae6daf4d688a05c38acdddaa87374d803895f",
+    "svg": "199260b1302aac26bc4978e58796786a5a7a20274030a32d7da5ae978d3bc221",
+    "preview": "63f3a746e96c1fdbdd557575e665c1e65928b701b890d5ed2f1d9d937b40d928",
+    "reference": "d9126b21925dc7ed8078dd560e5e00fa79460a2629b45e38288f947dbd56af15"
+  },
+  "original_local_pptx_sha256": "4a8e461f84c7aa81e52f7a9e0122c5b4d1c5b2da5d8accd4cb4b36b4d9662824",
+  "visual_payload_sha256": "3af447d8a336364a84609217ad2e90819e1f5e9cccd671748e3d6610ffe7ce7a",
+  "dedup_note": "旧库没有可编辑多边形曲面和三维投影坐标轴的损失景观模板，与二维热图有明显表达差异。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-071",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "左侧逐级标注普通/重要/起始词元，右侧四个分布图解释全局与局部熵优化的区别。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 174,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0173",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.893/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "a9a62477d0a3ace5e07900ea0d33edf0b6cd60e63557a94cde3744fb5c61dbff",
+    "pdf_page": 4,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      310
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-071/AI-071.pptx",
+    "svg": "figures/ai/method/AI-071/AI-071.svg",
+    "preview": "figures/ai/method/AI-071/preview.png",
+    "reference": "figures/ai/method/AI-071/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 52
+  },
+  "hashes": {
+    "pptx": "b5cff5c333c686a098c4c4f2b94181e8e1d8c686bf734ef21dcbc8c295b71923",
+    "svg": "d006b7c00b192f2d3a0793a8bdfc9a95d6e48533fead1c246a5cfb75095aebfc",
+    "preview": "b48e35db94d5926aa8ff55ee05807873869b1f57d9e9facca9999ffd751d3bd9",
+    "reference": "013d23e1397038fa007b5bcc6647fc25ca494fe4dd1511d9e4050bff2250e348"
+  },
+  "original_local_pptx_sha256": "a2530153de93e8f816d845b904c107e4392a9246cf3006c01a38c5618f22a913",
+  "visual_payload_sha256": "e260f2434d8d87799d054d0fcfa15852f34476d1ca1e54ea36fae1289442f9ad",
+  "dedup_note": "区别AI022层级热图，此图把离散目标选择与概率分布变化成对说明，适合解释稀疏干预。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

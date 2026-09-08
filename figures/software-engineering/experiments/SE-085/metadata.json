@@ -1,0 +1,57 @@
+{
+  "id": "SE-085",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "三列节点把操作类别、安装数量区间和数据去向连接，保持首列颜色穿过中间层，线带宽度表示对应数量。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 130,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0133",
+  "source": {
+    "paper_url": "https://mainarke.github.io/assets/papers/icse24_chen.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "c45fffcfb22503a074976bc05c6c3b3aad44379bd2a0d9c4d4ab5cfc79678df6",
+    "pdf_page": 10,
+    "crop_bbox": [
+      320,
+      81,
+      554,
+      222
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-085/SE-085.pptx",
+    "svg": "figures/software-engineering/experiments/SE-085/SE-085.svg",
+    "preview": "figures/software-engineering/experiments/SE-085/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-085/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 82
+  },
+  "hashes": {
+    "pptx": "b420d3770a2cdabff9e5ab0f41dfef3a2f43730d4c91be2a72cec2926af4a952",
+    "svg": "07a8c495335d5e392027624c6dea4c24f6078c62ab09c754eb5ef82518eafce0",
+    "preview": "88f3f94f0fad6ff1d165b28a41093213c926e831943c5da1158545add736beab",
+    "reference": "c1bb9e932ed98c4e2ec402f8a4d33957125c9aaf46eb6ee11775f66a46981aee"
+  },
+  "original_local_pptx_sha256": "9dc45008278e8e2d478c8cb504539b850518deeef5231522cc80b4323a0721d8",
+  "visual_payload_sha256": "624c99bb956de2a32e3eac04583fd8d2fd905f304bb74c5b24a502da233ba56d",
+  "dedup_note": "SE050是三个基准的两层标签比较；本图是单个总体的三维属性联合分布，贯穿中层的同色流可用于展示规模和行为去向之间的关联。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

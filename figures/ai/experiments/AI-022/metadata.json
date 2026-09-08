@@ -1,0 +1,57 @@
+{
+  "id": "AI-022",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Backward Lens: Projecting Language Model Gradients into the Vocabulary Space",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "每个格子同时显示最可能词和梯度强度，把隐状态测量变成可读的语义变化表。",
+  "editability": "原生文字与形状",
+  "limitations": "背景色从论文图像单元格采样，文字逐格转录；未将颜色反推为原始测量数值。作者仓库公开Notebook仅含PNG输出，未提供该图完整原始表。",
+  "object_counts": {
+    "shapes": 158,
+    "groups": 0,
+    "native_text_runs": 80,
+    "images": 0
+  },
+  "paper_id": "PAPER-0211",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.emnlp-main.142/",
+    "award_url": "https://2024.emnlp.org/program/best_papers/",
+    "pdf_sha256": "eb9834bf2a25d9d56ce5ddcf613f711ea0f7c815cf83474e60c2d3a7fad09bb9",
+    "pdf_page": 7,
+    "crop_bbox": [
+      72,
+      70,
+      523,
+      225
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-022/AI-022.pptx",
+    "svg": "figures/ai/experiments/AI-022/AI-022.svg",
+    "preview": "figures/ai/experiments/AI-022/preview.png",
+    "reference": "figures/ai/experiments/AI-022/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 73
+  },
+  "hashes": {
+    "pptx": "0b81d700d880e71e0b50be829a197ded59b14ec2eb634d6a0235dc2b2801a1c7",
+    "svg": "47329fafe62aedb3c5ec346c1f6b7524d8fd438a2684237479ce7b3c0da4fb5f",
+    "preview": "cc663c2d197c10693f33384bb3fcc0688dc36a970e4ffeee68e253831a2a0460",
+    "reference": "5626eebb5ea6b8989a79c10127710313ab92f5dd7374765829665a296afe4de1"
+  },
+  "original_local_pptx_sha256": "21321ef546afb8ae245dc00def24263e2e36f3003f95d8bb4a78b0bf05d58ab5",
+  "visual_payload_sha256": "23e5581fa549e26ab154077845418da8a11ee6c6e0a52eb232ed452c2f1c824a",
+  "dedup_note": "不同于旧库纯数值热图和跨模型矩阵：新增单元格词元内容与层深对应，适合模型内部机制解释。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

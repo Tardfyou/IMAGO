@@ -1,0 +1,57 @@
+{
+  "id": "AI-045",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2024,
+  "award_name": "Best Student Paper",
+  "paper_title": "BioCLIP: A Vision Foundation Model for the Tree of Life",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "面积表示样本规模、颜色表示门、嵌套框表示纲目科，让长尾多层数据结构可视化。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 1409,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0212",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Stevens_BioCLIP_A_Vision_Foundation_Model_for_the_Tree_of_Life_CVPR_2024_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "cee70c4c2221623429c6b5a4c3027c633113fbcba880a6bdd05c50b7e1e9d04b",
+    "pdf_page": 3,
+    "crop_bbox": [
+      309,
+      73,
+      545,
+      184
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-045/AI-045.pptx",
+    "svg": "figures/ai/experiments/AI-045/AI-045.svg",
+    "preview": "figures/ai/experiments/AI-045/preview.png",
+    "reference": "figures/ai/experiments/AI-045/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 77
+  },
+  "hashes": {
+    "pptx": "40d599269fb868f6dd56a9a458895c8ed78fbc652d12e64b37eefbcb15fb2bd5",
+    "svg": "95deadf43b79774dcae42045ffeabca21cc670ba7d415f4a1f931763edda4a28",
+    "preview": "411c6ecc8c1b53ef8f446168fb8d141bbe04b5e2e2da19f55b391799b754eafe",
+    "reference": "ac3a161f9e717febd8935ccd5fec05365b7ae935ddc4af60f7ea89fb617d9aad"
+  },
+  "original_local_pptx_sha256": "b1be6bf06fe241f9ce2c7e83a24d4b1b0b90462c23e4ab201e560cb3618ead32",
+  "visual_payload_sha256": "5cfc367c7849c406feffce391b7cfd01a34a4c99ea3ae5954053bec833572762",
+  "dedup_note": "旧库没有面积编码的层级treemap；不同于普通节点树和环形比例图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AI-034",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "响应集合、批评集合和再探索集合通过同一策略学习联结，右侧展开三个优化环节。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 333,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0159",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.1321/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "4307f0fa2d8af343afc3f60b2c6166a67161ad6e0337175d6ff9cdea9b5c91f3",
+    "pdf_page": 3,
+    "crop_bbox": [
+      69,
+      70,
+      526,
+      281
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-034/AI-034.pptx",
+    "svg": "figures/ai/architecture/AI-034/AI-034.svg",
+    "preview": "figures/ai/architecture/AI-034/preview.png",
+    "reference": "figures/ai/architecture/AI-034/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 15
+  },
+  "hashes": {
+    "pptx": "36dbcf947ab710c2cd4c53eb1a13c4eecf870fb0c7c1f8f974b498e7ff7e9001",
+    "svg": "ec57addea3e8512b543fb8c4fe8b622684f7924e9bebc8db50cc1a5de64ce78e",
+    "preview": "2fae34969400bf6aba232d70268ce042c90591ab87097598b38c6baf20b162c8",
+    "reference": "e2510d4accce9704df19e5496cc136aa942023b44725e31e45e7693383e55219"
+  },
+  "original_local_pptx_sha256": "af4e84dc9cba25f488d7ddc9222bb840450136ade463d802386103fc6d2127b4",
+  "visual_payload_sha256": "7faf54aabcf1565beca939c0d8ac2d6ef3b82235638cae2020f06d32ee555e76",
+  "dedup_note": "虽与旧AI004同为RL闭环，但该图以集合级样本流、批评段落和回放策略展示不同训练机制。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

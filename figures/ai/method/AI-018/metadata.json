@@ -1,0 +1,57 @@
+{
+  "id": "AI-018",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Paper",
+  "paper_title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "把查询、键、值的矩阵布局与SRAM/HBM搬运路径叠加，适合讲清算法和硬件实现关系。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 432,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0202",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1126/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "63200b0e4ae73018c7b23968f4fffb0e6145d4fc4f61c0f36e3fe044957d1a39",
+    "pdf_page": 5,
+    "crop_bbox": [
+      304,
+      70,
+      528,
+      260
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-018/AI-018.pptx",
+    "svg": "figures/ai/method/AI-018/AI-018.svg",
+    "preview": "figures/ai/method/AI-018/preview.png",
+    "reference": "figures/ai/method/AI-018/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 34
+  },
+  "hashes": {
+    "pptx": "b9fb21cab63ba1b5dce400cf14231643d0ca5d9930672fbfdd7430d35aaed53f",
+    "svg": "cae9052898535316bacdbb3b3e20a9ac089c3ae552379b3342b3cca16bc18fee",
+    "preview": "5692114f8f38bb7954f5fc31a9e3b4eb9d43499fa31305e515b45067eb98dd8b",
+    "reference": "42af268edd92c01e4eb636f27b14f98a1cac27ed432848a6aec95ef8f6c621b9"
+  },
+  "original_local_pptx_sha256": "067aa37504dd5a520b0e53e13215823a7024308d9f38dbfaa2519638e163a4d1",
+  "visual_payload_sha256": "a3e024266d4c0c64efe25a40ab543244945b0e47560ae73f9b3d273b24fd073d",
+  "dedup_note": "旧75没有GPU矩阵内核的存储层级与嵌套循环图；与本论文Fig2也分别属于总架构和底层内核。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

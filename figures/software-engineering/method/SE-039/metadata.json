@@ -1,0 +1,57 @@
+{
+  "id": "SE-039",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "控制流图、数据流图与跨图边先进入不同编码器，再汇聚为图Transformer；适合解释异构结构的融合和节点语义。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 211,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0139",
+  "source": {
+    "paper_url": "https://personal.utdallas.edu/~vince/papers/icse24-cir.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "fc7cf583594f0959399f6df0a508013bd5252c8e95b2cf9331c593ac0fdabb91",
+    "pdf_page": 5,
+    "crop_bbox": [
+      53,
+      83,
+      294,
+      240
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-039/SE-039.pptx",
+    "svg": "figures/software-engineering/method/SE-039/SE-039.svg",
+    "preview": "figures/software-engineering/method/SE-039/preview.png",
+    "reference": "figures/software-engineering/method/SE-039/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 38
+  },
+  "hashes": {
+    "pptx": "07d2024374760d78acd5e3a2cfb1b56a5abcc2b3b8756de223bb12aeb07a2508",
+    "svg": "bc1eb3acb9d72199fe4f1da0aecdcb3917b102c87f54ce50fe0939a37b9df60f",
+    "preview": "0f381f59021f6736750dd80aade6962d12a26c62d6e05fc666835528b15a3e2e",
+    "reference": "7bc247bf1dcef502efcf6f501703a4eab129a92c32733041d23c2bef7f868b30"
+  },
+  "original_local_pptx_sha256": "693e51b0ba4015d64dd0140b6a417044e8bd929451a986344e17b67efcc3c267",
+  "visual_payload_sha256": "ac7040aea1d2d56d11dad2ecdeb9c1ed77041ea1fe208cce0aa1329a1efcaa9e",
+  "dedup_note": "区别于旧SE-010通用跨语言对比学习，本图将CFG/DFG实体类型和两级编码结构明确对应，底部跨图边直接进入上层自注意力。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

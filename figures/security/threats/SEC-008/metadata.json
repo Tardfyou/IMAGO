@@ -1,0 +1,57 @@
+{
+  "id": "SEC-008",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "攻击者、正常用户、模型、仓库四角色，黑色正常链与红色污染路径，加序号讲完整真实威胁。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 105,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0048",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity25-spracklen.pdf",
+    "award_url": "https://www.usenix.org/conferences/best-papers",
+    "pdf_sha256": "b12c62ed298a1eeb830a66aa5de4f7746da3e90b50c6f2d51bfaaf74d6381934",
+    "pdf_page": 5,
+    "crop_bbox": [
+      85,
+      72,
+      529,
+      266
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-008/SEC-008.pptx",
+    "svg": "figures/security/threats/SEC-008/SEC-008.svg",
+    "preview": "figures/security/threats/SEC-008/preview.png",
+    "reference": "figures/security/threats/SEC-008/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 65
+  },
+  "hashes": {
+    "pptx": "5b94f7efdd66d37a271f71563316e0bd99f880131838fec306bef591d0b41331",
+    "svg": "3766cc3444de22644578596d6841bb6ff1e0a044019593fc6cb52751d40d80e9",
+    "preview": "2d7ab2fe4ebc45cb225998e812f2bea79b763cc50950e5b57332092b40908c44",
+    "reference": "29c73080bbff666776a646163af4d14ecbb1e55a2707b31638afef4fae732299"
+  },
+  "original_local_pptx_sha256": "b09c27594f5629ec79693961e29f4df2704e9fb8aac143a28725f932b528ce0e",
+  "visual_payload_sha256": "92fce13589f444375512866392f1abd629cfc84b66408eb7e259d135b747d63e",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-041",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Early Detection of Performance Regressions by Bridging Local Performance Data and Architectural Models",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "四层示例从测试/函数组件图抽取变化，经微服务架构传播，最后更新排队网络模型；红色变化跨层保持对应。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 333,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0100",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2408.08148",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "a4859e57ef5d0e3d51f3e2b631b0a08b256127885c4354471cb9764f14a15e1c",
+    "pdf_page": 4,
+    "crop_bbox": [
+      313,
+      223,
+      563,
+      565
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-041/SE-041.pptx",
+    "svg": "figures/software-engineering/method/SE-041/SE-041.svg",
+    "preview": "figures/software-engineering/method/SE-041/preview.png",
+    "reference": "figures/software-engineering/method/SE-041/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 40
+  },
+  "hashes": {
+    "pptx": "67512bde8681346929ce0be703c769569536fc7a1e132a7cebfa7c71f331291f",
+    "svg": "cf4ef9b9692c80979c5ec57a3e7cb6c38cfea56dc6a94106b2ce51c6fb8d0eee",
+    "preview": "041b3f5d801c6117d745ff85ad4fec5a94de94b8474b6de18df2a41f937973df",
+    "reference": "21a7ebab23afced5c7645162d4d333942160b968d77ec6dcc72e3b8c6ed558b5"
+  },
+  "original_local_pptx_sha256": "14fc3bc61d2acd06a463bd8c6892bdf85301b2ecc203f417e98c64c577b6ebc9",
+  "visual_payload_sha256": "8aa9e4e24301e1e1e09bd845d8ee6b9faed6086e81478a4f7892cb6728553a19",
+  "dedup_note": "旧库没有类/组件UML到排队网络模型的跨尺度变换。本图的四步相同实体高亮传播与旧多指标热图表达不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

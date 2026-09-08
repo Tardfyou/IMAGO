@@ -1,0 +1,57 @@
+{
+  "id": "AI-076",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "High-Pass Matters: Theoretical Insights and Sheaflet-Based Design for Hypergraph Neural Networks",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "把超边、层拉普拉斯、频域分解、滤波重建及最终标签接成上下反向阅读的完整架构。",
+  "editability": "原生文字与形状",
+  "limitations": "The328original native source paths are preserved in their original order.；The central incidence diagram is manually reconstructed with editable shapes and text; coloured edge glows use layered native strokes and the original routing is retained.；Source matrix colours are sampled into native cells. Low/high-pass curves are centreline traces of the published schematic, not recovered experimental data.；The two dense mathematical equations are native glyph contour paths recovered from high-resolution source formula snippets, preserving the original mathematical symbols.；Background radii and shadows, tiny graph icon shapes and gradient surfaces are approximated with native shapes. Source Comic Sans font is retained; matrix annotations use Cambria Math.",
+  "object_counts": {
+    "shapes": 1059,
+    "groups": 0,
+    "native_text_runs": 18,
+    "images": 0
+  },
+  "paper_id": "PAPER-0165",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39469",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "d9a1248a634cba8454014ddc75d36414a25704b3eb2b09b079f5c819e02ea1b0",
+    "pdf_page": 5,
+    "crop_bbox": [
+      128,
+      54,
+      485,
+      279
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-076/AI-076.pptx",
+    "svg": "figures/ai/architecture/AI-076/AI-076.svg",
+    "preview": "figures/ai/architecture/AI-076/preview.png",
+    "reference": "figures/ai/architecture/AI-076/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 20
+  },
+  "hashes": {
+    "pptx": "d756981a25efe921f4eb58da6a2de062c3f6db5708266eacce0c5ee601e32c7f",
+    "svg": "e93c4e11efebfb8998d360fbf93fba82616914282596ef978ac92830a0588a31",
+    "preview": "4b0bf7f86b23f179965e20b7cffab7c1c78e7ee070448feae88b9c2a7019aafc",
+    "reference": "86c7da8927f4de7c0670d36dcc453580f1735c1abd83b9f489b3ad2513b9962b"
+  },
+  "original_local_pptx_sha256": "235e65932e426f55a83c2a39eceefb8542abbbf50ad692c7c847b487279e629a",
+  "visual_payload_sha256": "12390fa35fc60e17c53ced3397b81e8e8ae2bf7ebdfba1d9fa3ddfed90166657",
+  "dedup_note": "区别旧一般消息传递网络，本图把超图高阶关系和高低频滤波矩阵联系起来，具有独特几何/谱域组合。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

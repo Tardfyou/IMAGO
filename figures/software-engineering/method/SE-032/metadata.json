@@ -1,0 +1,57 @@
+{
+  "id": "SE-032",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "源代码、完整调用返回图及裁剪后的控制流并排；用节点编号和颜色保留跨图对应关系，适合表达图简化及分析精度。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 811,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 4
+  },
+  "paper_id": "PAPER-0140",
+  "source": {
+    "paper_url": "https://jumormt.github.io/data/fse24.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2024",
+    "pdf_sha256": "a4c8b851547b2f70b9ff3f6a9e57cd0223b232673eae627e162cd6de5e4f7a30",
+    "pdf_page": 8,
+    "crop_bbox": [
+      45,
+      82,
+      441,
+      247
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-032/SE-032.pptx",
+    "svg": "figures/software-engineering/method/SE-032/SE-032.svg",
+    "preview": "figures/software-engineering/method/SE-032/preview.png",
+    "reference": "figures/software-engineering/method/SE-032/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 33
+  },
+  "hashes": {
+    "pptx": "c7d430d13c7021a614fc7390926ed64efc5d0f27e349d3f14cf75da5ff450025",
+    "svg": "836fb05b6cd1ac7db1faa0d912915242d551c2312c527c524c943f80e379654e",
+    "preview": "be3da42babf445a7a496eb6416588f518c95e48f2078c9723e4b5f0977aaa087",
+    "reference": "dd5518f6628ca8724cb549638b70b5a86a03ac30aaaf84fb096fd5efece757ba"
+  },
+  "original_local_pptx_sha256": "e18a8de173edb737b00ed258b47cb59185dbf98ee25cfb7c1509ab0510951022",
+  "visual_payload_sha256": "851145fbfbe690547f650a19f66d7bde987f422b3c4778aa0ad54e92fd1eea7f",
+  "dedup_note": "旧库只有依赖传播图/模块树，本图新增代码行—ICFG—切片图的三联映射，带调用返回跨边与状态标注；不是旧图换标签。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

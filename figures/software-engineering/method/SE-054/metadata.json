@@ -1,0 +1,57 @@
+{
+  "id": "SE-054",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "LLM Meets Bounded Model Checking: Neuro-symbolic Loop Invariant Inference",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "蛇形的五个虚线分区联接LLM、SMT与BMC；候选失败后拆分筛选组合，再验证并反馈反例，能够表现两个不同粒度的循环。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 109,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0146",
+  "source": {
+    "paper_url": "https://cs.nju.edu.cn/yuanyao/static/ase2024.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "4af52b16acee0d692111db3ff765afb30bbbe0fcc78b6ed0bf60d632aa44d296",
+    "pdf_page": 4,
+    "crop_bbox": [
+      78,
+      82,
+      534,
+      248
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-054/SE-054.pptx",
+    "svg": "figures/software-engineering/method/SE-054/SE-054.svg",
+    "preview": "figures/software-engineering/method/SE-054/preview.png",
+    "reference": "figures/software-engineering/method/SE-054/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 42
+  },
+  "hashes": {
+    "pptx": "503f8fa3b009c9e68b2f019805e7ac5a6daebba340e0cccf1538e0380baa786c",
+    "svg": "1eb6af208ea23173dc9a770921a320ff4e3bbf28d3423724d98ee8e327c00aa4",
+    "preview": "99ee2e0c931b72145d5c5c1ce858646d6c236497f85c68166fb628718cf42dc1",
+    "reference": "e7840685bb6aed67a3c640c19a44d58f8a188ca62b8e96306538d14cc6fa1f2d"
+  },
+  "original_local_pptx_sha256": "2146712b512e75415fe2996102b872e3938089632c54d88b4435c4d36861986a",
+  "visual_payload_sha256": "5578b201efe856acabddf92e9b79c9d5b5b277da90e35f1ffe5f6b315d640a92",
+  "dedup_note": "区别于旧HoarePrompt的程序分块和推理例子，本图清晰将整体候选验证、原子谓词筛选、组合后验证三种判据分区，并展示两条反例反馈路径。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

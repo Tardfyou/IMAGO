@@ -1,0 +1,57 @@
+{
+  "id": "SE-079",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "逐变量显示点估计、水平置信区间、HR数值和显著性，颜色区分影响方向，统一基准线便于比较因素作用。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 70,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0123",
+  "source": {
+    "paper_url": "https://www.cs.cmu.edu/~ckaestne/pdf/icse25_abandonment.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "d8f45b89a27fc40386d6e4124f2399d231aaa4ea0480f82b9d926b06845d8cfd",
+    "pdf_page": 9,
+    "crop_bbox": [
+      311,
+      232,
+      565,
+      378
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-079/SE-079.pptx",
+    "svg": "figures/software-engineering/experiments/SE-079/SE-079.svg",
+    "preview": "figures/software-engineering/experiments/SE-079/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-079/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 79
+  },
+  "hashes": {
+    "pptx": "6fd814b859e1afbee9c98ab65fe95601912160936608fd47fc1be3bc5088954c",
+    "svg": "8743c3cfc4b319adbf87da8f49aa2348549fe45f32eec450f1661d53803c0112",
+    "preview": "21b35f2c6e319797c0b3b0f6ade5c8b9bc1d94db76d8919ea5fc771dfb359c4f",
+    "reference": "da1074dc1417299079b5c3e97688710f65e93eb1e298f3abebc2a294b8a01bd9"
+  },
+  "original_local_pptx_sha256": "2a561eed1e4fd80ec49d722d3176e8453fcff9e2ce0987f333d62af1d7a1cd60",
+  "visual_payload_sha256": "aaa37619ab6ac34d309c028545c46cf35c2a0dde99ecbe5026934ec2ef0aac6b",
+  "dedup_note": "旧库没有森林图模板；它适合回归效应、风险比、比值比和分组效应展示，与Nomogram的预测换算功能不同。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AI-080",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2025,
+  "award_name": "Outstanding Paper – AI for Social Alignment Track",
+  "paper_title": "DivShift: Exploring Domain-Specific Distribution Shift in Large-Scale, Volunteer-Collected Biodiversity Datasets",
+  "figure": "Figure 3",
+  "category": "实验图表",
+  "reuse_value": "在相同北美西海岸轮廓下并列观测密度、生态区、气温和人类活动，统一北向与比例尺。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "四个地理数据图层保留为独立源图，未重建地理数据。图题、17项生态区图例、色标、北向和比例尺均为原生。源图字体用Arial/Times New Roman近似。",
+  "object_counts": {
+    "shapes": 63,
+    "groups": 0,
+    "native_text_runs": 35,
+    "images": 4
+  },
+  "paper_id": "PAPER-0188",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35060",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "9174992550fb793e41074a7b6d0838f0e49f1d3e27e77531b28ebce0b3ccf708",
+    "pdf_page": 4,
+    "crop_bbox": [
+      64,
+      53,
+      548,
+      274
+    ],
+    "source_title_alias": "DivShift: Exploring Domain-Specific Distribution Shifts in Large-Scale, Volunteer-Collected Biodiversity Datasets",
+    "source_identity_note": "AAAI官方奖表列Elena Sierra、Lauren Gillespie、Moises Exposito Alonso三作者；同官方OJS论文PDF列Elena Sierra、Lauren E. Gillespie、Salim Soltani、Moises Exposito-Alonso、Teja Kattenborn五作者，题名Distribution Shift/Shift(s)亦有单复数差异。绑定官方OJS同DOI来源，保留奖表与出版版本差异。"
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-080/AI-080.pptx",
+    "svg": "figures/ai/experiments/AI-080/AI-080.svg",
+    "preview": "figures/ai/experiments/AI-080/preview.png",
+    "reference": "figures/ai/experiments/AI-080/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 84
+  },
+  "hashes": {
+    "pptx": "ffb87c9814cce8e34e5b19359190512897a9082e96475e49b7886a68b084b71b",
+    "svg": "ea1813bfda55ac59af0997dd5bf4ae3e3daf5d29e7eb5a252d00effa51584c1e",
+    "preview": "bfa6e716bbcac880214da76fd3a895b26875aa83980fade858a15c1214eb5b14",
+    "reference": "9d1a324f8ef39008a53c78075a961b19856a290e41fc2b4a516ac9e4d1ffad80"
+  },
+  "original_local_pptx_sha256": "362a993666105d1857dc4c04122ef32fa8d32f79eff2f959e3288b281ba8f830",
+  "visual_payload_sha256": "1f1aaad43110c639ae9be194402229098d9bf793a970edeefdf472d12e3de440",
+  "dedup_note": "区别旧普通世界地图，本图用同区域多重空间编码对齐采样分布与环境条件。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-038",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "用引擎筛选、功能交集Venn、测试合成与多数据库一致性判定四栏展示如何构造等价测试目标。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 81,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0119",
+  "source": {
+    "paper_url": "https://zhangbuzhang.github.io/papers/ICSE25B.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "7a70305a52b1251ca13e4d4916c72556a3d36e1c15fe6905428c08852fa72bd8",
+    "pdf_page": 4,
+    "crop_bbox": [
+      48,
+      49,
+      564,
+      163
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-038/SE-038.pptx",
+    "svg": "figures/software-engineering/architecture/SE-038/SE-038.svg",
+    "preview": "figures/software-engineering/architecture/SE-038/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-038/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 8
+  },
+  "hashes": {
+    "pptx": "e927b2d9d883d5bd4e7df5c060294954b5657b99c03e13c65ec0e6d51df0286d",
+    "svg": "f00424bd60346356b495f4c8d9afca665755329bb402cf4f7055ffa95888ea8a",
+    "preview": "ebd27e9a6393735b17b40e6c2ce17e26eb322254116ec105ce73a21c62f68486",
+    "reference": "884cc493e471ea4b2dc2ce941e75821d01b00234a1995f07f64a81394573e124"
+  },
+  "original_local_pptx_sha256": "032e313e64db8d8eb197f9f1ea1920b7e28b359de02c762a8005420920a19d4c",
+  "visual_payload_sha256": "c7f72fd842b7faddf4ac04b6454b46755a30429855b8a6a7f713115ce2b27273",
+  "dedup_note": "旧SEC-005差分fuzz强调引擎执行协议；本图把组件可替换性和功能交集显式嵌入输入构造，新增等价目标构建图式。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

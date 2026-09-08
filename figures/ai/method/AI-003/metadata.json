@@ -1,0 +1,57 @@
+{
+  "id": "AI-003",
+  "domain": "AI顶会",
+  "conference": "ICCV",
+  "year": 2025,
+  "award_name": "Best Paper (Marr Prize)",
+  "paper_title": "Generating Physically Stable and Buildable Brick Structures from Text",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "上方序列训练、下方逐步生成/拒绝/回滚，两层时序及闭环兼具，适合带验证器的生成流水线。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 249,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0193",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Pun_Generating_Physically_Stable_and_Buildable_Brick_Structures_from_Text_ICCV_2025_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "9ab6650e0e0d02752d0469ca95ff93dc6736dec9e9f770e26643eefdc58c76f6",
+    "pdf_page": 4,
+    "crop_bbox": [
+      71,
+      70,
+      541,
+      281
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-003/AI-003.pptx",
+    "svg": "figures/ai/method/AI-003/AI-003.svg",
+    "preview": "figures/ai/method/AI-003/preview.png",
+    "reference": "figures/ai/method/AI-003/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 31
+  },
+  "hashes": {
+    "pptx": "c5031e4de358832aaa30f41665ba51e04cdd166a96a40eb169ba932081f9ee3d",
+    "svg": "5a9fd6261387ffb466043881b21b5b83fbfd56e0209fca8a08044b500fc74255",
+    "preview": "05f09050fa4581d4476cfa1c8d0d5292a383dd60fa87cc4370b8318ca5a84ede",
+    "reference": "73187e4bb2814298e2dff96d5e30c38ab16826b2a95348c6393ba364c4dbaf94"
+  },
+  "original_local_pptx_sha256": "475e2a8501cd3807d59a9b1fb4c039395e166dbe55b8e1af2562c17393486abf",
+  "visual_payload_sha256": "a0ec4d4d344efc1229f2948b63d247fcae9d2666a09120fb9090bdf07d94fb75",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

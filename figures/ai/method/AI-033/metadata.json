@@ -1,0 +1,57 @@
+{
+  "id": "AI-033",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "MMToM-QA: Multimodal Theory of Mind Question Answering",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "视觉感知与语言解析汇成状态/行动符号，再通过逆向规划比较信念和目标假设。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 154,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 7
+  },
+  "paper_id": "PAPER-0226",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.851/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "5a2c8ffccbfbf8786e29b7a08919fb3abdecfed9e3665cdc462e2ad04614f602",
+    "pdf_page": 6,
+    "crop_bbox": [
+      70,
+      69,
+      526,
+      237
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-033/AI-033.pptx",
+    "svg": "figures/ai/method/AI-033/AI-033.svg",
+    "preview": "figures/ai/method/AI-033/preview.png",
+    "reference": "figures/ai/method/AI-033/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 38
+  },
+  "hashes": {
+    "pptx": "00602812f50b330b95860199fdf5717dd79eaf5bdb12e321356220c151a12b31",
+    "svg": "1a8ed133f20abbfb1f215b9ae8323b3d1611b532906c2afb97b6fcfb9e5d55c9",
+    "preview": "dd8705f027fbc30cff05a6629bcd53ca60972f49ca88c6fe7e5897398023156a",
+    "reference": "8f4081b8d4fc186710c53a9c93a27e8b340c01c2a81dcca9a3661449ceeef282"
+  },
+  "original_local_pptx_sha256": "79521d1592e754aeeaa6e9b10b27829d978140cd18ee50d39685b046211a805a",
+  "visual_payload_sha256": "930c39f35b74b96c8fcf45eebf246ca68736cae60e5b4657ee2a8bc82ae6863f",
+  "dedup_note": "区别旧多模态编码器框图：本图突出符号状态、多个假设及概率规划，而非单纯多模态融合。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

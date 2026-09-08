@@ -1,0 +1,57 @@
+{
+  "id": "AI-023",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Best Resource Paper",
+  "paper_title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "场景参数、数据库和时间状态共同生成对照任务；验证解和状态断言形成可执行评测闭环。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 254,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 30
+  },
+  "paper_id": "PAPER-0210",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.850/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "6a995817d25ce1c4c5e102dd8c907b3b07e1028f1456f65a0f470bee98007e36",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      263
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-023/AI-023.pptx",
+    "svg": "figures/ai/workflow/AI-023/AI-023.svg",
+    "preview": "figures/ai/workflow/AI-023/preview.png",
+    "reference": "figures/ai/workflow/AI-023/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 93
+  },
+  "hashes": {
+    "pptx": "b77b2f3c82fd52d107d55513c969aeae53eacc74849b126b09f0bb444278c569",
+    "svg": "30412517162b72eb72219df6bb974b097a055be9844e0a5858047dbaf3857b1a",
+    "preview": "6f3f434099154919487e1937d12b1240df663808451a22eeab43facf53a73944",
+    "reference": "0b1245e8d85069124123dcbb8fba006a0dfbb8a555dbf0a91f7159795e244429"
+  },
+  "original_local_pptx_sha256": "5704316cb4b6d99835207710af89cc8e81bdc0aad62c92c84d651d0f2222633d",
+  "visual_payload_sha256": "5d3fe83b16a5bfed10124d94c0f963a4cf1113f4500ad6a07650dc94926b5146",
+  "dedup_note": "区别旧SE评测/修复架构：本图以参数化任务表和可执行状态断言串联基准构建，显式表达多解与副作用检查。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

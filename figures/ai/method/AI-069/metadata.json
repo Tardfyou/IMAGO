@@ -1,0 +1,57 @@
+{
+  "id": "AI-069",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Best Theme Paper",
+  "paper_title": "SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM Evaluation",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "模型、难度/质量/离散度、聚类与基准无关矩阵按来源流向组合，输出特征和秩相关标签。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 214,
+    "groups": 0,
+    "native_text_runs": 124,
+    "images": 0
+  },
+  "paper_id": "PAPER-0205",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.1477/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "6071cef030b67a043219361e22c6fb496dd1c607d472ea4b30693fa807d8dcf0",
+    "pdf_page": 4,
+    "crop_bbox": [
+      97,
+      70,
+      498,
+      198
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-069/AI-069.pptx",
+    "svg": "figures/ai/method/AI-069/AI-069.svg",
+    "preview": "figures/ai/method/AI-069/preview.png",
+    "reference": "figures/ai/method/AI-069/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 51
+  },
+  "hashes": {
+    "pptx": "f584596c8a916c87180b301d78b4fce0b5545f30a9ff4f5aa587e92071a703f2",
+    "svg": "a960fec67a268c52faac9c3d49bdb64c066b4f190f91b4597bd70c70dc60b0db",
+    "preview": "a9355fda7e9f47f4d80c2b4be238be873bb2dd8ed11bee2563c83c51305f3a29",
+    "reference": "de2604c20e88a54aaf4c176cd0d9319c1490490e838997f1bab7db1589de82c6"
+  },
+  "original_local_pptx_sha256": "24d39bffc08e0dd17488d59705d63af4a0e8a6081ee45e496a856ffd8908860e",
+  "visual_payload_sha256": "7c7500bf33a158c6d4eb198b85d8d533e594280ece86ae69e328550868920a1b",
+  "dedup_note": "区别已有token矩阵，新增模型维度和实例维度到固定聚类特征的转换，适合子集选择与代理评测机制。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

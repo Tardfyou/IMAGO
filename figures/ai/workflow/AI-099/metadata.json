@@ -1,0 +1,57 @@
+{
+  "id": "AI-099",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "上层清洗真实种子，下层先分解文档/用户/动机，再借海量文档反向合成，嵌套框突出两种相反操作。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 77,
+    "groups": 0,
+    "native_text_runs": 24,
+    "images": 9
+  },
+  "paper_id": "PAPER-0191",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.517/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "99e44797202adfc91f26f150940c461d239bf9dcd47a83ddf8550cb3f85a8dd7",
+    "pdf_page": 2,
+    "crop_bbox": [
+      103,
+      70,
+      492,
+      336
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-099/AI-099.pptx",
+    "svg": "figures/ai/workflow/AI-099/AI-099.svg",
+    "preview": "figures/ai/workflow/AI-099/preview.png",
+    "reference": "figures/ai/workflow/AI-099/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 101
+  },
+  "hashes": {
+    "pptx": "a5d5f7f8d82cb348982f6ffe4dfc2b6243d4c183add20f96ec6c768e065fcc8c",
+    "svg": "08c918ae5ea072c0a6d70cd35c4de01cd503ea81c51ab5d79bffe6c63dbec4a1",
+    "preview": "a8bce8349bdce187a12e1cf0449d3ffe106bf0e3c362983eb19d983a0b4d5980",
+    "reference": "258d65c297ae41a8eac3d6173c1798d616561278f8e5a447d031ff818c30dfe2"
+  },
+  "original_local_pptx_sha256": "ab906274996cf54cad717afda2707dfe031211aa61d4826183015ad56c9f6106",
+  "visual_payload_sha256": "68e2657d988bb8c446d4ab1e58482d4c553379c80f13cfaf2a2eac72a04cd770",
+  "dedup_note": "区别旧数据标注流水线，这张明确分开归因与逆向生成，用内层三角关联和外层两阶段呈现可扩展数据构建。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

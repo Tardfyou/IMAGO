@@ -1,0 +1,57 @@
+{
+  "id": "SE-096",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "左侧LLVM IR输入对应中间CFG，右侧分解数据流操作并用橙线区分调用、参数和返回关系，分别表达两种跨函数图的构造。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 136,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0139",
+  "source": {
+    "paper_url": "https://personal.utdallas.edu/~vince/papers/icse24-cir.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "fc7cf583594f0959399f6df0a508013bd5252c8e95b2cf9331c593ac0fdabb91",
+    "pdf_page": 4,
+    "crop_bbox": [
+      68,
+      82,
+      544,
+      242
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-096/SE-096.pptx",
+    "svg": "figures/software-engineering/method/SE-096/SE-096.svg",
+    "preview": "figures/software-engineering/method/SE-096/preview.png",
+    "reference": "figures/software-engineering/method/SE-096/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 53
+  },
+  "hashes": {
+    "pptx": "37b475974c4690eecfe888707e966f2122da7f24dc14b03d9e19792eeba9c09f",
+    "svg": "a0bca4f3bbd63a4f84c934ec36c7396c7ec44cba72540ff8a3d18987a1b72062",
+    "preview": "09836e04e90482b9ac0cd5cb8c6f067a1b66508fecb7fd7d75dc284fb6cebab6",
+    "reference": "4ed9b0960545f177629c7d9d55c386aac01a2724794301ad455315832a1dc223"
+  },
+  "original_local_pptx_sha256": "3f8559b5dded5dde718d7eba20aa40afec0eeda7be92d29a9c95a7011a2a1eb4",
+  "visual_payload_sha256": "ea61616c087c3d6408bcae983aa7b19a9bfd276d09d88bb11e2eee1a1575657a",
+  "dedup_note": "已有SE039显示多编码器预训练架构，本图关注输入如何从代码变为图，展示控制与数据依赖的互补、边类型和跨函数结构，具有独立的表示建模用途。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

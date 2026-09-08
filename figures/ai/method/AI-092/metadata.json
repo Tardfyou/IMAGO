@@ -1,0 +1,57 @@
+{
+  "id": "AI-092",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Do Llamas Work in English? On the Latent Language of Multilingual Transformers",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "把熵、token能量、语言概率三组统计与同色三阶段球面轨迹对应，展示统计与几何两种解释。",
+  "editability": "原生文字与形状",
+  "limitations": "全部统计曲线、球面线框、轨迹、文字与点标记由原生对象组成。按原图可见二维几何复刻，未恢复或生成原始逐层统计数值、8192维嵌入数据或被遮挡轨迹。",
+  "object_counts": {
+    "shapes": 164,
+    "groups": 0,
+    "native_text_runs": 83,
+    "images": 0
+  },
+  "paper_id": "PAPER-0218",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.820/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "dd9477c01f45d934f2ab84794967c02a032a41678bb7bce6545f99e8052139ca",
+    "pdf_page": 7,
+    "crop_bbox": [
+      305,
+      70,
+      526,
+      207
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-092/AI-092.pptx",
+    "svg": "figures/ai/method/AI-092/AI-092.svg",
+    "preview": "figures/ai/method/AI-092/preview.png",
+    "reference": "figures/ai/method/AI-092/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 57
+  },
+  "hashes": {
+    "pptx": "a11ad83ee078904062cea827fff946f2cdd313d9e7b86740140184eba76e6b09",
+    "svg": "45aadeba1afc04946473b305363009c7a17c21c7fa126a8c5281de7b9a5dfa74",
+    "preview": "55573fc9d3d33000ed594a4b57e7031443f7fe19c01279539584369b80f64da0",
+    "reference": "6c6e3894efcd6f58b79c8b485f7b22e16867baf6789f82609d105b3a20a4a060"
+  },
+  "original_local_pptx_sha256": "22b4de0bd3e53e411f80629e44e5b7a8338f919a6de822d7075e65d7d9629afd",
+  "visual_payload_sha256": "906c7959049b05353cecc963d43e3cd3a98832130599b1771154edc50f4761c9",
+  "dedup_note": "区别AI070的实验曲面，本图是表示空间中的球面路径，并通过相位编码关联三种一维统计。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

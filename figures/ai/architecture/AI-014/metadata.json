@@ -1,0 +1,57 @@
+{
+  "id": "AI-014",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Rich Human Feedback for Text-to-Image Generation",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "视觉与文本流经自注意力交互，分别输出热力图、分数和关键词；适合多任务、多粒度评估模型。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 180,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 6
+  },
+  "paper_id": "PAPER-0231",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Rich_Human_Feedback_for_Text-to-Image_Generation_CVPR_2024_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "0b6ab8673d0396131c941dc33bbd774f1afefd0c25bbb4435ed2d4c9d9240d3f",
+    "pdf_page": 4,
+    "crop_bbox": [
+      96,
+      186,
+      492,
+      307
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-014/AI-014.pptx",
+    "svg": "figures/ai/architecture/AI-014/AI-014.svg",
+    "preview": "figures/ai/architecture/AI-014/preview.png",
+    "reference": "figures/ai/architecture/AI-014/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 6
+  },
+  "hashes": {
+    "pptx": "03576bee9c2180b2c30b4147a26e3100f83bbe5efb828686a5bea2ca29c59da1",
+    "svg": "2e2d743dbf016ab4dccc1c2dd902f6a5ea925c0e172c9c3ee54460856166ae40",
+    "preview": "728f99564dcda5223a3d6fcfc947f86bee5201e5da0317a47031e62f7a27f5ff",
+    "reference": "2548545f5a56e5163779878894b51e2a0417ff23361bd97fad1a7183381ae803"
+  },
+  "original_local_pptx_sha256": "676ea63b78150a79f8f3fc232a136948f373188b854c689e875d1f1a9b477fd7",
+  "visual_payload_sha256": "f1ba025be644136f4c5c19f1cbc7b5fd5eebb63d6640dc422bfe6907253594fe",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

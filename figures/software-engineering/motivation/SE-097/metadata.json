@@ -1,0 +1,57 @@
+{
+  "id": "SE-097",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation",
+  "figure": "Figure 14",
+  "category": "动机示例",
+  "reuse_value": "七列案例将真实模拟截图与对应俯视路口/轨迹示意上下对齐，使用统一车辆颜色、运动线和碰撞/漂移/停车注释解释不同失败形态。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 150,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 21
+  },
+  "paper_id": "PAPER-0150",
+  "source": {
+    "paper_url": "https://www.cs.purdue.edu/homes/cheng535/static/papers/ase24_rocas.pdf",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "5d1e3dc05e9b677746647258e6111e17786d790d698b18089c380250f93e7365",
+    "pdf_page": 16,
+    "crop_bbox": [
+      65,
+      217,
+      547,
+      323
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-097/SE-097.pptx",
+    "svg": "figures/software-engineering/motivation/SE-097/SE-097.svg",
+    "preview": "figures/software-engineering/motivation/SE-097/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-097/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 63
+  },
+  "hashes": {
+    "pptx": "2f4e87efa25ada10bd2345aff43f844d1393609cbd5b234e0f56d22920a39f9d",
+    "svg": "161f089b4ec195e0681fd66d4378c91717cec104b17dac94bd8ea4feaa569e29",
+    "preview": "a8b57a6b174a659fcb04fb6c4f617963e7872e3029f4c7f51dbcb4c05f13ca03",
+    "reference": "d6438914b0e2a296f6ebdd9eb190aceef8d05f9c977eb2706f873faedffbef52"
+  },
+  "original_local_pptx_sha256": "e2f6feb9263472f21168542bd6883575ec252f8f4e9887f9234758ee6b7c7b91",
+  "visual_payload_sha256": "b2077af5784e8462b9a9f452b07ebe4377b468bd991b6375ebe7e6dfa1a15da8",
+  "dedup_note": "已有SE031是根因分析系统总览；本图提供定性案例对照模板，把可感知证据与抽象几何解释配对，覆盖交叉路口、环岛、跟车和停车等场景，区别已有Android操作序列故事板。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

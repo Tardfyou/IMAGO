@@ -1,0 +1,57 @@
+{
+  "id": "AI-006",
+  "domain": "AI顶会",
+  "conference": "NeurIPS",
+  "year": 2024,
+  "award_name": "Best Main Track Paper",
+  "paper_title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "用相同3D底座对照词元、图像patch和尺度递增三种思路；适合动机图表达关键范式差异。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片；部分模块标签在原图资产内",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 20,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 45
+  },
+  "paper_id": "PAPER-0237",
+  "source": {
+    "paper_url": "https://openreview.net/forum?id=gojL67CfS8",
+    "award_url": "https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/",
+    "pdf_sha256": "bd6b3002cbf81f2006e68abd489c0bf2008ee076cbfe66086b7450e8aab56a06",
+    "pdf_page": 2,
+    "crop_bbox": [
+      106,
+      68,
+      507,
+      208
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-006/AI-006.pptx",
+    "svg": "figures/ai/motivation/AI-006/AI-006.svg",
+    "preview": "figures/ai/motivation/AI-006/preview.png",
+    "reference": "figures/ai/motivation/AI-006/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 59
+  },
+  "hashes": {
+    "pptx": "4be32c8f64d674b09e2725cedb863f2de7f910ccba4e666cfc61773130e1f3fb",
+    "svg": "5cafdf9ce76b48f024f76abe8143ead84f641d8050f36ec1cee3d8efbfa0289e",
+    "preview": "bdd587c78f8485bc8cbfc9b65d6d7aec240f7b9c971c18bbb179d4bf0e389ef7",
+    "reference": "69546bfba7d3cb060602c45c76a860e454aea8d9a2fcdfa40f948f7ed5108729"
+  },
+  "original_local_pptx_sha256": "0d06ab1907f474225f9075217b33ca3eaf9d2979212c090251825a05bdf6eed7",
+  "visual_payload_sha256": "fc5d68c183551a59852851b6590e2cf10aa15930309618d08f0e953e020eff08",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

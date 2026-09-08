@@ -1,0 +1,57 @@
+{
+  "id": "SE-093",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Context-Aware Automated Sprint Plan Generation for Agile Software Development",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "用列区分问卷与历史数据，用行区分数据估计与优化目标；把偏好权重、任务特征估计和历史选择概率明确落到一个组合目标。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 132,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0135",
+  "source": {
+    "paper_url": "https://repository.tudelft.nl/file/File_5498ddf6-c80d-4af8-abc2-d552ee17aa0e",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "5f8512fb331a70eacbfbe549ba78edf1d156740ef422ee0a1e1488297823de06",
+    "pdf_page": 2,
+    "crop_bbox": [
+      316,
+      491,
+      559,
+      646
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-093/SE-093.pptx",
+    "svg": "figures/software-engineering/method/SE-093/SE-093.svg",
+    "preview": "figures/software-engineering/method/SE-093/preview.png",
+    "reference": "figures/software-engineering/method/SE-093/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 50
+  },
+  "hashes": {
+    "pptx": "84fd0f6b91ed276ad379dedbefdec5fc022b537ec3e9a378d0a5f4bbc634083c",
+    "svg": "0458f27685a21f3274f269f93df8149f73e65f4f2c9f7b1e0f1f4352c2d088bd",
+    "preview": "d5f9f8ae0decea2dea2a4ef4051b33bd20aa090a29fa566584e861b77c06a907",
+    "reference": "3aa55f79bc8e205c3fef96ae4085f2d5489c23fcbbef4028cfb324b0ab72628c"
+  },
+  "original_local_pptx_sha256": "41001775b80cb9c2a8a52cc354cb54ff63ac3bfd979e12ed608fe477c131593e",
+  "visual_payload_sha256": "fb8eaf80c32ce7fe0c61ba597fd75eaa5eb391849b808142c73bf140c8d694c8",
+  "dedup_note": "现有素材主要用节点链表示方法；本图用行列矩阵组织两路来源，并在底部括号内合成目标函数，适合展示模型如何同时考虑人类偏好与行为数据。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

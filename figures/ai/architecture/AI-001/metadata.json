@@ -1,0 +1,57 @@
+{
+  "id": "AI-001",
+  "domain": "AI顶会",
+  "conference": "CVPR",
+  "year": 2025,
+  "award_name": "Best Paper",
+  "paper_title": "VGGT: Visual Geometry Grounded Transformer",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "用色块区分多视图token；交替注意力层嵌套；一主干多任务分支，适合大模型/感知系统总览。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 183,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0208",
+  "source": {
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html",
+    "award_url": "https://www.thecvf.com/?page_id=413",
+    "pdf_sha256": "b2e33f1040badf274373ad810c6ac0c272597195427ac6a0f171d5933b639a0e",
+    "pdf_page": 3,
+    "crop_bbox": [
+      58,
+      72,
+      554,
+      253
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-001/AI-001.pptx",
+    "svg": "figures/ai/architecture/AI-001/AI-001.svg",
+    "preview": "figures/ai/architecture/AI-001/preview.png",
+    "reference": "figures/ai/architecture/AI-001/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 2
+  },
+  "hashes": {
+    "pptx": "6ac039bbef257b628d3997cbdac97eb20ecaabc7a6a7d2f70556ee9e3e710e2a",
+    "svg": "68bc5d58b391563c32c109858368c5be826c9e1efdfa09b1314574e8eeb07831",
+    "preview": "fa2e8a5bb82001a0a4b6c16ba1e623adbbb112bb90d60c9d18ce73f37300cb1a",
+    "reference": "b6a38f78f5d181cc75eb459969bc02458c21b7733dadc63ae2b7b0165cc0d207"
+  },
+  "original_local_pptx_sha256": "d9b887c3be5a8075344fced72b17ab1376f81c4a47413f502fcff4cd407b84b5",
+  "visual_payload_sha256": "e9eb6bec8fdf6c839ac645eb73da60e91425f33929633e98b2ab61bbc4d4c044",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

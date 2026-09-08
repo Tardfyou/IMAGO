@@ -1,0 +1,57 @@
+{
+  "id": "SEC-022",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems",
+  "figure": "Figure 4",
+  "category": "方法细节",
+  "reuse_value": "每一阶段用红绿矩阵表示启用维度，并用层次括号表达选择关系，适合搜索、约束扩展和组合方法。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 312,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0066",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2409.01992",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "a7a7bb89f060381e2922f900b15f249c11ed933a643cb724020b22c1927695f3",
+    "pdf_page": 9,
+    "crop_bbox": [
+      140,
+      81,
+      491,
+      382
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-022/SEC-022.pptx",
+    "svg": "figures/security/method/SEC-022/SEC-022.svg",
+    "preview": "figures/security/method/SEC-022/preview.png",
+    "reference": "figures/security/method/SEC-022/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 32
+  },
+  "hashes": {
+    "pptx": "ac385c88a8dea7a2299565a224e14f5e11a6c6fc390183ad29edfb7e0840df2a",
+    "svg": "4a7196258be2b2cb81aae6e6553fc1563f426f6216be495e136c6333718cfd00",
+    "preview": "9d824411c74da67f0840e32a09d137eec238721d16b793874235756f608377c6",
+    "reference": "6bcc5e407f950af63cfa2a1e85522bbba47bed21e1e67df9dd54ca775fdf6ff3"
+  },
+  "original_local_pptx_sha256": "7f3363f5a174e6a776f9ec683c18d279d852bbed6b2724ca0eefabdff37297a1",
+  "visual_payload_sha256": "e2deb53a3340046dff1fa045242d6ca498a64ea86140654ada4e90f6efd52186",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

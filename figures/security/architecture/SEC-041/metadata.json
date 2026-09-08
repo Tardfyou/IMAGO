@@ -1,0 +1,57 @@
+{
+  "id": "SEC-041",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Follow My Flow: Unveiling Client-Side Prototype Pollution Gadgets from One Million Real-World Websites",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "三阶段面板使用上下双分支、多网站来源、运行时插桩及回流连接，把动态探索过程与最终验证分开。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 58,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 20
+  },
+  "paper_id": "PAPER-0035",
+  "source": {
+    "paper_url": "https://yinzhicao.org/ProbetheProto/FollowMyFlow.pdf",
+    "award_url": "https://sp2025.ieee-security.org/awards.html",
+    "pdf_sha256": "589695ce2799c7341c7812afe62a635587c02346cf6461ac54703b198b54d83d",
+    "pdf_page": 4,
+    "crop_bbox": [
+      104,
+      74,
+      501,
+      289
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-041/SEC-041.pptx",
+    "svg": "figures/security/architecture/SEC-041/SEC-041.svg",
+    "preview": "figures/security/architecture/SEC-041/preview.png",
+    "reference": "figures/security/architecture/SEC-041/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 14
+  },
+  "hashes": {
+    "pptx": "931ad43488794368218dbda237d014045e6af411d847d8efdd619b76236bfb88",
+    "svg": "48bda0d1ea7defb5aff2416ad31216cf613bbbd2331185038dc18710aa4b54e5",
+    "preview": "64eedc144d945286aa3fb3b05b5107a73612fe4cf4ec92f667410f99642bc335",
+    "reference": "db0b601a46f52f3606660d1c7eb231e1d837e790a30e23dafea57a34d2e55d7f"
+  },
+  "original_local_pptx_sha256": "33dc4f6b3a98713d8a121ecba296a02fdf9f7ae32f0874e1477621cc3e444d03",
+  "visual_payload_sha256": "c2c5b74f777976a9e91cd23130a0101ec888a3cbb85d124643a32b07b69ccdd1",
+  "dedup_note": "区别于已有单线检测流程，此图新增跨站值迁移、上下并行阶段和未定义属性回流，适合动态分析及跨任务迁移。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

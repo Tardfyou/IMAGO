@@ -1,0 +1,57 @@
+{
+  "id": "AI-089",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic Memory Dynamics",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "把对话评分、原子声明抽取、记忆合并和回写分支连接为同一闭环，可复用到状态型Agent测量流程。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 121,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0157",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.2203/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "50c917e508078443346d441ad274a5030caefa7c6113615f93f81179d85aea8f",
+    "pdf_page": 2,
+    "crop_bbox": [
+      82,
+      70,
+      513,
+      208
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-089/AI-089.pptx",
+    "svg": "figures/ai/architecture/AI-089/AI-089.svg",
+    "preview": "figures/ai/architecture/AI-089/preview.png",
+    "reference": "figures/ai/architecture/AI-089/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 26
+  },
+  "hashes": {
+    "pptx": "493b7261f7baa6da5f3b0a28332652b1ef285ce37908e0ede5241fd98f8b127b",
+    "svg": "2b9739bdc07617aa0459e029c5fab15257cdb1e11dd581f5368eca4ea3e21ae3",
+    "preview": "4c112e7018cb1803374b0294c846904a5a7c66e61938daa8f1f59e7270a60986",
+    "reference": "d9180c9d2881e4c9fc07ea359d2c9f412a13a4841e0548d12c848a2fd764e2a3"
+  },
+  "original_local_pptx_sha256": "8b07811d4c84a7aa3e6a6304d9ee30323df62179baeaa2a821cd6d201e88e2ed",
+  "visual_payload_sha256": "ddf33ddefff4f7f04eb93298baf2f22453568ca226859061466f9e71e13ac827",
+  "dedup_note": "区别旧AI017的单向反馈流程，本图显式区分Add/Update/None三种记忆操作，并将评分上下文接回统一记忆库。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-091",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "SoK: Unintended Interactions among Machine Learning Defenses and Risks",
+  "figure": "Figure 1",
+  "category": "动机示例",
+  "reuse_value": "四个同尺度分类平面保留训练/测试点型与真实决策边界，在二元因素组合下对比记忆与泛化。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 952,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0069",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2312.04542",
+    "award_url": "https://www.ieee-security.org/TC/SP2024/awards.html",
+    "pdf_sha256": "677b24b0c602c34609d44648aec8a29f739dcd9016418ca941d03e4d5449228e",
+    "pdf_page": 5,
+    "crop_bbox": [
+      55,
+      229,
+      294,
+      444
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/motivation/SEC-091/SEC-091.pptx",
+    "svg": "figures/security/motivation/SEC-091/SEC-091.svg",
+    "preview": "figures/security/motivation/SEC-091/preview.png",
+    "reference": "figures/security/motivation/SEC-091/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 62
+  },
+  "hashes": {
+    "pptx": "cb050e7f72ad80dcdc8531ac5c9f684bff6854d915f9c168d4e3d3e61219248c",
+    "svg": "13d83370d0c3619a278ecf3ff54016cfe71884d49717f974d959ac83816c08a8",
+    "preview": "1da03b71632c793e4f4530002d1b9ba09a4bf53df627d445af37fce51919c3f4",
+    "reference": "202117ccfdc3ae787f23cf4bd013ecefa427bdb00ea2b4d3e41a16a62456564e"
+  },
+  "original_local_pptx_sha256": "2178105a89a94c2dae4519ae30150e80314faa2edaf9503170832d525ff0c915",
+  "visual_payload_sha256": "c3fb289cf78ce1ddc0d40fdbadc118458a606bf2891d8ef3aa710b2e0da6d2d2",
+  "dedup_note": "新增二维概念组合的决策边界示例，区别于性能热图和网络架构，适合解释两个容易混淆的概念。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

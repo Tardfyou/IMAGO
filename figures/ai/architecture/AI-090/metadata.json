@@ -1,0 +1,57 @@
+{
+  "id": "AI-090",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "左侧真实偏好差异与右侧两阶段训练对齐，数值权重和输出概率的乘加关系直观可改。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 134,
+    "groups": 0,
+    "native_text_runs": 50,
+    "images": 5
+  },
+  "paper_id": "PAPER-0200",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.882/",
+    "award_url": "https://2025.emnlp.org/program/awards/",
+    "pdf_sha256": "c7141fbc15f9dfc52e0bd72189b54d0df953ec0c778561ff67cce338fa6cc3b3",
+    "pdf_page": 2,
+    "crop_bbox": [
+      73,
+      70,
+      526,
+      247
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-090/AI-090.pptx",
+    "svg": "figures/ai/architecture/AI-090/AI-090.svg",
+    "preview": "figures/ai/architecture/AI-090/preview.png",
+    "reference": "figures/ai/architecture/AI-090/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 27
+  },
+  "hashes": {
+    "pptx": "12b4ffd04c7160a6fd38c90413e730e80aa0f953c1da4d3288901327ea955738",
+    "svg": "235c1511f08c2dd716a44d0993c6ae52416a065e381b653ed9c92842d2971d5d",
+    "preview": "cad56a806d2cc2adfb3628552e08c4139ced73782589c78afbe0087fdc2842b1",
+    "reference": "21dcb30091148963693e13a72772465d90f03bb69be28acdcd7e47ab08ffbcf8"
+  },
+  "original_local_pptx_sha256": "237596273ebe35cfcaac5b0a11d4816592dddd72fed10c5d9cc7105e23b68783",
+  "visual_payload_sha256": "2c429c7c10e110445af31e02765f966797f1ca46078ebacba833a24d2123a930",
+  "dedup_note": "区别旧一般MoE网络，本图把人的不同价值偏好映射为个性化分布，并同时画出二元训练和推理路由。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

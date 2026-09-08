@@ -1,0 +1,57 @@
+{
+  "id": "SEC-073",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "多个FSM和网络轨迹沿迭代流程串联，数据库反例、模型验证及细化同时出现，可用于形式模型发现与测试。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 497,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0063",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-tu.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/tu",
+    "pdf_sha256": "edeb2b3ae8e2c5c072a31f77b7eefbe07ce4820c475550d40807c2a17ef51803",
+    "pdf_page": 7,
+    "crop_bbox": [
+      51,
+      70,
+      559,
+      171
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-073/SEC-073.pptx",
+    "svg": "figures/security/method/SEC-073/SEC-073.svg",
+    "preview": "figures/security/method/SEC-073/preview.png",
+    "reference": "figures/security/method/SEC-073/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 46
+  },
+  "hashes": {
+    "pptx": "868015d14ba73d40e65fbe6115d31b03813b2061e1ce3156bef4942369ed3da9",
+    "svg": "64bb9e85e2612ab2f511ee965db8162f7b0362f2801668ce066c6023f2f383b3",
+    "preview": "e0b606b02383d8fa5d3f500edc1b89af723bfd5783e8027afe9a86b624b8072b",
+    "reference": "8e85b2f324b559dd7ef50be8654fe1663ceaf01c9844a6fe84ab74f18167f325"
+  },
+  "original_local_pptx_sha256": "4a2c10ed7ebe056f932c7bec651690c7d99bede260061ea3ed458e2dc029791e",
+  "visual_payload_sha256": "0ea201abb6ca9e35971856265e2f6366edfcc4c327b59291f6719345b060fd57",
+  "dedup_note": "新增基于反例的图模型演进全过程，区别于已选协议状态表时序及单次CFG覆盖。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SE-099",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2026,
+  "award_name": "FSE26 Distinguished Paper Award",
+  "paper_title": "Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study",
+  "figure": "Figure 7",
+  "category": "动机示例",
+  "reuse_value": "左右对照默认与精简编译，两端保留完整CFG缩略图，中间用虚线定位到放大的汇编基本块，并用红/绿突出删改导致的结构和语义差异。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 143,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0088",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2606.28870",
+    "award_url": "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#fse26-distinguished-paper-awards",
+    "pdf_sha256": "79c3df87d3c339ed01833414bcca2cb46dc9bf4fb2b5e14d069ff58e30d74e92",
+    "pdf_page": 15,
+    "crop_bbox": [
+      51,
+      240,
+      440,
+      433
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/motivation/SE-099/SE-099.pptx",
+    "svg": "figures/software-engineering/motivation/SE-099/SE-099.svg",
+    "preview": "figures/software-engineering/motivation/SE-099/preview.png",
+    "reference": "figures/software-engineering/motivation/SE-099/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 64
+  },
+  "hashes": {
+    "pptx": "8dbd23ed005ad0dd4563b9f7c578ffd558d5fc4bc662419ae64319ce4c10c11e",
+    "svg": "73587df09fd3d2bef8b33e9a82161673ff87b98c1f25a0afd8e979b5e4d70454",
+    "preview": "286637f9a6ecd0de154a4ad8f3cbf498f11c983e3183ad60e525e0e0ce072d29",
+    "reference": "756cbf3054d37d42c5b7f81ed59527efc66213f8dfcc30d615c656966f3eb23d"
+  },
+  "original_local_pptx_sha256": "df61195c8f39b1598178e9ec8c976294c63159568e89cc8eb25c90bc25934c4c",
+  "visual_payload_sha256": "5f6b8e407a62b352f3ebc466a0a6b44193379c94155e99a388023fcd76c89295",
+  "dedup_note": "同论文SE069是实验基准构造，本图是解释真实失败原因的证据布局；全局结构缩略图与局部代码放大同步对照，区别于已有普通代码diff或单独控制流图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

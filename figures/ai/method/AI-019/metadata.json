@@ -1,0 +1,57 @@
+{
+  "id": "AI-019",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Deciphering Oracle Bone Language with Diffusion Models",
+  "figure": "Figure 5",
+  "category": "方法细节",
+  "reuse_value": "以古文字和现代字形样例解释局部patch配对、噪声预测和迭代平均；上下区分训练与推理。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 126,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 13
+  },
+  "paper_id": "PAPER-0216",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.831/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "9a45c012c88d5f3e9dfecb5a3c5c17ed3acc2364153a79cc172c7da20ed83078",
+    "pdf_page": 5,
+    "crop_bbox": [
+      115,
+      71,
+      480,
+      258
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-019/AI-019.pptx",
+    "svg": "figures/ai/method/AI-019/AI-019.svg",
+    "preview": "figures/ai/method/AI-019/preview.png",
+    "reference": "figures/ai/method/AI-019/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 35
+  },
+  "hashes": {
+    "pptx": "fd466daf93e1dd3f6f416f1a56ad69f60533998d563a6c44dc0b49a07e66360f",
+    "svg": "b3eb1f6207a9ef24f06881e45fb48aef58c4e7058fc645821171f558ea86de67",
+    "preview": "5240963909d89e6fbf95a1cd94438d3677a97c1257de9635018ef7445e4a4a51",
+    "reference": "ec55c3cb7c8f4a76eee8677a17ee53251201b4ad8ebbd41ee462e400cadc3cbd"
+  },
+  "original_local_pptx_sha256": "36175c2ae43d4e4335f826293302c31f3cb4ed470f0656934dc83b7fdcebbb96",
+  "visual_payload_sha256": "79161784bca24ff9ad5bf2ed831b5bcf1ac04f6574e6bea0bae30a552a72b885",
+  "dedup_note": "旧库虽有训练/推理分区，但没有以局部字形patch映射与噪声还原解释结构迁移的具体构图，非裁剪变体。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

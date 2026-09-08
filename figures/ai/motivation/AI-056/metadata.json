@@ -1,0 +1,57 @@
+{
+  "id": "AI-056",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "MMToM-QA: Multimodal Theory of Mind Question Answering",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "按信念和目标两大类排列七种推理情形，每类包含视频、场景、问题和正确选项。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 143,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0226",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.851/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "5a2c8ffccbfbf8786e29b7a08919fb3abdecfed9e3665cdc462e2ad04614f602",
+    "pdf_page": 4,
+    "crop_bbox": [
+      74,
+      70,
+      518,
+      310
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/motivation/AI-056/AI-056.pptx",
+    "svg": "figures/ai/motivation/AI-056/AI-056.svg",
+    "preview": "figures/ai/motivation/AI-056/preview.png",
+    "reference": "figures/ai/motivation/AI-056/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 64
+  },
+  "hashes": {
+    "pptx": "f986a30eed77eba03d7af2fc12f690a0d4d40c6d23cad567af8003359c75ec53",
+    "svg": "64afac5841b2a562f9bcb2e0d2e4a0865b534d6b0001c4cc93f9112680af8976",
+    "preview": "e7b92bbd150b0f562b414eebe9f004badc1d258446972346062926d9c2190caa",
+    "reference": "9c197a10abcd365227980599f4419902557bcdff91d1bdd081b5abc3ed039257"
+  },
+  "original_local_pptx_sha256": "a17d8d90ed9a45391473d40c89fe95a0d4b36e019c36674faee0b6afb3fa601c",
+  "visual_payload_sha256": "09b5e544ee481aab9ed45ecb3fc0d226026b4169d537b6dea50d8f38f7ae66b0",
+  "dedup_note": "区别AI033模型推理架构：本图提供例子驱动的任务分类矩阵，适合解释基准的能力边界。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

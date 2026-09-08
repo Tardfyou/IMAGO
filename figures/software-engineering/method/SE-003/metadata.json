@@ -1,0 +1,57 @@
+{
+  "id": "SE-003",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Modularizing while Training: a New Paradigm for Modularizing DNN Models",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "训练与模块提取双区，内含特征图、掩码、损失和组件集合，适合分阶段学习/剪枝/复用机制。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 453,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0147",
+  "source": {
+    "paper_url": "https://gaoxiang9430.github.io/papers/icse24a.pdf",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#42nd-international-conference-on-software-engineering-icse-2024",
+    "pdf_sha256": "00178ef44fd7f47c779706771d854cde8157f8c30a4d871e9f4328db34417d52",
+    "pdf_page": 4,
+    "crop_bbox": [
+      52,
+      84,
+      560,
+      217
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-003/SE-003.pptx",
+    "svg": "figures/software-engineering/method/SE-003/SE-003.svg",
+    "preview": "figures/software-engineering/method/SE-003/preview.png",
+    "reference": "figures/software-engineering/method/SE-003/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 34
+  },
+  "hashes": {
+    "pptx": "c4268fbf4f304e0341f41f89b01c2489f520e84418f01b803bf31aed947613c1",
+    "svg": "461c2bc4a20efd7a0068b9c185161fd9a7109d30e4e41b98b9f17c15a5bd6361",
+    "preview": "6f0097c70073292ed4285d8fcee1a51a030336a026166e252090183aa3ab6581",
+    "reference": "4d2b1b758760bf2c685f87b1686c2b64446c82eeb7f409a6d1a93dcb9ba2f111"
+  },
+  "original_local_pptx_sha256": "902ff39efb133b586a11757594aa5283177bef5a934e1c6bd04309dcae23cd1b",
+  "visual_payload_sha256": "22e0f3f18cdfc1abee9baf4f14dfc14bdac2e1eafc3bf378de773cf706b54d99",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

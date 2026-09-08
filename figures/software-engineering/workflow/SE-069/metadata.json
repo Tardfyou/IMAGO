@@ -1,0 +1,57 @@
+{
+  "id": "SE-069",
+  "domain": "软工顶会",
+  "conference": "FSE",
+  "year": 2026,
+  "award_name": "FSE26 Distinguished Paper Award",
+  "paper_title": "Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "左侧真实固件、第三方源码及漏洞库三路采集/编译/解析并行，右侧函数池与漏洞集对照已有基准选择方法，再分解四个RQ。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 210,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 15
+  },
+  "paper_id": "PAPER-0088",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2606.28870",
+    "award_url": "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#fse26-distinguished-paper-awards",
+    "pdf_sha256": "79c3df87d3c339ed01833414bcca2cb46dc9bf4fb2b5e14d069ff58e30d74e92",
+    "pdf_page": 5,
+    "crop_bbox": [
+      52,
+      145,
+      434,
+      277
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-069/SE-069.pptx",
+    "svg": "figures/software-engineering/workflow/SE-069/SE-069.svg",
+    "preview": "figures/software-engineering/workflow/SE-069/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-069/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 95
+  },
+  "hashes": {
+    "pptx": "7f9425b781f4ca1cbaaecb611f9d4fa8e6ef16f23d6046c6f2d8a736bd3e139a",
+    "svg": "49a02ec7d3bd9d6ce3d05266a3c5de787e87c4d5f735c876c022741fb0b638cd",
+    "preview": "67b2472bd65e7f55f4a4d5cb8926cc2d02372936d92d38a0af7dc2a696887fa9",
+    "reference": "5e97563d975b4f4cf8a49ca812ee525113dca5219ee710d3adddb7a74dd42105"
+  },
+  "original_local_pptx_sha256": "7128c1cc855c798027e025dfc2f39dac3f9743e61298f98254225f9d77e6626a",
+  "visual_payload_sha256": "dc6b95fc88943ec8f1e7ae88b4493e9b8f8ea527720fe9aa1c6de1f71ecd76d2",
+  "dedup_note": "与已有通用数据处理图不同，这里对齐真实固件、从源码控制编译得到的二进制和漏洞版本证据，并连接训练测试基准与四个变化因素的评估。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

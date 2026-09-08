@@ -1,0 +1,57 @@
+{
+  "id": "AI-079",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Reliable Conflictive Multi-View Learning",
+  "figure": "Figure 2",
+  "category": "方法细节",
+  "reuse_value": "将文本和图像各自的证据向量映射为可信度单纯形，再解释两个高可信意见如何形成低可信聚合。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "保留原有矢量底稿；三处单纯形主体由原生投影几何、等密度轮廓、红线/点和文字组成，公式与引文碎片转为原生源轮廓。仅汉堡示例照片保留位图。按可见几何复刻，不推测未印出的证据/不确定性数值。",
+  "object_counts": {
+    "shapes": 438,
+    "groups": 0,
+    "native_text_runs": 5,
+    "images": 1
+  },
+  "paper_id": "PAPER-0230",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29546",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "11950d7568df4ac22ece4ea9632c3d5abcae5aabe587df3ef4324a7ef67a0657",
+    "pdf_page": 3,
+    "crop_bbox": [
+      79,
+      53,
+      534,
+      248
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-079/AI-079.pptx",
+    "svg": "figures/ai/method/AI-079/AI-079.svg",
+    "preview": "figures/ai/method/AI-079/preview.png",
+    "reference": "figures/ai/method/AI-079/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 54
+  },
+  "hashes": {
+    "pptx": "f36646ec6ea33ab6c6b0f76decf5bb9d1cdf928e262dde02b7a0835fff077290",
+    "svg": "77db360a2d551f7d79b09b201fe10effa70988e7166dcab56ff407445894b2f9",
+    "preview": "9af80a25c64f0a50c1eabaa38ca9800a65619e5ee5e5550f798451d2423fa4fb",
+    "reference": "8d2c7f69f51676fd3a3ed1b1160e78e1cfaf5fcc31556f33a14605c5fb03fa65"
+  },
+  "original_local_pptx_sha256": "a342e2f66332262e2e6c67be90ded277b0f417231abd528d16ecb792dd72feee",
+  "visual_payload_sha256": "c3337264663a9159fd591f6e59e9d117c7ed92a6144cd9358ec31c891c50997c",
+  "dedup_note": "旧库没有用三角单纯形表示belief/reliability并联到冲突融合的机制图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

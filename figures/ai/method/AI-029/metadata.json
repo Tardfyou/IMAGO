@@ -1,0 +1,57 @@
+{
+  "id": "AI-029",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Pre³: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "在同一状态图中叠加接受边、归约边、压栈/弹栈和当前栈内容，适合解释解析器机制。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 116,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0204",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.acl-long.551/",
+    "award_url": "https://2025.aclweb.org/program/awards/",
+    "pdf_sha256": "57f36514e654be1fe5902210917cbcda84773274590eea381f9560cf257d2c2f",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      292,
+      261
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/method/AI-029/AI-029.pptx",
+    "svg": "figures/ai/method/AI-029/AI-029.svg",
+    "preview": "figures/ai/method/AI-029/preview.png",
+    "reference": "figures/ai/method/AI-029/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 37
+  },
+  "hashes": {
+    "pptx": "06cab67f7ebda8f32c6df58655fdd85a94753e743407522fac0f2f0772a03662",
+    "svg": "08172bf3c22cfc57e8108f976285a14cc6c89e2fd766b8a9aa613fbe2a6acfa9",
+    "preview": "949acd135b0b79d39e8c299c2f04f4d5676a7ceba60508a2f22945a2408a1297",
+    "reference": "a014bbbed17e93b7bdca06ac02505b76fad5961dc0d12c5bcd6c8dcf40ea49ec"
+  },
+  "original_local_pptx_sha256": "090453360523450e1d7649499946191df4390369179449e95e38ad0e94cc5245",
+  "visual_payload_sha256": "4688492514c229eb195d6392719b39580ce63fbb59345e24841370419a21925d",
+  "dedup_note": "与本论文总览图分开表示一个具体DPDA执行过程；旧库没有栈-图同步的机制图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

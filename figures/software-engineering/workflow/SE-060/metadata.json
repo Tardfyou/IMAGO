@@ -1,0 +1,57 @@
+{
+  "id": "SE-060",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "两路报告先汇聚，经专家实车验证和讨论形成漏洞集；右侧对照既有论文的分类体系，输出位置、类型和风险的数量化覆盖。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 111,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0087",
+  "source": {
+    "paper_url": "https://sen-chen.github.io/pdf/C61-ICSE2026-Towards%20Understanding%20and%20Characterizing%20Vulnerabilities%20in%20Intelligent%20Connected%20Vehicles%20through%20Real-World%20Exploits.pdf",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "b289177ca1f32d5e8c4419bf168b611aee3363f1e9c105dffe8dba95cadc28a5",
+    "pdf_page": 4,
+    "crop_bbox": [
+      55,
+      84,
+      557,
+      202
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/workflow/SE-060/SE-060.pptx",
+    "svg": "figures/software-engineering/workflow/SE-060/SE-060.svg",
+    "preview": "figures/software-engineering/workflow/SE-060/preview.png",
+    "reference": "figures/software-engineering/workflow/SE-060/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 92
+  },
+  "hashes": {
+    "pptx": "2db8d8f5af1ae687110e823884e4b4e3c8b198fba1844c51fbbb9a7ddfd5eb37",
+    "svg": "9c4d91674074eb3a13c14c8beaf06b2a5bea2e0bbd42962e77a3d7238ed0ebf0",
+    "preview": "e2bce07e0cdef4a78c20a1393e1f2fdd838003ac4d95144d9e5e3fa1fa144ff5",
+    "reference": "af913a0eaa0225f397d92d989e6a28e582cf54544eb04273e20b412d5e0c289b"
+  },
+  "original_local_pptx_sha256": "5320d10e2433fe80a2614f17d5c90a63fccdeccf7b41ee3d6a6f00319d9a083b",
+  "visual_payload_sha256": "1852053dfe80b40a1d86bf20fd06913fb989ca8679c65eda26ae12d5c285d943",
+  "dedup_note": "与SE-057的系统生态图类型不同；旧多角色工具流程没有真实报告→专家验证→既有分类覆盖核查的证据链，本图适合实证数据集构建研究。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

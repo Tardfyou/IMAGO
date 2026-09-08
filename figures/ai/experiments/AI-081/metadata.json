@@ -1,0 +1,59 @@
+{
+  "id": "AI-081",
+  "domain": "AI顶会",
+  "conference": "AAAI",
+  "year": 2025,
+  "award_name": "Outstanding Paper – AI for Social Alignment Track",
+  "paper_title": "DivShift: Exploring Domain-Specific Distribution Shift in Large-Scale, Volunteer-Collected Biodiversity Datasets",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "四区组合直方、双分布、时间曲线、关系散点和局部地图，把偏差来源与分布变化配对。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "坐标轴、文字、分布色区、可见散点轮廓和时间曲线均为原生。统计几何按已发表像素边界转写，24色近似及0.35像素边界简化，不恢复或生成原始观测数据；接触点可能合成一个轮廓。旧标注覆盖下的底色按邻近同类区域补齐后以原生文字替换。仅地理局部图及其地图专用标注保留为独立原图资产。",
+  "object_counts": {
+    "shapes": 1361,
+    "groups": 0,
+    "native_text_runs": 84,
+    "images": 1
+  },
+  "paper_id": "PAPER-0188",
+  "source": {
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35060",
+    "award_url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+    "pdf_sha256": "9174992550fb793e41074a7b6d0838f0e49f1d3e27e77531b28ebce0b3ccf708",
+    "pdf_page": 5,
+    "crop_bbox": [
+      58,
+      53,
+      558,
+      274
+    ],
+    "source_title_alias": "DivShift: Exploring Domain-Specific Distribution Shifts in Large-Scale, Volunteer-Collected Biodiversity Datasets",
+    "source_identity_note": "AAAI官方奖表列Elena Sierra、Lauren Gillespie、Moises Exposito Alonso三作者；同官方OJS论文PDF列Elena Sierra、Lauren E. Gillespie、Salim Soltani、Moises Exposito-Alonso、Teja Kattenborn五作者，题名Distribution Shift/Shift(s)亦有单复数差异。绑定官方OJS同DOI来源，保留奖表与出版版本差异。"
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-081/AI-081.pptx",
+    "svg": "figures/ai/experiments/AI-081/AI-081.svg",
+    "preview": "figures/ai/experiments/AI-081/preview.png",
+    "reference": "figures/ai/experiments/AI-081/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 85
+  },
+  "hashes": {
+    "pptx": "2a148f8b2724fb92925818ce248ec0d5480b8e17219f8f706008d1e28780c18c",
+    "svg": "450312627723a3d1c1b0afb2fa7a43e16931ee9edf85beff21084a424af9e530",
+    "preview": "929ee91f03426c51f21585fdcb824ab6e009b70917f0b36d24e1878a7a26ba8a",
+    "reference": "01ea948a7a3a823c7f393a5cec92d8ad4c39454309d94860b19eacd253b518ba"
+  },
+  "original_local_pptx_sha256": "83512015fdb5d0376ad96c6868438559fe0cc4728bc194e1ee4a68c9848bf2e7",
+  "visual_payload_sha256": "d58663f8c3ed871ca42301e2d6b65b43dba9fd2301e1c61a2361816a6d1745a1",
+  "dedup_note": "区别同论文空间概览，直接将四类偏差做定量分解；旧库没有这种统计图与边界地图的对应组合。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

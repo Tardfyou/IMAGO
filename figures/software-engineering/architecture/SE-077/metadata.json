@@ -1,0 +1,57 @@
+{
+  "id": "SE-077",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling Vulnerabilities in Prospective Deep-Learning Libraries",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "三大色块嵌入历史issue、API文档、代码对与微调示例，最终经CPU/GPU及跨库差分发现缺陷，再回流到历史源库。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 204,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 43
+  },
+  "paper_id": "PAPER-0120",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2412.01317",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-47th-international-conference-on-software-engineering-icse-2025",
+    "pdf_sha256": "7c5247f5070004cd985e515259bf23279f56ef3111687db2bf5d33d755308789",
+    "pdf_page": 3,
+    "crop_bbox": [
+      49,
+      51,
+      567,
+      335
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-077/SE-077.pptx",
+    "svg": "figures/software-engineering/architecture/SE-077/SE-077.svg",
+    "preview": "figures/software-engineering/architecture/SE-077/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-077/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 31
+  },
+  "hashes": {
+    "pptx": "15b67a3e99536d2e7ae4b97a0e4fc2bb2b3bd6d3473b9eda80b06b3f00ac5742",
+    "svg": "101b932ab4523eef30d8fd1e9d1b425049773fa9b436d73ed9bdad853e79ff1b",
+    "preview": "ac6f6050cbabcc413650ad1a814de990a68908001f4b7c721b9e351482bed25e",
+    "reference": "3d67af512690b4c00960653f3626c2c0dad1ba2b9454f9cc812126e317b5a352"
+  },
+  "original_local_pptx_sha256": "de054e9929534aaf398fd9a37bc74783758bb86495016a6a00c1d6981bc2994d",
+  "visual_payload_sha256": "a24a1b5fb53476ebd30f57dd22c9dc7f0c75b6da0908ca000e492551a1b6bb8a",
+  "dedup_note": "与普通LLM测试架构不同，强调从成熟库的历史缺陷迁移到新库的知识路径，且两侧缺陷回流和中央代码转换/生成数据集同时展开。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

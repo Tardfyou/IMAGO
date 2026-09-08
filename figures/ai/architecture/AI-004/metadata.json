@@ -1,0 +1,57 @@
+{
+  "id": "AI-004",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "CollabLLM: From Passive Responders to Active Collaborators",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "面向人机交互的上下文/仿真/奖励/策略闭环，突出局部展开和在线反馈，可复用于agent系统。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 119,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 26
+  },
+  "paper_id": "PAPER-0186",
+  "source": {
+    "paper_url": "https://icml.cc/virtual/2025/oral/47250",
+    "award_url": "https://icml.cc/virtual/2025/awards_detail",
+    "pdf_sha256": "80cbc31da842a69c0be72aeb9c9e847e4ca33463cbb18ebb6de1a26e2d8c5464",
+    "pdf_page": 1,
+    "crop_bbox": [
+      82,
+      193,
+      510,
+      334
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-004/AI-004.pptx",
+    "svg": "figures/ai/architecture/AI-004/AI-004.svg",
+    "preview": "figures/ai/architecture/AI-004/preview.png",
+    "reference": "figures/ai/architecture/AI-004/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 3
+  },
+  "hashes": {
+    "pptx": "dbc349868663459ed0a312f774922654ee481b0f0b20c03af7e049f489db7ae2",
+    "svg": "a463937380b95a641c572ada56b4287fd73f6597d943fbe59f897874cbfe9fa4",
+    "preview": "30bfc41ad0fb0d9183b3ee91692f25a61063c13f7fc08f2b13baa59d5dee070a",
+    "reference": "693b2fc89f2a8a8c896b301833d5d975d28879d722e1f838faca5f97f3d13ba0"
+  },
+  "original_local_pptx_sha256": "cb09e914a93280c467995bb98bcf509ef0216f92013aeaf9aa8f617486f1b43e",
+  "visual_payload_sha256": "3779ef7694d5f9689616a4a31235a5198398bce90efd8d119671c1358c20683c",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

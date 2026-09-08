@@ -1,0 +1,57 @@
+{
+  "id": "SEC-002",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "上下划分训练与推理，左侧多分支物理信号汇聚进入学习器，适合多模态检测和机理融合方法。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 386,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0047",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-3389-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "77b771838a844fe5f088aa8d86a790b113eaa8de17fadadf55515c9ad63b7e03",
+    "pdf_page": 5,
+    "crop_bbox": [
+      307,
+      49,
+      554,
+      234
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-002/SEC-002.pptx",
+    "svg": "figures/security/architecture/SEC-002/SEC-002.svg",
+    "preview": "figures/security/architecture/SEC-002/preview.png",
+    "reference": "figures/security/architecture/SEC-002/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 6
+  },
+  "hashes": {
+    "pptx": "f1982803ca40bca54a262c9084563e03a3cef3ff954253823b265fb5f555e62c",
+    "svg": "241a79b06c26690593e5f6925cb07bc3ac33c6d4086123aab8952d6e69653804",
+    "preview": "fb825a979f2bc6ee313b30a98e2ef559f8af7994e43fd921264e6a47c5b6c3f8",
+    "reference": "bc7432a3abf369a6184a06e4526318570589b307381834c21b1e021ccf0e0071"
+  },
+  "original_local_pptx_sha256": "99e2dc4287c638684d15aab734ab50376a9bbd9b495d4c338e6890031dd45001",
+  "visual_payload_sha256": "01e6bbc84859597bd217e812b822c1d1e9406f04005f715a743923d2b85fa5ba",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

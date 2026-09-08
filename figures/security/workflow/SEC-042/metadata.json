@@ -1,0 +1,57 @@
+{
+  "id": "SEC-042",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Unveiling Security Vulnerabilities in Git Large File Storage Protocol",
+  "figure": "Figure 3",
+  "category": "研究流程",
+  "reuse_value": "五列展示平台、支持特性、攻击准备、安全属性矩阵及多种攻击验证，适合大型测量研究的模块化全景图。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 127,
+    "groups": 0,
+    "native_text_runs": 72,
+    "images": 39
+  },
+  "paper_id": "PAPER-0046",
+  "source": {
+    "paper_url": "https://nesa.zju.edu.cn/download/sp2025c2-final59.pdf",
+    "award_url": "https://sp2025.ieee-security.org/awards.html",
+    "pdf_sha256": "80d47fb19b611674e02d863d17260e7b1ce7b83254b45cc776712b946bc6855d",
+    "pdf_page": 8,
+    "crop_bbox": [
+      47,
+      68,
+      558,
+      243
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-042/SEC-042.pptx",
+    "svg": "figures/security/workflow/SEC-042/SEC-042.svg",
+    "preview": "figures/security/workflow/SEC-042/preview.png",
+    "reference": "figures/security/workflow/SEC-042/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 92
+  },
+  "hashes": {
+    "pptx": "ca9281fc7d4c0d21b87efd99103072499d137e08e911fb925e4b86de24974f0a",
+    "svg": "030098121b4a42ac7113fee0785eedd7beee5f045d6f43010dca618a0bf10e2b",
+    "preview": "bc1492f391ef298c8ddee0244bcbf313fe78b49fab69549165842407e75a17d9",
+    "reference": "379479adb109564f643181b6585ebd4c2d05fc979f8f8c45768150655abcb1bd"
+  },
+  "original_local_pptx_sha256": "3f6866d9da15048fdd9a80123d892145d9cb35557ad54f1687d3ceacc0c531da",
+  "visual_payload_sha256": "10cd2cfb8a118aa8ddfbc2f5ee004d91464e170336c978876d86622211548d45",
+  "dedup_note": "已有BACScan聚焦执行工具链，此图将五类安全属性和四类攻击场景嵌入全景流程，矩阵结构及维度对齐可独立复用。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

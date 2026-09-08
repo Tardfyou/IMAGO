@@ -1,0 +1,57 @@
+{
+  "id": "SEC-065",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites",
+  "figure": "Figure 6",
+  "category": "研究流程",
+  "reuse_value": "物理、链路、封装三层内保留分支和反转处理，用双色箭头与真实计数同时展示原有路径与新覆盖范围。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 131,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0032",
+  "source": {
+    "paper_url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "c64051110c035c2a151cccb60c17b0a81f42be2d31c72ad27ac96c4a96aeeba5",
+    "pdf_page": 8,
+    "crop_bbox": [
+      109,
+      82,
+      510,
+      246
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/workflow/SEC-065/SEC-065.pptx",
+    "svg": "figures/security/workflow/SEC-065/SEC-065.svg",
+    "preview": "figures/security/workflow/SEC-065/preview.png",
+    "reference": "figures/security/workflow/SEC-065/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 96
+  },
+  "hashes": {
+    "pptx": "9f05feae867b3bc5da97b699962e91582d19bc2682c89051207657beaedbe540",
+    "svg": "2f5d33e1acd599ae9515eba647a67a27907c57504e6bd7051caeb4cd06480488",
+    "preview": "a65e36201285aefc0b00365443e46607b5008d3fb63ed63d25791421a43f64ad",
+    "reference": "503e10aea21643a968b08a808ad9bddf7b539a188c23cf468084cf9001a0e76d"
+  },
+  "original_local_pptx_sha256": "703ad74c6c1c10f5eb24383a42f50a152058921b89724f0cb607a72324013980",
+  "visual_payload_sha256": "9107d5f488804eebcb3ebb5ac8882a526622eab9451222468afd6e1fbe2dd052",
+  "dedup_note": "同论文另一图解释系统部署，本图按协议层对解析路径和覆盖数据进行比较；新增带计数的有向解析网络。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

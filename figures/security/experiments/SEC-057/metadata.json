@@ -1,0 +1,57 @@
+{
+  "id": "SEC-057",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Responsible Disclosure is a Two-Way Street: Empirically Measuring the Responsible Disclosure Contract in the Firmware Ecosystem",
+  "figure": "Figure 7",
+  "category": "实验图表",
+  "reuse_value": "完整保留真实流量和计数，颜色引导来源到未披露、可验证与未修复状态，三列纵分界强调不同信息阶段。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 170,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0018",
+  "source": {
+    "paper_url": "https://sefcom.asu.edu/publications/responsible-disclosure-tay-ieee2026.pdf",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "f973c702fa01b4b51248f6f07c66455cc26af283584c1c2442697d4601ecc39e",
+    "pdf_page": 10,
+    "crop_bbox": [
+      53,
+      70,
+      559,
+      275
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-057/SEC-057.pptx",
+    "svg": "figures/security/experiments/SEC-057/SEC-057.svg",
+    "preview": "figures/security/experiments/SEC-057/preview.png",
+    "reference": "figures/security/experiments/SEC-057/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 85
+  },
+  "hashes": {
+    "pptx": "c126558c9c374335720f434d4fd5fb5aaeb052ee4bb23e4e74e4f737fe1709c3",
+    "svg": "bf07eebde2ff32322c457ba1747d742c72837ec88655798b1b8e38beca8ad99c",
+    "preview": "7358a09324bb09269ed0844a35936f3cbd46c772d4ce37a46d19d343c717bf7f",
+    "reference": "22b9de2c239800d30a7a5877219d5284ce23377feaae660a42c6453de06f695b"
+  },
+  "original_local_pptx_sha256": "e6425f6d0affa26c13a0c890af40885218d70bdc2dbfdeb2a6252cb81152c664",
+  "visual_payload_sha256": "42e7a053fbf80d1245d2601b2223706d90cde9c744d480e6550ba88a316a3ad6",
+  "dedup_note": "新增有实证验证分支的流量守恒桑基图；库内现有流程图均不以带宽表达真实样本数量。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

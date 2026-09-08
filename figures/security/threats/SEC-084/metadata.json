@@ -1,0 +1,57 @@
+{
+  "id": "SEC-084",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover",
+  "figure": "Figure 1",
+  "category": "威胁与攻击",
+  "reuse_value": "输入触发、智能眼镜、锁屏手机、两类自动化工具及车辆API串联，分叉与汇合表达不同生态的同一风险路径。",
+  "editability": "原生文字与形状；含独立原图图片",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 44,
+    "groups": 0,
+    "native_text_runs": 16,
+    "images": 20
+  },
+  "paper_id": "PAPER-0058",
+  "source": {
+    "paper_url": "https://www.xialihei.com/wp-content/uploads/2024/04/SP2024.pdf",
+    "award_url": "https://www.ieee-security.org/TC/SP2024/awards.html",
+    "pdf_sha256": "7934027ff1cdd91fd01d2a5c2ce94b3adeebe5aed281e447c47983dae4989a9a",
+    "pdf_page": 2,
+    "crop_bbox": [
+      66,
+      70,
+      547,
+      187
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-084/SEC-084.pptx",
+    "svg": "figures/security/threats/SEC-084/SEC-084.svg",
+    "preview": "figures/security/threats/SEC-084/preview.png",
+    "reference": "figures/security/threats/SEC-084/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 76
+  },
+  "hashes": {
+    "pptx": "670d6c301df6f99a7a14c8d035ab0316104243d839cf18e49530274b0e03f830",
+    "svg": "33616a79a6169620f7b236b864cfe068e6a5b2f15bf6d6d2665ef1b714527e00",
+    "preview": "3948fa3d428fa502b526ce0e76b3833e42d08b412964262a1afd99409dc69564",
+    "reference": "f98779ed54bb378481f92e7e060ca7b584b68fcfe75d171981e4cd905b6c4263"
+  },
+  "original_local_pptx_sha256": "1188c4826e76208943a687cf7272b9b1dbcc991813fe9abd8262523259441d60",
+  "visual_payload_sha256": "2da85ab7782f1cfd364d621cff253e4f2c624260c14e39c641130a30c501c54a",
+  "dedup_note": "新增从物理触发跨蓝牙、手机自动化、云API到车辆的信任传播链，区别于此前单应用或单芯片影响图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

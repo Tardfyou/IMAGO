@@ -1,0 +1,57 @@
+{
+  "id": "SE-010",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "左侧多语言数据，经双向对比学习后，以分布对齐曲线呈现跨语言泛化；适合多视角表征学习机制。",
+  "editability": "原生文字与形状",
+  "limitations": "原生重绘保持主要布局、标签与关系；细小字体/图标造型和曲线轮廓存在轻微差异。SE-009仅原机器人/点赞艺术图作为独立小图保留，SE-010/023/024为零图片PPT。",
+  "object_counts": {
+    "shapes": 456,
+    "groups": 0,
+    "native_text_runs": 47,
+    "images": 0
+  },
+  "paper_id": "PAPER-0089",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2512.10452",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "8e8ff535fe8e9109ff3484c2b1d8be8e46a242ed4b0466df4b759430a8bc9bde",
+    "pdf_page": 6,
+    "crop_bbox": [
+      77,
+      81,
+      535,
+      279
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-010/SE-010.pptx",
+    "svg": "figures/software-engineering/method/SE-010/SE-010.svg",
+    "preview": "figures/software-engineering/method/SE-010/preview.png",
+    "reference": "figures/software-engineering/method/SE-010/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 39
+  },
+  "hashes": {
+    "pptx": "3bcb5e0fae23830f4bb10e707d189b87c8e5965c0ef04cdcec83758b68a75950",
+    "svg": "12e99ae755f06a1c8c23d89c78cceb805c705f5d136e883b30ddae5d83d1c7f2",
+    "preview": "f52ed7cde09733f98e000e1fd4f7d00cc4d33185882a0b41e3b63a970371f49f",
+    "reference": "7889635612ba7dead62a492a37bc0e4b219984ec68262a71c13563496c550adc"
+  },
+  "original_local_pptx_sha256": "401e7553493eccb7cd87558d6aa3d90e3a21628743c1bea9e755ff2c55b1c434",
+  "visual_payload_sha256": "8f5b418f610e8f645e1532cdc85333eecf4b1fea7bc4285d33fba4cd43bb08d5",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

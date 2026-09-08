@@ -1,0 +1,57 @@
+{
+  "id": "AI-016",
+  "domain": "AI顶会",
+  "conference": "ICML",
+  "year": 2024,
+  "award_name": "Best Paper",
+  "paper_title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "总模型和单块左右展开，旁路条件、残差、调制门及注意力共同形成可迁移的深层模型说明。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 452,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0232",
+  "source": {
+    "paper_url": "https://proceedings.mlr.press/v235/esser24a.html",
+    "award_url": "https://icml.cc/virtual/2024/awards_detail",
+    "pdf_sha256": "e3db32f3c0630f6d137f0867802b7ae13b1508e329ae89f11e401010a6021ffe",
+    "pdf_page": 5,
+    "crop_bbox": [
+      55,
+      65,
+      543,
+      383
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-016/AI-016.pptx",
+    "svg": "figures/ai/architecture/AI-016/AI-016.svg",
+    "preview": "figures/ai/architecture/AI-016/preview.png",
+    "reference": "figures/ai/architecture/AI-016/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 7
+  },
+  "hashes": {
+    "pptx": "e9de7b123b532cfe68346c09fc829587c39eb6b1c70c3be41384d5142e090995",
+    "svg": "d1af34f3d7de3c12e9570c002eb4b71e330a6821da43278e5a7169c2c14bcfda",
+    "preview": "64f4b871ee18d4f34e5ddf0d400cb807e4438bfae57e4da113f6fedb32df12f2",
+    "reference": "ddf77c2cfaaa01534cfd2fa1db149eea94c962ee6846d5a2e9698eaeafb4dd37"
+  },
+  "original_local_pptx_sha256": "6b79567736314d159066d3ae31c29f79d777b2c11830b545fbc8bece75e3df91",
+  "visual_payload_sha256": "788b8cb2c7074ea4465d07a19b06c3019518c5dd6e71b21c55c83223ddee94f4",
+  "dedup_note": "已有AI001是交替注意力到多任务输出，这张强调两模态联合计算与调制残差细节，构图由全模型到单块放大，非同类简化换皮。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

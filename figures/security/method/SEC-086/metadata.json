@@ -1,0 +1,57 @@
+{
+  "id": "SEC-086",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Lutris: A Blockchain Combining Broadcast and Consensus",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "横向多验证者轨道与纵向检查模块交叉，成束消息展示证书收集和广播，快路径绕过共识模块。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 144,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0064",
+  "source": {
+    "paper_url": "https://discovery.ucl.ac.uk/id/eprint/10219044/1/SuiLutris.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "5c497a8b80e857c99bfa0640ff51d4e485deb90f21b19096163ef33c0dfff1c6",
+    "pdf_page": 6,
+    "crop_bbox": [
+      106,
+      84,
+      497,
+      236
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-086/SEC-086.pptx",
+    "svg": "figures/security/method/SEC-086/SEC-086.svg",
+    "preview": "figures/security/method/SEC-086/preview.png",
+    "reference": "figures/security/method/SEC-086/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 49
+  },
+  "hashes": {
+    "pptx": "cde9122a1f605948918de710a3f2459df0d4c2962623a2c8bf57c0f1b748e21b",
+    "svg": "c45147ecae4ef5b3e31d43fdf8b94426540f9eaec4648c1519a09a12820c0c03",
+    "preview": "c07c4cb6cd452c5a1e49225eced236d8aa1c20bfa7734e246a1289618c7c26d2",
+    "reference": "10dbe65d5aa9d88f13a44821404b783f33e371532638472215622781eb8e21f1"
+  },
+  "original_local_pptx_sha256": "8af6cc8575ebaf759d58ab4d77c3d1ea745071736cd0e46f425a39d09b9fcca0",
+  "visual_payload_sha256": "2b5e4cd3b2f38d42caf0b3000ac10614d67d1f045248c9bec7862c8f101c24ab",
+  "dedup_note": "相较RingSG聚合，本图新增交易证书的两次收集/广播与按所有权选择的共识快慢路径，适合分布式协议生命周期。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

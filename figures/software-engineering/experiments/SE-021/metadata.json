@@ -1,0 +1,57 @@
+{
+  "id": "SE-021",
+  "domain": "软工顶会",
+  "conference": "ICSE",
+  "year": 2026,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval",
+  "figure": "Figure 2",
+  "category": "实验图表",
+  "reuse_value": "四块同尺度跨语言迁移热图共享色条，适合展示方法在源语言×目标语言矩阵上的泛化结构。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 3991,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0089",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2512.10452",
+    "award_url": "https://conf.researchr.org/info/icse-2026/awards#acm-sigsoft-distinguished-paper-awards",
+    "pdf_sha256": "8e8ff535fe8e9109ff3484c2b1d8be8e46a242ed4b0466df4b759430a8bc9bde",
+    "pdf_page": 9,
+    "crop_bbox": [
+      62,
+      350,
+      284,
+      533
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/experiments/SE-021/SE-021.pptx",
+    "svg": "figures/software-engineering/experiments/SE-021/SE-021.svg",
+    "preview": "figures/software-engineering/experiments/SE-021/preview.png",
+    "reference": "figures/software-engineering/experiments/SE-021/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 71
+  },
+  "hashes": {
+    "pptx": "8869caad38b5072c0c6dbb9dd64b70a9201710f9d18f86084e27f22680e42a25",
+    "svg": "ad550cada77badc96949eca32fcf570c9408ea1844ea195365dd052af5174152",
+    "preview": "224ac5e69827f8f2cf6a630239f957d02a0b83c966544a2e25c765f86275006c",
+    "reference": "643a12def437c332269fe06e19f9fb3ff6fee70ddf831a6441e5baee8bc6cbc6"
+  },
+  "original_local_pptx_sha256": "8ef719e95cd780dc8dd2d3c69f855334d16db702a8efcf8c14da78891af1677c",
+  "visual_payload_sha256": "b7ae8af9982c0b111de4f6a8c1b81605f8da27d6c8ae6c010a49034ebbd9786a",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

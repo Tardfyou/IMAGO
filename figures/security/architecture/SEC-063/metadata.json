@@ -1,0 +1,57 @@
+{
+  "id": "SEC-063",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Automatically Detecting Online Deceptive Patterns",
+  "figure": "Figure 3",
+  "category": "系统架构",
+  "reuse_value": "截图经OCR和UI定位形成两个属性表，再融合为ElementMap、接入提示和LLM，输出类别及依据并交付应用。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 290,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 10
+  },
+  "paper_id": "PAPER-0025",
+  "source": {
+    "paper_url": "https://www.annienobear.com/pdfs/deceptive_patterns.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "d0ed9c4c0337a8bd395f2a6d14ab38e06a1a9e9cbefc0528a827ed73f762f652",
+    "pdf_page": 4,
+    "crop_bbox": [
+      51,
+      81,
+      560,
+      208
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-063/SEC-063.pptx",
+    "svg": "figures/security/architecture/SEC-063/SEC-063.svg",
+    "preview": "figures/security/architecture/SEC-063/preview.png",
+    "reference": "figures/security/architecture/SEC-063/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 19
+  },
+  "hashes": {
+    "pptx": "4d317423d1870cd9a67c3608276424a3d80ce77d2448824b94834cdd62ae9ee8",
+    "svg": "566dcc6ced4caca7f2d5d7d971018577d9e13013dfd12e1f57fd3ebcb2eb6b05",
+    "preview": "3f7fd1611cf6094ec1cb817d28a08455a70c4ba0704979216cacec22db74c7a2",
+    "reference": "14042975138d3c694b8cca25a2ca1f94ba21898a8d0e13db14334c535b7faf72"
+  },
+  "original_local_pptx_sha256": "7663bdb42ffec2cc098f7805e897ef8d8d66f3bc029f153cf71b682b93850343",
+  "visual_payload_sha256": "9c8838e8e597e74087a698193a13c7ed6e43ec88989cd19b0e81b65e893793cd",
+  "dedup_note": "相较GitLFS的测试属性矩阵，此图新增视觉信息对齐与结构化中间表示的融合过程，表格中的真实字段可作为多模态系统示例。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

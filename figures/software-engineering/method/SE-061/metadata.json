@@ -1,0 +1,57 @@
+{
+  "id": "SE-061",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2025,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "Bridging Natural Language and Formal Specification - Automated Translation of Software Requirements to LTL via Hierarchical Semantics Decomposition Using LLMs",
+  "figure": "Figure 3",
+  "category": "方法细节",
+  "reuse_value": "通过红色Scope、橙色Relation与绿色Atomic Proposition追踪同一需求在四个阶段逐层分解，层级缩进与高亮块使形式化转化可视化。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 189,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0095",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2512.17334",
+    "award_url": "https://www2.sigsoft.org/awards/distinguishedpaper/#the-ieeeacm-international-conference-on-automated-software-engineering-ase-2025",
+    "pdf_sha256": "72f97e8fe22693c31e0de782c455fa602ce07ff036f4a8f2725231872618325f",
+    "pdf_page": 6,
+    "crop_bbox": [
+      48,
+      49,
+      576,
+      197
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/method/SE-061/SE-061.pptx",
+    "svg": "figures/software-engineering/method/SE-061/SE-061.svg",
+    "preview": "figures/software-engineering/method/SE-061/preview.png",
+    "reference": "figures/software-engineering/method/SE-061/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 44
+  },
+  "hashes": {
+    "pptx": "5772a7625e289b8910af3eac033169e42fe1ed627e770d682d5e7860ab8e2acc",
+    "svg": "a77d196a4448881afdfa4e12169c8fcfee4b07d42075dbd5c70af335cd425ff0",
+    "preview": "173901b23ec1222a49482908b10c687135585eda60d865f22bb219bb5c8cc6f3",
+    "reference": "c088a401c70f58ab658fd65d354fdfcd19b9ceac6fc06763d003779e8681eb8e"
+  },
+  "original_local_pptx_sha256": "9ed75eccf2d4289c23f55deaafe74d4ded648158e17e35261aca8d7afec78e59",
+  "visual_payload_sha256": "16b221bb22edc4b799a18c13c93f18713d58b7c244aa8fa37b296981926a5d99",
+  "dedup_note": "旧HoarePrompt针对源代码推理，本图针对自然语言从原句到规范化逻辑树的可追踪转换；四列使用相同语义配色贯穿，是分层抽取与结构化输出的新增表达。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

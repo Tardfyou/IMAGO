@@ -1,0 +1,57 @@
+{
+  "id": "AI-032",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities",
+  "figure": "Figure 1",
+  "category": "系统架构",
+  "reuse_value": "左侧代理感知记忆/决策，右侧劳动、消费、政府与银行构成相互作用环境。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 102,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 28
+  },
+  "paper_id": "PAPER-0219",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.829/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "d51c42bb431f2e4728cd84a13af2a4192f50b1ae309195e0933d47176b01974e",
+    "pdf_page": 3,
+    "crop_bbox": [
+      116,
+      67,
+      478,
+      205
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/architecture/AI-032/AI-032.pptx",
+    "svg": "figures/ai/architecture/AI-032/AI-032.svg",
+    "preview": "figures/ai/architecture/AI-032/preview.png",
+    "reference": "figures/ai/architecture/AI-032/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 14
+  },
+  "hashes": {
+    "pptx": "b54957a7ee24d74047cf118cfebe7cf401875920123b3af853e9385dd895f0ee",
+    "svg": "eb88c70e5b07fbc80791f4392c23fddc79a262f111965d09bf57698827178e51",
+    "preview": "2e68a1416105044c6276797543c5c8b393e0a39a53edba68dc81409c719e2345",
+    "reference": "7978849938ad495594d18c468444e37c78fd9742a142e5c49d64f2b3a619fcb1"
+  },
+  "original_local_pptx_sha256": "c7e05fd10bee2e6ec3baa396da684c2a625122f8a9973cc1995c8bceb5dd639b",
+  "visual_payload_sha256": "6d2d750b4436b9bd30ba080630b083660fe30eb8bfe6b520fb0c12ffe2daa88d",
+  "dedup_note": "区别旧AI015多源数据汇聚：这是主体决策与市场环境的双向循环，包含异质社会角色。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

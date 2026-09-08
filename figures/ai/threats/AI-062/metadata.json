@@ -1,0 +1,57 @@
+{
+  "id": "AI-062",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2026,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage",
+  "figure": "Figure 2",
+  "category": "威胁与攻击",
+  "reuse_value": "用四个阶段展示片段生产、分布式发布、个体信念变化和下游汇总，底部区分显式/隐式角色。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 170,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 23
+  },
+  "paper_id": "PAPER-0170",
+  "source": {
+    "paper_url": "https://aclanthology.org/2026.acl-long.270/",
+    "award_url": "https://2026.aclweb.org/program/best_papers/",
+    "pdf_sha256": "f617ebbac8e88a1a66c577277d7c3a77063a882e90aa56085fca352c5c8acc72",
+    "pdf_page": 5,
+    "crop_bbox": [
+      70,
+      70,
+      526,
+      225
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/threats/AI-062/AI-062.pptx",
+    "svg": "figures/ai/threats/AI-062/AI-062.svg",
+    "preview": "figures/ai/threats/AI-062/preview.png",
+    "reference": "figures/ai/threats/AI-062/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 70
+  },
+  "hashes": {
+    "pptx": "ed157d136de5dd6ca2914e21b399406a23e0fe0f6149ed6ce151598e5c8da7e2",
+    "svg": "1cf5029a79dabf00848d42ffe4ac123e566c46556553907dd88e794a2f41b1cc",
+    "preview": "58ea3213656712ccfdb92c0537d88d1c2aec1cf635568dcfa437987094f13d87",
+    "reference": "20bc224d27e7520045a6f5d8bc00c1339c261373baa114d681ae8b140eecb468"
+  },
+  "original_local_pptx_sha256": "9133b38fcfe8e423bdb4eccd246e2da24179ccb4594432369090bb9c271813b3",
+  "visual_payload_sha256": "d4788600d247d1c9c9708f8b230f5f208dcd1dc19f4cf84b981cebf3d404e5e4",
+  "dedup_note": "区别AI031心理攻击全景，新增跨公共信道的信息扩散与群体认知链，局部角色回路连接社会层结果。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

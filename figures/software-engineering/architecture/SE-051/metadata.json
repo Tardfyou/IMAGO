@@ -1,0 +1,57 @@
+{
+  "id": "SE-051",
+  "domain": "软工顶会",
+  "conference": "ASE",
+  "year": 2024,
+  "award_name": "ACM SIGSOFT Distinguished Paper Award",
+  "paper_title": "A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement",
+  "figure": "Figure 2",
+  "category": "系统架构",
+  "reuse_value": "紫绿两条角色区域交织，六个子模块中嵌入计划采样、聚类、测试反馈和历史记忆，粗蓝连接突出多个循环出口。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 203,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 41
+  },
+  "paper_id": "PAPER-0128",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2409.05001",
+    "award_url": "https://conf.researchr.org/info/ase-2024/awards",
+    "pdf_sha256": "1d6d9322f1b74ca451d778ea44b7f3bc475e27ba338b843533606638e1b41c0b",
+    "pdf_page": 3,
+    "crop_bbox": [
+      77,
+      82,
+      534,
+      333
+    ]
+  },
+  "assets": {
+    "pptx": "figures/software-engineering/architecture/SE-051/SE-051.pptx",
+    "svg": "figures/software-engineering/architecture/SE-051/SE-051.svg",
+    "preview": "figures/software-engineering/architecture/SE-051/preview.png",
+    "reference": "figures/software-engineering/architecture/SE-051/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/software-engineering.pptx",
+    "slide": 18
+  },
+  "hashes": {
+    "pptx": "dd9d4976122ec9e5ba50e64824c8a1d6ff36bb3710e742ae904bb4bab397e9b4",
+    "svg": "970904567a141425d33318c373173988d99f2f7d29b79c45d1dce5e8b4728503",
+    "preview": "7c5b81e8825d010c98bdfbedba88e2efe9fff1cddd1684ec92c0dc4f0d97f3c5",
+    "reference": "10144f37797ba1defafa966cd9368bedf4d68e70854b8aba120381ad99eb87d5"
+  },
+  "original_local_pptx_sha256": "79ff8c02e559db033a72b5a1ea524b425cd82ece408eb11af52bd081577ac351",
+  "visual_payload_sha256": "c1718bb910a343654dab870d155af9d30e2e5a5af82074ff6b694f6f7a5386f9",
+  "dedup_note": "旧库Agentless以定位修复验证为顺序阶段；本图用角色色带交错组织两名协作者，并把更换计划和修复当前方案两个反馈分支并列，构图与机制有明确差异。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

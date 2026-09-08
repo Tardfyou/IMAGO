@@ -1,0 +1,57 @@
+{
+  "id": "SEC-027",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Opossum Attack: Application Layer Desynchronization using Opportunistic TLS",
+  "figure": "Figure 1",
+  "category": "方法细节",
+  "reuse_value": "三方生命线、弯折转发箭头与握手隧道说明协议错位，正常与攻击消息使用不同颜色。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 54,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0015",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity26-merget.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/merget",
+    "pdf_sha256": "3cb56fd1920030d852cfdaade0f67f6e3f9f289544dea99df39484a8a3c9ff4d",
+    "pdf_page": 2,
+    "crop_bbox": [
+      318,
+      250,
+      557,
+      457
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/method/SEC-027/SEC-027.pptx",
+    "svg": "figures/security/method/SEC-027/SEC-027.svg",
+    "preview": "figures/security/method/SEC-027/preview.png",
+    "reference": "figures/security/method/SEC-027/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 33
+  },
+  "hashes": {
+    "pptx": "d0eb52389e526b75ee285e28fcc7f8fed16bb94d5d23c3e6cd2638d963243c5b",
+    "svg": "6671a48ea6aef312c6ccf30a682f1f596e9df2ff935155d732e2da543d3fc9e5",
+    "preview": "d5a5282723fa5ef2d25a3ea2511521b5babecc32cecdcb4fe3a61e360539764a",
+    "reference": "fb0ddd6b7f7394527c60fc09bb8c0bcb7fa304ff75d97d2829f80beb21a6d6b6"
+  },
+  "original_local_pptx_sha256": "2dc1077dcb5d5bb66815e20792d879c2af3b995b9f3a617e8186f13125b2d9ce",
+  "visual_payload_sha256": "71a60e047d0eb8359d6ddebad8b104b1d47c39b1279e0368c271452ac9b7e564",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

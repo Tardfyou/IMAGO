@@ -1,0 +1,57 @@
+{
+  "id": "SEC-033",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks",
+  "figure": "Figure 5",
+  "category": "威胁与攻击",
+  "reuse_value": "长时序同时展示四角色、NAT状态表、服务端socket状态以及三个攻击阶段，适合有状态协议失步与生命周期攻击。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 313,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 12
+  },
+  "paper_id": "PAPER-0040",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2025-972-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2025/",
+    "pdf_sha256": "857405db08f0c456e28ef1104a579fa97862d88acb0ade1123958ffe7838bf51",
+    "pdf_page": 7,
+    "crop_bbox": [
+      55,
+      304,
+      303,
+      569
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-033/SEC-033.pptx",
+    "svg": "figures/security/threats/SEC-033/SEC-033.svg",
+    "preview": "figures/security/threats/SEC-033/preview.png",
+    "reference": "figures/security/threats/SEC-033/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 67
+  },
+  "hashes": {
+    "pptx": "00f69f35be98bb6027c46d0e2d0dbbeafa56198eedb1465c247be202d0224168",
+    "svg": "1039427dc06ed5c1dde4b34d2d1713080c66f8dc880ad33083e3dfca0214c2a8",
+    "preview": "f1550fbddbf6b87c3c564263ee4dac4c5bb77451a21f65ef47be574abe5bc0c1",
+    "reference": "f6efdc82f4846cb4961789a2758dcba5c8ecacbfca94b047321a987a489cd98d"
+  },
+  "original_local_pptx_sha256": "e02aa50d617a5edff21658f57203200d73dfba5e0c6b77e1b41ee6056e49e553",
+  "visual_payload_sha256": "29f85e7a4989004c34d086b8aeb3bb7c852f7542a24b511c54f236b82c2980d7",
+  "dedup_note": "较既有Opossum单次握手，新增四角色+状态表+阶段括号，把状态删除、修改、连接终止并列追踪。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

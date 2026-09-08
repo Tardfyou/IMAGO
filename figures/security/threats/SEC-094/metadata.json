@@ -1,0 +1,57 @@
+{
+  "id": "SEC-094",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication",
+  "figure": "Figure 2",
+  "category": "威胁与攻击",
+  "reuse_value": "三角色生命线中，粗箭头承载消息文本，颜色区分连接/诱导签名/账户访问，侧环表示角色本地动作。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 233,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0071",
+  "source": {
+    "paper_url": "https://diaowenrui.github.io/paper/ccs24-yan.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2024/program/awards.html",
+    "pdf_sha256": "f8eac3c85d3577b7e10e2646da28f1884f06a1539cebeb7a4adf9b1b94827cf2",
+    "pdf_page": 5,
+    "crop_bbox": [
+      318,
+      84,
+      558,
+      271
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/threats/SEC-094/SEC-094.pptx",
+    "svg": "figures/security/threats/SEC-094/SEC-094.svg",
+    "preview": "figures/security/threats/SEC-094/preview.png",
+    "reference": "figures/security/threats/SEC-094/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 77
+  },
+  "hashes": {
+    "pptx": "d8c3a6667925aa38fb817be605a87fd19d7a4cf169f16e7e17f09b2992803ad3",
+    "svg": "beda368dfe2f57a3d10c7b4af7f956edb2cf378a1656327758968adcebde2605",
+    "preview": "b3a78a328d4d37a7cf54d4cb437cd057cb8bdc6f3900854f3774ff91be724424",
+    "reference": "71d8034f2e5aa4cb46defd00b8682c5cbd4ef63c9149044c94ad7891d120969d"
+  },
+  "original_local_pptx_sha256": "df1648760b9f12c900f3301913889c5b65ee7093eb69d701c94b081441fe814f",
+  "visual_payload_sha256": "955c802eebce3a98ccd847a8190336fc1fe0af0b9a4994f8af9bcb38b32293b8",
+  "dedup_note": "新增按攻击阶段着色的宽消息箭头和本地回环，区别于普通细线协议时序，适合社会交互与协议混合过程。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

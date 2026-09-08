@@ -1,0 +1,57 @@
+{
+  "id": "SEC-069",
+  "domain": "安全四大",
+  "conference": "CCS",
+  "year": 2025,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "双面板分别展示国家和行为者，气泡面积编码事件量、红色色阶编码零日数，保留全部真实标记、轴与双图例。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 349,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 2
+  },
+  "paper_id": "PAPER-0023",
+  "source": {
+    "paper_url": "https://www.securitee.org/files/apt_ccs2025.pdf",
+    "award_url": "https://www.sigsac.org/ccs/CCS2025/awards/",
+    "pdf_sha256": "ec3c5adb88985ff20be1638e2ddb80b741b98ab6cbafcb31d97e8e54f7d58cae",
+    "pdf_page": 8,
+    "crop_bbox": [
+      52,
+      82,
+      561,
+      299
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-069/SEC-069.pptx",
+    "svg": "figures/security/experiments/SEC-069/SEC-069.svg",
+    "preview": "figures/security/experiments/SEC-069/preview.png",
+    "reference": "figures/security/experiments/SEC-069/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 87
+  },
+  "hashes": {
+    "pptx": "1ef57acf558ee9a552718fca3a9a8baace3b461c8819429abd0e0ab4f9f5dbb7",
+    "svg": "85405a6b82e2faa1af7b487a08d97a880eb3d9747a8a1490f05b8c8ea34b81a6",
+    "preview": "b7faf589ff1e2d856b68e1f80977c954da0969583811597c33fc0d1119c213bd",
+    "reference": "3ab753498674aa9c7efc5de66ae73351aaac0865284f63ab4718a4a59f747433"
+  },
+  "original_local_pptx_sha256": "ca1c914205d9b3ac7a334226c6513dcffa5076a2194ba8eea4bce453df0851a4",
+  "visual_payload_sha256": "39e79a39839276651f9c84828d7c06b7c10b90667a2313da8db6fbdff55bcb08",
+  "dedup_note": "相较离散结果矩阵和相关性热图，本图使用面积与颜色编码两个不同统计量，并把国家/行为者两种实体并排比较。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

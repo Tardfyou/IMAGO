@@ -1,0 +1,57 @@
+{
+  "id": "SEC-019",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2026,
+  "award_name": "Best Paper Award",
+  "paper_title": "Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer",
+  "figure": "Figure 5",
+  "category": "实验图表",
+  "reuse_value": "对角线与交叉单元格把配置自覆盖和共享覆盖统一表达，适合消融配置、数据集或方法覆盖关系。",
+  "editability": "原生文字与形状",
+  "limitations": "部分公式、细节图标或原始图片保留为矢量/图片形式。",
+  "object_counts": {
+    "shapes": 68,
+    "groups": 0,
+    "native_text_runs": 42,
+    "images": 0
+  },
+  "paper_id": "PAPER-0007",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2026-s1486-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2026/",
+    "pdf_sha256": "6bc81c9422417724952a53e1617716472e6b3d53679cc18b6959535fbc3495cc",
+    "pdf_page": 12,
+    "crop_bbox": [
+      49,
+      50,
+      300,
+      257
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-019/SEC-019.pptx",
+    "svg": "figures/security/experiments/SEC-019/SEC-019.svg",
+    "preview": "figures/security/experiments/SEC-019/preview.png",
+    "reference": "figures/security/experiments/SEC-019/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 81
+  },
+  "hashes": {
+    "pptx": "6738d219b65c137fe8c1cb16b177dfd815dccc42999134ec839872eda85e7af5",
+    "svg": "3ffd238120e218172cd6acd279d50e5d3ecd26b473f8e5a5988a592fe76b8efc",
+    "preview": "4d91b3f9a66f1422ffb42e93eb74d69f20dabf7a177d61eadb0294f21523aa81",
+    "reference": "13e00629e53e1eedd4d6a46cc300af92a7429c3957d80515fd8b803298d10627"
+  },
+  "original_local_pptx_sha256": "703dce7b434edd8efdfb0ffa0a4dac83660c7507f0b0ca7a7af0f97f6b3c7130",
+  "visual_payload_sha256": "68fe56ccb03bb067b7e4268d27ae6fdc8628b4e0a05635af6c21f8a75e8c3577",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

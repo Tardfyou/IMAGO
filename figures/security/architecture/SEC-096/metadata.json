@@ -1,0 +1,57 @@
+{
+  "id": "SEC-096",
+  "domain": "安全四大",
+  "conference": "USENIX Security",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor",
+  "figure": "Figure 10",
+  "category": "系统架构",
+  "reuse_value": "不同历史长度索引三个双路表，位范围、表容量、标签比较和多路选择器串联完整，适合硬件查找机制说明。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 304,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0059",
+  "source": {
+    "paper_url": "https://www.usenix.org/system/files/usenixsecurity24-li-luyi.pdf",
+    "award_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-luyi",
+    "pdf_sha256": "ecb64411e851d4f0cf9b4940a10fd499ec41b98ab6ba1fb9617ea64b1fa7dd26",
+    "pdf_page": 11,
+    "crop_bbox": [
+      53,
+      70,
+      293,
+      171
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/architecture/SEC-096/SEC-096.pptx",
+    "svg": "figures/security/architecture/SEC-096/SEC-096.svg",
+    "preview": "figures/security/architecture/SEC-096/preview.png",
+    "reference": "figures/security/architecture/SEC-096/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 28
+  },
+  "hashes": {
+    "pptx": "a61b56831070877878333bedc71996769faff8cc256ba3f48aaf5c1758a24707",
+    "svg": "3426b316dbe4ecda96a91138b20048a80f209786fc0f25f55bccd0c0a6a6927b",
+    "preview": "f3ce98c0506f7434a8a4921711e42c8b37585ec20c6c10c190246c6979051a84",
+    "reference": "b9ab0f3d0587ea9610fb248773961b99f7b8c3d16249feee4ee6280c52464388"
+  },
+  "original_local_pptx_sha256": "945ecd73b5c8f72924bbba13e121c50d8a955b1762ca62177ccb75a78b5c0802",
+  "visual_payload_sha256": "783540c4131adcca5cf4acbe4cfbc8eef3047bb34216c6924ffcbb2c42c950df",
+  "dedup_note": "同论文位折叠图强调局部算法，此图展示多级表总体组织与控制路径；区别于现有芯片物理层级图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

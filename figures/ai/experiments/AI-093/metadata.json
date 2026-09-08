@@ -1,0 +1,57 @@
+{
+  "id": "AI-093",
+  "domain": "AI顶会",
+  "conference": "ACL",
+  "year": 2024,
+  "award_name": "Outstanding Paper",
+  "paper_title": "IndicLLMSuite: A Blueprint for Creating Pre-training and Fine-Tuning Datasets for Indian Languages",
+  "figure": "Figure 4",
+  "category": "实验图表",
+  "reuse_value": "连续带宽和分流百分比同时交代文档清洗、过滤与去重的保留/流失，适合作为数据筛选说明。",
+  "editability": "原生文字与形状",
+  "limitations": "All flow bands, nodes and text are native. Band contours are traced with dense editable polygon paths. Arial approximates original font. Published rounded percentages are retained, including the0.01percent rounding difference.",
+  "object_counts": {
+    "shapes": 25,
+    "groups": 0,
+    "native_text_runs": 12,
+    "images": 0
+  },
+  "paper_id": "PAPER-0223",
+  "source": {
+    "paper_url": "https://aclanthology.org/2024.acl-long.843/",
+    "award_url": "https://2024.aclweb.org/program/best_papers/",
+    "pdf_sha256": "c7989ef092be9050d2549322f69c266018e6f22defd44ef5d1a0216fcce13d7b",
+    "pdf_page": 5,
+    "crop_bbox": [
+      307,
+      301,
+      524,
+      445
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/experiments/AI-093/AI-093.pptx",
+    "svg": "figures/ai/experiments/AI-093/AI-093.svg",
+    "preview": "figures/ai/experiments/AI-093/preview.png",
+    "reference": "figures/ai/experiments/AI-093/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 89
+  },
+  "hashes": {
+    "pptx": "42c436d61d06eb46625d15b880cdc925225bb246e17489e506e1fd566c551add",
+    "svg": "86665d59901fa3ab73f1ddf3dcc4e9b1614056ff24fc144154d8568cf5dc16fe",
+    "preview": "bd17a529365c1b8731a7c51e96f3aea877cf2174ceb33e19e78f347464c3de5c",
+    "reference": "44565f011ec32e3ad83167b976b4781ddbba4939946c9530566f79691f0fab3c"
+  },
+  "original_local_pptx_sha256": "4d240e6dff67b9469883af0148cc301548bd333d49b3b0f21d05ef35840f52ce",
+  "visual_payload_sha256": "8213259b22a0f13676b3f27b70e30db2d6485a8dc3172ccb9d203be96264c9e9",
+  "dedup_note": "旧AI库没有保留量连续传递且各阶段单独分叉的Sankey清洗漏斗；区别常规竖向流程图。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

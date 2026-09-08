@@ -1,0 +1,57 @@
+{
+  "id": "SEC-029",
+  "domain": "安全四大",
+  "conference": "NDSS",
+  "year": 2024,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors",
+  "figure": "Figure 2",
+  "category": "动机示例",
+  "reuse_value": "以完整模型链为共同背景，用跨层高亮区域表达不同方案作用范围，适合模型编辑/调优/干预对照。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 122,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 5
+  },
+  "paper_id": "PAPER-0062",
+  "source": {
+    "paper_url": "https://www.ndss-symposium.org/wp-content/uploads/2024-238-paper.pdf",
+    "award_url": "https://www.ndss-symposium.org/ndss2024/",
+    "pdf_sha256": "5fcfda4f7f7e0752389906ac866598b5d254d253f3939cbb3954889ba6c9deef",
+    "pdf_page": 3,
+    "crop_bbox": [
+      74,
+      53,
+      543,
+      158
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/motivation/SEC-029/SEC-029.pptx",
+    "svg": "figures/security/motivation/SEC-029/SEC-029.svg",
+    "preview": "figures/security/motivation/SEC-029/preview.png",
+    "reference": "figures/security/motivation/SEC-029/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 57
+  },
+  "hashes": {
+    "pptx": "de87a65be1e1dfd290c20a06b9e0be6555820c6a0123c9008b322e7dff97f969",
+    "svg": "2ac1162d79fc337b6d09dda21e6cee4cdf2973d7bd703193c9c71ddee056856b",
+    "preview": "5eb0237ab22c366eaa770c86ed2a647a11a2fce753174d62144c82e8780cf9d4",
+    "reference": "701368b7eeead0eba1c5de623e6959e67337f5a3a50488a4ca9f54c47e40eb0f"
+  },
+  "original_local_pptx_sha256": "53adb9bae3d0587b7e90b6583c11e38f93da79f2f7064cbfab1d0b93effff02b",
+  "visual_payload_sha256": "4dd3e8a8ed527b72183c448fea4a50cd918fbbdd05664da5b047e4cc4a092d62",
+  "dedup_note": "",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

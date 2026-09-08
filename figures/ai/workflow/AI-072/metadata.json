@@ -1,0 +1,57 @@
+{
+  "id": "AI-072",
+  "domain": "AI顶会",
+  "conference": "EMNLP",
+  "year": 2025,
+  "award_name": "Outstanding Paper",
+  "paper_title": "Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?",
+  "figure": "Figure 2",
+  "category": "研究流程",
+  "reuse_value": "四栏连续呈现情境生成、价值偏好、行为选择及两矩阵之间的对齐指标。",
+  "editability": "矢量轮廓，标注已转曲",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 224,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 0
+  },
+  "paper_id": "PAPER-0201",
+  "source": {
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.154/",
+    "award_url": "https://2025.emnlp.org/program/awards/",
+    "pdf_sha256": "bc48cd6de78d1e6b785d6310ca5fadf3221aec4d019233b68d9bcfe4037440ad",
+    "pdf_page": 2,
+    "crop_bbox": [
+      70,
+      71,
+      526,
+      210
+    ]
+  },
+  "assets": {
+    "pptx": "figures/ai/workflow/AI-072/AI-072.pptx",
+    "svg": "figures/ai/workflow/AI-072/AI-072.svg",
+    "preview": "figures/ai/workflow/AI-072/preview.png",
+    "reference": "figures/ai/workflow/AI-072/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/ai.pptx",
+    "slide": 99
+  },
+  "hashes": {
+    "pptx": "2ee9458452cdd3bab3cd37f948eca6a50bd100cace6f6911723fba6ae2b68d8c",
+    "svg": "83934184b7279a29371d4adaaada5172a8b6fb3af1e50a231b9c934b56dfad38",
+    "preview": "bb5e01d7db5f286e7ab824d3e8983e0ee18661e6a8571327d582ffd5b0d65286",
+    "reference": "3b5b50b033b784ae8e5e2970e257b98e681d82a8588f302b28c12058d0f8611c"
+  },
+  "original_local_pptx_sha256": "33a8392ccd0c674979ae6fa547f447a4074b12f09d830b4fe36f7d65375e35f6",
+  "visual_payload_sha256": "90ce915fa3797de66d4771ad3618269d29a7fb2fdee97ebfcca896061ceb637b",
+  "dedup_note": "区别AI054多种记忆指标，此图强调同一对象的陈述/行为两种测量及跨任务一致性。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SEC-058",
+  "domain": "安全四大",
+  "conference": "IEEE S&P",
+  "year": 2026,
+  "award_name": "Distinguished Paper Award",
+  "paper_title": "Auditing Apple’s DifferentialPrivacy.framework: Implementation Bugs, Misconfigurations, and Practical Risks",
+  "figure": "Figure 1",
+  "category": "实验图表",
+  "reuse_value": "内圈算法族、外圈185类数据键、离散审计状态及连续差值色阶同时编码，适合高密度全景测量结果。",
+  "editability": "矢量轮廓，标注已转曲；含独立原图图片",
+  "limitations": "矢量标注不能直接改字；可修改轮廓、颜色和布局，或另用文本框替换标注。",
+  "object_counts": {
+    "shapes": 4591,
+    "groups": 0,
+    "native_text_runs": 0,
+    "images": 1
+  },
+  "paper_id": "PAPER-0001",
+  "source": {
+    "paper_url": "https://arxiv.org/pdf/2605.21378",
+    "award_url": "https://sp2026.ieee-security.org/awards_papers.html",
+    "pdf_sha256": "a6fc24b885fb126c9e9470b8640b0a6beb97e6bcd20ff840edee9cf6e2013710",
+    "pdf_page": 2,
+    "crop_bbox": [
+      311,
+      72,
+      560,
+      369
+    ]
+  },
+  "assets": {
+    "pptx": "figures/security/experiments/SEC-058/SEC-058.pptx",
+    "svg": "figures/security/experiments/SEC-058/SEC-058.svg",
+    "preview": "figures/security/experiments/SEC-058/preview.png",
+    "reference": "figures/security/experiments/SEC-058/reference.png"
+  },
+  "main_deck": {
+    "path": "decks/security.pptx",
+    "slide": 86
+  },
+  "hashes": {
+    "pptx": "a5a2b26555cc413200a2fec08b8ecab748d46c1d069bdd5083b5a194d00a73fc",
+    "svg": "869c99fde300eee556d83fef520c110adfa1f0cddc047e835079382bd1367bc9",
+    "preview": "16d42598749dfd4cd91177716e14b302c2b76e2b81339713553ee82da31d64f6",
+    "reference": "621da5792d90953fb7451b763ec3cf128ec9bdca988d6aa99658f85f3ac39e04"
+  },
+  "original_local_pptx_sha256": "2ae6b8db8e50b7cde9764bc1e88c4972c0fa111f3d34586c31bb4c2f6fd4f62f",
+  "visual_payload_sha256": "0e9937db7edc9244238ddbe96a4a7d185d89df6575e23e18b833b101e592bec7",
+  "dedup_note": "新增层级径向分布与连续/离散双重色图例组合，区别于矩形热图和常规饼图；保留真实扇区与全部标签。",
+  "validation": {
+    "source_verified": true,
+    "individual_visual_review": "passed",
+    "main_deck_page_review": "passed",
+    "native_powerpoint_editor_review": "pending"
+  }
+}
