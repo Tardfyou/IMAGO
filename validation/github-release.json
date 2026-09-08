@@ -1,0 +1,43 @@
+{
+  "repository": "https://github.com/Tardfyou/IMAGO",
+  "owner": "Tardfyou",
+  "visibility": "public",
+  "default_branch": "main",
+  "previous_library_commit": "356be8cd7a1747b18bb454e6d185dcb4688f5c08",
+  "release_commit": "verify with git rev-parse HEAD; this record is included in that commit",
+  "snapshot_date": "2026-09-08",
+  "contents": {
+    "figures": 300,
+    "papers": 237,
+    "main_decks": 3,
+    "main_deck_slides": 303,
+    "individual_asset_files": 1200,
+    "checksum_entries": 1535
+  },
+  "checks": {
+    "remote_commit_matches_local": true,
+    "github_repository_read": true,
+    "github_readme_read": true,
+    "remote_tree_clone_read": true,
+    "library_check": "pass",
+    "checksum_verification": "pass",
+    "single_figure_attribution": "pass",
+    "broken_local_links": 0
+  },
+  "readme_demo_figures": [
+    "SEC-082",
+    "SE-086",
+    "AI-076",
+    "AI-060",
+    "AI-088",
+    "SEC-098",
+    "SEC-087"
+  ],
+  "readme_features": [
+    "illustrated replica examples using repository preview assets",
+    "Mermaid production workflow",
+    "audience and reuse guidance",
+    "paper-level deduplication instructions"
+  ],
+  "native_powerpoint_editor_review": "pending from the prior library task; rendering, package checks and partitioned SDK imports are recorded separately"
+}
