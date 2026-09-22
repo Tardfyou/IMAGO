@@ -2405,9 +2405,9 @@
     },
     {
       "path": "decks/security.pptx",
-      "source_sha256": "36b962ab1f110f1f7713c07924b18162f776423521273e52b4e19108de3532b4",
-      "repository_sha256": "ef7f831f37fcc03c7dd9eb62562b34675f0903804a6ed9155f0e0c1cc3b90c0b",
-      "visual_payload_sha256": "56f68b057413ae59d7d4444b4fcd1b0e61bd9672e43c7b2ca92a1c5e1ccba739",
+      "source_sha256": "4dfa891311414ae7c58d476198fd56a04cd601db25d79957fc1552434b1d45b0",
+      "repository_sha256": "2f1de62d80da931853a795b445fb9f16b8ec6db802375903be66b02e0637bb60",
+      "visual_payload_sha256": "a8d0d9144125c96ae996c30ff424448f8fbca17395d5fa859a904ccea61298fe",
       "visual_payload_unchanged": true,
       "notes_path_fragments_replaced": 100
     },

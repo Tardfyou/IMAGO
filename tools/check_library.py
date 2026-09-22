@@ -12,7 +12,7 @@ def figure_key(label):
     m=re.search(r'(?:figure|fig\.?)\s*([a-z]?\d+)',label,re.I)
     return m[1].casefold() if m else re.sub(r'\s+','',label).casefold()
 def main():
- catalog=json.loads((ROOT/'catalog/figures.json').read_text());figures=catalog['figures'];papers=json.loads((ROOT/'catalog/papers.json').read_text())['papers'];pack=json.loads((ROOT/'validation/packaging.json').read_text());pack_by_path={x['path']:x for x in pack['entries']};errors=[];identity={};paper_by_id={p['paper_id']:p for p in papers};pairs=set();ids=set();all_ppt=set();local_links=0
+ catalog=json.loads((ROOT/'catalog/figures.json').read_text());figures=catalog['figures'];papers=json.loads((ROOT/'catalog/papers.json').read_text())['papers'];pack=json.loads((ROOT/'validation/packaging.json').read_text());pack_by_path={x['path']:x for x in pack['entries']};status=json.loads((ROOT/'validation/status.json').read_text());appendices=status.get('main_deck_appendices',{});errors=[];identity={};paper_by_id={p['paper_id']:p for p in papers};pairs=set();ids=set();all_ppt=set();local_links=0
  def require(ok,message):
   if not ok:errors.append(message)
  for p in papers:
@@ -41,7 +41,7 @@ def main():
  for deck in decks:
   selected=[f for f in figures if f['main_deck']['path']==deck];all_ppt.add(deck)
   with zipfile.ZipFile(ROOT/deck)as z:
-   require(z.testzip()is None,'Corrupt deck: '+deck);slides=[n for n in z.namelist()if re.fullmatch(r'ppt/slides/slide\d+\.xml',n)];require(len(slides)==len(selected)+1,'Main slide count: '+deck)
+   require(z.testzip()is None,'Corrupt deck: '+deck);slides=[n for n in z.namelist()if re.fullmatch(r'ppt/slides/slide\d+\.xml',n)];require(len(slides)==len(selected)+1+appendices.get(deck,0),'Main slide count: '+deck)
    for f in selected:
     r=E.fromstring(z.read(f'ppt/slides/slide{f["main_deck"]["slide"]}.xml'));require(any(f['id']in x.get('name','')for x in r.iter()if x.tag.endswith('cNvPr')),'Missing figure on main slide: '+f['id'])
  for rel in sorted(all_ppt):

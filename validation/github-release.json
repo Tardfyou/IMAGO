@@ -3,16 +3,17 @@
   "owner": "Tardfyou",
   "visibility": "public",
   "default_branch": "main",
-  "previous_library_commit": "356be8cd7a1747b18bb454e6d185dcb4688f5c08",
+  "previous_library_commit": "826111fdda93149e7691997eaee957e9bc86c5f5",
   "release_commit": "verify with git rev-parse HEAD; this record is included in that commit",
-  "snapshot_date": "2026-09-08",
+  "snapshot_date": "2026-09-22",
   "contents": {
     "figures": 300,
     "papers": 237,
     "main_decks": 3,
-    "main_deck_slides": 303,
+    "main_deck_slides": 305,
     "individual_asset_files": 1200,
-    "checksum_entries": 1536
+    "checksum_entries": 1536,
+    "classic_replica_appendix_slides": 2
   },
   "checks": {
     "remote_commit_matches_local": true,
@@ -39,5 +40,5 @@
     "audience and reuse guidance",
     "paper-level deduplication instructions"
   ],
-  "native_powerpoint_editor_review": "pending from the prior library task; rendering, package checks and partitioned SDK imports are recorded separately"
+  "native_powerpoint_editor_review": "security deck opened in native PowerPoint with 103 slides and 8 sections; software-engineering and AI full-deck checks remain pending"
 }

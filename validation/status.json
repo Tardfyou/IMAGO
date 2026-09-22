@@ -1,7 +1,7 @@
 {
-  "snapshot_date": "2026-09-08",
+  "snapshot_date": "2026-09-22",
   "figures_reviewed": 300,
-  "main_pages_reviewed": 303,
+  "main_pages_reviewed": 305,
   "native_powerpoint_editor_review": "pending",
   "monolithic_sdk_import": {
     "security": "passed",
@@ -30,5 +30,24 @@
   },
   "package_validation": "passed",
   "layout_findings": 0,
-  "large_deck_validation_note": "The original validation functions were run with documented size ceilings for the known generated input hashes:512MiB package;32MiB XML parts for security/software-engineering and64MiB for AI. These are resource-bound extensions; no structural or content checks were removed."
+  "large_deck_validation_note": "The original validation functions were run with documented size ceilings for the known generated input hashes:512MiB package;32MiB XML parts for security/software-engineering and64MiB for AI. These are resource-bound extensions; no structural or content checks were removed.",
+  "main_deck_appendices": {
+    "decks/security.pptx": 2
+  },
+  "main_deck_pages": {
+    "security": 103,
+    "software-engineering": 101,
+    "ai": 101
+  },
+  "native_powerpoint_checks": {
+    "security": {
+      "opened": true,
+      "slides": 103,
+      "sections": 8,
+      "classic_replica_section_slides": 2,
+      "result": "pass"
+    },
+    "software-engineering": "pending",
+    "ai": "pending"
+  }
 }
